@@ -1,0 +1,136 @@
+{
+    "dialogue_id": "0088",
+    "setting": "ed",
+    "model": "gpt-4o",
+    "prompt": "not_aligned",
+    "emotion": "Devastated",
+    "episode": "I was devastating when we lost our daughter in a car accident several years ago",
+    "subjective_evaluation": {
+        "preference": 5.0,
+        "stylistic_similarity": 5.0,
+        "consistency": 5.0,
+        "empathy": 5.0
+    },
+    "dialogue": [
+        {
+            "message_id": 0,
+            "user_id": "0002",
+            "speaker": "Human",
+            "message": "I was devastating when we lost our daughter in a car accident several years ago"
+        },
+        {
+            "message_id": 1,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "I'm truly sorry for your loss."
+        },
+        {
+            "message_id": 2,
+            "user_id": "0002",
+            "speaker": "Human",
+            "message": "thank you"
+        },
+        {
+            "message_id": 3,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "My deepest condolences."
+        },
+        {
+            "message_id": 4,
+            "user_id": "0002",
+            "speaker": "Human",
+            "message": "I don't wish it upon anyone. It is truly life shattering"
+        },
+        {
+            "message_id": 5,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "It's unimaginably tough. I'm so sorry."
+        },
+        {
+            "message_id": 6,
+            "user_id": "0002",
+            "speaker": "Human",
+            "message": "thank you."
+        },
+        {
+            "message_id": 7,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "You're strong."
+        },
+        {
+            "message_id": 8,
+            "user_id": "0002",
+            "speaker": "Human",
+            "message": "Yes, I am very proud of myself and my family for fighting through it all. "
+        },
+        {
+            "message_id": 9,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "That's incredible strength."
+        },
+        {
+            "message_id": 10,
+            "user_id": "0002",
+            "speaker": "Human",
+            "message": "It has been such a devastating event in our lives. People have no idea what hard is"
+        },
+        {
+            "message_id": 11,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "It's unimaginable."
+        },
+        {
+            "message_id": 12,
+            "user_id": "0002",
+            "speaker": "Human",
+            "message": "truly it is"
+        },
+        {
+            "message_id": 13,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "I'm so sorry."
+        },
+        {
+            "message_id": 14,
+            "user_id": "0002",
+            "speaker": "Human",
+            "message": "thank you"
+        },
+        {
+            "message_id": 15,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "You're welcome."
+        },
+        {
+            "message_id": 16,
+            "user_id": "0002",
+            "speaker": "Human",
+            "message": "I pray I will one day see her again"
+        },
+        {
+            "message_id": 17,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "That's a beautiful hope."
+        },
+        {
+            "message_id": 18,
+            "user_id": "0002",
+            "speaker": "Human",
+            "message": "thank you"
+        },
+        {
+            "message_id": 19,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "Of course."
+        }
+    ]
+}

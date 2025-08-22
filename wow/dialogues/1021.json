@@ -1,0 +1,167 @@
+{
+    "dialogue_id": "1021",
+    "setting": "wow",
+    "model": "gpt-4o",
+    "prompt": "not_aligned",
+    "topic": "Orphan",
+    "objective_evaluation": {
+        "preference": 2.67,
+        "stylistic_similarity": 2.67,
+        "consistency": 3.67,
+        "engagingness": 3.0,
+        "preference_scores": [
+            3.0,
+            3.0,
+            2.0
+        ],
+        "stylistic_similarity_scores": [
+            2.0,
+            4.0,
+            2.0
+        ],
+        "consistency_scores": [
+            4.0,
+            4.0,
+            3.0
+        ],
+        "engagingness_scores": [
+            3.0,
+            4.0,
+            2.0
+        ]
+    },
+    "subjective_evaluation": {
+        "preference": 1.0,
+        "stylistic_similarity": 1.0,
+        "consistency": 5.0,
+        "engagingness": 1.0
+    },
+    "dialogue": [
+        {
+            "message_id": 0,
+            "system_id": "0008",
+            "speaker": "Bot",
+            "message": "An orphan is typically a child who has lost both parents, though some organizations consider a child who has lost just one parent as an orphan too."
+        },
+        {
+            "message_id": 1,
+            "user_id": "0009",
+            "speaker": "Human",
+            "message": "It must be hard being an orphan. I've known 2 orphans in my life who grew up in foster care"
+        },
+        {
+            "message_id": 2,
+            "system_id": "0008",
+            "speaker": "Bot",
+            "message": "Being an orphan can indeed be challenging, especially in foster care, though various organizations define orphanhood differently, even including those who've lost just one parent."
+        },
+        {
+            "message_id": 3,
+            "user_id": "0009",
+            "speaker": "Human",
+            "message": "I was raised by a single parent and I never thought of myself as an orphan"
+        },
+        {
+            "message_id": 4,
+            "system_id": "0008",
+            "speaker": "Bot",
+            "message": "In common usage, an orphan is typically a child who has lost both parents, though some organizations do consider children who've lost just one parent as orphans."
+        },
+        {
+            "message_id": 5,
+            "user_id": "0009",
+            "speaker": "Human",
+            "message": "Still I find the criteria that such organizations qualify children who lost one parent as orphans...can you explain fully?"
+        },
+        {
+            "message_id": 6,
+            "system_id": "0008",
+            "speaker": "Bot",
+            "message": "Some organizations, like UNICEF, consider a child who has lost just one parent an orphan, using terms like \"maternal orphan\" or \"paternal orphan\" based on which parent has passed away."
+        },
+        {
+            "message_id": 7,
+            "user_id": "0009",
+            "speaker": "Human",
+            "message": "but they weren't abandoned or orphaned through unforseen circumstances...how can they still be defined an orphan of any kind if they still have parents?"
+        },
+        {
+            "message_id": 8,
+            "system_id": "0008",
+            "speaker": "Bot",
+            "message": "While common usage of \"orphan\" typically refers to a child who has lost both parents, organizations like UNICEF use the term to describe any child who has lost one parent as well, calling them \"maternal\" or \"paternal\" orphans."
+        },
+        {
+            "message_id": 9,
+            "user_id": "0009",
+            "speaker": "Human",
+            "message": "I get that but it still sounds silly. I think I may have to ask others who have had single parents raising them when they were children if they considered themselves an orphan"
+        },
+        {
+            "message_id": 10,
+            "system_id": "0008",
+            "speaker": "Bot",
+            "message": "Some organizations, like UNICEF, use broader definitions of \"orphan\" to include children who've lost one parent, which might seem unusual compared to the common understanding."
+        },
+        {
+            "message_id": 11,
+            "user_id": "0009",
+            "speaker": "Human",
+            "message": "I think many single parents and their children would dispute being an orphan. My father was barely in my life and I never thought I was abandoned or orphaned in any way. "
+        },
+        {
+            "message_id": 12,
+            "system_id": "0008",
+            "speaker": "Bot",
+            "message": "While common usage only considers those who've lost both parents as orphans, organizations like UNICEF use the term for any child who has lost one parent, calling them \"maternal\" or \"paternal\" orphans."
+        },
+        {
+            "message_id": 13,
+            "user_id": "0009",
+            "speaker": "Human",
+            "message": "I get that but it still sounds stupid. Losing a parent whether they die/leave/or indisposed in any while still retaining a parent is not being orphaned!"
+        },
+        {
+            "message_id": 14,
+            "system_id": "0008",
+            "speaker": "Bot",
+            "message": "In common usage, an orphan is a child who has lost both parents, although some organizations use broader definitions."
+        },
+        {
+            "message_id": 15,
+            "user_id": "0009",
+            "speaker": "Human",
+            "message": "Yes and those organizations are stupid. You have been repeating this tidbit without offering why they use broader definitions."
+        },
+        {
+            "message_id": 16,
+            "system_id": "0008",
+            "speaker": "Bot",
+            "message": "Organizations like UNICEF use broader definitions to identify children who have lost one parent as orphans to address various social and support needs."
+        },
+        {
+            "message_id": 17,
+            "user_id": "0009",
+            "speaker": "Human",
+            "message": "what are those social and support needs?"
+        },
+        {
+            "message_id": 18,
+            "system_id": "0008",
+            "speaker": "Bot",
+            "message": "Organizations use broader definitions to better address the needs of children who may face economic hardship or social challenges after losing one parent."
+        },
+        {
+            "message_id": 19,
+            "user_id": "0009",
+            "speaker": "Human",
+            "message": "Ok and how do they help these \"orphans?\""
+        },
+        {
+            "message_id": 20,
+            "system_id": "0008",
+            "speaker": "Bot",
+            "message": "Organizations like UNICEF use the broader definition to help provide support for children who might face economic or social challenges after losing one parent."
+        }
+    ]
+}

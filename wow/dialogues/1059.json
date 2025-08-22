@@ -1,0 +1,141 @@
+{
+    "dialogue_id": "1059",
+    "setting": "wow",
+    "model": "gpt-4o",
+    "prompt": "neutral",
+    "topic": "Meatloaf",
+    "subjective_evaluation": {
+        "preference": 5.0,
+        "stylistic_similarity": 5.0,
+        "consistency": 5.0,
+        "engagingness": 5.0
+    },
+    "dialogue": [
+        {
+            "message_id": 0,
+            "system_id": "0006",
+            "speaker": "Bot",
+            "message": "Meatloaf is a versatile dish made from ground meat mixed with various ingredients, often shaped into a loaf and baked, with roots tracing back to the Roman cookery collection \"Apicius\"."
+        },
+        {
+            "message_id": 1,
+            "user_id": "0036",
+            "speaker": "Human",
+            "message": "what kind of meat is it made of exactly?"
+        },
+        {
+            "message_id": 2,
+            "system_id": "0006",
+            "speaker": "Bot",
+            "message": "Meatloaf is typically made from ground beef, but it can also include lamb, pork, veal, venison, poultry, or even seafood."
+        },
+        {
+            "message_id": 3,
+            "user_id": "0036",
+            "speaker": "Human",
+            "message": "I've had ground beef plenty of times, and I've also had meatloaf, they do not taste the same."
+        },
+        {
+            "message_id": 4,
+            "system_id": "0006",
+            "speaker": "Bot",
+            "message": "The difference in taste comes from the various ingredients mixed with the ground meat, such as breadcrumbs, eggs, onions, and spices, which add unique flavors to the meatloaf."
+        },
+        {
+            "message_id": 5,
+            "user_id": "0036",
+            "speaker": "Human",
+            "message": "I personally found it to be horrible tasting, what kind of seasonings are used for it?"
+        },
+        {
+            "message_id": 6,
+            "system_id": "0006",
+            "speaker": "Bot",
+            "message": "Seasonings for meatloaf can vary widely but often include salt, pepper, garlic, herbs like thyme or parsley, and sometimes even Worcestershire sauce or mustard for added flavor."
+        },
+        {
+            "message_id": 7,
+            "user_id": "0036",
+            "speaker": "Human",
+            "message": "Maybe it's the sauce that makes it taste bad. How come they don't use BBQ sauce?"
+        },
+        {
+            "message_id": 8,
+            "system_id": "0006",
+            "speaker": "Bot",
+            "message": "BBQ sauce can indeed be used as a topping for meatloaf, offering a different flavor profile that some people prefer over traditional tomato-based sauces."
+        },
+        {
+            "message_id": 9,
+            "user_id": "0036",
+            "speaker": "Human",
+            "message": "Worcestershire is tomato based?"
+        },
+        {
+            "message_id": 10,
+            "system_id": "0006",
+            "speaker": "Bot",
+            "message": "No, Worcestershire sauce isn't tomato-based; it's a fermented liquid condiment made from ingredients like vinegar, molasses, anchovies, and various seasonings."
+        },
+        {
+            "message_id": 11,
+            "user_id": "0036",
+            "speaker": "Human",
+            "message": "Oh, that sounds terrible"
+        },
+        {
+            "message_id": 12,
+            "system_id": "0006",
+            "speaker": "Bot",
+            "message": "Worcestershire sauce has a complex flavor that might not be for everyone, but it's widely used to add depth to dishes like meatloaf."
+        },
+        {
+            "message_id": 13,
+            "user_id": "0036",
+            "speaker": "Human",
+            "message": "are meat combinations used in meatloaf or it is strictly one kind of meat?"
+        },
+        {
+            "message_id": 14,
+            "system_id": "0006",
+            "speaker": "Bot",
+            "message": "Meatloaf can indeed be made from a combination of different meats like beef, pork, and veal, which can enhance its flavor and texture."
+        },
+        {
+            "message_id": 15,
+            "user_id": "0036",
+            "speaker": "Human",
+            "message": "what's the most common type?"
+        },
+        {
+            "message_id": 16,
+            "system_id": "0006",
+            "speaker": "Bot",
+            "message": "The most common type of meat used in meatloaf is ground beef."
+        },
+        {
+            "message_id": 17,
+            "user_id": "0036",
+            "speaker": "Human",
+            "message": "is there a ranking of most to least favorite?"
+        },
+        {
+            "message_id": 18,
+            "system_id": "0006",
+            "speaker": "Bot",
+            "message": "While there's no official ranking, ground beef is the most commonly used meat in meatloaf, with combinations of other meats like pork and veal also being popular."
+        },
+        {
+            "message_id": 19,
+            "user_id": "0036",
+            "speaker": "Human",
+            "message": "which would be the least used?"
+        },
+        {
+            "message_id": 20,
+            "system_id": "0006",
+            "speaker": "Bot",
+            "message": "Seafood is likely the least used meat for making meatloaf compared to other options like beef, pork, and veal."
+        }
+    ]
+}

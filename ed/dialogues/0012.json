@@ -1,0 +1,162 @@
+{
+    "dialogue_id": "0012",
+    "setting": "ed",
+    "model": "gpt-4o",
+    "prompt": "neutral",
+    "emotion": "Angry",
+    "episode": "I am so angry at the Trump administration dismantling democracy. So pissed off.",
+    "objective_evaluation": {
+        "preference": 2.33,
+        "stylistic_similarity": 3.33,
+        "consistency": 4.0,
+        "empathy": 3.67,
+        "preference_scores": [
+            2.0,
+            3.0,
+            2.0
+        ],
+        "stylistic_similarity_scores": [
+            4.0,
+            3.0,
+            3.0
+        ],
+        "consistency_scores": [
+            3.0,
+            4.0,
+            5.0
+        ],
+        "empathy_scores": [
+            2.0,
+            4.0,
+            5.0
+        ]
+    },
+    "subjective_evaluation": {
+        "preference": 3.0,
+        "stylistic_similarity": 4.0,
+        "consistency": 5.0,
+        "empathy": 5.0
+    },
+    "dialogue": [
+        {
+            "message_id": 0,
+            "user_id": "0012",
+            "speaker": "Human",
+            "message": "Dude I am so pissed off"
+        },
+        {
+            "message_id": 1,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "What's going on?"
+        },
+        {
+            "message_id": 2,
+            "user_id": "0012",
+            "speaker": "Human",
+            "message": "Trump is what is going on"
+        },
+        {
+            "message_id": 3,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "I get it, he can be frustrating."
+        },
+        {
+            "message_id": 4,
+            "user_id": "0012",
+            "speaker": "Human",
+            "message": "he is wrecking the country for his own wealth"
+        },
+        {
+            "message_id": 5,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "It's really upsetting."
+        },
+        {
+            "message_id": 6,
+            "user_id": "0012",
+            "speaker": "Human",
+            "message": "yeah tell me more"
+        },
+        {
+            "message_id": 7,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "Many feel the same way."
+        },
+        {
+            "message_id": 8,
+            "user_id": "0012",
+            "speaker": "Human",
+            "message": "and how about you"
+        },
+        {
+            "message_id": 9,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "I feel concerned too."
+        },
+        {
+            "message_id": 10,
+            "user_id": "0012",
+            "speaker": "Human",
+            "message": "concerned?! that's it? end of democracy. I think you should be more than just concerned"
+        },
+        {
+            "message_id": 11,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "You're right, it's alarming."
+        },
+        {
+            "message_id": 12,
+            "user_id": "0012",
+            "speaker": "Human",
+            "message": "okay what's another synonym for alarming and concerned"
+        },
+        {
+            "message_id": 13,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "Worrying."
+        },
+        {
+            "message_id": 14,
+            "user_id": "0012",
+            "speaker": "Human",
+            "message": "keep going"
+        },
+        {
+            "message_id": 15,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "Disturbing."
+        },
+        {
+            "message_id": 16,
+            "user_id": "0012",
+            "speaker": "Human",
+            "message": "more please"
+        },
+        {
+            "message_id": 17,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "Troubling."
+        },
+        {
+            "message_id": 18,
+            "user_id": "0012",
+            "speaker": "Human",
+            "message": "oh your good at this. one more"
+        },
+        {
+            "message_id": 19,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "Unsettling."
+        }
+    ]
+}

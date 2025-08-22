@@ -1,0 +1,167 @@
+{
+    "dialogue_id": "1042",
+    "setting": "wow",
+    "model": "Llama-3.1-70B-Instruct",
+    "prompt": "not_aligned",
+    "topic": "Cat",
+    "objective_evaluation": {
+        "preference": 3.67,
+        "stylistic_similarity": 4.33,
+        "consistency": 5.0,
+        "engagingness": 4.0,
+        "preference_scores": [
+            3.0,
+            4.0,
+            4.0
+        ],
+        "stylistic_similarity_scores": [
+            5.0,
+            4.0,
+            4.0
+        ],
+        "consistency_scores": [
+            5.0,
+            5.0,
+            5.0
+        ],
+        "engagingness_scores": [
+            3.0,
+            4.0,
+            5.0
+        ]
+    },
+    "subjective_evaluation": {
+        "preference": 2.0,
+        "stylistic_similarity": 2.0,
+        "consistency": 4.0,
+        "engagingness": 3.0
+    },
+    "dialogue": [
+        {
+            "message_id": 0,
+            "system_id": "0011",
+            "speaker": "Bot",
+            "message": "Nice to meet you! So, what's on your mind, want to chat about cats?"
+        },
+        {
+            "message_id": 1,
+            "user_id": "0016",
+            "speaker": "Human",
+            "message": "Okay, go ahead."
+        },
+        {
+            "message_id": 2,
+            "system_id": "0011",
+            "speaker": "Bot",
+            "message": "Cats are pretty cool, right?"
+        },
+        {
+            "message_id": 3,
+            "user_id": "0016",
+            "speaker": "Human",
+            "message": "I don't think as pets."
+        },
+        {
+            "message_id": 4,
+            "system_id": "0011",
+            "speaker": "Bot",
+            "message": "No worries, I still think they're awesome, super agile and sharp claws, you know?"
+        },
+        {
+            "message_id": 5,
+            "user_id": "0016",
+            "speaker": "Human",
+            "message": "I like big cats like you see in Africa."
+        },
+        {
+            "message_id": 6,
+            "system_id": "0011",
+            "speaker": "Bot",
+            "message": "Those are majestic, but domestic cats have some similar traits, like sharp claws and great night vision."
+        },
+        {
+            "message_id": 7,
+            "user_id": "0016",
+            "speaker": "Human",
+            "message": "How do cats have great night vision?"
+        },
+        {
+            "message_id": 8,
+            "system_id": "0011",
+            "speaker": "Bot",
+            "message": "Their eyes are super sensitive to low light, can see in near darkness, pretty handy for sneaking up on prey!"
+        },
+        {
+            "message_id": 9,
+            "user_id": "0016",
+            "speaker": "Human",
+            "message": "Why do cats purr?"
+        },
+        {
+            "message_id": 10,
+            "system_id": "0011",
+            "speaker": "Bot",
+            "message": "That's a sweet one, they purr to communicate, like a happy vibe, or even self-soothing, isn't that cool?"
+        },
+        {
+            "message_id": 11,
+            "user_id": "0016",
+            "speaker": "Human",
+            "message": "Do they do it on purpose?"
+        },
+        {
+            "message_id": 12,
+            "system_id": "0011",
+            "speaker": "Bot",
+            "message": "It's more like a reflex, they can't really control it, just happens when they're feeling relaxed or happy!"
+        },
+        {
+            "message_id": 13,
+            "user_id": "0016",
+            "speaker": "Human",
+            "message": "That is cute."
+        },
+        {
+            "message_id": 14,
+            "system_id": "0011",
+            "speaker": "Bot",
+            "message": "Totally, it's one of their most adorable quirks, makes 'em even more lovable, right?"
+        },
+        {
+            "message_id": 15,
+            "user_id": "0016",
+            "speaker": "Human",
+            "message": "Yeah.  Why do cats kneed?"
+        },
+        {
+            "message_id": 16,
+            "system_id": "0011",
+            "speaker": "Bot",
+            "message": "Aww, that's a sign of affection, they used to do it to their mom when they were kittens, it's like a leftover baby behavior!"
+        },
+        {
+            "message_id": 17,
+            "user_id": "0016",
+            "speaker": "Human",
+            "message": "When they do it before they sit down?"
+        },
+        {
+            "message_id": 18,
+            "system_id": "0011",
+            "speaker": "Bot",
+            "message": "That's a different story, they do that to mark their territory, leaving their scent behind, like a little signature!"
+        },
+        {
+            "message_id": 19,
+            "user_id": "0016",
+            "speaker": "Human",
+            "message": "What about their whiskers?"
+        },
+        {
+            "message_id": 20,
+            "system_id": "0011",
+            "speaker": "Bot",
+            "message": "Their whiskers are like little sensors, helping them navigate in the dark and detect even tiny changes in air pressure!"
+        }
+    ]
+}

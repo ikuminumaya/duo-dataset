@@ -1,0 +1,141 @@
+{
+    "dialogue_id": "1061",
+    "setting": "wow",
+    "model": "gpt-4o",
+    "prompt": "neutral",
+    "topic": "Baseball",
+    "subjective_evaluation": {
+        "preference": 5.0,
+        "stylistic_similarity": 5.0,
+        "consistency": 5.0,
+        "engagingness": 5.0
+    },
+    "dialogue": [
+        {
+            "message_id": 0,
+            "system_id": "0006",
+            "speaker": "Bot",
+            "message": "Baseball is a bat-and-ball game where two teams of nine players each take turns batting and fielding to score runs by hitting a ball and running around four bases."
+        },
+        {
+            "message_id": 1,
+            "user_id": "0023",
+            "speaker": "Human",
+            "message": "Baseball is fun.. Isn't it bit similar to cricket?"
+        },
+        {
+            "message_id": 2,
+            "system_id": "0006",
+            "speaker": "Bot",
+            "message": "Yes, baseball and cricket share similarities as both are bat-and-ball games, but they have different rules, field layouts, and gameplay styles."
+        },
+        {
+            "message_id": 3,
+            "user_id": "0023",
+            "speaker": "Human",
+            "message": "yeah but both has balls to bowl, catches and runs."
+        },
+        {
+            "message_id": 4,
+            "system_id": "0006",
+            "speaker": "Bot",
+            "message": "Yes, both sports involve pitching (or bowling), catching, and scoring runs, but they differ in rules, field structure, and the number of innings or overs."
+        },
+        {
+            "message_id": 5,
+            "user_id": "0023",
+            "speaker": "Human",
+            "message": "how many innings do baseball has?"
+        },
+        {
+            "message_id": 6,
+            "system_id": "0006",
+            "speaker": "Bot",
+            "message": "A standard baseball game consists of nine innings, and if the score is tied, extra innings are played."
+        },
+        {
+            "message_id": 7,
+            "user_id": "0023",
+            "speaker": "Human",
+            "message": "how many extra innings can happen or is it till tie is breakon?"
+        },
+        {
+            "message_id": 8,
+            "system_id": "0006",
+            "speaker": "Bot",
+            "message": "In baseball, extra innings continue to be played until the tie is broken, with no set limit."
+        },
+        {
+            "message_id": 9,
+            "user_id": "0023",
+            "speaker": "Human",
+            "message": "how popular is baseball compared to cricket?"
+        },
+        {
+            "message_id": 10,
+            "system_id": "0006",
+            "speaker": "Bot",
+            "message": "Baseball is more popular in countries like the United States, Japan, and parts of Latin America, while cricket has a massive following in countries like India, Australia, and England."
+        },
+        {
+            "message_id": 11,
+            "user_id": "0023",
+            "speaker": "Human",
+            "message": "who is most popular player in baseball?"
+        },
+        {
+            "message_id": 12,
+            "system_id": "0006",
+            "speaker": "Bot",
+            "message": "One of the most popular baseball players historically is Babe Ruth, known for his impressive hitting prowess."
+        },
+        {
+            "message_id": 13,
+            "user_id": "0023",
+            "speaker": "Human",
+            "message": "how many runs did he score in his carrier?"
+        },
+        {
+            "message_id": 14,
+            "system_id": "0006",
+            "speaker": "Bot",
+            "message": "Babe Ruth scored a total of 2,213 runs during his Major League Baseball career."
+        },
+        {
+            "message_id": 15,
+            "user_id": "0023",
+            "speaker": "Human",
+            "message": "thats great. He is legend."
+        },
+        {
+            "message_id": 16,
+            "system_id": "0006",
+            "speaker": "Bot",
+            "message": "Absolutely, Babe Ruth is a true legend in baseball, renowned for his remarkable ability to score runs."
+        },
+        {
+            "message_id": 17,
+            "user_id": "0023",
+            "speaker": "Human",
+            "message": "I like watching cricket and can compare him to Cricket legend Sachin Tendulkar."
+        },
+        {
+            "message_id": 18,
+            "system_id": "0006",
+            "speaker": "Bot",
+            "message": "Yes, Sachin Tendulkar, like Babe Ruth, is a legendary figure in his sport with an incredible career and fan following."
+        },
+        {
+            "message_id": 19,
+            "user_id": "0023",
+            "speaker": "Human",
+            "message": "how many years did Babe Ruth play? and which was his team?"
+        },
+        {
+            "message_id": 20,
+            "system_id": "0006",
+            "speaker": "Bot",
+            "message": "Babe Ruth played in Major League Baseball for 22 seasons, primarily with the New York Yankees."
+        }
+    ]
+}

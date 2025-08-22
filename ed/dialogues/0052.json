@@ -1,0 +1,136 @@
+{
+    "dialogue_id": "0052",
+    "setting": "ed",
+    "model": "gpt-4o",
+    "prompt": "neutral",
+    "emotion": "Grateful",
+    "episode": "I am grateful for what I have and my family.",
+    "subjective_evaluation": {
+        "preference": 5.0,
+        "stylistic_similarity": 5.0,
+        "consistency": 5.0,
+        "empathy": 4.0
+    },
+    "dialogue": [
+        {
+            "message_id": 0,
+            "user_id": "0021",
+            "speaker": "Human",
+            "message": "I am grateful for what I have and my family."
+        },
+        {
+            "message_id": 1,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "That's wonderful to hear! Cherishing family is so important."
+        },
+        {
+            "message_id": 2,
+            "user_id": "0021",
+            "speaker": "Human",
+            "message": "Yes it is, as I grow older I find family to be more important"
+        },
+        {
+            "message_id": 3,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "Absolutely, they truly are a treasure."
+        },
+        {
+            "message_id": 4,
+            "user_id": "0021",
+            "speaker": "Human",
+            "message": "Especially seeing my parents getting close to the end of their lives"
+        },
+        {
+            "message_id": 5,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "That can be tough. Cherish the time you have with them."
+        },
+        {
+            "message_id": 6,
+            "user_id": "0021",
+            "speaker": "Human",
+            "message": "yes that is what I am trying to do"
+        },
+        {
+            "message_id": 7,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "That's great."
+        },
+        {
+            "message_id": 8,
+            "user_id": "0021",
+            "speaker": "Human",
+            "message": "It is sad but I want them to live a happy rest of their lives"
+        },
+        {
+            "message_id": 9,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "That's a wonderful goal."
+        },
+        {
+            "message_id": 10,
+            "user_id": "0021",
+            "speaker": "Human",
+            "message": "Life is tough but I am very grateful for what I have"
+        },
+        {
+            "message_id": 11,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "Absolutely."
+        },
+        {
+            "message_id": 12,
+            "user_id": "0021",
+            "speaker": "Human",
+            "message": "You bet. Plus I get to see my nephews starting their own families"
+        },
+        {
+            "message_id": 13,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "That's heartwarming!"
+        },
+        {
+            "message_id": 14,
+            "user_id": "0021",
+            "speaker": "Human",
+            "message": "I feel very grateful for this"
+        },
+        {
+            "message_id": 15,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "That's beautiful."
+        },
+        {
+            "message_id": 16,
+            "user_id": "0021",
+            "speaker": "Human",
+            "message": "Yes it is. I am also very grateful for my health"
+        },
+        {
+            "message_id": 17,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "That's important!"
+        },
+        {
+            "message_id": 18,
+            "user_id": "0021",
+            "speaker": "Human",
+            "message": "As I grow older health is the most important"
+        },
+        {
+            "message_id": 19,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "Absolutely."
+        }
+    ]
+}

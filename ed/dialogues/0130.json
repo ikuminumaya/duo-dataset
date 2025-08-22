@@ -1,0 +1,136 @@
+{
+    "dialogue_id": "0130",
+    "setting": "ed",
+    "model": "Llama-3.1-70B-Instruct",
+    "prompt": "aligned",
+    "emotion": "Disgusted",
+    "episode": "We recently had a bad storm in our area that caused widespread, prolonged power outages. I felt disgusted by the whole situation.",
+    "subjective_evaluation": {
+        "preference": 3.0,
+        "stylistic_similarity": 2.0,
+        "consistency": 4.0,
+        "empathy": 3.0
+    },
+    "dialogue": [
+        {
+            "message_id": 0,
+            "user_id": "0015",
+            "speaker": "Human",
+            "message": "We recently had a bad storm in our area that caused widespread, prolonged power outages. I felt disgusted by the whole situation. "
+        },
+        {
+            "message_id": 1,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "That sounds awful. What was the worst part of it for you?"
+        },
+        {
+            "message_id": 2,
+            "user_id": "0015",
+            "speaker": "Human",
+            "message": "The worst part of it was throwing out over $150 worth of groceries due to the power being out for over a week. I was also disgusted by the lack of urgency by city leaders and power companies. "
+        },
+        {
+            "message_id": 3,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "That's infuriating. Losing all that food must have been frustrating, and the slow response from officials didn't help."
+        },
+        {
+            "message_id": 4,
+            "user_id": "0015",
+            "speaker": "Human",
+            "message": "And to add insult to injury, I applied for federal assistance and was denied! "
+        },
+        {
+            "message_id": 5,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "That's ridiculous. You'd think they'd have some compassion after all you went through."
+        },
+        {
+            "message_id": 6,
+            "user_id": "0015",
+            "speaker": "Human",
+            "message": "Yes, I was upset. Cleaning out the fridge was disgusting as well. There was rotting food everywhere."
+        },
+        {
+            "message_id": 7,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "Ugh, that's nasty. I can imagine the smell was awful too."
+        },
+        {
+            "message_id": 8,
+            "user_id": "0015",
+            "speaker": "Human",
+            "message": "It was! We tried to use ice but it would melt and get the fridge all wet. I didn't want the fridge to break. "
+        },
+        {
+            "message_id": 9,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "Smart thinking. Last thing you needed was a broken fridge on top of everything else."
+        },
+        {
+            "message_id": 10,
+            "user_id": "0015",
+            "speaker": "Human",
+            "message": "Yeah, I didn't want to make things worse considering. I just bit the bullet so to speak. "
+        },
+        {
+            "message_id": 11,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "Sometimes you just gotta suck it up and deal with the mess."
+        },
+        {
+            "message_id": 12,
+            "user_id": "0015",
+            "speaker": "Human",
+            "message": "Yeah but in this instance I thought some help from someone would be in order. "
+        },
+        {
+            "message_id": 13,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "You'd think so, especially after going through all that."
+        },
+        {
+            "message_id": 14,
+            "user_id": "0015",
+            "speaker": "Human",
+            "message": "Lots of people were hurting. It was a \"derecho\". Have you heard of it"
+        },
+        {
+            "message_id": 15,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "Yeah, I've heard of derechos. They're like super intense storms that cause a lot of damage."
+        },
+        {
+            "message_id": 16,
+            "user_id": "0015",
+            "speaker": "Human",
+            "message": "Yes, the wind was intense. I've never experienced anything like it and I have experienced hurricanes! "
+        },
+        {
+            "message_id": 17,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "Whoa, that's saying something! Hurricanes are no joke, so a derecho must've been really crazy."
+        },
+        {
+            "message_id": 18,
+            "user_id": "0015",
+            "speaker": "Human",
+            "message": "I had to drive home in it. Thankfully I made it through ok. "
+        },
+        {
+            "message_id": 19,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "That was a close call! Glad you made it home safely."
+        }
+    ]
+}

@@ -1,0 +1,136 @@
+{
+    "dialogue_id": "0058",
+    "setting": "ed",
+    "model": "gpt-4o",
+    "prompt": "neutral",
+    "emotion": "Devastated",
+    "episode": "I was devasted when I could not find a job after college.",
+    "subjective_evaluation": {
+        "preference": 1.0,
+        "stylistic_similarity": 1.0,
+        "consistency": 4.0,
+        "empathy": 2.0
+    },
+    "dialogue": [
+        {
+            "message_id": 0,
+            "user_id": "0016",
+            "speaker": "Human",
+            "message": "I was devasted when I could not find a job after college."
+        },
+        {
+            "message_id": 1,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "I'm sorry to hear that. It must have been really tough."
+        },
+        {
+            "message_id": 2,
+            "user_id": "0016",
+            "speaker": "Human",
+            "message": "Yeah, I worked so hard and got good grades in school."
+        },
+        {
+            "message_id": 3,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "That must have been so frustrating."
+        },
+        {
+            "message_id": 4,
+            "user_id": "0016",
+            "speaker": "Human",
+            "message": "I got good grades in high school and college."
+        },
+        {
+            "message_id": 5,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "You put in so much effort."
+        },
+        {
+            "message_id": 6,
+            "user_id": "0016",
+            "speaker": "Human",
+            "message": "It cost a ton of money too."
+        },
+        {
+            "message_id": 7,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "That adds even more pressure."
+        },
+        {
+            "message_id": 8,
+            "user_id": "0016",
+            "speaker": "Human",
+            "message": "I sent out tons of resumes with no responses."
+        },
+        {
+            "message_id": 9,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "That sounds really discouraging."
+        },
+        {
+            "message_id": 10,
+            "user_id": "0016",
+            "speaker": "Human",
+            "message": "I felt like I was lied to and deceived."
+        },
+        {
+            "message_id": 11,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "That's completely understandable."
+        },
+        {
+            "message_id": 12,
+            "user_id": "0016",
+            "speaker": "Human",
+            "message": "I felt like a failure."
+        },
+        {
+            "message_id": 13,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "You're not a failure."
+        },
+        {
+            "message_id": 14,
+            "user_id": "0016",
+            "speaker": "Human",
+            "message": "I was also really mad at the world."
+        },
+        {
+            "message_id": 15,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "That's a valid feeling."
+        },
+        {
+            "message_id": 16,
+            "user_id": "0016",
+            "speaker": "Human",
+            "message": "Like that they purposely ripped me off and lied to me."
+        },
+        {
+            "message_id": 17,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "It sounds so unfair."
+        },
+        {
+            "message_id": 18,
+            "user_id": "0016",
+            "speaker": "Human",
+            "message": "I had done all that work and wasted all that money for nothing."
+        },
+        {
+            "message_id": 19,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "It's so disheartening."
+        }
+    ]
+}

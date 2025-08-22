@@ -1,0 +1,141 @@
+{
+    "dialogue_id": "1120",
+    "setting": "wow",
+    "model": "Llama-3.1-70B-Instruct",
+    "prompt": "neutral",
+    "topic": "Swimming",
+    "subjective_evaluation": {
+        "preference": 4.0,
+        "stylistic_similarity": 5.0,
+        "consistency": 5.0,
+        "engagingness": 5.0
+    },
+    "dialogue": [
+        {
+            "message_id": 0,
+            "system_id": "0009",
+            "speaker": "Bot",
+            "message": "Let's talk about swimming, what do you know about it?"
+        },
+        {
+            "message_id": 1,
+            "user_id": "0035",
+            "speaker": "Human",
+            "message": "I know that there are many different strokes in swimming. "
+        },
+        {
+            "message_id": 2,
+            "system_id": "0009",
+            "speaker": "Bot",
+            "message": "Swimming is also a great low-impact exercise, isn't it?"
+        },
+        {
+            "message_id": 3,
+            "user_id": "0035",
+            "speaker": "Human",
+            "message": "Yes it is great exercise even for people with arthritis. "
+        },
+        {
+            "message_id": 4,
+            "system_id": "0009",
+            "speaker": "Bot",
+            "message": "It's accessible to many, even from a young age, humans can swim within weeks of birth."
+        },
+        {
+            "message_id": 5,
+            "user_id": "0035",
+            "speaker": "Human",
+            "message": "Wow I never knew that! "
+        },
+        {
+            "message_id": 6,
+            "system_id": "0009",
+            "speaker": "Bot",
+            "message": "It's amazing, our bodies are naturally buoyant, which helps us float and swim."
+        },
+        {
+            "message_id": 7,
+            "user_id": "0035",
+            "speaker": "Human",
+            "message": "Yes, they certainly are. Who has been the fastest swimmer in history?"
+        },
+        {
+            "message_id": 8,
+            "system_id": "0009",
+            "speaker": "Bot",
+            "message": "I'd love to tell you, but I don't have that info right now, want to talk about swimming competitions instead?"
+        },
+        {
+            "message_id": 9,
+            "user_id": "0035",
+            "speaker": "Human",
+            "message": "Sure"
+        },
+        {
+            "message_id": 10,
+            "system_id": "0009",
+            "speaker": "Bot",
+            "message": "Swimming is actually a part of the Olympics, and it's been in every modern summer Olympics."
+        },
+        {
+            "message_id": 11,
+            "user_id": "0035",
+            "speaker": "Human",
+            "message": "Since the beginning of the Olympics, that is impressive. "
+        },
+        {
+            "message_id": 12,
+            "system_id": "0009",
+            "speaker": "Bot",
+            "message": "It's a very popular sport, and swimming is also one of the top public recreational activities worldwide."
+        },
+        {
+            "message_id": 13,
+            "user_id": "0035",
+            "speaker": "Human",
+            "message": "Yes, I can see that. I know a lot of people who absolutely love to swim. Not me I never learned how to swim. "
+        },
+        {
+            "message_id": 14,
+            "system_id": "0009",
+            "speaker": "Bot",
+            "message": "Don't worry, it's never too late to learn, and in some countries, swimming lessons are even part of the school curriculum."
+        },
+        {
+            "message_id": 15,
+            "user_id": "0035",
+            "speaker": "Human",
+            "message": "Hello, you did not answer my question."
+        },
+        {
+            "message_id": 16,
+            "system_id": "0009",
+            "speaker": "Bot",
+            "message": "I apologize, but I didn't see a question from you. Could you please rephrase or ask again?"
+        },
+        {
+            "message_id": 17,
+            "user_id": "0035",
+            "speaker": "Human",
+            "message": "I see it now. That is great to learn swimming in school. I feel everyone should learn and know how to swim. "
+        },
+        {
+            "message_id": 18,
+            "system_id": "0009",
+            "speaker": "Bot",
+            "message": "It's a vital skill for survival and recreation, and it's great that some countries prioritize it in their education system."
+        },
+        {
+            "message_id": 19,
+            "user_id": "0035",
+            "speaker": "Human",
+            "message": "I agree. When did people first start to swim? "
+        },
+        {
+            "message_id": 20,
+            "system_id": "0009",
+            "speaker": "Bot",
+            "message": "I'm not sure about the exact timeline, but humans have been able to hold their breath and swim rudimentarily since birth, as an evolutionary response."
+        }
+    ]
+}

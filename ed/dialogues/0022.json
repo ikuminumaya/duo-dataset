@@ -1,0 +1,162 @@
+{
+    "dialogue_id": "0022",
+    "setting": "ed",
+    "model": "gpt-4o",
+    "prompt": "aligned",
+    "emotion": "Excited",
+    "episode": "I am really excited to go golfing next week!",
+    "objective_evaluation": {
+        "preference": 3.0,
+        "stylistic_similarity": 3.0,
+        "consistency": 5.0,
+        "empathy": 4.67,
+        "preference_scores": [
+            4.0,
+            2.0,
+            3.0
+        ],
+        "stylistic_similarity_scores": [
+            2.0,
+            2.0,
+            5.0
+        ],
+        "consistency_scores": [
+            5.0,
+            5.0,
+            5.0
+        ],
+        "empathy_scores": [
+            5.0,
+            5.0,
+            4.0
+        ]
+    },
+    "subjective_evaluation": {
+        "preference": 5.0,
+        "stylistic_similarity": 5.0,
+        "consistency": 5.0,
+        "empathy": 5.0
+    },
+    "dialogue": [
+        {
+            "message_id": 0,
+            "user_id": "0012",
+            "speaker": "Human",
+            "message": "yo what up I am totally excited"
+        },
+        {
+            "message_id": 1,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "Yo, that's awesome! What's got you so hyped?"
+        },
+        {
+            "message_id": 2,
+            "user_id": "0012",
+            "speaker": "Human",
+            "message": "yo yo yo bro I gonna be golfin"
+        },
+        {
+            "message_id": 3,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "Yo, that's sick! When you hittin' the course?"
+        },
+        {
+            "message_id": 4,
+            "user_id": "0012",
+            "speaker": "Human",
+            "message": "oh bruv gonna be a couple days still but I'm pumped max"
+        },
+        {
+            "message_id": 5,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "Bruv, that's wicked! Gonna be epic!"
+        },
+        {
+            "message_id": 6,
+            "user_id": "0012",
+            "speaker": "Human",
+            "message": "wicked sick dude"
+        },
+        {
+            "message_id": 7,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "Totally! Can't wait!"
+        },
+        {
+            "message_id": 8,
+            "user_id": "0012",
+            "speaker": "Human",
+            "message": "you wanna come with "
+        },
+        {
+            "message_id": 9,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "Yo, I'd be down! Let's do it!"
+        },
+        {
+            "message_id": 10,
+            "user_id": "0012",
+            "speaker": "Human",
+            "message": "great be at my crib 9:00"
+        },
+        {
+            "message_id": 11,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "Bet, see ya then!"
+        },
+        {
+            "message_id": 12,
+            "user_id": "0012",
+            "speaker": "Human",
+            "message": "bring your balls"
+        },
+        {
+            "message_id": 13,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "Got it, I'll bring 'em!"
+        },
+        {
+            "message_id": 14,
+            "user_id": "0012",
+            "speaker": "Human",
+            "message": "sticks too"
+        },
+        {
+            "message_id": 15,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "For sure, I'll bring my sticks!"
+        },
+        {
+            "message_id": 16,
+            "user_id": "0012",
+            "speaker": "Human",
+            "message": "and a ton of cervezas bruh"
+        },
+        {
+            "message_id": 17,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "You got it, bruh!"
+        },
+        {
+            "message_id": 18,
+            "user_id": "0012",
+            "speaker": "Human",
+            "message": "beruh"
+        },
+        {
+            "message_id": 19,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "Beruh!"
+        }
+    ]
+}

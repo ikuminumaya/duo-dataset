@@ -1,0 +1,136 @@
+{
+    "dialogue_id": "0152",
+    "setting": "ed",
+    "model": "Llama-3.1-70B-Instruct",
+    "prompt": "not_aligned",
+    "emotion": "Anticipating",
+    "episode": "Around the same time every month, I have a co-worker who will ask me for a specific request.  I prepare myself so the request doesn't take me much time.",
+    "subjective_evaluation": {
+        "preference": 3.0,
+        "stylistic_similarity": 3.0,
+        "consistency": 5.0,
+        "empathy": 5.0
+    },
+    "dialogue": [
+        {
+            "message_id": 0,
+            "user_id": "0007",
+            "speaker": "Human",
+            "message": "At work, I can create reports using the data that I have access to.  My coworkers are supposed to know how to do this themselves, but they will come to me instead to ask for help."
+        },
+        {
+            "message_id": 1,
+            "system_id": "0005",
+            "speaker": "Bot",
+            "message": "That can be frustrating, feeling like you're being relied on too heavily."
+        },
+        {
+            "message_id": 2,
+            "user_id": "0007",
+            "speaker": "Human",
+            "message": "I agree.  There is one particular coworker who comes to me on the 15th of every month.  I have learned to anticipate her request and start generating the report for her."
+        },
+        {
+            "message_id": 3,
+            "system_id": "0005",
+            "speaker": "Bot",
+            "message": "It sounds like you're enabling her a bit, taking away her incentive to learn."
+        },
+        {
+            "message_id": 4,
+            "user_id": "0007",
+            "speaker": "Human",
+            "message": "That's true.  I could be doing that.  I just feel I am not in the position to turn her down.  I feel it could be used against me."
+        },
+        {
+            "message_id": 5,
+            "system_id": "0005",
+            "speaker": "Bot",
+            "message": "Politics at play, you're worried about repercussions."
+        },
+        {
+            "message_id": 6,
+            "user_id": "0007",
+            "speaker": "Human",
+            "message": "Exactly.  That why I try to anticipate people's requests.  I want things done with little difficulty. "
+        },
+        {
+            "message_id": 7,
+            "system_id": "0005",
+            "speaker": "Bot",
+            "message": "So you're trying to maintain a smooth workflow and avoid conflict."
+        },
+        {
+            "message_id": 8,
+            "user_id": "0007",
+            "speaker": "Human",
+            "message": "Yes. I am also trying to set things up for the report so I won't have to waste too much of my valuable time. "
+        },
+        {
+            "message_id": 9,
+            "system_id": "0005",
+            "speaker": "Bot",
+            "message": "Efficiency is key, minimizing the time spent on others' tasks."
+        },
+        {
+            "message_id": 10,
+            "user_id": "0007",
+            "speaker": "Human",
+            "message": "Exactly.  There are other people beside this one co-worker who seem to ask for help around the same times as well.  I may have a talk with my boss about limiting these requests."
+        },
+        {
+            "message_id": 11,
+            "system_id": "0005",
+            "speaker": "Bot",
+            "message": "Good idea, maybe your boss can help set boundaries or delegate tasks more evenly."
+        },
+        {
+            "message_id": 12,
+            "user_id": "0007",
+            "speaker": "Human",
+            "message": "I just don't want to be seen as someone who is combative or turning down work.  "
+        },
+        {
+            "message_id": 13,
+            "system_id": "0005",
+            "speaker": "Bot",
+            "message": "You want to approach it in a way that's solution-focused, not negative or resistant."
+        },
+        {
+            "message_id": 14,
+            "user_id": "0007",
+            "speaker": "Human",
+            "message": "Correct.  I feel there should be no negativity associated with me turning down these tasks.  However, until I get to that point, I try to be organized so I can efficiently finish the tasks for my coworkers. "
+        },
+        {
+            "message_id": 15,
+            "system_id": "0005",
+            "speaker": "Bot",
+            "message": "Being proactive and organized helps you maintain a positive image while setting the stage for future changes."
+        },
+        {
+            "message_id": 16,
+            "user_id": "0007",
+            "speaker": "Human",
+            "message": "Yes.  I have to be careful of letting this go for too long.  What was once something that I did as a favor can quickly become a \"responsibility\". "
+        },
+        {
+            "message_id": 17,
+            "system_id": "0005",
+            "speaker": "Bot",
+            "message": "Boundaries can blur quickly, and favors can become expectations."
+        },
+        {
+            "message_id": 18,
+            "user_id": "0007",
+            "speaker": "Human",
+            "message": "I want others to keep their expectations as low as possible for me. "
+        },
+        {
+            "message_id": 19,
+            "system_id": "0005",
+            "speaker": "Bot",
+            "message": "Smart, managing others' expectations to maintain your own workload and sanity."
+        }
+    ]
+}

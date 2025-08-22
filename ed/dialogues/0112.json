@@ -1,0 +1,136 @@
+{
+    "dialogue_id": "0112",
+    "setting": "ed",
+    "model": "Llama-3.1-70B-Instruct",
+    "prompt": "neutral",
+    "emotion": "Excited",
+    "episode": "I am excited that I will be going to Europe for the very first time next month.",
+    "subjective_evaluation": {
+        "preference": 5.0,
+        "stylistic_similarity": 5.0,
+        "consistency": 5.0,
+        "empathy": 5.0
+    },
+    "dialogue": [
+        {
+            "message_id": 0,
+            "user_id": "0003",
+            "speaker": "Human",
+            "message": "I have never been to Europe but am going for the first time next month.  I am very excited!"
+        },
+        {
+            "message_id": 1,
+            "system_id": "0003",
+            "speaker": "Bot",
+            "message": "That sounds amazing! What made you decide to go?"
+        },
+        {
+            "message_id": 2,
+            "user_id": "0003",
+            "speaker": "Human",
+            "message": "My husband and I are long overdue for a vacation and have been wanted to visit Europe for quite some time.  His sister is doing a Viking cruise and asked us if we want to go along."
+        },
+        {
+            "message_id": 3,
+            "system_id": "0003",
+            "speaker": "Bot",
+            "message": "How fun! A Viking cruise sounds like an adventure!"
+        },
+        {
+            "message_id": 4,
+            "user_id": "0003",
+            "speaker": "Human",
+            "message": "We like that you don't actually spend a lot of time on the boat and that we'll get to visit a lot of different places."
+        },
+        {
+            "message_id": 5,
+            "system_id": "0003",
+            "speaker": "Bot",
+            "message": "Sounds like a great way to see multiple destinations without changing hotels."
+        },
+        {
+            "message_id": 6,
+            "user_id": "0003",
+            "speaker": "Human",
+            "message": "Right.  And if we find someplace we love, we can always go back there in the future as a specific destination."
+        },
+        {
+            "message_id": 7,
+            "system_id": "0003",
+            "speaker": "Bot",
+            "message": "That's a great attitude, and it's always nice to have a taste of a place before deciding to go back."
+        },
+        {
+            "message_id": 8,
+            "user_id": "0003",
+            "speaker": "Human",
+            "message": "The only thing I'm not looking forward to in the long flight from Florida to Brussels."
+        },
+        {
+            "message_id": 9,
+            "system_id": "0003",
+            "speaker": "Bot",
+            "message": "Long flights can be tough, but it'll be worth it when you arrive!"
+        },
+        {
+            "message_id": 10,
+            "user_id": "0003",
+            "speaker": "Human",
+            "message": "Any suggestions on what to bring with me on the plane for a flight this long?"
+        },
+        {
+            "message_id": 11,
+            "system_id": "0003",
+            "speaker": "Bot",
+            "message": "Definitely bring a book, headphones, and maybe a travel pillow for comfort."
+        },
+        {
+            "message_id": 12,
+            "user_id": "0003",
+            "speaker": "Human",
+            "message": "Those all sound good.  It will be an overnight flight so hopefully I can get some sleep."
+        },
+        {
+            "message_id": 13,
+            "system_id": "0003",
+            "speaker": "Bot",
+            "message": "Fingers crossed you'll get some rest and wake up feeling refreshed in Brussels!"
+        },
+        {
+            "message_id": 14,
+            "user_id": "0003",
+            "speaker": "Human",
+            "message": "For sure, I want to be able to get out and do something that first day."
+        },
+        {
+            "message_id": 15,
+            "system_id": "0003",
+            "speaker": "Bot",
+            "message": "You'll want to make the most of your time, especially since you're only there for a short time with the cruise."
+        },
+        {
+            "message_id": 16,
+            "user_id": "0003",
+            "speaker": "Human",
+            "message": "I'm thinking I should get some Euros before I go but not sure where the best place to do that will be.  Definitely before I leave the states."
+        },
+        {
+            "message_id": 17,
+            "system_id": "0003",
+            "speaker": "Bot",
+            "message": "Good thinking! You can try a bank or a currency exchange office before you leave."
+        },
+        {
+            "message_id": 18,
+            "user_id": "0003",
+            "speaker": "Human",
+            "message": "I'm not sure how much cash I should bring; I'm sure my credit card will work most places.  I even opened a new credit card that doesn't have any foreign exchange fees."
+        },
+        {
+            "message_id": 19,
+            "system_id": "0003",
+            "speaker": "Bot",
+            "message": "Smart move on the credit card! You'll probably only need some cash for small purchases or street vendors."
+        }
+    ]
+}

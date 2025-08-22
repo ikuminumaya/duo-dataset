@@ -1,0 +1,136 @@
+{
+    "dialogue_id": "0100",
+    "setting": "ed",
+    "model": "gpt-4o",
+    "prompt": "not_aligned",
+    "emotion": "Annoyed",
+    "episode": "My boyfriend asked me to help him clean up the shop and I saw that all kinds of passengers and hardware into different bins and the next time I saw it it was all mixed together. I felt like I wasted my time. It was very annoying.",
+    "subjective_evaluation": {
+        "preference": 4.0,
+        "stylistic_similarity": 3.0,
+        "consistency": 4.0,
+        "empathy": 5.0
+    },
+    "dialogue": [
+        {
+            "message_id": 0,
+            "user_id": "0026",
+            "speaker": "Human",
+            "message": "I spent hours sorting and organizing fasteners and hardware for my boyfriend and the next time I saw them they were all mixed together again."
+        },
+        {
+            "message_id": 1,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "Oh no, that must be so frustrating! It's tough to see your hard work undone."
+        },
+        {
+            "message_id": 2,
+            "user_id": "0026",
+            "speaker": "Human",
+            "message": "I was more annoyed than frustrated this kind of thing happens a lot when he insists I help him tidy up the shop."
+        },
+        {
+            "message_id": 3,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "That sounds really irritating! Maybe setting some boundaries could help."
+        },
+        {
+            "message_id": 4,
+            "user_id": "0026",
+            "speaker": "Human",
+            "message": "That sounds good but what kind of boundaries would be good for that situation?"
+        },
+        {
+            "message_id": 5,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "Perhaps suggesting he takes on the organizing himself could help?"
+        },
+        {
+            "message_id": 6,
+            "user_id": "0026",
+            "speaker": "Human",
+            "message": "Believe me l have tried that but he is very persistent that he needs my help and stresses the fact that we are partners and need to work together."
+        },
+        {
+            "message_id": 7,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "That sounds tough. Maybe a chat about balance and fairness could help."
+        },
+        {
+            "message_id": 8,
+            "user_id": "0026",
+            "speaker": "Human",
+            "message": "Sadly that is his idea of balance and fairness he says I should not be offended that he has just changed his mind about how he wants things he says he's not undoing what I have done it just seems that way."
+        },
+        {
+            "message_id": 9,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "It's tricky. Maybe a calm talk about compromise could help."
+        },
+        {
+            "message_id": 10,
+            "user_id": "0026",
+            "speaker": "Human",
+            "message": "That sounds good but what would the compromise be how would he be able to compromise changing his mind?"
+        },
+        {
+            "message_id": 11,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "He could try communicating changes before acting."
+        },
+        {
+            "message_id": 12,
+            "user_id": "0026",
+            "speaker": "Human",
+            "message": "That really wouldn't be a compromise that would still leave me feeling all my hard work was for nothing because now it's going to all be moved kor redone."
+        },
+        {
+            "message_id": 13,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "How about deciding together before starting?"
+        },
+        {
+            "message_id": 14,
+            "user_id": "0026",
+            "speaker": "Human",
+            "message": "We do that but then soon after I finish he seems to change his mind about how he wants things and he has the most experience and we have agreed he is the one in charge."
+        },
+        {
+            "message_id": 15,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "That sounds challenging. Maybe a discussion about respecting each other’s efforts could help."
+        },
+        {
+            "message_id": 16,
+            "user_id": "0026",
+            "speaker": "Human",
+            "message": "He says he does respect my efforts and his changes aren't a reflection on me but every time I help I know it is pointless because he is just going to change it anyway."
+        },
+        {
+            "message_id": 17,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "Maybe try focusing on tasks that won't be changed?"
+        },
+        {
+            "message_id": 18,
+            "user_id": "0026",
+            "speaker": "Human",
+            "message": "He doesn't need or want my help with those that is why the whole thing is so annoying."
+        },
+        {
+            "message_id": 19,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "That's a tough spot. Maybe finding a new way to contribute could be a solution."
+        }
+    ]
+}

@@ -1,0 +1,136 @@
+{
+    "dialogue_id": "0128",
+    "setting": "ed",
+    "model": "Llama-3.1-70B-Instruct",
+    "prompt": "aligned",
+    "emotion": "Sentimental",
+    "episode": "This Easter is making me more sentimental for my family",
+    "subjective_evaluation": {
+        "preference": 5.0,
+        "stylistic_similarity": 5.0,
+        "consistency": 5.0,
+        "empathy": 5.0
+    },
+    "dialogue": [
+        {
+            "message_id": 0,
+            "user_id": "0021",
+            "speaker": "Human",
+            "message": "This Easter is making me more sentimental for my family"
+        },
+        {
+            "message_id": 1,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "It can be tough being away from loved ones during holidays."
+        },
+        {
+            "message_id": 2,
+            "user_id": "0021",
+            "speaker": "Human",
+            "message": "yes it is. Plus I am getting older and the rest are getting older"
+        },
+        {
+            "message_id": 3,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "Time flies, and it's natural to feel a little nostalgic when thinking about the passing years."
+        },
+        {
+            "message_id": 4,
+            "user_id": "0021",
+            "speaker": "Human",
+            "message": "It is sad watching other get old"
+        },
+        {
+            "message_id": 5,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "It's hard to see the people you care about age."
+        },
+        {
+            "message_id": 6,
+            "user_id": "0021",
+            "speaker": "Human",
+            "message": "Especially my parents. I know we only have a limited time to celebrate with them"
+        },
+        {
+            "message_id": 7,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "That's a tough reality to face. Make the most of the time you have with them."
+        },
+        {
+            "message_id": 8,
+            "user_id": "0021",
+            "speaker": "Human",
+            "message": "That is what I am doing taking more time with time"
+        },
+        {
+            "message_id": 9,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "That's wonderful! Cherish every moment with them."
+        },
+        {
+            "message_id": 10,
+            "user_id": "0021",
+            "speaker": "Human",
+            "message": "Plus all of my nephew are adults know. I missed when they were kids"
+        },
+        {
+            "message_id": 11,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "Those childhood years go by so fast, don't they?"
+        },
+        {
+            "message_id": 12,
+            "user_id": "0021",
+            "speaker": "Human",
+            "message": "I know, but one nephew is bring his new baby that was born back in December"
+        },
+        {
+            "message_id": 13,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "A new baby in the family! That's something to be excited about!"
+        },
+        {
+            "message_id": 14,
+            "user_id": "0021",
+            "speaker": "Human",
+            "message": "Yes it is. Holidays are more fun with kids around"
+        },
+        {
+            "message_id": 15,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "Kids bring so much energy and joy to the holidays!"
+        },
+        {
+            "message_id": 16,
+            "user_id": "0021",
+            "speaker": "Human",
+            "message": "yes. I am really going to enjoy Easter this year"
+        },
+        {
+            "message_id": 17,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "I'm glad to hear that! You deserve it!"
+        },
+        {
+            "message_id": 18,
+            "user_id": "0021",
+            "speaker": "Human",
+            "message": "Thank you"
+        },
+        {
+            "message_id": 19,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "You're welcome, have a great Easter!"
+        }
+    ]
+}

@@ -1,0 +1,141 @@
+{
+    "dialogue_id": "1117",
+    "setting": "wow",
+    "model": "Llama-3.1-70B-Instruct",
+    "prompt": "neutral",
+    "topic": "Dance",
+    "subjective_evaluation": {
+        "preference": 3.0,
+        "stylistic_similarity": 3.0,
+        "consistency": 3.0,
+        "engagingness": 2.0
+    },
+    "dialogue": [
+        {
+            "message_id": 0,
+            "system_id": "0009",
+            "speaker": "Bot",
+            "message": "Let's talk about dance, what do you know about it?"
+        },
+        {
+            "message_id": 1,
+            "user_id": "0032",
+            "speaker": "Human",
+            "message": "nothing, tell me"
+        },
+        {
+            "message_id": 2,
+            "system_id": "0009",
+            "speaker": "Bot",
+            "message": "Dance is a performing art form consisting of purposefully selected sequences of human movement."
+        },
+        {
+            "message_id": 3,
+            "user_id": "0032",
+            "speaker": "Human",
+            "message": "not sure I like to dance "
+        },
+        {
+            "message_id": 4,
+            "system_id": "0009",
+            "speaker": "Bot",
+            "message": "That's okay, dance can be more than just performing, it can also be a fun way to express yourself or tell a story."
+        },
+        {
+            "message_id": 5,
+            "user_id": "0032",
+            "speaker": "Human",
+            "message": "what are different types of dance"
+        },
+        {
+            "message_id": 6,
+            "system_id": "0009",
+            "speaker": "Bot",
+            "message": "There's theatrical dance, like ballet and modern dance, and also classical styles from India, China, and Japan, like song and dance dramas."
+        },
+        {
+            "message_id": 7,
+            "user_id": "0032",
+            "speaker": "Human",
+            "message": "is there an easy one"
+        },
+        {
+            "message_id": 8,
+            "system_id": "0009",
+            "speaker": "Bot",
+            "message": "Ballet is a classic, but if you're looking for something easy, you might enjoy a more expressive style like modern dance."
+        },
+        {
+            "message_id": 9,
+            "user_id": "0032",
+            "speaker": "Human",
+            "message": "what is the most popular"
+        },
+        {
+            "message_id": 10,
+            "system_id": "0009",
+            "speaker": "Bot",
+            "message": "I'm not sure, but western ballet is a well-known and popular form of theatrical dance."
+        },
+        {
+            "message_id": 11,
+            "user_id": "0032",
+            "speaker": "Human",
+            "message": "are their competitors for dance"
+        },
+        {
+            "message_id": 12,
+            "system_id": "0009",
+            "speaker": "Bot",
+            "message": "Yes, there are competitive forms of dance, and some styles like martial arts and cheerleading have dance-like qualities too."
+        },
+        {
+            "message_id": 13,
+            "user_id": "0032",
+            "speaker": "Human",
+            "message": "is it for kids or adults"
+        },
+        {
+            "message_id": 14,
+            "system_id": "0009",
+            "speaker": "Bot",
+            "message": "Both! Dance can be enjoyed by people of all ages, from kids to adults."
+        },
+        {
+            "message_id": 15,
+            "user_id": "0032",
+            "speaker": "Human",
+            "message": "how does it work to start"
+        },
+        {
+            "message_id": 16,
+            "system_id": "0009",
+            "speaker": "Bot",
+            "message": "You can start by learning choreography, which is a sequence of movements, and then practice to master it."
+        },
+        {
+            "message_id": 17,
+            "user_id": "0032",
+            "speaker": "Human",
+            "message": "I think I like that"
+        },
+        {
+            "message_id": 18,
+            "system_id": "0009",
+            "speaker": "Bot",
+            "message": "Learning choreography can be a fun way to get started with dance, and you can always find a style that suits your taste and skill level."
+        },
+        {
+            "message_id": 19,
+            "user_id": "0032",
+            "speaker": "Human",
+            "message": "what do you advise? "
+        },
+        {
+            "message_id": 20,
+            "system_id": "0009",
+            "speaker": "Bot",
+            "message": "I'd say start with a style that interests you, and take a class or workshop to learn the basics, it's a great way to get started!"
+        }
+    ]
+}

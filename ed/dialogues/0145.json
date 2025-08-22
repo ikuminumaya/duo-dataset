@@ -1,0 +1,136 @@
+{
+    "dialogue_id": "0145",
+    "setting": "ed",
+    "model": "Llama-3.1-70B-Instruct",
+    "prompt": "not_aligned",
+    "emotion": "Prepared",
+    "episode": "I had an unemployment case and prepared for weeks for it and won",
+    "subjective_evaluation": {
+        "preference": 2.0,
+        "stylistic_similarity": 2.0,
+        "consistency": 4.0,
+        "empathy": 2.0
+    },
+    "dialogue": [
+        {
+            "message_id": 0,
+            "user_id": "0028",
+            "speaker": "Human",
+            "message": "I have my unemployment case coming up and I'm feeling super confident about it"
+        },
+        {
+            "message_id": 1,
+            "system_id": "0005",
+            "speaker": "Bot",
+            "message": "That's great to hear! Fingers crossed for a favorable outcome."
+        },
+        {
+            "message_id": 2,
+            "user_id": "0028",
+            "speaker": "Human",
+            "message": "Thank you! I have been doing major preparations on all of the info I need"
+        },
+        {
+            "message_id": 3,
+            "system_id": "0005",
+            "speaker": "Bot",
+            "message": "Your hard work will surely pay off, stay positive!"
+        },
+        {
+            "message_id": 4,
+            "user_id": "0028",
+            "speaker": "Human",
+            "message": "Thank you. I think so too. They messed up bad so I should win no problem"
+        },
+        {
+            "message_id": 5,
+            "system_id": "0005",
+            "speaker": "Bot",
+            "message": "Sounds like you've got a strong case!"
+        },
+        {
+            "message_id": 6,
+            "user_id": "0028",
+            "speaker": "Human",
+            "message": "I do. I have literally 10 pages of information to go through"
+        },
+        {
+            "message_id": 7,
+            "system_id": "0005",
+            "speaker": "Bot",
+            "message": "Wow, you're thoroughly prepared!"
+        },
+        {
+            "message_id": 8,
+            "user_id": "0028",
+            "speaker": "Human",
+            "message": "LOL yep, exactly. I bet it is going to go waaay over on time"
+        },
+        {
+            "message_id": 9,
+            "system_id": "0005",
+            "speaker": "Bot",
+            "message": "Guess they'll be in for a marathon session!"
+        },
+        {
+            "message_id": 10,
+            "user_id": "0028",
+            "speaker": "Human",
+            "message": "Worth it though when I smoke my ex-employers"
+        },
+        {
+            "message_id": 11,
+            "system_id": "0005",
+            "speaker": "Bot",
+            "message": "Sweet vindication is within reach!"
+        },
+        {
+            "message_id": 12,
+            "user_id": "0028",
+            "speaker": "Human",
+            "message": "Absolutely. That's how I feel. I was mistreated so badly by my job. I deserve this/"
+        },
+        {
+            "message_id": 13,
+            "system_id": "0005",
+            "speaker": "Bot",
+            "message": "Justice is overdue, you're due for a win!"
+        },
+        {
+            "message_id": 14,
+            "user_id": "0028",
+            "speaker": "Human",
+            "message": "Thank you ^_^ I appreciate the kind words"
+        },
+        {
+            "message_id": 15,
+            "system_id": "0005",
+            "speaker": "Bot",
+            "message": "You're welcome, stay strong!"
+        },
+        {
+            "message_id": 16,
+            "user_id": "0028",
+            "speaker": "Human",
+            "message": "Any advice?"
+        },
+        {
+            "message_id": 17,
+            "system_id": "0005",
+            "speaker": "Bot",
+            "message": "Stay calm and assertive, you got this!"
+        },
+        {
+            "message_id": 18,
+            "user_id": "0028",
+            "speaker": "Human",
+            "message": "How can I stay calm?"
+        },
+        {
+            "message_id": 19,
+            "system_id": "0005",
+            "speaker": "Bot",
+            "message": "Take deep breaths, focus on your facts!"
+        }
+    ]
+}

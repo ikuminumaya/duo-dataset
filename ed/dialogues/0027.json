@@ -1,0 +1,162 @@
+{
+    "dialogue_id": "0027",
+    "setting": "ed",
+    "model": "gpt-4o",
+    "prompt": "not_aligned",
+    "emotion": "Prepared",
+    "episode": "I prepared fertilizer for my rose plant at my home",
+    "objective_evaluation": {
+        "preference": 3.33,
+        "stylistic_similarity": 3.67,
+        "consistency": 5.0,
+        "empathy": 4.0,
+        "preference_scores": [
+            4.0,
+            4.0,
+            2.0
+        ],
+        "stylistic_similarity_scores": [
+            4.0,
+            3.0,
+            4.0
+        ],
+        "consistency_scores": [
+            5.0,
+            5.0,
+            5.0
+        ],
+        "empathy_scores": [
+            5.0,
+            5.0,
+            2.0
+        ]
+    },
+    "subjective_evaluation": {
+        "preference": 5.0,
+        "stylistic_similarity": 5.0,
+        "consistency": 5.0,
+        "empathy": 5.0
+    },
+    "dialogue": [
+        {
+            "message_id": 0,
+            "user_id": "0018",
+            "speaker": "Human",
+            "message": "I prepared fertilizer for my rose plant at my home"
+        },
+        {
+            "message_id": 1,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "That sounds wonderful! How are your roses doing?"
+        },
+        {
+            "message_id": 2,
+            "user_id": "0018",
+            "speaker": "Human",
+            "message": "They all started to blossom more flowers after using of my own fertilizer"
+        },
+        {
+            "message_id": 3,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "That's awesome! Must feel rewarding."
+        },
+        {
+            "message_id": 4,
+            "user_id": "0018",
+            "speaker": "Human",
+            "message": "absolutely. Some of my plants are in edge of die. But now that plant also started to grow well"
+        },
+        {
+            "message_id": 5,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "Marvelous! Your plants are thriving splendidly."
+        },
+        {
+            "message_id": 6,
+            "user_id": "0018",
+            "speaker": "Human",
+            "message": "yes. I made this fertilizer from my kitchen wastages"
+        },
+        {
+            "message_id": 7,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "Impressive! Waste to wonder."
+        },
+        {
+            "message_id": 8,
+            "user_id": "0018",
+            "speaker": "Human",
+            "message": "You are right. Because this is zero cost"
+        },
+        {
+            "message_id": 9,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "That's a smart and eco-friendly approach!"
+        },
+        {
+            "message_id": 10,
+            "user_id": "0018",
+            "speaker": "Human",
+            "message": "I prepared to collect vegetables and fruits skin in a bowl. Then I added some water into bowl at night. On next morning I sprayed this water on plant"
+        },
+        {
+            "message_id": 11,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "Sounds like a natural and effective method. Wonderful!"
+        },
+        {
+            "message_id": 12,
+            "user_id": "0018",
+            "speaker": "Human",
+            "message": "Yeah dude, it is really effective and i can see the better difference"
+        },
+        {
+            "message_id": 13,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "Indeed, the results are quite promising."
+        },
+        {
+            "message_id": 14,
+            "user_id": "0018",
+            "speaker": "Human",
+            "message": "definitely, because I love my plant very much"
+        },
+        {
+            "message_id": 15,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "Your dedication truly pays off!"
+        },
+        {
+            "message_id": 16,
+            "user_id": "0018",
+            "speaker": "Human",
+            "message": "yeah, hereafter i will prepare this same fertilizer for my plants"
+        },
+        {
+            "message_id": 17,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "That is a splendid plan, indeed!"
+        },
+        {
+            "message_id": 18,
+            "user_id": "0018",
+            "speaker": "Human",
+            "message": "Yes also I shared this information to my friends and family"
+        },
+        {
+            "message_id": 19,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "Splendid! They shall surely benefit from your wisdom."
+        }
+    ]
+}

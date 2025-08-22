@@ -1,0 +1,136 @@
+{
+    "dialogue_id": "0156",
+    "setting": "ed",
+    "model": "Llama-3.1-70B-Instruct",
+    "prompt": "not_aligned",
+    "emotion": "Annoyed",
+    "episode": "I was annoyed when I learned that a friend volunteered me to help them move.",
+    "subjective_evaluation": {
+        "preference": 4.0,
+        "stylistic_similarity": 3.0,
+        "consistency": 5.0,
+        "empathy": 4.0
+    },
+    "dialogue": [
+        {
+            "message_id": 0,
+            "user_id": "0031",
+            "speaker": "Human",
+            "message": "I was annoyed when a friend recently volunteered me to help them move."
+        },
+        {
+            "message_id": 1,
+            "system_id": "0005",
+            "speaker": "Bot",
+            "message": "That's frustrating. Did you end up helping them?"
+        },
+        {
+            "message_id": 2,
+            "user_id": "0031",
+            "speaker": "Human",
+            "message": "Yes, I did because I felt that friends should help each other, but I wasn't really happy."
+        },
+        {
+            "message_id": 3,
+            "system_id": "0005",
+            "speaker": "Bot",
+            "message": "You felt obligated, but still resentful."
+        },
+        {
+            "message_id": 4,
+            "user_id": "0031",
+            "speaker": "Human",
+            "message": "Yes, I felt they should of asked first, and also they are the kind of person that has lied in the past to get out of help me and others"
+        },
+        {
+            "message_id": 5,
+            "system_id": "0005",
+            "speaker": "Bot",
+            "message": "So there's trust issues too."
+        },
+        {
+            "message_id": 6,
+            "user_id": "0031",
+            "speaker": "Human",
+            "message": "Yes, big trust issues with this person"
+        },
+        {
+            "message_id": 7,
+            "system_id": "0005",
+            "speaker": "Bot",
+            "message": "Makes it harder to help when you feel taken advantage of."
+        },
+        {
+            "message_id": 8,
+            "user_id": "0031",
+            "speaker": "Human",
+            "message": "I agree, that is how I felt the whole time I was helping them. They are just taking advantage of my goodwill."
+        },
+        {
+            "message_id": 9,
+            "system_id": "0005",
+            "speaker": "Bot",
+            "message": "Sounds like they're exploiting your kindness."
+        },
+        {
+            "message_id": 10,
+            "user_id": "0031",
+            "speaker": "Human",
+            "message": "I feel that they are. When it comes time for me to ask them for help in return they will have an excuse or not help"
+        },
+        {
+            "message_id": 11,
+            "system_id": "0005",
+            "speaker": "Bot",
+            "message": "You're expecting them to flake on you again."
+        },
+        {
+            "message_id": 12,
+            "user_id": "0031",
+            "speaker": "Human",
+            "message": "Yes, everyone in our group of friends knows they do not show up or help when they are expected too."
+        },
+        {
+            "message_id": 13,
+            "system_id": "0005",
+            "speaker": "Bot",
+            "message": "Guess that's why you're annoyed, not just about this one incident."
+        },
+        {
+            "message_id": 14,
+            "user_id": "0031",
+            "speaker": "Human",
+            "message": "That's definitely played into my issues with them, this is just a recent one that has annoyed me "
+        },
+        {
+            "message_id": 15,
+            "system_id": "0005",
+            "speaker": "Bot",
+            "message": "A fresh example of their usual behavior."
+        },
+        {
+            "message_id": 16,
+            "user_id": "0031",
+            "speaker": "Human",
+            "message": "What would be a good way to address their behavior going forward?"
+        },
+        {
+            "message_id": 17,
+            "system_id": "0005",
+            "speaker": "Bot",
+            "message": "Setting clear boundaries and expectations might help."
+        },
+        {
+            "message_id": 18,
+            "user_id": "0031",
+            "speaker": "Human",
+            "message": "Good idea. I feel that the next time they ask for help I will tell them how and why I feel that way"
+        },
+        {
+            "message_id": 19,
+            "system_id": "0005",
+            "speaker": "Bot",
+            "message": "Being honest and direct might help them understand your perspective."
+        }
+    ]
+}

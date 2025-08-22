@@ -1,0 +1,167 @@
+{
+    "dialogue_id": "1032",
+    "setting": "wow",
+    "model": "Llama-3.1-70B-Instruct",
+    "prompt": "aligned",
+    "topic": "Circus",
+    "objective_evaluation": {
+        "preference": 4.33,
+        "stylistic_similarity": 3.67,
+        "consistency": 5.0,
+        "engagingness": 4.33,
+        "preference_scores": [
+            5.0,
+            5.0,
+            3.0
+        ],
+        "stylistic_similarity_scores": [
+            4.0,
+            5.0,
+            2.0
+        ],
+        "consistency_scores": [
+            5.0,
+            5.0,
+            5.0
+        ],
+        "engagingness_scores": [
+            5.0,
+            5.0,
+            3.0
+        ]
+    },
+    "subjective_evaluation": {
+        "preference": 5.0,
+        "stylistic_similarity": 5.0,
+        "consistency": 5.0,
+        "engagingness": 4.0
+    },
+    "dialogue": [
+        {
+            "message_id": 0,
+            "system_id": "0010",
+            "speaker": "Bot",
+            "message": "Let's start fresh then, what's your take on the circus?"
+        },
+        {
+            "message_id": 1,
+            "user_id": "0003",
+            "speaker": "Human",
+            "message": "I like the circus, but I have to admit I miss them having animals like when I was a kid."
+        },
+        {
+            "message_id": 2,
+            "system_id": "0010",
+            "speaker": "Bot",
+            "message": "Yeah, I can see why, the animal acts were always a big part of the circus experience, but I've heard it's more humane this way, you know?"
+        },
+        {
+            "message_id": 3,
+            "user_id": "0003",
+            "speaker": "Human",
+            "message": "Absolutely.  I agree with the decision to remove animals, but I still miss them."
+        },
+        {
+            "message_id": 4,
+            "system_id": "0010",
+            "speaker": "Bot",
+            "message": "Nostalgia's a powerful thing, but it's cool that circuses are evolving to prioritize animal welfare, don't you think?"
+        },
+        {
+            "message_id": 5,
+            "user_id": "0003",
+            "speaker": "Human",
+            "message": "Agree.  How many active circuses are there in the US these days?"
+        },
+        {
+            "message_id": 6,
+            "system_id": "0010",
+            "speaker": "Bot",
+            "message": "Honestly, I'm not sure, but I do know that there are some really iconic ones like Ringling Bros. and Cirque du Soleil that are still going strong."
+        },
+        {
+            "message_id": 7,
+            "user_id": "0003",
+            "speaker": "Human",
+            "message": "What circus has the most performers worldwide?"
+        },
+        {
+            "message_id": 8,
+            "system_id": "0010",
+            "speaker": "Bot",
+            "message": "That's a great question, I think Cirque du Soleil has a massive troupe, they have shows all over the world, but I'm pretty sure they're not the original circus, that title belongs to someone else..."
+        },
+        {
+            "message_id": 9,
+            "user_id": "0003",
+            "speaker": "Human",
+            "message": "Are there still schools for clowns like there used to be?"
+        },
+        {
+            "message_id": 10,
+            "system_id": "0010",
+            "speaker": "Bot",
+            "message": "Yeah, I've heard that Clown College, the one founded by Ringling Bros., closed down, but there are still some schools and programs that teach clowning, like the Clown School of NYC!"
+        },
+        {
+            "message_id": 11,
+            "user_id": "0003",
+            "speaker": "Human",
+            "message": "I find it interesting that people want to be clowns given that a lot of people are afraid of clowns!"
+        },
+        {
+            "message_id": 12,
+            "system_id": "0010",
+            "speaker": "Bot",
+            "message": "Right? It's wild that coulrophobia, or fear of clowns, is a thing, but at the same time, people are drawn to becoming clowns, it's like they want to challenge that fear or something!"
+        },
+        {
+            "message_id": 13,
+            "user_id": "0003",
+            "speaker": "Human",
+            "message": "I did not know that this was the name for fear of clowns.  That's interesting.  "
+        },
+        {
+            "message_id": 14,
+            "system_id": "0010",
+            "speaker": "Bot",
+            "message": "Yeah, coulrophobia is a real phobia, and it's pretty fascinating, I think it's because clowns are supposed to be funny and happy, but they can also be kinda unsettling, you know?"
+        },
+        {
+            "message_id": 15,
+            "user_id": "0003",
+            "speaker": "Human",
+            "message": "Absolutely, and the scary movies with clowns don't help their reputation."
+        },
+        {
+            "message_id": 16,
+            "system_id": "0010",
+            "speaker": "Bot",
+            "message": "Totally, movies like IT definitely don't do clowns any favors, it's like they're perpetuating the whole \"creepy clown\" stereotype!"
+        },
+        {
+            "message_id": 17,
+            "user_id": "0003",
+            "speaker": "Human",
+            "message": "When and where was the first recorded circus?"
+        },
+        {
+            "message_id": 18,
+            "system_id": "0010",
+            "speaker": "Bot",
+            "message": "I think I can recall that Philip Astley is credited with starting the modern circus, and it was back in 1768 in England!"
+        },
+        {
+            "message_id": 19,
+            "user_id": "0003",
+            "speaker": "Human",
+            "message": "Interesting.  I'd be surprised if the ancient Romans or Greeks didn't have some circus-like entertainment."
+        },
+        {
+            "message_id": 20,
+            "system_id": "0010",
+            "speaker": "Bot",
+            "message": "Yeah, that's a good point, I'm sure they had some form of entertainment that involved performances and spectacles, but the modern concept of a circus as we know it today started with Astley in 1768."
+        }
+    ]
+}

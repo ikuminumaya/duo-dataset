@@ -1,0 +1,141 @@
+{
+    "dialogue_id": "1088",
+    "setting": "wow",
+    "model": "gpt-4o",
+    "prompt": "not_aligned",
+    "topic": "Golden Retriever",
+    "subjective_evaluation": {
+        "preference": 4.0,
+        "stylistic_similarity": 4.0,
+        "consistency": 5.0,
+        "engagingness": 4.0
+    },
+    "dialogue": [
+        {
+            "message_id": 0,
+            "system_id": "0008",
+            "speaker": "Bot",
+            "message": "Golden Retrievers are fantastic companions with their friendly nature and intelligence, making them great family pets and excellent assistance dogs for various needs."
+        },
+        {
+            "message_id": 1,
+            "user_id": "0025",
+            "speaker": "Human",
+            "message": "Goldens are amazing dogs, no doubt. They were initially bred as hunting dogs, is that correct?"
+        },
+        {
+            "message_id": 2,
+            "system_id": "0008",
+            "speaker": "Bot",
+            "message": "Absolutely, Golden Retrievers were originally bred as gun dogs to help retrieve waterfowl and upland game during hunting."
+        },
+        {
+            "message_id": 3,
+            "user_id": "0025",
+            "speaker": "Human",
+            "message": "I love that they always look like they are smiling. There's a few that live in my neighborhood, and I see them all of the time!"
+        },
+        {
+            "message_id": 4,
+            "system_id": "0008",
+            "speaker": "Bot",
+            "message": "Golden Retrievers really do look like they're smiling, and their friendly demeanor makes them super popular family pets all around the world!"
+        },
+        {
+            "message_id": 5,
+            "user_id": "0025",
+            "speaker": "Human",
+            "message": "Are they the most popular dog in the US?"
+        },
+        {
+            "message_id": 6,
+            "system_id": "0008",
+            "speaker": "Bot",
+            "message": "Golden Retrievers are super popular, ranking as the third-most popular family dog breed in the U.S.!"
+        },
+        {
+            "message_id": 7,
+            "user_id": "0025",
+            "speaker": "Human",
+            "message": "Rightfully so, they always look so happy. I'll bet they shed a lot though because of their long hair."
+        },
+        {
+            "message_id": 8,
+            "system_id": "0008",
+            "speaker": "Bot",
+            "message": "Yeah, they shed quite a bit, especially when the seasons change, so regular grooming is key!"
+        },
+        {
+            "message_id": 9,
+            "user_id": "0025",
+            "speaker": "Human",
+            "message": "How long has the breed been around?"
+        },
+        {
+            "message_id": 10,
+            "system_id": "0008",
+            "speaker": "Bot",
+            "message": "The Golden Retriever breed has been around since the late 19th century, originally developed in Scotland."
+        },
+        {
+            "message_id": 11,
+            "user_id": "0025",
+            "speaker": "Human",
+            "message": "Interesting. I grew up with a black lab as a pet. I think they share a lot of traits with goldens."
+        },
+        {
+            "message_id": 12,
+            "system_id": "0008",
+            "speaker": "Bot",
+            "message": "Absolutely, Golden Retrievers share a lot of friendly and loyal traits with Labradors, making both breeds wonderful companions!"
+        },
+        {
+            "message_id": 13,
+            "user_id": "0025",
+            "speaker": "Human",
+            "message": "Do they have any health issues specific to the breed?"
+        },
+        {
+            "message_id": 14,
+            "system_id": "0008",
+            "speaker": "Bot",
+            "message": "Golden Retrievers can be prone to certain health issues like hip dysplasia and heart problems, so regular vet check-ups are a good idea."
+        },
+        {
+            "message_id": 15,
+            "user_id": "0025",
+            "speaker": "Human",
+            "message": "Yeah, regular checkups are important for all dogs. Can you think of any famous goldens?"
+        },
+        {
+            "message_id": 16,
+            "system_id": "0008",
+            "speaker": "Bot",
+            "message": "One of the most famous Golden Retrievers was Buddy, who starred in the \"Air Bud\" movie series!"
+        },
+        {
+            "message_id": 17,
+            "user_id": "0025",
+            "speaker": "Human",
+            "message": "I loved that movie. I remember watching it when I was a kid. Any other famous goldens come to mind?"
+        },
+        {
+            "message_id": 18,
+            "system_id": "0008",
+            "speaker": "Bot",
+            "message": "Another famous Golden Retriever is Liberty, who was the pet of U.S. President Gerald Ford!"
+        },
+        {
+            "message_id": 19,
+            "user_id": "0025",
+            "speaker": "Human",
+            "message": "I like that most presidents have a pet dog. I think having a pet dog makes people better people. Do you understand what I mean by that?"
+        },
+        {
+            "message_id": 20,
+            "system_id": "0008",
+            "speaker": "Bot",
+            "message": "Absolutely, having a dog like a Golden Retriever, known for their friendly and gentle nature, can definitely bring out the best in people!"
+        }
+    ]
+}

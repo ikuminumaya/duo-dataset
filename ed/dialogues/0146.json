@@ -1,0 +1,136 @@
+{
+    "dialogue_id": "0146",
+    "setting": "ed",
+    "model": "Llama-3.1-70B-Instruct",
+    "prompt": "not_aligned",
+    "emotion": "Trusting",
+    "episode": "After getting married a few years ago, I remember feeling so trusting of my life partner. This trust is what makes my relationship work.",
+    "subjective_evaluation": {
+        "preference": 4.0,
+        "stylistic_similarity": 3.0,
+        "consistency": 4.0,
+        "empathy": 4.0
+    },
+    "dialogue": [
+        {
+            "message_id": 0,
+            "user_id": "0015",
+            "speaker": "Human",
+            "message": "After getting married a few years ago, I remember feeling so trusting of my life partner. This trust is what makes my relationship work."
+        },
+        {
+            "message_id": 1,
+            "system_id": "0005",
+            "speaker": "Bot",
+            "message": "That's beautiful. Trust is the foundation of a strong relationship."
+        },
+        {
+            "message_id": 2,
+            "user_id": "0015",
+            "speaker": "Human",
+            "message": "It took a lot of work though. I felt more trusting after getting married because of our honesty. "
+        },
+        {
+            "message_id": 3,
+            "system_id": "0005",
+            "speaker": "Bot",
+            "message": "Honesty fosters deep trust, doesn't it?"
+        },
+        {
+            "message_id": 4,
+            "user_id": "0015",
+            "speaker": "Human",
+            "message": "Yes, definitely. We were both unfaithful in our relationship but we're past that now. "
+        },
+        {
+            "message_id": 5,
+            "system_id": "0005",
+            "speaker": "Bot",
+            "message": "Infidelity can be tough to overcome, but it sounds like you both worked through it."
+        },
+        {
+            "message_id": 6,
+            "user_id": "0015",
+            "speaker": "Human",
+            "message": "Yeah, our wedding vows to each other were focused on the importance of trust. "
+        },
+        {
+            "message_id": 7,
+            "system_id": "0005",
+            "speaker": "Bot",
+            "message": "That's lovely. You both made a conscious commitment to prioritize trust."
+        },
+        {
+            "message_id": 8,
+            "user_id": "0015",
+            "speaker": "Human",
+            "message": "That trust gives us peace of mind to just focus on making each other happy. "
+        },
+        {
+            "message_id": 9,
+            "system_id": "0005",
+            "speaker": "Bot",
+            "message": "What a wonderful feeling to have that security and freedom to love each other fully."
+        },
+        {
+            "message_id": 10,
+            "user_id": "0015",
+            "speaker": "Human",
+            "message": "A good marriage is hard work if we each aren't pulling our load. "
+        },
+        {
+            "message_id": 11,
+            "system_id": "0005",
+            "speaker": "Bot",
+            "message": "Teamwork makes the dream work, especially in marriage."
+        },
+        {
+            "message_id": 12,
+            "user_id": "0015",
+            "speaker": "Human",
+            "message": "That's a great saying! I think I'm going to steal that hehe"
+        },
+        {
+            "message_id": 13,
+            "system_id": "0005",
+            "speaker": "Bot",
+            "message": "Feel free to! It's a saying that's meant to be shared."
+        },
+        {
+            "message_id": 14,
+            "user_id": "0015",
+            "speaker": "Human",
+            "message": "Do you have any advice to give me regarding trust in my relationship"
+        },
+        {
+            "message_id": 15,
+            "system_id": "0005",
+            "speaker": "Bot",
+            "message": "Communicate openly & honestly, and never stop making time for each other."
+        },
+        {
+            "message_id": 16,
+            "user_id": "0015",
+            "speaker": "Human",
+            "message": "That is so true! We try to always be open with one another. "
+        },
+        {
+            "message_id": 17,
+            "system_id": "0005",
+            "speaker": "Bot",
+            "message": "That's great to hear! Transparency is key to a healthy relationship."
+        },
+        {
+            "message_id": 18,
+            "user_id": "0015",
+            "speaker": "Human",
+            "message": "It also doesn't hurt that we're both working professionals and we only have time for us outside of work."
+        },
+        {
+            "message_id": 19,
+            "system_id": "0005",
+            "speaker": "Bot",
+            "message": "Having shared priorities and dedicated time for each other is a great foundation."
+        }
+    ]
+}

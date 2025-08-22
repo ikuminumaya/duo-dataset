@@ -1,0 +1,136 @@
+{
+    "dialogue_id": "0079",
+    "setting": "ed",
+    "model": "gpt-4o",
+    "prompt": "aligned",
+    "emotion": "Guilty",
+    "episode": "My brother was in town last week, visiting with my father. I felt like I should visit but did not feel like making the drive, which I still feel guilty about.",
+    "subjective_evaluation": {
+        "preference": 3.0,
+        "stylistic_similarity": 4.0,
+        "consistency": 5.0,
+        "empathy": 4.0
+    },
+    "dialogue": [
+        {
+            "message_id": 0,
+            "user_id": "0019",
+            "speaker": "Human",
+            "message": "My brother was in town last week visiting my father. I didn't feel like making the drive so did not go to see them. I feel pretty guilty about it still."
+        },
+        {
+            "message_id": 1,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "It's understandable to feel that way. Maybe you can call them or plan a visit soon to make up for it."
+        },
+        {
+            "message_id": 2,
+            "user_id": "0019",
+            "speaker": "Human",
+            "message": "That's a pretty good idea. I just feel bad about not wanting to make the effort. I really had no good excuse not to go, other than I just didn't feel like driving there."
+        },
+        {
+            "message_id": 3,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "Don't beat yourself up. Sometimes we just need a break. Just make it up next time!"
+        },
+        {
+            "message_id": 4,
+            "user_id": "0019",
+            "speaker": "Human",
+            "message": "I know you are right and I shouldn't agonize over this. Sometimes I have a hard time letting things go."
+        },
+        {
+            "message_id": 5,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "That's totally normal. Just take it easy on yourself."
+        },
+        {
+            "message_id": 6,
+            "user_id": "0019",
+            "speaker": "Human",
+            "message": "Should I apologize to them or just try to do better next time?"
+        },
+        {
+            "message_id": 7,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "A simple apology might help, then focus on doing better next time."
+        },
+        {
+            "message_id": 8,
+            "user_id": "0019",
+            "speaker": "Human",
+            "message": "Logically, I know you are right. It can be really hard to let things go, though!"
+        },
+        {
+            "message_id": 9,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "I get it, letting go is tough. Just take it one step at a time!"
+        },
+        {
+            "message_id": 10,
+            "user_id": "0019",
+            "speaker": "Human",
+            "message": "I guess we are always hardest on ourselves!"
+        },
+        {
+            "message_id": 11,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "Absolutely, we sure are!"
+        },
+        {
+            "message_id": 12,
+            "user_id": "0019",
+            "speaker": "Human",
+            "message": "Is there anything else that I can do in the meantime?"
+        },
+        {
+            "message_id": 13,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "Maybe plan a fun activity for when you see them next!"
+        },
+        {
+            "message_id": 14,
+            "user_id": "0019",
+            "speaker": "Human",
+            "message": "That's a good idea, to let them know I am excited to visit with them."
+        },
+        {
+            "message_id": 15,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "Exactly, it'll show you care!"
+        },
+        {
+            "message_id": 16,
+            "user_id": "0019",
+            "speaker": "Human",
+            "message": "Thank you for the advice. I will call them today."
+        },
+        {
+            "message_id": 17,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "You're welcome! Sounds like a great plan."
+        },
+        {
+            "message_id": 18,
+            "user_id": "0019",
+            "speaker": "Human",
+            "message": "Yes, hopefully they'll be free to get together again soon."
+        },
+        {
+            "message_id": 19,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "Fingers crossed!"
+        }
+    ]
+}

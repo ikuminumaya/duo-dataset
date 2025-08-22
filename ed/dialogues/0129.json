@@ -1,0 +1,136 @@
+{
+    "dialogue_id": "0129",
+    "setting": "ed",
+    "model": "Llama-3.1-70B-Instruct",
+    "prompt": "aligned",
+    "emotion": "Hopeful",
+    "episode": "I am hopeful that I can have an amazing relationship with my boyfriend",
+    "subjective_evaluation": {
+        "preference": 3.0,
+        "stylistic_similarity": 2.0,
+        "consistency": 5.0,
+        "empathy": 3.0
+    },
+    "dialogue": [
+        {
+            "message_id": 0,
+            "user_id": "0028",
+            "speaker": "Human",
+            "message": "My boyfriend and I are long distance. We have been together 3 years but I have a lot of hope we will be together for life"
+        },
+        {
+            "message_id": 1,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "That's really sweet. I'm sure it's tough being apart, but it's great that you're staying positive."
+        },
+        {
+            "message_id": 2,
+            "user_id": "0028",
+            "speaker": "Human",
+            "message": "Absolutely. He has been with me through absolutely everything."
+        },
+        {
+            "message_id": 3,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "He sounds like a keeper! You're lucky to have him."
+        },
+        {
+            "message_id": 4,
+            "user_id": "0028",
+            "speaker": "Human",
+            "message": "And he's lucky to have me too lol"
+        },
+        {
+            "message_id": 5,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "Mutual appreciation is the best!"
+        },
+        {
+            "message_id": 6,
+            "user_id": "0028",
+            "speaker": "Human",
+            "message": "He really does appreciate me. Even though I have no idea when I'll be ready to meet him, I am still full of hope"
+        },
+        {
+            "message_id": 7,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "That's beautiful. Hope can get you through a lot."
+        },
+        {
+            "message_id": 8,
+            "user_id": "0028",
+            "speaker": "Human",
+            "message": "It has. We have been through a lot, but mainly with each other and not AGAINST each other"
+        },
+        {
+            "message_id": 9,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "That's a great foundation for a relationship."
+        },
+        {
+            "message_id": 10,
+            "user_id": "0028",
+            "speaker": "Human",
+            "message": "Yeah, I agree. I don't understand why so many couples wanna fight against each other"
+        },
+        {
+            "message_id": 11,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "It's like, you're on the same team, right?"
+        },
+        {
+            "message_id": 12,
+            "user_id": "0028",
+            "speaker": "Human",
+            "message": "exactly. and I know emotions can get in the way, but it doesn't have to be that way if you can put the ego aside"
+        },
+        {
+            "message_id": 13,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "Ego can be a major relationship killer."
+        },
+        {
+            "message_id": 14,
+            "user_id": "0028",
+            "speaker": "Human",
+            "message": "It is for most, not just romantic relationships but every other kind as well"
+        },
+        {
+            "message_id": 15,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "Ego can ruin friendships and family relationships too."
+        },
+        {
+            "message_id": 16,
+            "user_id": "0028",
+            "speaker": "Human",
+            "message": "Exactly. I have had to put my ego aside a lot to work with him and be harmonious"
+        },
+        {
+            "message_id": 17,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "That takes a lot of maturity and love."
+        },
+        {
+            "message_id": 18,
+            "user_id": "0028",
+            "speaker": "Human",
+            "message": "It's what gives me hope, because he does the same for me."
+        },
+        {
+            "message_id": 19,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "That's a beautiful mutual understanding."
+        }
+    ]
+}

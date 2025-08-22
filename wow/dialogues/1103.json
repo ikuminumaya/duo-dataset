@@ -1,0 +1,141 @@
+{
+    "dialogue_id": "1103",
+    "setting": "wow",
+    "model": "gpt-4o",
+    "prompt": "not_aligned",
+    "topic": "Novel",
+    "subjective_evaluation": {
+        "preference": 2.0,
+        "stylistic_similarity": 3.0,
+        "consistency": 2.0,
+        "engagingness": 4.0
+    },
+    "dialogue": [
+        {
+            "message_id": 0,
+            "system_id": "0008",
+            "speaker": "Bot",
+            "message": "A novel is a long narrative work of fiction, typically in prose, with roots tracing back to classical Greece and Rome, gaining prominence in the 18th century."
+        },
+        {
+            "message_id": 1,
+            "user_id": "0010",
+            "speaker": "Human",
+            "message": "What are some modern novels "
+        },
+        {
+            "message_id": 2,
+            "system_id": "0008",
+            "speaker": "Bot",
+            "message": "Some popular modern novels include \"The Road\" by Cormac McCarthy, \"The Goldfinch\" by Donna Tartt, and \"Normal People\" by Sally Rooney."
+        },
+        {
+            "message_id": 3,
+            "user_id": "0010",
+            "speaker": "Human",
+            "message": "Normal People?"
+        },
+        {
+            "message_id": 4,
+            "system_id": "0008",
+            "speaker": "Bot",
+            "message": "\"Normal People\" is a contemporary novel by Sally Rooney that explores the intricate relationship between two Irish teenagers as they navigate life, love, and identity."
+        },
+        {
+            "message_id": 5,
+            "user_id": "0010",
+            "speaker": "Human",
+            "message": "Ah, and the road?"
+        },
+        {
+            "message_id": 6,
+            "system_id": "0008",
+            "speaker": "Bot",
+            "message": "\"The Road\" by Cormac McCarthy is a grim, post-apocalyptic tale highlighting the bond between a father and son as they struggle to survive."
+        },
+        {
+            "message_id": 7,
+            "user_id": "0010",
+            "speaker": "Human",
+            "message": "How does that story end?"
+        },
+        {
+            "message_id": 8,
+            "system_id": "0008",
+            "speaker": "Bot",
+            "message": "The tale concludes on a poignant note, with the father passing away, leaving his son to continue the journey with newfound hope under the care of another family."
+        },
+        {
+            "message_id": 9,
+            "user_id": "0010",
+            "speaker": "Human",
+            "message": "I guess that's pretty bitter."
+        },
+        {
+            "message_id": 10,
+            "system_id": "0008",
+            "speaker": "Bot",
+            "message": "Indeed, the ending is quite bittersweet, reflecting the harsh realities of the post-apocalyptic world but also offering a glimmer of hope."
+        },
+        {
+            "message_id": 11,
+            "user_id": "0010",
+            "speaker": "Human",
+            "message": "The Goldfinch."
+        },
+        {
+            "message_id": 12,
+            "system_id": "0008",
+            "speaker": "Bot",
+            "message": "\"The Goldfinch\" by Donna Tartt is a compelling narrative that intricately weaves themes of loss and redemption, centered around a young boy whose life is forever altered by a tragic event involving a priceless painting."
+        },
+        {
+            "message_id": 13,
+            "user_id": "0010",
+            "speaker": "Human",
+            "message": "Ah, that makes snese. What other novels."
+        },
+        {
+            "message_id": 14,
+            "system_id": "0008",
+            "speaker": "Bot",
+            "message": "How about exploring \"Don Quixote\" by Miguel de Cervantes, often hailed as the first significant European novel of the modern era?"
+        },
+        {
+            "message_id": 15,
+            "user_id": "0010",
+            "speaker": "Human",
+            "message": "Ok, don Quixote sounds pretty good."
+        },
+        {
+            "message_id": 16,
+            "system_id": "0008",
+            "speaker": "Bot",
+            "message": "\"Don Quixote,\" penned by Miguel de Cervantes in the early 17th century, is often hailed as the first major European novel that marked the modern era of literature."
+        },
+        {
+            "message_id": 17,
+            "user_id": "0010",
+            "speaker": "Human",
+            "message": "Ah, so basically where the start of it is."
+        },
+        {
+            "message_id": 18,
+            "system_id": "0008",
+            "speaker": "Bot",
+            "message": "Indeed, \"Don Quixote,\" published in 1605, is often recognized as the first significant European novel of the modern era."
+        },
+        {
+            "message_id": 19,
+            "user_id": "0010",
+            "speaker": "Human",
+            "message": "What about late 20th century novels?"
+        },
+        {
+            "message_id": 20,
+            "system_id": "0008",
+            "speaker": "Bot",
+            "message": "In the late 20th century, novels like \"Beloved\" by Toni Morrison and \"The Catcher in the Rye\" by J.D. Salinger made significant impacts in literature."
+        }
+    ]
+}

@@ -1,0 +1,136 @@
+{
+    "dialogue_id": "0067",
+    "setting": "ed",
+    "model": "gpt-4o",
+    "prompt": "aligned",
+    "emotion": "Furious",
+    "episode": "I had to take care of my sister's loud dog and it drove me insane.",
+    "subjective_evaluation": {
+        "preference": 2.0,
+        "stylistic_similarity": 3.0,
+        "consistency": 4.0,
+        "empathy": 2.0
+    },
+    "dialogue": [
+        {
+            "message_id": 0,
+            "user_id": "0028",
+            "speaker": "Human",
+            "message": "My sister's dog is driving me NUTS"
+        },
+        {
+            "message_id": 1,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "That sounds rough! What's the dog doing that's so annoying?"
+        },
+        {
+            "message_id": 2,
+            "user_id": "0028",
+            "speaker": "Human",
+            "message": "she is constantly whining and barking :("
+        },
+        {
+            "message_id": 3,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "Ugh, that sounds exhausting! Have you tried anything to calm her down?"
+        },
+        {
+            "message_id": 4,
+            "user_id": "0028",
+            "speaker": "Human",
+            "message": "I feed her, play with her, let her go outside and she's still doing it"
+        },
+        {
+            "message_id": 5,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "That's so frustrating! Maybe she's just missing your sister?"
+        },
+        {
+            "message_id": 6,
+            "user_id": "0028",
+            "speaker": "Human",
+            "message": "She's whiny like that even when my sister is here"
+        },
+        {
+            "message_id": 7,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "Yikes, that's tough! Maybe she needs more training or has some anxiety issues?"
+        },
+        {
+            "message_id": 8,
+            "user_id": "0028",
+            "speaker": "Human",
+            "message": "Yeah but we can't afford training. What other suggestions do you have?"
+        },
+        {
+            "message_id": 9,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "Try giving her more exercise or using puzzle toys to keep her busy."
+        },
+        {
+            "message_id": 10,
+            "user_id": "0028",
+            "speaker": "Human",
+            "message": "What are puzzle toys?"
+        },
+        {
+            "message_id": 11,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "They're toys that hide treats, so she has to figure out how to get them out."
+        },
+        {
+            "message_id": 12,
+            "user_id": "0028",
+            "speaker": "Human",
+            "message": "Oh okay. Yeah that might keep her interested and stimulated"
+        },
+        {
+            "message_id": 13,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "Exactly! Might help distract her a bit."
+        },
+        {
+            "message_id": 14,
+            "user_id": "0028",
+            "speaker": "Human",
+            "message": "Any other ideas?"
+        },
+        {
+            "message_id": 15,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "Try calming music or dog-safe chews."
+        },
+        {
+            "message_id": 16,
+            "user_id": "0028",
+            "speaker": "Human",
+            "message": "She listens to dog music. Chews as in chew toys?"
+        },
+        {
+            "message_id": 17,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "Yeah, chew toys or dental chews."
+        },
+        {
+            "message_id": 18,
+            "user_id": "0028",
+            "speaker": "Human",
+            "message": "Oh okay. You're very vague lol"
+        },
+        {
+            "message_id": 19,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "Haha, sorry about that! Chew toys or treats might help."
+        }
+    ]
+}

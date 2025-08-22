@@ -1,0 +1,136 @@
+{
+    "dialogue_id": "0151",
+    "setting": "ed",
+    "model": "Llama-3.1-70B-Instruct",
+    "prompt": "not_aligned",
+    "emotion": "Sentimental",
+    "episode": "I'm always sentimental on my daughter's birthday, remembering the day she was born and her childhood years.",
+    "subjective_evaluation": {
+        "preference": 2.0,
+        "stylistic_similarity": 2.0,
+        "consistency": 5.0,
+        "empathy": 2.0
+    },
+    "dialogue": [
+        {
+            "message_id": 0,
+            "user_id": "0019",
+            "speaker": "Human",
+            "message": "I'm feeling so sentimental right now. It's my daughter's 24th birthday and I'm remembering back to the day she was born."
+        },
+        {
+            "message_id": 1,
+            "system_id": "0005",
+            "speaker": "Bot",
+            "message": "Those milestones can be bittersweet, huh?"
+        },
+        {
+            "message_id": 2,
+            "user_id": "0019",
+            "speaker": "Human",
+            "message": "It really is bittersweet. And it makes me feel like time has gone by so quickly."
+        },
+        {
+            "message_id": 3,
+            "system_id": "0005",
+            "speaker": "Bot",
+            "message": "Time flies, doesn't it?"
+        },
+        {
+            "message_id": 4,
+            "user_id": "0019",
+            "speaker": "Human",
+            "message": "I love looking at all the old pictures and thinking about past memories."
+        },
+        {
+            "message_id": 5,
+            "system_id": "0005",
+            "speaker": "Bot",
+            "message": "Nostalgia can be so warm and fuzzy."
+        },
+        {
+            "message_id": 6,
+            "user_id": "0019",
+            "speaker": "Human",
+            "message": "I am sentimental about those past years. I wish I had savored them more at the time!"
+        },
+        {
+            "message_id": 7,
+            "system_id": "0005",
+            "speaker": "Bot",
+            "message": "Regret often comes with hindsight, doesn't it?"
+        },
+        {
+            "message_id": 8,
+            "user_id": "0019",
+            "speaker": "Human",
+            "message": "Yes... thinking about things I could have done differently."
+        },
+        {
+            "message_id": 9,
+            "system_id": "0005",
+            "speaker": "Bot",
+            "message": "The \"what ifs\" can be tough."
+        },
+        {
+            "message_id": 10,
+            "user_id": "0019",
+            "speaker": "Human",
+            "message": "Well, it is a happy day for sure, being that it's her birthday, but I find myself always getting so sentimental about past days and experiences."
+        },
+        {
+            "message_id": 11,
+            "system_id": "0005",
+            "speaker": "Bot",
+            "message": "Birthdays can be emotional triggers, huh?"
+        },
+        {
+            "message_id": 12,
+            "user_id": "0019",
+            "speaker": "Human",
+            "message": "How can I deal with it?"
+        },
+        {
+            "message_id": 13,
+            "system_id": "0005",
+            "speaker": "Bot",
+            "message": "Focus on the present, celebrate her now."
+        },
+        {
+            "message_id": 14,
+            "user_id": "0019",
+            "speaker": "Human",
+            "message": "So I should just live in the here and now, you think?"
+        },
+        {
+            "message_id": 15,
+            "system_id": "0005",
+            "speaker": "Bot",
+            "message": "Cherish memories, but stay present."
+        },
+        {
+            "message_id": 16,
+            "user_id": "0019",
+            "speaker": "Human",
+            "message": "That's what I'm going to try and do, but it's hard!"
+        },
+        {
+            "message_id": 17,
+            "system_id": "0005",
+            "speaker": "Bot",
+            "message": "It's a process, be gentle with yourself."
+        },
+        {
+            "message_id": 18,
+            "user_id": "0019",
+            "speaker": "Human",
+            "message": "I guess I just need to change the way I'm thinking about things."
+        },
+        {
+            "message_id": 19,
+            "system_id": "0005",
+            "speaker": "Bot",
+            "message": "Shift your perspective, new view."
+        }
+    ]
+}

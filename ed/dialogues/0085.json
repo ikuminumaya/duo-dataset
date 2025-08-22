@@ -1,0 +1,136 @@
+{
+    "dialogue_id": "0085",
+    "setting": "ed",
+    "model": "gpt-4o",
+    "prompt": "not_aligned",
+    "emotion": "Embarrassed",
+    "episode": "I had my first appointment with my psychiatrist and had to tell her all the embarrassing things about my life.",
+    "subjective_evaluation": {
+        "preference": 3.0,
+        "stylistic_similarity": 3.0,
+        "consistency": 4.0,
+        "empathy": 3.0
+    },
+    "dialogue": [
+        {
+            "message_id": 0,
+            "user_id": "0017",
+            "speaker": "Human",
+            "message": "I had my first appointment with my psychiatrist and had to tell her all the embarrassing things about my life."
+        },
+        {
+            "message_id": 1,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "It takes courage to open up like that. How did it go?"
+        },
+        {
+            "message_id": 2,
+            "user_id": "0017",
+            "speaker": "Human",
+            "message": "It was not easy to do. I know its her job, but I couldn't help feel like she was judging me"
+        },
+        {
+            "message_id": 3,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "It can be tough, but remember, she's there to help, not judge."
+        },
+        {
+            "message_id": 4,
+            "user_id": "0017",
+            "speaker": "Human",
+            "message": "Yeah. But I wonder what she actually thinks of me. "
+        },
+        {
+            "message_id": 5,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "She's professional; her focus is helping you, not judging."
+        },
+        {
+            "message_id": 6,
+            "user_id": "0017",
+            "speaker": "Human",
+            "message": "I doubt she can help judging me, especially after what I told her"
+        },
+        {
+            "message_id": 7,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "Therapists hear it all—you're not alone in this."
+        },
+        {
+            "message_id": 8,
+            "user_id": "0017",
+            "speaker": "Human",
+            "message": "Would asking her about her actual feelings about me be a bad idea?"
+        },
+        {
+            "message_id": 9,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "Nah, go for it! Openness can help build trust."
+        },
+        {
+            "message_id": 10,
+            "user_id": "0017",
+            "speaker": "Human",
+            "message": "Well, what if my fears are true and she thinks I'm pathetic? "
+        },
+        {
+            "message_id": 11,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "It's unlikely, but worth discussing."
+        },
+        {
+            "message_id": 12,
+            "user_id": "0017",
+            "speaker": "Human",
+            "message": "What do I do if its true? Find a new one?"
+        },
+        {
+            "message_id": 13,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "Therapists rarely judge; discuss your concerns first."
+        },
+        {
+            "message_id": 14,
+            "user_id": "0017",
+            "speaker": "Human",
+            "message": "How do I word this to her?"
+        },
+        {
+            "message_id": 15,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "Could we talk about how I feel perceived?"
+        },
+        {
+            "message_id": 16,
+            "user_id": "0017",
+            "speaker": "Human",
+            "message": "Okay, and then if she says that she thinks I'm weird, what should I say?"
+        },
+        {
+            "message_id": 17,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "Thanks for being honest. Let's focus on how to help."
+        },
+        {
+            "message_id": 18,
+            "user_id": "0017",
+            "speaker": "Human",
+            "message": "But then I wouldn't be able to trust her."
+        },
+        {
+            "message_id": 19,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "Trust matters; consider finding someone new."
+        }
+    ]
+}

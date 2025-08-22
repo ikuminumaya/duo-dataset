@@ -1,0 +1,167 @@
+{
+    "dialogue_id": "1009",
+    "setting": "wow",
+    "model": "gpt-4o",
+    "prompt": "neutral",
+    "topic": "Archaeology",
+    "objective_evaluation": {
+        "preference": 4.33,
+        "stylistic_similarity": 3.33,
+        "consistency": 4.33,
+        "engagingness": 4.0,
+        "preference_scores": [
+            4.0,
+            5.0,
+            4.0
+        ],
+        "stylistic_similarity_scores": [
+            3.0,
+            4.0,
+            3.0
+        ],
+        "consistency_scores": [
+            4.0,
+            4.0,
+            5.0
+        ],
+        "engagingness_scores": [
+            4.0,
+            4.0,
+            4.0
+        ]
+    },
+    "subjective_evaluation": {
+        "preference": 4.0,
+        "stylistic_similarity": 4.0,
+        "consistency": 5.0,
+        "engagingness": 5.0
+    },
+    "dialogue": [
+        {
+            "message_id": 0,
+            "system_id": "0006",
+            "speaker": "Bot",
+            "message": "Archaeology is the study of human activity through the recovery and analysis of material culture, spanning from the earliest stone tools to recent history."
+        },
+        {
+            "message_id": 1,
+            "user_id": "0035",
+            "speaker": "Human",
+            "message": "How old are the earliest stories?"
+        },
+        {
+            "message_id": 2,
+            "system_id": "0006",
+            "speaker": "Bot",
+            "message": "The earliest stories likely date back to prehistoric times, before the advent of literacy, as archaeology studies human activity and material culture from as far back as 3.3 million years ago."
+        },
+        {
+            "message_id": 3,
+            "user_id": "0035",
+            "speaker": "Human",
+            "message": "When did man first have metal tools?"
+        },
+        {
+            "message_id": 4,
+            "system_id": "0006",
+            "speaker": "Bot",
+            "message": "Humans first began using metal tools during the Chalcolithic period, also known as the Copper Age, which started around 5,000 BCE."
+        },
+        {
+            "message_id": 5,
+            "user_id": "0035",
+            "speaker": "Human",
+            "message": "What animal existed with man during this time?"
+        },
+        {
+            "message_id": 6,
+            "system_id": "0006",
+            "speaker": "Bot",
+            "message": "During the Copper Age, humans coexisted with many animals, including domesticated species like sheep, goats, and cattle."
+        },
+        {
+            "message_id": 7,
+            "user_id": "0035",
+            "speaker": "Human",
+            "message": "Have we found many artifacts from the earliest days?"
+        },
+        {
+            "message_id": 8,
+            "system_id": "0006",
+            "speaker": "Bot",
+            "message": "Yes, archaeologists have uncovered many artifacts from the earliest days, which help us understand prehistoric societies that left no written records."
+        },
+        {
+            "message_id": 9,
+            "user_id": "0035",
+            "speaker": "Human",
+            "message": "When did man learn to write?"
+        },
+        {
+            "message_id": 10,
+            "system_id": "0006",
+            "speaker": "Bot",
+            "message": "Humans began to develop writing systems around 3,200 BCE, marking the end of prehistory and the beginning of recorded history."
+        },
+        {
+            "message_id": 11,
+            "user_id": "0035",
+            "speaker": "Human",
+            "message": "Did man fight against each other during the earlies times? "
+        },
+        {
+            "message_id": 12,
+            "system_id": "0006",
+            "speaker": "Bot",
+            "message": "Yes, evidence suggests that conflicts and warfare existed in prehistoric times, even before the advent of written records."
+        },
+        {
+            "message_id": 13,
+            "user_id": "0035",
+            "speaker": "Human",
+            "message": "At that time did they have any weapons?"
+        },
+        {
+            "message_id": 14,
+            "system_id": "0006",
+            "speaker": "Bot",
+            "message": "Yes, early humans used weapons made of stone and later metal for hunting and conflict."
+        },
+        {
+            "message_id": 15,
+            "user_id": "0035",
+            "speaker": "Human",
+            "message": "When did man start to talk?"
+        },
+        {
+            "message_id": 16,
+            "system_id": "0006",
+            "speaker": "Bot",
+            "message": "The development of spoken language likely predates writing by tens of thousands of years, but its exact origins remain unknown."
+        },
+        {
+            "message_id": 17,
+            "user_id": "0035",
+            "speaker": "Human",
+            "message": "Did man domesticate any animals?"
+        },
+        {
+            "message_id": 18,
+            "system_id": "0006",
+            "speaker": "Bot",
+            "message": "Yes, early humans domesticated animals such as dogs, sheep, and goats, which played crucial roles in their societies."
+        },
+        {
+            "message_id": 19,
+            "user_id": "0035",
+            "speaker": "Human",
+            "message": "What role did dogs play in their societies?"
+        },
+        {
+            "message_id": 20,
+            "system_id": "0006",
+            "speaker": "Bot",
+            "message": "Dogs were among the first animals to be domesticated and likely served as companions and helpers in hunting and protection."
+        }
+    ]
+}

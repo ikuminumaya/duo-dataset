@@ -1,0 +1,174 @@
+{
+    "dialogue_id": "0046",
+    "setting": "ed",
+    "model": "Llama-3.1-70B-Instruct",
+    "prompt": "not_aligned",
+    "emotion": "Confident",
+    "episode": "When I managed to handle my project for my allies and completed it post-haste.",
+    "objective_evaluation": {
+        "preference": 2.33,
+        "stylistic_similarity": 3.67,
+        "consistency": 4.0,
+        "empathy": 3.33,
+        "preference_scores": [
+            2.0,
+            1.0,
+            4.0
+        ],
+        "stylistic_similarity_scores": [
+            5.0,
+            2.0,
+            4.0
+        ],
+        "consistency_scores": [
+            4.0,
+            4.0,
+            4.0
+        ],
+        "empathy_scores": [
+            2.0,
+            3.0,
+            5.0
+        ]
+    },
+    "subjective_evaluation": {
+        "preference": 2.0,
+        "stylistic_similarity": 1.0,
+        "consistency": 5.0,
+        "empathy": 3.0
+    },
+    "dialogue": [
+        {
+            "message_id": 0,
+            "user_id": "0010",
+            "speaker": "Human",
+            "message": "I did the project that was due for my project with my allies."
+        },
+        {
+            "message_id": 1,
+            "system_id": "0005",
+            "speaker": "Bot",
+            "message": "How did it turn out?"
+        },
+        {
+            "message_id": 2,
+            "user_id": "0010",
+            "speaker": "Human",
+            "message": "I don't know, but it felt pretty good."
+        },
+        {
+            "message_id": 3,
+            "system_id": "0005",
+            "speaker": "Bot",
+            "message": "Sounds like a relief!"
+        },
+        {
+            "message_id": 4,
+            "user_id": "0010",
+            "speaker": "Human",
+            "message": "Yeah, you wanna hear about it."
+        },
+        {
+            "message_id": 5,
+            "system_id": "0005",
+            "speaker": "Bot",
+            "message": "I'm all ears!"
+        },
+        {
+            "message_id": 6,
+            "user_id": "0010",
+            "speaker": "Human",
+            "message": "It was about how to make a rubix cube in code."
+        },
+        {
+            "message_id": 7,
+            "system_id": "0005",
+            "speaker": "Bot",
+            "message": "That sounds like a tough challenge!"
+        },
+        {
+            "message_id": 8,
+            "user_id": "0010",
+            "speaker": "Human",
+            "message": "And yet my team and I succeed."
+        },
+        {
+            "message_id": 9,
+            "system_id": "0005",
+            "speaker": "Bot",
+            "message": "Congratulations, that's awesome!"
+        },
+        {
+            "message_id": 10,
+            "user_id": "0010",
+            "speaker": "Human",
+            "message": "How about you?"
+        },
+        {
+            "message_id": 11,
+            "system_id": "0005",
+            "speaker": "Bot",
+            "message": "I'm just happy for you, what's your next project?"
+        },
+        {
+            "message_id": 12,
+            "user_id": "0010",
+            "speaker": "Human",
+            "message": "I guess I'll try to make a game or something by myself."
+        },
+        {
+            "message_id": 13,
+            "system_id": "0005",
+            "speaker": "Bot",
+            "message": "Going solo, good luck with that!"
+        },
+        {
+            "message_id": 14,
+            "user_id": "0010",
+            "speaker": "Human",
+            "message": "Yes, indeed."
+        },
+        {
+            "message_id": 15,
+            "system_id": "0005",
+            "speaker": "Bot",
+            "message": "You must be thrilled!"
+        },
+        {
+            "message_id": 16,
+            "user_id": "0010",
+            "speaker": "Human",
+            "message": "Eh, we'll see."
+        },
+        {
+            "message_id": 17,
+            "system_id": "0005",
+            "speaker": "Bot",
+            "message": "Staying humble, I like it!"
+        },
+        {
+            "message_id": 18,
+            "user_id": "0010",
+            "speaker": "Human",
+            "message": "I guess."
+        },
+        {
+            "message_id": 19,
+            "system_id": "0005",
+            "speaker": "Bot",
+            "message": "Still on a high from the last win, huh?"
+        },
+        {
+            "message_id": 20,
+            "user_id": "0010",
+            "speaker": "Human",
+            "message": "Not really a high."
+        },
+        {
+            "message_id": 21,
+            "user_id": "0010",
+            "speaker": "Human",
+            "message": "Just moving forward."
+        }
+    ]
+}

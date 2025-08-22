@@ -1,0 +1,162 @@
+{
+    "dialogue_id": "0020",
+    "setting": "ed",
+    "model": "gpt-4o",
+    "prompt": "aligned",
+    "emotion": "Apprehensive",
+    "episode": "I am about to start my new job soon and I don't know how to feel about that.",
+    "objective_evaluation": {
+        "preference": 2.33,
+        "stylistic_similarity": 3.33,
+        "consistency": 4.33,
+        "empathy": 3.33,
+        "preference_scores": [
+            2.0,
+            1.0,
+            4.0
+        ],
+        "stylistic_similarity_scores": [
+            3.0,
+            3.0,
+            4.0
+        ],
+        "consistency_scores": [
+            4.0,
+            4.0,
+            5.0
+        ],
+        "empathy_scores": [
+            2.0,
+            3.0,
+            5.0
+        ]
+    },
+    "subjective_evaluation": {
+        "preference": 4.0,
+        "stylistic_similarity": 1.0,
+        "consistency": 3.0,
+        "empathy": 2.0
+    },
+    "dialogue": [
+        {
+            "message_id": 0,
+            "user_id": "0010",
+            "speaker": "Human",
+            "message": "I soon to start a new job."
+        },
+        {
+            "message_id": 1,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "That's exciting! How are you feeling about it?"
+        },
+        {
+            "message_id": 2,
+            "user_id": "0010",
+            "speaker": "Human",
+            "message": "Good, but kind of weird about it."
+        },
+        {
+            "message_id": 3,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "Totally get that. New starts can be a mix of emotions. Anything in particular making it feel weird?"
+        },
+        {
+            "message_id": 4,
+            "user_id": "0010",
+            "speaker": "Human",
+            "message": "First real job, first job."
+        },
+        {
+            "message_id": 5,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "That's a big step! Feeling nervous?"
+        },
+        {
+            "message_id": 6,
+            "user_id": "0010",
+            "speaker": "Human",
+            "message": "...Yes?"
+        },
+        {
+            "message_id": 7,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "Totally normal! You'll do great."
+        },
+        {
+            "message_id": 8,
+            "user_id": "0010",
+            "speaker": "Human",
+            "message": "I don't believe that, but sure."
+        },
+        {
+            "message_id": 9,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "I get it, but you’re probably better than you think."
+        },
+        {
+            "message_id": 10,
+            "user_id": "0010",
+            "speaker": "Human",
+            "message": "I am not."
+        },
+        {
+            "message_id": 11,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "You'll see. Just give it a shot."
+        },
+        {
+            "message_id": 12,
+            "user_id": "0010",
+            "speaker": "Human",
+            "message": "Sure, but it fail, like everything else."
+        },
+        {
+            "message_id": 13,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "I hear you. But you never know unless you try."
+        },
+        {
+            "message_id": 14,
+            "user_id": "0010",
+            "speaker": "Human",
+            "message": "Sure."
+        },
+        {
+            "message_id": 15,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "Fair enough."
+        },
+        {
+            "message_id": 16,
+            "user_id": "0010",
+            "speaker": "Human",
+            "message": "Anything else we should talk about?"
+        },
+        {
+            "message_id": 17,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "We could talk about what you’re looking forward to in the job."
+        },
+        {
+            "message_id": 18,
+            "user_id": "0010",
+            "speaker": "Human",
+            "message": "I guess the pay."
+        },
+        {
+            "message_id": 19,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "That's a solid motivation!"
+        }
+    ]
+}

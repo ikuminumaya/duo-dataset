@@ -1,0 +1,162 @@
+{
+    "dialogue_id": "0010",
+    "setting": "ed",
+    "model": "gpt-4o",
+    "prompt": "neutral",
+    "emotion": "Hopeful",
+    "episode": "When I finally got the job at the company I wanted",
+    "objective_evaluation": {
+        "preference": 1.67,
+        "stylistic_similarity": 3.33,
+        "consistency": 4.33,
+        "empathy": 3.0,
+        "preference_scores": [
+            2.0,
+            1.0,
+            2.0
+        ],
+        "stylistic_similarity_scores": [
+            3.0,
+            2.0,
+            5.0
+        ],
+        "consistency_scores": [
+            3.0,
+            5.0,
+            5.0
+        ],
+        "empathy_scores": [
+            2.0,
+            4.0,
+            3.0
+        ]
+    },
+    "subjective_evaluation": {
+        "preference": 1.0,
+        "stylistic_similarity": 5.0,
+        "consistency": 4.0,
+        "empathy": 2.0
+    },
+    "dialogue": [
+        {
+            "message_id": 0,
+            "user_id": "0010",
+            "speaker": "Human",
+            "message": "I finally got the job I wanted."
+        },
+        {
+            "message_id": 1,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "That's fantastic, congratulations! How do you feel about starting?"
+        },
+        {
+            "message_id": 2,
+            "user_id": "0010",
+            "speaker": "Human",
+            "message": "I don't particularly know, but it's nice to possibly get a job in this current econ."
+        },
+        {
+            "message_id": 3,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "Absolutely, it's a big achievement!"
+        },
+        {
+            "message_id": 4,
+            "user_id": "0010",
+            "speaker": "Human",
+            "message": "How do you feel about it."
+        },
+        {
+            "message_id": 5,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "I'm really happy for you!"
+        },
+        {
+            "message_id": 6,
+            "user_id": "0010",
+            "speaker": "Human",
+            "message": "I see."
+        },
+        {
+            "message_id": 7,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "Excited for you!"
+        },
+        {
+            "message_id": 8,
+            "user_id": "0010",
+            "speaker": "Human",
+            "message": "Ok, thank you."
+        },
+        {
+            "message_id": 9,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "Anytime!"
+        },
+        {
+            "message_id": 10,
+            "user_id": "0010",
+            "speaker": "Human",
+            "message": "So what about your first job?"
+        },
+        {
+            "message_id": 11,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "It was challenging but rewarding."
+        },
+        {
+            "message_id": 12,
+            "user_id": "0010",
+            "speaker": "Human",
+            "message": "And what was it?"
+        },
+        {
+            "message_id": 13,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "Customer service."
+        },
+        {
+            "message_id": 14,
+            "user_id": "0010",
+            "speaker": "Human",
+            "message": "I guess that makes sense, yeah."
+        },
+        {
+            "message_id": 15,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "Exactly!"
+        },
+        {
+            "message_id": 16,
+            "user_id": "0010",
+            "speaker": "Human",
+            "message": "So... yeah"
+        },
+        {
+            "message_id": 17,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "Got it!"
+        },
+        {
+            "message_id": 18,
+            "user_id": "0010",
+            "speaker": "Human",
+            "message": "Goodbye"
+        },
+        {
+            "message_id": 19,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "Goodbye!"
+        }
+    ]
+}

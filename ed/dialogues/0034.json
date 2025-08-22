@@ -1,0 +1,162 @@
+{
+    "dialogue_id": "0034",
+    "setting": "ed",
+    "model": "Llama-3.1-70B-Instruct",
+    "prompt": "neutral",
+    "emotion": "Excited",
+    "episode": "I had worked, saved and planned for a couple of years to be able to afford to pay for my family to go to a week long vacation to Disneyworld and the day finally arrived. I and everyone else were so excited for this trip.",
+    "objective_evaluation": {
+        "preference": 4.33,
+        "stylistic_similarity": 4.0,
+        "consistency": 4.67,
+        "empathy": 4.33,
+        "preference_scores": [
+            4.0,
+            4.0,
+            5.0
+        ],
+        "stylistic_similarity_scores": [
+            4.0,
+            3.0,
+            5.0
+        ],
+        "consistency_scores": [
+            4.0,
+            5.0,
+            5.0
+        ],
+        "empathy_scores": [
+            3.0,
+            5.0,
+            5.0
+        ]
+    },
+    "subjective_evaluation": {
+        "preference": 4.0,
+        "stylistic_similarity": 3.0,
+        "consistency": 4.0,
+        "empathy": 4.0
+    },
+    "dialogue": [
+        {
+            "message_id": 0,
+            "user_id": "0022",
+            "speaker": "Human",
+            "message": "I had worked my butt off and saved as much money as possible for a Disneyworld trip for my family of 4."
+        },
+        {
+            "message_id": 1,
+            "system_id": "0003",
+            "speaker": "Bot",
+            "message": "That sounds like a dream vacation, what happened?"
+        },
+        {
+            "message_id": 2,
+            "user_id": "0022",
+            "speaker": "Human",
+            "message": "I planned this trip years in advanced, booked the hotel, flight, and a weeks worth of activities for my kids and wife there."
+        },
+        {
+            "message_id": 3,
+            "system_id": "0003",
+            "speaker": "Bot",
+            "message": "That's a lot of planning, did something go wrong?"
+        },
+        {
+            "message_id": 4,
+            "user_id": "0022",
+            "speaker": "Human",
+            "message": "No everything went right, this was a very exciting trip that everyone was looking forward to and I couldn't have been more hyped up for it."
+        },
+        {
+            "message_id": 5,
+            "system_id": "0003",
+            "speaker": "Bot",
+            "message": "That's amazing, it sounds like a really special experience for your family!"
+        },
+        {
+            "message_id": 6,
+            "user_id": "0022",
+            "speaker": "Human",
+            "message": "It was, we arrived on a Sunday and planned to stay until the following Sunday. The trip was smooth and we arrived there in our hotel room in no time."
+        },
+        {
+            "message_id": 7,
+            "system_id": "0003",
+            "speaker": "Bot",
+            "message": "Sounds like a perfect start to the vacation!"
+        },
+        {
+            "message_id": 8,
+            "user_id": "0022",
+            "speaker": "Human",
+            "message": "Everyone, especially the kids, loved the hotel, from the special greetings from familiar theme park faces, to the complimentary fruit basket and the amazing view of the water park outside."
+        },
+        {
+            "message_id": 9,
+            "system_id": "0003",
+            "speaker": "Bot",
+            "message": "That sounds like a fantastic welcome, the kids must have been thrilled!"
+        },
+        {
+            "message_id": 10,
+            "user_id": "0022",
+            "speaker": "Human",
+            "message": "Yes they were, I was so happy that everyone else was grinning, smiling and laughing throughout the experience."
+        },
+        {
+            "message_id": 11,
+            "system_id": "0003",
+            "speaker": "Bot",
+            "message": "It's great that you got to see your family so happy!"
+        },
+        {
+            "message_id": 12,
+            "user_id": "0022",
+            "speaker": "Human",
+            "message": "We filled our week with the parks different rides and sights. Everyday we changed it up and since they have around 6 different theme parks, we got to experience so many different thrills."
+        },
+        {
+            "message_id": 13,
+            "system_id": "0003",
+            "speaker": "Bot",
+            "message": "That sounds like an adrenaline rush, did you have a favorite ride or park?"
+        },
+        {
+            "message_id": 14,
+            "user_id": "0022",
+            "speaker": "Human",
+            "message": "The food was great as well, we booked a private themed meal with the kids favorite characters, donald duck and goofy, and they loved that."
+        },
+        {
+            "message_id": 15,
+            "system_id": "0003",
+            "speaker": "Bot",
+            "message": "How cool is that, I'm sure the kids were starstruck!"
+        },
+        {
+            "message_id": 16,
+            "user_id": "0022",
+            "speaker": "Human",
+            "message": "The parks were all amazing, everyone was particularly excited for the new marvel area, and the spiderman ride was exciting to participate in."
+        },
+        {
+            "message_id": 17,
+            "system_id": "0003",
+            "speaker": "Bot",
+            "message": "That sounds awesome, the Marvel area must have been a highlight!"
+        },
+        {
+            "message_id": 18,
+            "user_id": "0022",
+            "speaker": "Human",
+            "message": "It was a highlight, and the entire trip went perfectly as possible. Everyone was excited to be there and I hope one day we can all go back one day."
+        },
+        {
+            "message_id": 19,
+            "system_id": "0003",
+            "speaker": "Bot",
+            "message": "It's great that you have such wonderful memories, I'm sure you'll get to go back someday!"
+        }
+    ]
+}

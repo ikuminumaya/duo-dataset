@@ -1,0 +1,162 @@
+{
+    "dialogue_id": "0048",
+    "setting": "ed",
+    "model": "Llama-3.1-70B-Instruct",
+    "prompt": "not_aligned",
+    "emotion": "Lonely",
+    "episode": "My dog had recently been killed by a car. Here's my best friend he went everywhere with me we were always together literally and now he's no longer with me everywhere I went reminded me of him. I felt very lonely without him.",
+    "objective_evaluation": {
+        "preference": 3.33,
+        "stylistic_similarity": 3.33,
+        "consistency": 5.0,
+        "empathy": 4.33,
+        "preference_scores": [
+            2.0,
+            3.0,
+            5.0
+        ],
+        "stylistic_similarity_scores": [
+            2.0,
+            3.0,
+            5.0
+        ],
+        "consistency_scores": [
+            5.0,
+            5.0,
+            5.0
+        ],
+        "empathy_scores": [
+            3.0,
+            5.0,
+            5.0
+        ]
+    },
+    "subjective_evaluation": {
+        "preference": 3.0,
+        "stylistic_similarity": 3.0,
+        "consistency": 4.0,
+        "empathy": 4.0
+    },
+    "dialogue": [
+        {
+            "message_id": 0,
+            "user_id": "0026",
+            "speaker": "Human",
+            "message": "It was really tragic with my dog was killed it's one thing if they were old or sick but when they're killed unexpectedly it's really sad I thought so lonely without him because he was always with mel"
+        },
+        {
+            "message_id": 1,
+            "system_id": "0005",
+            "speaker": "Bot",
+            "message": "Losing a pet suddenly is heartbreaking."
+        },
+        {
+            "message_id": 2,
+            "user_id": "0026",
+            "speaker": "Human",
+            "message": "It's one thing to lose a pet to sickness or old age but when they die tragically and unexpectedly it is really hard. He was my best friend and he went everywhere with me. I was so lonely without him."
+        },
+        {
+            "message_id": 3,
+            "system_id": "0005",
+            "speaker": "Bot",
+            "message": "That sounds incredibly tough."
+        },
+        {
+            "message_id": 4,
+            "user_id": "0026",
+            "speaker": "Human",
+            "message": "It was he kept me from being afraid. He was all I had for a long time since I have no family locally and no close friends."
+        },
+        {
+            "message_id": 5,
+            "system_id": "0005",
+            "speaker": "Bot",
+            "message": "He was more than just a pet, a true companion."
+        },
+        {
+            "message_id": 6,
+            "user_id": "0026",
+            "speaker": "Human",
+            "message": "Yes I still cry unexpectedly about silly things like walking down the pet food aisle in the store."
+        },
+        {
+            "message_id": 7,
+            "system_id": "0005",
+            "speaker": "Bot",
+            "message": "Those little reminders can be really tough."
+        },
+        {
+            "message_id": 8,
+            "user_id": "0026",
+            "speaker": "Human",
+            "message": "Yes several people offered to give me a puppy but I didn't want one at first then I thought how it would be like a rainbow baby and maybe I needed that"
+        },
+        {
+            "message_id": 9,
+            "system_id": "0005",
+            "speaker": "Bot",
+            "message": "A new pup could bring new joy."
+        },
+        {
+            "message_id": 10,
+            "user_id": "0026",
+            "speaker": "Human",
+            "message": "A friend talked me into checking out some puppies that would be very small and one latched on to me and would not let go I had to take him and named him RB for rainbow."
+        },
+        {
+            "message_id": 11,
+            "system_id": "0005",
+            "speaker": "Bot",
+            "message": "Aw, that's beautiful! RB is a perfect name."
+        },
+        {
+            "message_id": 12,
+            "user_id": "0026",
+            "speaker": "Human",
+            "message": "He was born close to the time my other dog died and he has the same colors and markings he is really smart and friendly and is always with me."
+        },
+        {
+            "message_id": 13,
+            "system_id": "0005",
+            "speaker": "Bot",
+            "message": "RB sounds like a sweet blessing."
+        },
+        {
+            "message_id": 14,
+            "user_id": "0026",
+            "speaker": "Human",
+            "message": "Yes I still miss BooBoo but I am not lonely anymore."
+        },
+        {
+            "message_id": 15,
+            "system_id": "0005",
+            "speaker": "Bot",
+            "message": "RB's filled a big void, hasn't he?"
+        },
+        {
+            "message_id": 16,
+            "user_id": "0026",
+            "speaker": "Human",
+            "message": "Yes but I forgot how much energy puppies have luckily he has a friend who has play dates with him a few times a week."
+        },
+        {
+            "message_id": 17,
+            "system_id": "0005",
+            "speaker": "Bot",
+            "message": "Playdates are a lifesaver, huh?"
+        },
+        {
+            "message_id": 18,
+            "user_id": "0026",
+            "speaker": "Human",
+            "message": "Yes he is so playful and friendly he was getting sad from my grumpy old dog not wanting to play and my two cats running away from him."
+        },
+        {
+            "message_id": 19,
+            "system_id": "0005",
+            "speaker": "Bot",
+            "message": "Glad he's got a buddy now to burn off energy!"
+        }
+    ]
+}

@@ -1,0 +1,136 @@
+{
+    "dialogue_id": "0104",
+    "setting": "ed",
+    "model": "Llama-3.1-70B-Instruct",
+    "prompt": "neutral",
+    "emotion": "Apprehensive",
+    "episode": "I apprehensive about my home made cake.",
+    "subjective_evaluation": {
+        "preference": 5.0,
+        "stylistic_similarity": 5.0,
+        "consistency": 5.0,
+        "empathy": 5.0
+    },
+    "dialogue": [
+        {
+            "message_id": 0,
+            "user_id": "0018",
+            "speaker": "Human",
+            "message": "I apprehensive about my home made cake result"
+        },
+        {
+            "message_id": 1,
+            "system_id": "0003",
+            "speaker": "Bot",
+            "message": "What's making you nervous about it?"
+        },
+        {
+            "message_id": 2,
+            "user_id": "0018",
+            "speaker": "Human",
+            "message": "I forgot to add right amount of baking powder in my cake"
+        },
+        {
+            "message_id": 3,
+            "system_id": "0003",
+            "speaker": "Bot",
+            "message": "That can be a big mistake, are you worried it won't rise?"
+        },
+        {
+            "message_id": 4,
+            "user_id": "0018",
+            "speaker": "Human",
+            "message": "Yes I worried a lot"
+        },
+        {
+            "message_id": 5,
+            "system_id": "0003",
+            "speaker": "Bot",
+            "message": "I can imagine, that's frustrating, especially if it's for a special occasion."
+        },
+        {
+            "message_id": 6,
+            "user_id": "0018",
+            "speaker": "Human",
+            "message": "Really, I made it for my grand children but I don't know how I did forget"
+        },
+        {
+            "message_id": 7,
+            "system_id": "0003",
+            "speaker": "Bot",
+            "message": "Aww, I'm sure they'll still love it, kids are usually forgiving."
+        },
+        {
+            "message_id": 8,
+            "user_id": "0018",
+            "speaker": "Human",
+            "message": "Absolutely they really meant my effort and didn't noticed any mistake"
+        },
+        {
+            "message_id": 9,
+            "system_id": "0003",
+            "speaker": "Bot",
+            "message": "That's sweet, they appreciate the thought and love behind it."
+        },
+        {
+            "message_id": 10,
+            "user_id": "0018",
+            "speaker": "Human",
+            "message": "Yeah its true"
+        },
+        {
+            "message_id": 11,
+            "system_id": "0003",
+            "speaker": "Bot",
+            "message": "It's the thought that counts, not the perfection."
+        },
+        {
+            "message_id": 12,
+            "user_id": "0018",
+            "speaker": "Human",
+            "message": "Yes, next time I will make more better one for them"
+        },
+        {
+            "message_id": 13,
+            "system_id": "0003",
+            "speaker": "Bot",
+            "message": "I'm sure they're looking forward to it already."
+        },
+        {
+            "message_id": 14,
+            "user_id": "0018",
+            "speaker": "Human",
+            "message": "Of course I go to made another choco cake"
+        },
+        {
+            "message_id": 15,
+            "system_id": "0003",
+            "speaker": "Bot",
+            "message": "Chocolate cake is always a winner with kids!"
+        },
+        {
+            "message_id": 16,
+            "user_id": "0018",
+            "speaker": "Human",
+            "message": "Yes I don't want to disappoint them, so I decide to make their favorite"
+        },
+        {
+            "message_id": 17,
+            "system_id": "0003",
+            "speaker": "Bot",
+            "message": "That's so thoughtful of you, I'm sure they'll be thrilled."
+        },
+        {
+            "message_id": 18,
+            "user_id": "0018",
+            "speaker": "Human",
+            "message": "If so i will be happy for them"
+        },
+        {
+            "message_id": 19,
+            "system_id": "0003",
+            "speaker": "Bot",
+            "message": "That's the best reward, seeing them happy."
+        }
+    ]
+}

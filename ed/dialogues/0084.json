@@ -1,0 +1,136 @@
+{
+    "dialogue_id": "0084",
+    "setting": "ed",
+    "model": "gpt-4o",
+    "prompt": "aligned",
+    "emotion": "Confident",
+    "episode": "I was really confident that my running workout would be great. And it was!",
+    "subjective_evaluation": {
+        "preference": 5.0,
+        "stylistic_similarity": 5.0,
+        "consistency": 5.0,
+        "empathy": 5.0
+    },
+    "dialogue": [
+        {
+            "message_id": 0,
+            "user_id": "0012",
+            "speaker": "Human",
+            "message": "Hi hey do you like to workout?"
+        },
+        {
+            "message_id": 1,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "Yeah, I do! It's a great way to stay active and feel good. How about you?"
+        },
+        {
+            "message_id": 2,
+            "user_id": "0012",
+            "speaker": "Human",
+            "message": "I love it."
+        },
+        {
+            "message_id": 3,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "That's awesome! What's your favorite type of workout?"
+        },
+        {
+            "message_id": 4,
+            "user_id": "0012",
+            "speaker": "Human",
+            "message": "running. and I was feeling very confident recently about it"
+        },
+        {
+            "message_id": 5,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "That's awesome! What boosted your confidence?"
+        },
+        {
+            "message_id": 6,
+            "user_id": "0012",
+            "speaker": "Human",
+            "message": "I have been practicing a lot and knew I could beat my personal record"
+        },
+        {
+            "message_id": 7,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "That's amazing! Did you beat it?"
+        },
+        {
+            "message_id": 8,
+            "user_id": "0012",
+            "speaker": "Human",
+            "message": "of course "
+        },
+        {
+            "message_id": 9,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "Nice! That's so cool, congrats!"
+        },
+        {
+            "message_id": 10,
+            "user_id": "0012",
+            "speaker": "Human",
+            "message": "get with the program fool"
+        },
+        {
+            "message_id": 11,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "Alright, alright! Congrats again!"
+        },
+        {
+            "message_id": 12,
+            "user_id": "0012",
+            "speaker": "Human",
+            "message": "thanks bruh"
+        },
+        {
+            "message_id": 13,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "No prob!"
+        },
+        {
+            "message_id": 14,
+            "user_id": "0012",
+            "speaker": "Human",
+            "message": "so what"
+        },
+        {
+            "message_id": 15,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "Just keep crushing it!"
+        },
+        {
+            "message_id": 16,
+            "user_id": "0012",
+            "speaker": "Human",
+            "message": "and then what"
+        },
+        {
+            "message_id": 17,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "Keep pushing limits, bro!"
+        },
+        {
+            "message_id": 18,
+            "user_id": "0012",
+            "speaker": "Human",
+            "message": "bro"
+        },
+        {
+            "message_id": 19,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "What's up?"
+        }
+    ]
+}

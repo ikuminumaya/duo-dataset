@@ -1,0 +1,136 @@
+{
+    "dialogue_id": "0089",
+    "setting": "ed",
+    "model": "gpt-4o",
+    "prompt": "not_aligned",
+    "emotion": "Apprehensive",
+    "episode": "I lost a lot of money in the stock market these past week which makes me apprehensive to the rest of the year.",
+    "subjective_evaluation": {
+        "preference": 5.0,
+        "stylistic_similarity": 5.0,
+        "consistency": 5.0,
+        "empathy": 5.0
+    },
+    "dialogue": [
+        {
+            "message_id": 0,
+            "user_id": "0021",
+            "speaker": "Human",
+            "message": "I lost a lot of money in the stock market these past week which makes me very apprehensive to the rest of the year."
+        },
+        {
+            "message_id": 1,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "I'm really sorry to hear that. It's understandable to feel uneasy. Have you thought about any steps to manage the situation?"
+        },
+        {
+            "message_id": 2,
+            "user_id": "0021",
+            "speaker": "Human",
+            "message": "I just need to grind out the rest of the year to try to make up what I lost"
+        },
+        {
+            "message_id": 3,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "Stay strong, keep pushing forward, and you'll find a way through this."
+        },
+        {
+            "message_id": 4,
+            "user_id": "0021",
+            "speaker": "Human",
+            "message": "thank you for the encouraging words. I really needed that."
+        },
+        {
+            "message_id": 5,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "You're welcome. You've got this!"
+        },
+        {
+            "message_id": 6,
+            "user_id": "0021",
+            "speaker": "Human",
+            "message": "I hope so. But I am still very wary of the stock market"
+        },
+        {
+            "message_id": 7,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "It's wise to be cautious. Take care, and trust your instincts."
+        },
+        {
+            "message_id": 8,
+            "user_id": "0021",
+            "speaker": "Human",
+            "message": "I know I have to be strong but it is so tiring when you have to make up what you have lost"
+        },
+        {
+            "message_id": 9,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "It’s tough, hang in there. You can do it."
+        },
+        {
+            "message_id": 10,
+            "user_id": "0021",
+            "speaker": "Human",
+            "message": "I have I can do it"
+        },
+        {
+            "message_id": 11,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "Absolutely, you have the strength."
+        },
+        {
+            "message_id": 12,
+            "user_id": "0021",
+            "speaker": "Human",
+            "message": "The strength to get through it"
+        },
+        {
+            "message_id": 13,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "Indeed, you shall persevere."
+        },
+        {
+            "message_id": 14,
+            "user_id": "0021",
+            "speaker": "Human",
+            "message": "I just need to calm down and grind"
+        },
+        {
+            "message_id": 15,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "Take it easy, you’ve got this!"
+        },
+        {
+            "message_id": 16,
+            "user_id": "0021",
+            "speaker": "Human",
+            "message": "Thank you for all of you kind words"
+        },
+        {
+            "message_id": 17,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "You're welcome, stay strong!"
+        },
+        {
+            "message_id": 18,
+            "user_id": "0021",
+            "speaker": "Human",
+            "message": "I will"
+        },
+        {
+            "message_id": 19,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "Good luck!"
+        }
+    ]
+}

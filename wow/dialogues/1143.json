@@ -1,0 +1,141 @@
+{
+    "dialogue_id": "1143",
+    "setting": "wow",
+    "model": "Llama-3.1-70B-Instruct",
+    "prompt": "not_aligned",
+    "topic": "Pizza",
+    "subjective_evaluation": {
+        "preference": 5.0,
+        "stylistic_similarity": 5.0,
+        "consistency": 5.0,
+        "engagingness": 5.0
+    },
+    "dialogue": [
+        {
+            "message_id": 0,
+            "system_id": "0011",
+            "speaker": "Bot",
+            "message": "Let's talk about pizza, I'm craving it just thinking about it!"
+        },
+        {
+            "message_id": 1,
+            "user_id": "0022",
+            "speaker": "Human",
+            "message": "Oh I love pizza, what is your favorite pizza flavor and toppings?"
+        },
+        {
+            "message_id": 2,
+            "system_id": "0011",
+            "speaker": "Bot",
+            "message": "I'm a big fan of classic Neapolitan style, with fresh tomatoes and mozzarella - simple yet perfect!"
+        },
+        {
+            "message_id": 3,
+            "user_id": "0022",
+            "speaker": "Human",
+            "message": "Great choice, I love the pepperoni and sausage myself. What about pineapple on pizza, is that a yes or no for you?"
+        },
+        {
+            "message_id": 4,
+            "system_id": "0011",
+            "speaker": "Bot",
+            "message": "*laughs* Oh, definitely a no, I'm a traditionalist when it comes to pizza toppings!"
+        },
+        {
+            "message_id": 5,
+            "user_id": "0022",
+            "speaker": "Human",
+            "message": "I agree, pineapple just isn't it. Well, how about a history lesson, who invented pizza?"
+        },
+        {
+            "message_id": 6,
+            "system_id": "0011",
+            "speaker": "Bot",
+            "message": "Modern pizza originated in Naples, Italy, but I think the concept of flatbreads with toppings dates back way further, to ancient times!"
+        },
+        {
+            "message_id": 7,
+            "user_id": "0022",
+            "speaker": "Human",
+            "message": "Wow, pizza is that old, well when did the traditional pizza come into existence?"
+        },
+        {
+            "message_id": 8,
+            "system_id": "0011",
+            "speaker": "Bot",
+            "message": "The term \"pizza\" was first recorded in the 10th century, but the modern version we know and love today was born in Naples, and it's been a staple there for centuries!"
+        },
+        {
+            "message_id": 9,
+            "user_id": "0022",
+            "speaker": "Human",
+            "message": "Interesting, I've heard Italy does have the best pizza. How does one make a simple pizza?"
+        },
+        {
+            "message_id": 10,
+            "system_id": "0011",
+            "speaker": "Bot",
+            "message": "You can't go wrong with the basics: yeasted flatbread, tomato sauce, and melted mozzarella cheese, all baked to perfection in an oven!"
+        },
+        {
+            "message_id": 11,
+            "user_id": "0022",
+            "speaker": "Human",
+            "message": "How long do you bake it in the oven? And does the dough need to be anything special?"
+        },
+        {
+            "message_id": 12,
+            "system_id": "0011",
+            "speaker": "Bot",
+            "message": "Traditionally, Neapolitan pizzas are baked in a wood-fired oven for just 2-3 minutes, but in a home oven, 10-12 minutes at high heat should do the trick!"
+        },
+        {
+            "message_id": 13,
+            "user_id": "0022",
+            "speaker": "Human",
+            "message": "I understand the gist, thanks. How do they get the crust in pizza to get flat and sometimes to be fluffy, or crispy?"
+        },
+        {
+            "message_id": 14,
+            "system_id": "0011",
+            "speaker": "Bot",
+            "message": "It's all about the yeast, my friend! Yeast fermentation helps the dough rise, giving the crust its characteristic texture, and a hot oven helps it crisp up on the outside!"
+        },
+        {
+            "message_id": 15,
+            "user_id": "0022",
+            "speaker": "Human",
+            "message": "Ahh, I understand, what about when the crust is stuff with cheese? How is that accomplished?"
+        },
+        {
+            "message_id": 16,
+            "system_id": "0011",
+            "speaker": "Bot",
+            "message": "You're thinking of a stuffed crust! That's usually achieved by adding a ring of dough around the edge, filling it with cheese, and then sealing it before baking."
+        },
+        {
+            "message_id": 17,
+            "user_id": "0022",
+            "speaker": "Human",
+            "message": "Oh, that is so simple, I should have considered that. Do you know what the most popular pizza chain is in the United States?"
+        },
+        {
+            "message_id": 18,
+            "system_id": "0011",
+            "speaker": "Bot",
+            "message": "I'm not sure about the current rankings, but I do know that pizza is a super popular fast food item in the US, with many chains like Domino's, Pizza Hut, and Little Caesars being household names!"
+        },
+        {
+            "message_id": 19,
+            "user_id": "0022",
+            "speaker": "Human",
+            "message": "Yea, those are pretty popular, just not the best tasting. I enjoy the premium stuff more. What kind of cheese works best on a pizza?"
+        },
+        {
+            "message_id": 20,
+            "system_id": "0011",
+            "speaker": "Bot",
+            "message": "Mozzarella is the classic choice, and for good reason - it melts beautifully and adds a creamy texture to the pizza!"
+        }
+    ]
+}

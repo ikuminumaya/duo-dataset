@@ -1,0 +1,162 @@
+{
+    "dialogue_id": "0049",
+    "setting": "ed",
+    "model": "Llama-3.1-70B-Instruct",
+    "prompt": "not_aligned",
+    "emotion": "Terrified",
+    "episode": "When I was in high school, some friends and I went exploring outside of town.  We ended up crossing a trestle bridge that was clearly only meant for trains.  I've always been pretty afraid of heights so I have no idea how I agreed to this and it was absolutely terrifying.",
+    "objective_evaluation": {
+        "preference": 3.33,
+        "stylistic_similarity": 3.33,
+        "consistency": 4.33,
+        "empathy": 4.0,
+        "preference_scores": [
+            3.0,
+            4.0,
+            3.0
+        ],
+        "stylistic_similarity_scores": [
+            2.0,
+            4.0,
+            4.0
+        ],
+        "consistency_scores": [
+            4.0,
+            5.0,
+            4.0
+        ],
+        "empathy_scores": [
+            3.0,
+            5.0,
+            4.0
+        ]
+    },
+    "subjective_evaluation": {
+        "preference": 4.0,
+        "stylistic_similarity": 3.0,
+        "consistency": 5.0,
+        "empathy": 4.0
+    },
+    "dialogue": [
+        {
+            "message_id": 0,
+            "user_id": "0020",
+            "speaker": "Human",
+            "message": "I think walking on that trestle bridge when I was in high school is probably one of the scariest things I've ever done."
+        },
+        {
+            "message_id": 1,
+            "system_id": "0005",
+            "speaker": "Bot",
+            "message": "What made you do it?"
+        },
+        {
+            "message_id": 2,
+            "user_id": "0020",
+            "speaker": "Human",
+            "message": "Peer pressure I guess?  Haha.  I didn't have to but I was with some friends and we were exploring outside of town and came across it, so we walked across."
+        },
+        {
+            "message_id": 3,
+            "system_id": "0005",
+            "speaker": "Bot",
+            "message": "Thrill-seeking, huh?"
+        },
+        {
+            "message_id": 4,
+            "user_id": "0020",
+            "speaker": "Human",
+            "message": "Pretty much.  Not the best idea now that I look back on it.  I really don't like heights."
+        },
+        {
+            "message_id": 5,
+            "system_id": "0005",
+            "speaker": "Bot",
+            "message": "That must've been terrifying!"
+        },
+        {
+            "message_id": 6,
+            "user_id": "0020",
+            "speaker": "Human",
+            "message": "It was.  The \"floor\" if you could call it that was just a steel grate that you could see right through.  We could see the tops of the trees below us.  It was a very weird feeling."
+        },
+        {
+            "message_id": 7,
+            "system_id": "0005",
+            "speaker": "Bot",
+            "message": "My stomach would've been in knots!"
+        },
+        {
+            "message_id": 8,
+            "user_id": "0020",
+            "speaker": "Human",
+            "message": "Also there was no real guard rails on the sides, just a flimsy chain/cable thing.  One wrong step and any of us could have gone flying over the edge."
+        },
+        {
+            "message_id": 9,
+            "system_id": "0005",
+            "speaker": "Bot",
+            "message": "That's horrific!"
+        },
+        {
+            "message_id": 10,
+            "user_id": "0020",
+            "speaker": "Human",
+            "message": "Actually I just remembered one of my friends had his dog with him and his dog wouldn't set foot on the bridge.  Like it instinctively knew this was a bad idea."
+        },
+        {
+            "message_id": 11,
+            "system_id": "0005",
+            "speaker": "Bot",
+            "message": "Smart dog!"
+        },
+        {
+            "message_id": 12,
+            "user_id": "0020",
+            "speaker": "Human",
+            "message": "Yeah definitely.  Much smarter than I was as a teenager haha."
+        },
+        {
+            "message_id": 13,
+            "system_id": "0005",
+            "speaker": "Bot",
+            "message": "Wisdom of youth, right?"
+        },
+        {
+            "message_id": 14,
+            "user_id": "0020",
+            "speaker": "Human",
+            "message": "Precisely.  Oh and my buddy stayed with his dog and didn't cross, we didn't just leave him there by himself, in case you were wondering."
+        },
+        {
+            "message_id": 15,
+            "system_id": "0005",
+            "speaker": "Bot",
+            "message": "Good to know, thanks for clarifying!"
+        },
+        {
+            "message_id": 16,
+            "user_id": "0020",
+            "speaker": "Human",
+            "message": "Anyway, I still can't believe I did that.  I don't even like going near windows if I'm on the second floor of a building nowadays."
+        },
+        {
+            "message_id": 17,
+            "system_id": "0005",
+            "speaker": "Bot",
+            "message": "Height phobia stuck with you!"
+        },
+        {
+            "message_id": 18,
+            "user_id": "0020",
+            "speaker": "Human",
+            "message": "Yeah.  Well I don't know if it's a full on phobia but it's one of the few things that always makes me a bit uncomfortable.  I still don't like flying in planes for example."
+        },
+        {
+            "message_id": 19,
+            "system_id": "0005",
+            "speaker": "Bot",
+            "message": "Turbulence doesn't help, huh?"
+        }
+    ]
+}

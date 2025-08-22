@@ -1,0 +1,162 @@
+{
+    "dialogue_id": "0000",
+    "setting": "ed",
+    "model": "gpt-4o",
+    "prompt": "neutral",
+    "emotion": "Excited",
+    "episode": "I'm moving out west, I'm excited about it.",
+    "objective_evaluation": {
+        "preference": 3.67,
+        "stylistic_similarity": 3.67,
+        "consistency": 4.33,
+        "empathy": 4.0,
+        "preference_scores": [
+            3.0,
+            4.0,
+            4.0
+        ],
+        "stylistic_similarity_scores": [
+            4.0,
+            3.0,
+            4.0
+        ],
+        "consistency_scores": [
+            4.0,
+            5.0,
+            4.0
+        ],
+        "empathy_scores": [
+            3.0,
+            5.0,
+            4.0
+        ]
+    },
+    "subjective_evaluation": {
+        "preference": 1.0,
+        "stylistic_similarity": 1.0,
+        "consistency": 5.0,
+        "empathy": 4.0
+    },
+    "dialogue": [
+        {
+            "message_id": 0,
+            "user_id": "0000",
+            "speaker": "Human",
+            "message": "I'm going to be making a big move in 2 weeks."
+        },
+        {
+            "message_id": 1,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "That's exciting! How are you feeling about it?"
+        },
+        {
+            "message_id": 2,
+            "user_id": "0000",
+            "speaker": "Human",
+            "message": "Excited. Also a bit nervous."
+        },
+        {
+            "message_id": 3,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "Totally understandable!"
+        },
+        {
+            "message_id": 4,
+            "user_id": "0000",
+            "speaker": "Human",
+            "message": "I'm moving out west, very close to the Rocky Mountains!"
+        },
+        {
+            "message_id": 5,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "That sounds amazing!"
+        },
+        {
+            "message_id": 6,
+            "user_id": "0000",
+            "speaker": "Human",
+            "message": "Yes, it will be. The only place I found though to live at first is in a roomemate situation."
+        },
+        {
+            "message_id": 7,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "That can be challenging."
+        },
+        {
+            "message_id": 8,
+            "user_id": "0000",
+            "speaker": "Human",
+            "message": "Yes. But I'll get to live so close to the mountains. I can go driving there every week if I want!"
+        },
+        {
+            "message_id": 9,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "That's a great perk!"
+        },
+        {
+            "message_id": 10,
+            "user_id": "0000",
+            "speaker": "Human",
+            "message": "Yes."
+        },
+        {
+            "message_id": 11,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "Sounds like a wonderful adventure!"
+        },
+        {
+            "message_id": 12,
+            "user_id": "0000",
+            "speaker": "Human",
+            "message": "I hope so."
+        },
+        {
+            "message_id": 13,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "I'm sure it will be!"
+        },
+        {
+            "message_id": 14,
+            "user_id": "0000",
+            "speaker": "Human",
+            "message": "What should I do to curb my excitement?"
+        },
+        {
+            "message_id": 15,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "Try some relaxation techniques."
+        },
+        {
+            "message_id": 16,
+            "user_id": "0000",
+            "speaker": "Human",
+            "message": "Oh, I don't know. Like what?"
+        },
+        {
+            "message_id": 17,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "Try deep breathing or meditation."
+        },
+        {
+            "message_id": 18,
+            "user_id": "0000",
+            "speaker": "Human",
+            "message": "How should I breathe?"
+        },
+        {
+            "message_id": 19,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "Inhale deeply through your nose, hold for a few seconds, then exhale slowly through your mouth."
+        }
+    ]
+}

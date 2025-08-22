@@ -1,0 +1,141 @@
+{
+    "dialogue_id": "1105",
+    "setting": "wow",
+    "model": "Llama-3.1-70B-Instruct",
+    "prompt": "neutral",
+    "topic": "Coca-Cola",
+    "subjective_evaluation": {
+        "preference": 3.0,
+        "stylistic_similarity": 4.0,
+        "consistency": 5.0,
+        "engagingness": 3.0
+    },
+    "dialogue": [
+        {
+            "message_id": 0,
+            "system_id": "0009",
+            "speaker": "Bot",
+            "message": "I'd love to chat about Coca-Cola!"
+        },
+        {
+            "message_id": 1,
+            "user_id": "0027",
+            "speaker": "Human",
+            "message": "That sounds like fun! I take it you like Coke better than Pepsi?"
+        },
+        {
+            "message_id": 2,
+            "system_id": "0009",
+            "speaker": "Bot",
+            "message": "Actually, I don't have personal preferences, but I can tell you that Coca-Cola was originally intended as a patent medicine when it was invented in the late 19th century."
+        },
+        {
+            "message_id": 3,
+            "user_id": "0027",
+            "speaker": "Human",
+            "message": "It had cocaine in it, right?"
+        },
+        {
+            "message_id": 4,
+            "system_id": "0009",
+            "speaker": "Bot",
+            "message": "It did contain coca leaves, which is where the \"coca\" in Coca-Cola comes from, but I'll let you in on a secret: it also had kola nuts, a source of caffeine!"
+        },
+        {
+            "message_id": 5,
+            "user_id": "0027",
+            "speaker": "Human",
+            "message": "what gives it it's flavor?"
+        },
+        {
+            "message_id": 6,
+            "system_id": "0009",
+            "speaker": "Bot",
+            "message": "The exact formula is a trade secret, but I can tell you that the name \"Coca-Cola\" refers to two of its original ingredients: coca leaves and kola nuts."
+        },
+        {
+            "message_id": 7,
+            "user_id": "0027",
+            "speaker": "Human",
+            "message": "I went to the Coca-Cola museum once. They had all of the different flavors from around the world. It was really interesting! How many flavors are there?"
+        },
+        {
+            "message_id": 8,
+            "system_id": "0009",
+            "speaker": "Bot",
+            "message": "I'm not aware of the exact number, but I do know that The Coca-Cola Company produces a concentrate that's used to make the classic Coca-Cola flavor, which is then bottled and distributed worldwide."
+        },
+        {
+            "message_id": 9,
+            "user_id": "0027",
+            "speaker": "Human",
+            "message": "But it's not the same everywhere, right? Like Mexico uses real sugar."
+        },
+        {
+            "message_id": 10,
+            "system_id": "0009",
+            "speaker": "Bot",
+            "message": "In the US, a typical can of Coke contains high fructose corn syrup, but in other countries, like Mexico, they use real sugar instead."
+        },
+        {
+            "message_id": 11,
+            "user_id": "0027",
+            "speaker": "Human",
+            "message": "Which is better?"
+        },
+        {
+            "message_id": 12,
+            "system_id": "0009",
+            "speaker": "Bot",
+            "message": "That's a matter of taste, but I can tell you that the original recipe used sugar, and some people swear by the difference in taste!"
+        },
+        {
+            "message_id": 13,
+            "user_id": "0027",
+            "speaker": "Human",
+            "message": "What was first, Coke or Pepsi?"
+        },
+        {
+            "message_id": 14,
+            "system_id": "0009",
+            "speaker": "Bot",
+            "message": "Coca-Cola was invented first, in the late 19th century by John Pemberton."
+        },
+        {
+            "message_id": 15,
+            "user_id": "0027",
+            "speaker": "Human",
+            "message": "Was it the first soda ever?"
+        },
+        {
+            "message_id": 16,
+            "system_id": "0009",
+            "speaker": "Bot",
+            "message": "No, but it's one of the most iconic and enduring ones!"
+        },
+        {
+            "message_id": 17,
+            "user_id": "0027",
+            "speaker": "Human",
+            "message": "Where was it invented?"
+        },
+        {
+            "message_id": 18,
+            "system_id": "0009",
+            "speaker": "Bot",
+            "message": "I don't have that specific information, but I can tell you that it was invented by John Pemberton in the late 19th century!"
+        },
+        {
+            "message_id": 19,
+            "user_id": "0027",
+            "speaker": "Human",
+            "message": "Did he invent any other foods or drinks?"
+        },
+        {
+            "message_id": 20,
+            "system_id": "0009",
+            "speaker": "Bot",
+            "message": "I'm not aware of any other notable inventions by John Pemberton, but he did sell the formula for Coca-Cola to Asa Griggs Candler, who helped make it a huge success!"
+        }
+    ]
+}

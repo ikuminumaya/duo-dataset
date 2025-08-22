@@ -1,0 +1,167 @@
+{
+    "dialogue_id": "1017",
+    "setting": "wow",
+    "model": "gpt-4o",
+    "prompt": "not_aligned",
+    "topic": "Vietnamese Pot-bellied",
+    "objective_evaluation": {
+        "preference": 2.67,
+        "stylistic_similarity": 2.67,
+        "consistency": 3.33,
+        "engagingness": 3.0,
+        "preference_scores": [
+            2.0,
+            3.0,
+            3.0
+        ],
+        "stylistic_similarity_scores": [
+            2.0,
+            3.0,
+            3.0
+        ],
+        "consistency_scores": [
+            2.0,
+            4.0,
+            4.0
+        ],
+        "engagingness_scores": [
+            2.0,
+            4.0,
+            3.0
+        ]
+    },
+    "subjective_evaluation": {
+        "preference": 3.0,
+        "stylistic_similarity": 2.0,
+        "consistency": 4.0,
+        "engagingness": 2.0
+    },
+    "dialogue": [
+        {
+            "message_id": 0,
+            "system_id": "0008",
+            "speaker": "Bot",
+            "message": "The Vietnamese Pot-bellied pig, known for its distinctive low-hanging belly, was once a symbol of happiness and wealth in Vietnam, but it's now endangered and being conserved."
+        },
+        {
+            "message_id": 1,
+            "user_id": "0028",
+            "speaker": "Human",
+            "message": "Why is it becoming endangered?"
+        },
+        {
+            "message_id": 2,
+            "system_id": "0008",
+            "speaker": "Bot",
+            "message": "The Vietnamese Pot-bellied pig is becoming endangered mainly because it has been replaced by more productive breeds, despite efforts to conserve it."
+        },
+        {
+            "message_id": 3,
+            "user_id": "0028",
+            "speaker": "Human",
+            "message": "Oh that's really sad... that's unfortunate to hear. What are some unique things about them?"
+        },
+        {
+            "message_id": 4,
+            "system_id": "0008",
+            "speaker": "Bot",
+            "message": "The Vietnamese Pot-bellied pig is quite unique with its uniformly black color, short legs, and low-hanging belly, and it was once a symbol of happiness and wealth in traditional Vietnamese art."
+        },
+        {
+            "message_id": 5,
+            "user_id": "0028",
+            "speaker": "Human",
+            "message": "That's cute. Do people eat them?"
+        },
+        {
+            "message_id": 6,
+            "system_id": "0008",
+            "speaker": "Bot",
+            "message": "Yes, they are reared for their meat, which is known for its good flavor, despite the breed being slow-growing."
+        },
+        {
+            "message_id": 7,
+            "user_id": "0028",
+            "speaker": "Human",
+            "message": "Oh okay. I mean I don't recommend it especially because they are endangered"
+        },
+        {
+            "message_id": 8,
+            "system_id": "0008",
+            "speaker": "Bot",
+            "message": "Indeed, they are quite special and have a rich history in Vietnam, even being depicted in traditional Đông Hồ paintings as symbols of happiness and wealth."
+        },
+        {
+            "message_id": 9,
+            "user_id": "0028",
+            "speaker": "Human",
+            "message": "What makes them symbols of happiness and wealth exactly?"
+        },
+        {
+            "message_id": 10,
+            "system_id": "0008",
+            "speaker": "Bot",
+            "message": "In traditional Đông Hồ paintings, they were depicted as symbols of happiness, satiety, and wealth, reflecting their cultural significance."
+        },
+        {
+            "message_id": 11,
+            "user_id": "0028",
+            "speaker": "Human",
+            "message": "But why exactly?"
+        },
+        {
+            "message_id": 12,
+            "system_id": "0008",
+            "speaker": "Bot",
+            "message": "They were symbols of happiness and wealth in traditional Đông Hồ paintings because their well-fed appearance represented abundance and prosperity."
+        },
+        {
+            "message_id": 13,
+            "user_id": "0028",
+            "speaker": "Human",
+            "message": "Oh that makes sense.. cuz they were plump and happy lol"
+        },
+        {
+            "message_id": 14,
+            "system_id": "0008",
+            "speaker": "Bot",
+            "message": "Yes, their plump and content appearance in Đông Hồ paintings was meant to symbolize happiness and wealth, reflecting their cultural importance in Vietnam."
+        },
+        {
+            "message_id": 15,
+            "user_id": "0028",
+            "speaker": "Human",
+            "message": "What other things are they known for?"
+        },
+        {
+            "message_id": 16,
+            "system_id": "0008",
+            "speaker": "Bot",
+            "message": "The Vietnamese Pot-bellied pig, originally from the Red River Delta, was once the most numerous breed in northern Vietnam until more productive breeds began to replace it in the 1970s."
+        },
+        {
+            "message_id": 17,
+            "user_id": "0028",
+            "speaker": "Human",
+            "message": "What makes other breeds more productive?"
+        },
+        {
+            "message_id": 18,
+            "system_id": "0008",
+            "speaker": "Bot",
+            "message": "Other breeds, like the Móng Cái, are more productive because they grow faster and meet the demands of larger-scale farming."
+        },
+        {
+            "message_id": 19,
+            "user_id": "0028",
+            "speaker": "Human",
+            "message": "For eating? Or is it productive for other reasons?"
+        },
+        {
+            "message_id": 20,
+            "system_id": "0008",
+            "speaker": "Bot",
+            "message": "Other breeds like the Móng Cái are more productive because they grow faster and are better suited for large-scale farming."
+        }
+    ]
+}

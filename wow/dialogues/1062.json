@@ -1,0 +1,141 @@
+{
+    "dialogue_id": "1062",
+    "setting": "wow",
+    "model": "gpt-4o",
+    "prompt": "aligned",
+    "topic": "Take-out",
+    "subjective_evaluation": {
+        "preference": 4.0,
+        "stylistic_similarity": 4.0,
+        "consistency": 4.0,
+        "engagingness": 4.0
+    },
+    "dialogue": [
+        {
+            "message_id": 0,
+            "system_id": "0007",
+            "speaker": "Bot",
+            "message": "Did you know that take-out food has been around since ancient times, with people grabbing meals to go in places like Ancient Greece and Rome?"
+        },
+        {
+            "message_id": 1,
+            "user_id": "0017",
+            "speaker": "Human",
+            "message": "I did not know that. I actually order Greek takeout every week. I love gyros."
+        },
+        {
+            "message_id": 2,
+            "system_id": "0007",
+            "speaker": "Bot",
+            "message": "That's awesome! Gyros are a delicious choice, and it's cool to think that even in ancient times, people grabbed meals to go from places similar to today's take-out spots."
+        },
+        {
+            "message_id": 3,
+            "user_id": "0017",
+            "speaker": "Human",
+            "message": "I think its one of the main reasons why younger people are so broke, though."
+        },
+        {
+            "message_id": 4,
+            "system_id": "0007",
+            "speaker": "Bot",
+            "message": "Yeah, eating out can definitely add up, especially with so many tempting options available nowadays!"
+        },
+        {
+            "message_id": 5,
+            "user_id": "0017",
+            "speaker": "Human",
+            "message": "Its even worse with the delivery apps. The fees they charge are ridiculous. Take out is much cheaper, but people are lazy"
+        },
+        {
+            "message_id": 6,
+            "system_id": "0007",
+            "speaker": "Bot",
+            "message": "Absolutely, the delivery app fees can be a killer, so picking up your own take-out can save a bit of cash if you're willing to make the trip!"
+        },
+        {
+            "message_id": 7,
+            "user_id": "0017",
+            "speaker": "Human",
+            "message": "I want to get takeout today after work. What kind should I get?"
+        },
+        {
+            "message_id": 8,
+            "system_id": "0007",
+            "speaker": "Bot",
+            "message": "Why not try something different today, like Indian or Thai takeout, which are both super flavorful and a change from the usual?"
+        },
+        {
+            "message_id": 9,
+            "user_id": "0017",
+            "speaker": "Human",
+            "message": "I never had Thai food. What's the most popular cuisine?"
+        },
+        {
+            "message_id": 10,
+            "system_id": "0007",
+            "speaker": "Bot",
+            "message": "Thai food is super popular for takeout worldwide, with its spicy, tangy, and sweet flavors—definitely worth trying!"
+        },
+        {
+            "message_id": 11,
+            "user_id": "0017",
+            "speaker": "Human",
+            "message": "What's the most popular cuisine?"
+        },
+        {
+            "message_id": 12,
+            "system_id": "0007",
+            "speaker": "Bot",
+            "message": "It's tough to say which is the most popular, but cuisines like Chinese, Italian, and Mexican are super popular for takeout across the globe!"
+        },
+        {
+            "message_id": 13,
+            "user_id": "0017",
+            "speaker": "Human",
+            "message": "I know, but with regard to Thai food, what's the thing most people order?"
+        },
+        {
+            "message_id": 14,
+            "system_id": "0007",
+            "speaker": "Bot",
+            "message": "When it comes to Thai food, Pad Thai is one of the most popular dishes people often order!"
+        },
+        {
+            "message_id": 15,
+            "user_id": "0017",
+            "speaker": "Human",
+            "message": "I see. What's that?"
+        },
+        {
+            "message_id": 16,
+            "system_id": "0007",
+            "speaker": "Bot",
+            "message": "Pad Thai is a super popular Thai dish made with stir-fried rice noodles, veggies, and typically shrimp or chicken, all tossed in a tangy sauce!"
+        },
+        {
+            "message_id": 17,
+            "user_id": "0017",
+            "speaker": "Human",
+            "message": "Hmmm, sounds good. What's the difference between that and a regular noodle dish from a chinese spot?"
+        },
+        {
+            "message_id": 18,
+            "system_id": "0007",
+            "speaker": "Bot",
+            "message": "Pad Thai has a unique tangy and slightly sweet flavor from tamarind paste and fish sauce, which sets it apart from typical Chinese noodle dishes."
+        },
+        {
+            "message_id": 19,
+            "user_id": "0017",
+            "speaker": "Human",
+            "message": "I think I'll try it"
+        },
+        {
+            "message_id": 20,
+            "system_id": "0007",
+            "speaker": "Bot",
+            "message": "Great choice! Pad Thai offers a unique blend of flavors with its tangy, sweet, and savory taste. Enjoy trying something new!"
+        }
+    ]
+}

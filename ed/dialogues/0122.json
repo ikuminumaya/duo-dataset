@@ -1,0 +1,136 @@
+{
+    "dialogue_id": "0122",
+    "setting": "ed",
+    "model": "Llama-3.1-70B-Instruct",
+    "prompt": "aligned",
+    "emotion": "Confident",
+    "episode": "I felt confident this weekend running up and down a mountain near my house.",
+    "subjective_evaluation": {
+        "preference": 5.0,
+        "stylistic_similarity": 3.0,
+        "consistency": 4.0,
+        "empathy": 5.0
+    },
+    "dialogue": [
+        {
+            "message_id": 0,
+            "user_id": "0016",
+            "speaker": "Human",
+            "message": "I felt confident while running up and down a mountain this past weekend."
+        },
+        {
+            "message_id": 1,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "That sounds like an amazing feeling and a great accomplishment!"
+        },
+        {
+            "message_id": 2,
+            "user_id": "0016",
+            "speaker": "Human",
+            "message": "Thanks.  Trail running does feel amazing!"
+        },
+        {
+            "message_id": 3,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "It's like a rush of freedom, right?"
+        },
+        {
+            "message_id": 4,
+            "user_id": "0016",
+            "speaker": "Human",
+            "message": "Yes, out in the middle of no where relying on yourself."
+        },
+        {
+            "message_id": 5,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "That's so empowering!"
+        },
+        {
+            "message_id": 6,
+            "user_id": "0016",
+            "speaker": "Human",
+            "message": "I have been trail running for many years so I have the skills to do it."
+        },
+        {
+            "message_id": 7,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "Experience definitely helps, must be nice to feel so self-assured."
+        },
+        {
+            "message_id": 8,
+            "user_id": "0016",
+            "speaker": "Human",
+            "message": "When I am running on top of mountain ridges, I feel like I can do anything."
+        },
+        {
+            "message_id": 9,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "That's incredible, you must feel on top of the world!"
+        },
+        {
+            "message_id": 10,
+            "user_id": "0016",
+            "speaker": "Human",
+            "message": "Both figuratively and literally, haha"
+        },
+        {
+            "message_id": 11,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "Love the pun!"
+        },
+        {
+            "message_id": 12,
+            "user_id": "0016",
+            "speaker": "Human",
+            "message": "I had done this loop dozens of times before."
+        },
+        {
+            "message_id": 13,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "So it's a familiar and comforting route for you."
+        },
+        {
+            "message_id": 14,
+            "user_id": "0016",
+            "speaker": "Human",
+            "message": "Yeah, it is near my house."
+        },
+        {
+            "message_id": 15,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "Convenient and beautiful, nice combo!"
+        },
+        {
+            "message_id": 16,
+            "user_id": "0016",
+            "speaker": "Human",
+            "message": "Great exercise for the mind, body, and soul too."
+        },
+        {
+            "message_id": 17,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "Totally rejuvenating, I'm sure!"
+        },
+        {
+            "message_id": 18,
+            "user_id": "0016",
+            "speaker": "Human",
+            "message": "I knew I had the skills and experience to do it."
+        },
+        {
+            "message_id": 19,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "That confidence boost is the best!"
+        }
+    ]
+}

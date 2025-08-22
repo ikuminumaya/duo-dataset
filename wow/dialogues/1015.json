@@ -1,0 +1,167 @@
+{
+    "dialogue_id": "1015",
+    "setting": "wow",
+    "model": "gpt-4o",
+    "prompt": "aligned",
+    "topic": "Avenged Sevenfold",
+    "objective_evaluation": {
+        "preference": 4.0,
+        "stylistic_similarity": 2.67,
+        "consistency": 4.33,
+        "engagingness": 4.0,
+        "preference_scores": [
+            4.0,
+            4.0,
+            4.0
+        ],
+        "stylistic_similarity_scores": [
+            2.0,
+            3.0,
+            3.0
+        ],
+        "consistency_scores": [
+            4.0,
+            5.0,
+            4.0
+        ],
+        "engagingness_scores": [
+            4.0,
+            4.0,
+            4.0
+        ]
+    },
+    "subjective_evaluation": {
+        "preference": 1.0,
+        "stylistic_similarity": 1.0,
+        "consistency": 5.0,
+        "engagingness": 1.0
+    },
+    "dialogue": [
+        {
+            "message_id": 0,
+            "system_id": "0007",
+            "speaker": "Bot",
+            "message": "Avenged Sevenfold, formed in 1999, is known for their diverse rock sound and dramatic imagery, and they reached mainstream success with albums like \"City of Evil\" and \"Nightmare.\""
+        },
+        {
+            "message_id": 1,
+            "user_id": "0010",
+            "speaker": "Human",
+            "message": "What is their best known song?"
+        },
+        {
+            "message_id": 2,
+            "system_id": "0007",
+            "speaker": "Bot",
+            "message": "One of their best known songs is \"Nightmare,\" which was a huge hit from their album of the same name."
+        },
+        {
+            "message_id": 3,
+            "user_id": "0010",
+            "speaker": "Human",
+            "message": "What is their discography?"
+        },
+        {
+            "message_id": 4,
+            "system_id": "0007",
+            "speaker": "Bot",
+            "message": "Avenged Sevenfold's discography includes albums like \"Sounding the Seventh Trumpet,\" \"City of Evil,\" \"Nightmare,\" and their self-titled album."
+        },
+        {
+            "message_id": 5,
+            "user_id": "0010",
+            "speaker": "Human",
+            "message": "So, do they make pretty good music?"
+        },
+        {
+            "message_id": 6,
+            "system_id": "0007",
+            "speaker": "Bot",
+            "message": "Yeah, they make pretty good music, blending metalcore with heavy metal and hard rock, and they even had a number one debut with their album \"Nightmare.\""
+        },
+        {
+            "message_id": 7,
+            "user_id": "0010",
+            "speaker": "Human",
+            "message": "Ok, do any of their songs feature in films?"
+        },
+        {
+            "message_id": 8,
+            "system_id": "0007",
+            "speaker": "Bot",
+            "message": "Yeah, their song \"Nightmare\" was featured in the video game \"Rock Band 3,\" which is pretty cool."
+        },
+        {
+            "message_id": 9,
+            "user_id": "0010",
+            "speaker": "Human",
+            "message": "...But I asked about movies."
+        },
+        {
+            "message_id": 10,
+            "system_id": "0007",
+            "speaker": "Bot",
+            "message": "I'm not sure about movies specifically, but their music is featured in some video games and TV shows."
+        },
+        {
+            "message_id": 11,
+            "user_id": "0010",
+            "speaker": "Human",
+            "message": "Ok. Are they currently touring?"
+        },
+        {
+            "message_id": 12,
+            "system_id": "0007",
+            "speaker": "Bot",
+            "message": "I'm not sure about their current tour schedule, but they have continued performing and releasing music, even after their drummer's passing in 2009."
+        },
+        {
+            "message_id": 13,
+            "user_id": "0010",
+            "speaker": "Human",
+            "message": "So are they still active."
+        },
+        {
+            "message_id": 14,
+            "system_id": "0007",
+            "speaker": "Bot",
+            "message": "Yes, Avenged Sevenfold is still active, with their current lineup continuing to make music and perform."
+        },
+        {
+            "message_id": 15,
+            "user_id": "0010",
+            "speaker": "Human",
+            "message": "Any new songs?"
+        },
+        {
+            "message_id": 16,
+            "system_id": "0007",
+            "speaker": "Bot",
+            "message": "I don't have info on any new songs right now, but they're known for exploring new sounds in their music."
+        },
+        {
+            "message_id": 17,
+            "user_id": "0010",
+            "speaker": "Human",
+            "message": "Well, what other bands would you suggest that are like A7F?"
+        },
+        {
+            "message_id": 18,
+            "system_id": "0007",
+            "speaker": "Bot",
+            "message": "You might like bands like Bullet for My Valentine or Trivium, as they have a similar metalcore and heavy metal vibe."
+        },
+        {
+            "message_id": 19,
+            "user_id": "0010",
+            "speaker": "Human",
+            "message": "Ok, thanks"
+        },
+        {
+            "message_id": 20,
+            "system_id": "0007",
+            "speaker": "Bot",
+            "message": "No problem! Avenged Sevenfold, formed in 1999, is known for their diverse rock sound and dramatic imagery."
+        }
+    ]
+}

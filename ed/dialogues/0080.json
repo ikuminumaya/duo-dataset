@@ -1,0 +1,136 @@
+{
+    "dialogue_id": "0080",
+    "setting": "ed",
+    "model": "gpt-4o",
+    "prompt": "aligned",
+    "emotion": "Annoyed",
+    "episode": "I'm so annoyed, I feel like I'm the only one who can think between two households",
+    "subjective_evaluation": {
+        "preference": 3.0,
+        "stylistic_similarity": 3.0,
+        "consistency": 4.0,
+        "empathy": 3.0
+    },
+    "dialogue": [
+        {
+            "message_id": 0,
+            "user_id": "0030",
+            "speaker": "Human",
+            "message": "I'm so annoyed.  I feel like I'm the only adult between two households that can think.  I have to make the decisions for everyone and it's getting old."
+        },
+        {
+            "message_id": 1,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "That sounds really frustrating. It's tough being the one holding it all together."
+        },
+        {
+            "message_id": 2,
+            "user_id": "0030",
+            "speaker": "Human",
+            "message": "It truly is.  It wouldn't be so bad if it was just me thinking for my husband and kid but I also have to do most of the thinking it feels like for my mom and grandma who live 600 miles away"
+        },
+        {
+            "message_id": 3,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "That's a lot to handle. No wonder you're feeling overwhelmed."
+        },
+        {
+            "message_id": 4,
+            "user_id": "0030",
+            "speaker": "Human",
+            "message": "Overwhelmed might be an understatement"
+        },
+        {
+            "message_id": 5,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "I can't imagine. It's a heavy load."
+        },
+        {
+            "message_id": 6,
+            "user_id": "0030",
+            "speaker": "Human",
+            "message": "Yes it is.  It would be fine if it was a couple questions here and there or needing help because they don't understand something but good heavens I feel like I can't catch a break and think for myself for just one day."
+        },
+        {
+            "message_id": 7,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "It's like you're always on call. You deserve some time for yourself."
+        },
+        {
+            "message_id": 8,
+            "user_id": "0030",
+            "speaker": "Human",
+            "message": "I can't disagree.  Whenever I carve out time for myself I end up regretting it because my mental load is even more overwhelming after I for example take a day to myself and cut myself off from the world for most of the day."
+        },
+        {
+            "message_id": 9,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "That really sucks. It's like a never-ending cycle."
+        },
+        {
+            "message_id": 10,
+            "user_id": "0030",
+            "speaker": "Human",
+            "message": "Yes, it is."
+        },
+        {
+            "message_id": 11,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "I hear you. It's tough."
+        },
+        {
+            "message_id": 12,
+            "user_id": "0030",
+            "speaker": "Human",
+            "message": "I wonder if there's something I'm missing and I'm making it harder on myself without realizing it"
+        },
+        {
+            "message_id": 13,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "Maybe setting some boundaries or asking for more help could lighten the load."
+        },
+        {
+            "message_id": 14,
+            "user_id": "0030",
+            "speaker": "Human",
+            "message": "I don't think I could ask for help because it's things I have to think about, if I try to get someone else to help me on something I usually get a deer in the headlights look "
+        },
+        {
+            "message_id": 15,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "That's tough. Maybe small breaks could help clear your head."
+        },
+        {
+            "message_id": 16,
+            "user_id": "0030",
+            "speaker": "Human",
+            "message": "I've tried, it makes things just so much more overwhelming when I try to say I'm going to take x time or x day or whatever."
+        },
+        {
+            "message_id": 17,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "That really stinks. Maybe tiny breaks during the day?"
+        },
+        {
+            "message_id": 18,
+            "user_id": "0030",
+            "speaker": "Human",
+            "message": "It's not quite enough.  I can usually get a couple hours to myself every day but it really doesn't help at all."
+        },
+        {
+            "message_id": 19,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "That sounds exhausting."
+        }
+    ]
+}

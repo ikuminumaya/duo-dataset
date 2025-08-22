@@ -1,0 +1,141 @@
+{
+    "dialogue_id": "1100",
+    "setting": "wow",
+    "model": "gpt-4o",
+    "prompt": "not_aligned",
+    "topic": "Autism",
+    "subjective_evaluation": {
+        "preference": 5.0,
+        "stylistic_similarity": 5.0,
+        "consistency": 5.0,
+        "engagingness": 5.0
+    },
+    "dialogue": [
+        {
+            "message_id": 0,
+            "system_id": "0008",
+            "speaker": "Bot",
+            "message": "Autism is a developmental disorder that affects social interaction and communication, often noticed in early childhood, and while there is no definitive cure, early interventions can significantly help."
+        },
+        {
+            "message_id": 1,
+            "user_id": "0021",
+            "speaker": "Human",
+            "message": "Is it biological or psychological?"
+        },
+        {
+            "message_id": 2,
+            "system_id": "0008",
+            "speaker": "Bot",
+            "message": "Autism is primarily biological, caused by a mix of genetic and environmental factors, affecting how the brain processes information."
+        },
+        {
+            "message_id": 3,
+            "user_id": "0021",
+            "speaker": "Human",
+            "message": "how does it form?"
+        },
+        {
+            "message_id": 4,
+            "system_id": "0008",
+            "speaker": "Bot",
+            "message": "Autism arises from a mix of genetic and environmental factors, affecting brain development and how nerve cells connect."
+        },
+        {
+            "message_id": 5,
+            "user_id": "0021",
+            "speaker": "Human",
+            "message": "at what age does it form?"
+        },
+        {
+            "message_id": 6,
+            "system_id": "0008",
+            "speaker": "Bot",
+            "message": "Parents usually notice signs of autism in the first two or three years of their child's life, as these signs often develop gradually."
+        },
+        {
+            "message_id": 7,
+            "user_id": "0021",
+            "speaker": "Human",
+            "message": "what are the signs?"
+        },
+        {
+            "message_id": 8,
+            "system_id": "0008",
+            "speaker": "Bot",
+            "message": "Early signs of autism include difficulties with social interaction, communication, and often, repetitive behaviors."
+        },
+        {
+            "message_id": 9,
+            "user_id": "0021",
+            "speaker": "Human",
+            "message": "is the repetitive behavior necessary?"
+        },
+        {
+            "message_id": 10,
+            "system_id": "0008",
+            "speaker": "Bot",
+            "message": "While repetitive behavior is common in autism, it's not necessary for diagnosis."
+        },
+        {
+            "message_id": 11,
+            "user_id": "0021",
+            "speaker": "Human",
+            "message": "can you grow out of autism?"
+        },
+        {
+            "message_id": 12,
+            "system_id": "0008",
+            "speaker": "Bot",
+            "message": "While some children may see improvements and even recover, autism is generally considered a lifelong condition."
+        },
+        {
+            "message_id": 13,
+            "user_id": "0021",
+            "speaker": "Human",
+            "message": "Can a person know they have autism?"
+        },
+        {
+            "message_id": 14,
+            "system_id": "0008",
+            "speaker": "Bot",
+            "message": "Yes, some people with autism are self-aware and may recognize their symptoms, often leading them to seek a formal diagnosis."
+        },
+        {
+            "message_id": 15,
+            "user_id": "0021",
+            "speaker": "Human",
+            "message": "are there supplements to help with autism?"
+        },
+        {
+            "message_id": 16,
+            "system_id": "0008",
+            "speaker": "Bot",
+            "message": "While there's no known cure for autism, some supplements are sometimes used to support overall health, but it's essential to consult a healthcare provider first."
+        },
+        {
+            "message_id": 17,
+            "user_id": "0021",
+            "speaker": "Human",
+            "message": "what are the supplements?"
+        },
+        {
+            "message_id": 18,
+            "system_id": "0008",
+            "speaker": "Bot",
+            "message": "Some people try supplements like omega-3 fatty acids or vitamins, but it's best to talk with a doctor since there's no solid evidence they help with autism."
+        },
+        {
+            "message_id": 19,
+            "user_id": "0021",
+            "speaker": "Human",
+            "message": "having autism seems so sad"
+        },
+        {
+            "message_id": 20,
+            "system_id": "0008",
+            "speaker": "Bot",
+            "message": "While autism can present challenges, many individuals lead fulfilling lives with support and understanding."
+        }
+    ]
+}

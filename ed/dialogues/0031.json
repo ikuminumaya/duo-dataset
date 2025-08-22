@@ -1,0 +1,162 @@
+{
+    "dialogue_id": "0031",
+    "setting": "ed",
+    "model": "Llama-3.1-70B-Instruct",
+    "prompt": "neutral",
+    "emotion": "Anticipating",
+    "episode": "I cannot wait for Easter this Sunday. I get to be with family.",
+    "objective_evaluation": {
+        "preference": 3.0,
+        "stylistic_similarity": 3.67,
+        "consistency": 4.67,
+        "empathy": 4.67,
+        "preference_scores": [
+            4.0,
+            2.0,
+            3.0
+        ],
+        "stylistic_similarity_scores": [
+            4.0,
+            2.0,
+            5.0
+        ],
+        "consistency_scores": [
+            5.0,
+            5.0,
+            4.0
+        ],
+        "empathy_scores": [
+            5.0,
+            5.0,
+            4.0
+        ]
+    },
+    "subjective_evaluation": {
+        "preference": 4.0,
+        "stylistic_similarity": 5.0,
+        "consistency": 5.0,
+        "empathy": 4.0
+    },
+    "dialogue": [
+        {
+            "message_id": 0,
+            "user_id": "0021",
+            "speaker": "Human",
+            "message": "I cannot wait for Easter this Sunday. I get to be with family."
+        },
+        {
+            "message_id": 1,
+            "system_id": "0003",
+            "speaker": "Bot",
+            "message": "That sounds lovely! Family time is the best."
+        },
+        {
+            "message_id": 2,
+            "user_id": "0021",
+            "speaker": "Human",
+            "message": "Yes it is, Our family always get together on Easter at my Dad's land in the country"
+        },
+        {
+            "message_id": 3,
+            "system_id": "0003",
+            "speaker": "Bot",
+            "message": "Sounds like a nice tradition!"
+        },
+        {
+            "message_id": 4,
+            "user_id": "0021",
+            "speaker": "Human",
+            "message": "We barbecue, sit outdoors and talk, fish and shoot guns"
+        },
+        {
+            "message_id": 5,
+            "system_id": "0003",
+            "speaker": "Bot",
+            "message": "Sounds like a fun outdoor celebration!"
+        },
+        {
+            "message_id": 6,
+            "user_id": "0021",
+            "speaker": "Human",
+            "message": "Plus I anticipating to see the new member of our family. My nephew's baby who was born back in December"
+        },
+        {
+            "message_id": 7,
+            "system_id": "0003",
+            "speaker": "Bot",
+            "message": "A new baby in the family is always exciting!"
+        },
+        {
+            "message_id": 8,
+            "user_id": "0021",
+            "speaker": "Human",
+            "message": "It has been about 15 year since the last new baby in our family"
+        },
+        {
+            "message_id": 9,
+            "system_id": "0003",
+            "speaker": "Bot",
+            "message": "A long time, I'm sure it's a big deal then!"
+        },
+        {
+            "message_id": 10,
+            "user_id": "0021",
+            "speaker": "Human",
+            "message": "Holidays are always better when you have kids around."
+        },
+        {
+            "message_id": 11,
+            "system_id": "0003",
+            "speaker": "Bot",
+            "message": "They bring so much energy and joy!"
+        },
+        {
+            "message_id": 12,
+            "user_id": "0021",
+            "speaker": "Human",
+            "message": "I know. All my nephews are adults, I love them, but I miss when they were kids"
+        },
+        {
+            "message_id": 13,
+            "system_id": "0003",
+            "speaker": "Bot",
+            "message": "Nostalgic for the good old days, huh?"
+        },
+        {
+            "message_id": 14,
+            "user_id": "0021",
+            "speaker": "Human",
+            "message": "yes, but you cannot look back, only ahead"
+        },
+        {
+            "message_id": 15,
+            "system_id": "0003",
+            "speaker": "Bot",
+            "message": "New memories to be made with the new little one!"
+        },
+        {
+            "message_id": 16,
+            "user_id": "0021",
+            "speaker": "Human",
+            "message": "we will have new memoris"
+        },
+        {
+            "message_id": 17,
+            "system_id": "0003",
+            "speaker": "Bot",
+            "message": "That's the best part!"
+        },
+        {
+            "message_id": 18,
+            "user_id": "0021",
+            "speaker": "Human",
+            "message": "I cannot no wait for Sunday"
+        },
+        {
+            "message_id": 19,
+            "system_id": "0003",
+            "speaker": "Bot",
+            "message": "The countdown begins!"
+        }
+    ]
+}

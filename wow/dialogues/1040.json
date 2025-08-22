@@ -1,0 +1,167 @@
+{
+    "dialogue_id": "1040",
+    "setting": "wow",
+    "model": "Llama-3.1-70B-Instruct",
+    "prompt": "aligned",
+    "topic": "Armadillo",
+    "objective_evaluation": {
+        "preference": 3.33,
+        "stylistic_similarity": 3.0,
+        "consistency": 4.0,
+        "engagingness": 3.0,
+        "preference_scores": [
+            5.0,
+            3.0,
+            2.0
+        ],
+        "stylistic_similarity_scores": [
+            5.0,
+            2.0,
+            2.0
+        ],
+        "consistency_scores": [
+            5.0,
+            2.0,
+            5.0
+        ],
+        "engagingness_scores": [
+            4.0,
+            3.0,
+            2.0
+        ]
+    },
+    "subjective_evaluation": {
+        "preference": 3.0,
+        "stylistic_similarity": 5.0,
+        "consistency": 4.0,
+        "engagingness": 4.0
+    },
+    "dialogue": [
+        {
+            "message_id": 0,
+            "system_id": "0010",
+            "speaker": "Bot",
+            "message": "Armadillos are pretty cool, their name means \"little armoured one\" in Spanish!"
+        },
+        {
+            "message_id": 1,
+            "user_id": "0035",
+            "speaker": "Human",
+            "message": "They have a shell like appearance. Do they actually have a shell?"
+        },
+        {
+            "message_id": 2,
+            "system_id": "0010",
+            "speaker": "Bot",
+            "message": "It's actually a leathery armour shell, not a hard shell like a turtle's."
+        },
+        {
+            "message_id": 3,
+            "user_id": "0035",
+            "speaker": "Human",
+            "message": "Oh that makes sense. They are cute things. Are they aggressive? "
+        },
+        {
+            "message_id": 4,
+            "system_id": "0010",
+            "speaker": "Bot",
+            "message": "No, they're generally not aggressive, pretty chill creatures, native to the Americas."
+        },
+        {
+            "message_id": 5,
+            "user_id": "0035",
+            "speaker": "Human",
+            "message": "That is what I thought. I have never seen one because they do not live where I do. Where in the United States do they live?"
+        },
+        {
+            "message_id": 6,
+            "system_id": "0010",
+            "speaker": "Bot",
+            "message": "They're found in the southern and central regions, but I don't have a specific state to share, sorry!"
+        },
+        {
+            "message_id": 7,
+            "user_id": "0035",
+            "speaker": "Human",
+            "message": "That is OK. The general area is good enough. I will have to travel there some day to see if I can see an actual armadillo."
+        },
+        {
+            "message_id": 8,
+            "system_id": "0010",
+            "speaker": "Bot",
+            "message": "Yeah, that'd be awesome! Maybe you'll spot a giant armadillo, they can grow up to 5 feet long!"
+        },
+        {
+            "message_id": 9,
+            "user_id": "0035",
+            "speaker": "Human",
+            "message": "WOW!! I had no idea they can grow to be that long. \nWhat would a giant armadillo weigh?"
+        },
+        {
+            "message_id": 10,
+            "system_id": "0010",
+            "speaker": "Bot",
+            "message": "Crazy, right? Giant armadillos can weigh up to 120 pounds!"
+        },
+        {
+            "message_id": 11,
+            "user_id": "0035",
+            "speaker": "Human",
+            "message": "I thought they were much smaller than that. Are they active in the day or the night?"
+        },
+        {
+            "message_id": 12,
+            "system_id": "0010",
+            "speaker": "Bot",
+            "message": "I think I got you curious! Armadillos are actually mostly active at night, but I didn't find that info, I'm just guessing!"
+        },
+        {
+            "message_id": 13,
+            "user_id": "0035",
+            "speaker": "Human",
+            "message": "Yes you have. I am interested in this topic. Who are their predators? "
+        },
+        {
+            "message_id": 14,
+            "system_id": "0010",
+            "speaker": "Bot",
+            "message": "Armadillos have a few predators, but I didn't find that info, sorry!"
+        },
+        {
+            "message_id": 15,
+            "user_id": "0035",
+            "speaker": "Human",
+            "message": "Oh, ok. What do they eat?"
+        },
+        {
+            "message_id": 16,
+            "system_id": "0010",
+            "speaker": "Bot",
+            "message": "I didn't find that info either, but I can tell you they're part of the Xenarthra superorder, along with anteaters and sloths!"
+        },
+        {
+            "message_id": 17,
+            "user_id": "0035",
+            "speaker": "Human",
+            "message": "Interesting. I will try to find a good book or a website that tells me more about them. "
+        },
+        {
+            "message_id": 18,
+            "system_id": "0010",
+            "speaker": "Bot",
+            "message": "Sounds like a plan! You can learn more about 'em, and I'm sure you'll dig up some cool facts!"
+        },
+        {
+            "message_id": 19,
+            "user_id": "0035",
+            "speaker": "Human",
+            "message": "Do they live together or do they prefer to live alone? "
+        },
+        {
+            "message_id": 20,
+            "system_id": "0010",
+            "speaker": "Bot",
+            "message": "I didn't find that info, but I can tell you there are about 21 species of armadillos, so maybe some live alone and some live together?"
+        }
+    ]
+}

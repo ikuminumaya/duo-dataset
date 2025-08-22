@@ -1,0 +1,136 @@
+{
+    "dialogue_id": "0148",
+    "setting": "ed",
+    "model": "Llama-3.1-70B-Instruct",
+    "prompt": "not_aligned",
+    "emotion": "Content",
+    "episode": "I was content after taking a nice hot bath last night.  It felt so soothing.",
+    "subjective_evaluation": {
+        "preference": 4.0,
+        "stylistic_similarity": 3.0,
+        "consistency": 4.0,
+        "empathy": 4.0
+    },
+    "dialogue": [
+        {
+            "message_id": 0,
+            "user_id": "0016",
+            "speaker": "Human",
+            "message": "I was content after taking a nice warm bath last night.  It felt so soothing and relaxing."
+        },
+        {
+            "message_id": 1,
+            "system_id": "0005",
+            "speaker": "Bot",
+            "message": "That sounds like bliss, did you light some candles too?"
+        },
+        {
+            "message_id": 2,
+            "user_id": "0016",
+            "speaker": "Human",
+            "message": "No, but I put some lavender in the tub with me."
+        },
+        {
+            "message_id": 3,
+            "system_id": "0005",
+            "speaker": "Bot",
+            "message": "Lavender's calming scent must've enhanced the experience."
+        },
+        {
+            "message_id": 4,
+            "user_id": "0016",
+            "speaker": "Human",
+            "message": "Yes, it was so calming and relaxing."
+        },
+        {
+            "message_id": 5,
+            "system_id": "0005",
+            "speaker": "Bot",
+            "message": "You must've slept like a baby afterwards."
+        },
+        {
+            "message_id": 6,
+            "user_id": "0016",
+            "speaker": "Human",
+            "message": "Yes, I did!  I started getting sleepy in the tub."
+        },
+        {
+            "message_id": 7,
+            "system_id": "0005",
+            "speaker": "Bot",
+            "message": "It's great that you unwound so completely."
+        },
+        {
+            "message_id": 8,
+            "user_id": "0016",
+            "speaker": "Human",
+            "message": "I got it from my own plants that I am growing at my house."
+        },
+        {
+            "message_id": 9,
+            "system_id": "0005",
+            "speaker": "Bot",
+            "message": "Fresh from your garden, that's lovely."
+        },
+        {
+            "message_id": 10,
+            "user_id": "0016",
+            "speaker": "Human",
+            "message": "Yes, I cut off a few leaves and flowers from the plant and put it directly in the tub with me."
+        },
+        {
+            "message_id": 11,
+            "system_id": "0005",
+            "speaker": "Bot",
+            "message": "That's so nice, a spa night at home."
+        },
+        {
+            "message_id": 12,
+            "user_id": "0016",
+            "speaker": "Human",
+            "message": "A free spa at home at that!"
+        },
+        {
+            "message_id": 13,
+            "system_id": "0005",
+            "speaker": "Bot",
+            "message": "Best kind, no expense required!"
+        },
+        {
+            "message_id": 14,
+            "user_id": "0016",
+            "speaker": "Human",
+            "message": "I came up with the idea when learning about herbs."
+        },
+        {
+            "message_id": 15,
+            "system_id": "0005",
+            "speaker": "Bot",
+            "message": "Clever application of what you learned!"
+        },
+        {
+            "message_id": 16,
+            "user_id": "0016",
+            "speaker": "Human",
+            "message": "I'm not really into drying it or making oils or anything.  At least not yet."
+        },
+        {
+            "message_id": 17,
+            "system_id": "0005",
+            "speaker": "Bot",
+            "message": "Maybe you'll explore that later, who knows?"
+        },
+        {
+            "message_id": 18,
+            "user_id": "0016",
+            "speaker": "Human",
+            "message": "Plus lavender grows again year after year."
+        },
+        {
+            "message_id": 19,
+            "system_id": "0005",
+            "speaker": "Bot",
+            "message": "A low-maintenance and renewable resource!"
+        }
+    ]
+}

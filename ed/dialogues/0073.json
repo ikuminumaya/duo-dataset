@@ -1,0 +1,136 @@
+{
+    "dialogue_id": "0073",
+    "setting": "ed",
+    "model": "gpt-4o",
+    "prompt": "aligned",
+    "emotion": "Nostalgic",
+    "episode": "With Easter coming up, I've found myself thinking about how we celebrated when I was a kid and it made me feel nostalgic.",
+    "subjective_evaluation": {
+        "preference": 4.0,
+        "stylistic_similarity": 5.0,
+        "consistency": 5.0,
+        "empathy": 5.0
+    },
+    "dialogue": [
+        {
+            "message_id": 0,
+            "user_id": "0003",
+            "speaker": "Human",
+            "message": "With Easter coming up, I found myself thinking about how we celebrated when I was a kid and how I loved dying eggs."
+        },
+        {
+            "message_id": 1,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "That sounds like such a fun tradition! Do you still dye eggs now?"
+        },
+        {
+            "message_id": 2,
+            "user_id": "0003",
+            "speaker": "Human",
+            "message": "With the price of eggs I don't think so!  When my daughter was still little we always did, though."
+        },
+        {
+            "message_id": 3,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "I hear you, eggs are pricey now! At least you have those sweet memories with your daughter."
+        },
+        {
+            "message_id": 4,
+            "user_id": "0003",
+            "speaker": "Human",
+            "message": "When I was little we would always have to go to church before I could dig into my basket.  Of course like most kids the first thing I'd do is bite off the ears of the chocolate bunnies!"
+        },
+        {
+            "message_id": 5,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "That sounds like the perfect Easter morning! Those chocolate bunnies never stood a chance."
+        },
+        {
+            "message_id": 6,
+            "user_id": "0003",
+            "speaker": "Human",
+            "message": "And I remember picking the jelly beans out of the fake green grass that was in my basket."
+        },
+        {
+            "message_id": 7,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "Those fake grass hunts were the best! Jelly beans were like hidden treasures."
+        },
+        {
+            "message_id": 8,
+            "user_id": "0003",
+            "speaker": "Human",
+            "message": "Those were the days!  Thinking about Easter, do other countries tend to have the same Easter traditions as we do in the US?"
+        },
+        {
+            "message_id": 9,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "Some do, but many have unique traditions too. It's cool to see the differences!"
+        },
+        {
+            "message_id": 10,
+            "user_id": "0003",
+            "speaker": "Human",
+            "message": "I wonder who even came up with the concept of an Easter basket filled with candies.  It was probably some marketing ploy."
+        },
+        {
+            "message_id": 11,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "Yeah, probably some genius marketing scheme! But hey, it sure made Easter exciting for kids."
+        },
+        {
+            "message_id": 12,
+            "user_id": "0003",
+            "speaker": "Human",
+            "message": "Absolutely.  And helped drive business to dentists."
+        },
+        {
+            "message_id": 13,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "Totally! Dentists probably love Easter too."
+        },
+        {
+            "message_id": 14,
+            "user_id": "0003",
+            "speaker": "Human",
+            "message": "My mother would make me a basket even as an adult, but now that she's passed I have to buy my own Easter treats.  I think of her quite a bit at holidays."
+        },
+        {
+            "message_id": 15,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "I'm sure those memories bring warmth. It's nice to carry on her tradition."
+        },
+        {
+            "message_id": 16,
+            "user_id": "0003",
+            "speaker": "Human",
+            "message": "They sure do."
+        },
+        {
+            "message_id": 17,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "That's really special. Keeping her memory alive."
+        },
+        {
+            "message_id": 18,
+            "user_id": "0003",
+            "speaker": "Human",
+            "message": "I don't miss having to get up early to go to church.  I'm not nostalgic for that."
+        },
+        {
+            "message_id": 19,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "I get it, those early mornings were rough!"
+        }
+    ]
+}

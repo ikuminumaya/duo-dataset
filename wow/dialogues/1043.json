@@ -1,0 +1,167 @@
+{
+    "dialogue_id": "1043",
+    "setting": "wow",
+    "model": "Llama-3.1-70B-Instruct",
+    "prompt": "not_aligned",
+    "topic": "Cake decorating",
+    "objective_evaluation": {
+        "preference": 2.0,
+        "stylistic_similarity": 3.67,
+        "consistency": 4.33,
+        "engagingness": 2.33,
+        "preference_scores": [
+            1.0,
+            2.0,
+            3.0
+        ],
+        "stylistic_similarity_scores": [
+            5.0,
+            4.0,
+            2.0
+        ],
+        "consistency_scores": [
+            5.0,
+            4.0,
+            4.0
+        ],
+        "engagingness_scores": [
+            1.0,
+            3.0,
+            3.0
+        ]
+    },
+    "subjective_evaluation": {
+        "preference": 3.0,
+        "stylistic_similarity": 2.0,
+        "consistency": 5.0,
+        "engagingness": 3.0
+    },
+    "dialogue": [
+        {
+            "message_id": 0,
+            "system_id": "0011",
+            "speaker": "Bot",
+            "message": "I'm excited to chat with you about cake decorating, what's your favorite type of cake design?"
+        },
+        {
+            "message_id": 1,
+            "user_id": "0013",
+            "speaker": "Human",
+            "message": "It depends on the context, or what the gathering is about.  A common one in my group has a political bent, usually an election watch party."
+        },
+        {
+            "message_id": 2,
+            "system_id": "0011",
+            "speaker": "Bot",
+            "message": "Fascinating, so you've had cakes decorated for election watch parties, that's a unique way to celebrate democracy in action!"
+        },
+        {
+            "message_id": 3,
+            "user_id": "0013",
+            "speaker": "Human",
+            "message": "Teah, the Libertarian Party is unique in a lot of ways."
+        },
+        {
+            "message_id": 4,
+            "system_id": "0011",
+            "speaker": "Bot",
+            "message": "Well, I'm sure your cakes are a sweet way to express those values, no matter the outcome of the elections!"
+        },
+        {
+            "message_id": 5,
+            "user_id": "0013",
+            "speaker": "Human",
+            "message": "Every once in a while we actually win one.  the last one we had, one of got elected to the bethany City Council."
+        },
+        {
+            "message_id": 6,
+            "system_id": "0011",
+            "speaker": "Bot",
+            "message": "That's a sweet victory indeed, I'm sure the cake was extra celebratory that time, maybe with some liberty-themed decorations?"
+        },
+        {
+            "message_id": 7,
+            "user_id": "0013",
+            "speaker": "Human",
+            "message": "Yes, it had his namen and the year Bethany was incorporated as a city."
+        },
+        {
+            "message_id": 8,
+            "system_id": "0011",
+            "speaker": "Bot",
+            "message": "That's a lovely touch, incorporating local history into the design, I'm sure it made the win even more special, a real slice of civic pride!"
+        },
+        {
+            "message_id": 9,
+            "user_id": "0013",
+            "speaker": "Human",
+            "message": "Yeah, Chris was smiling as he cut the cake."
+        },
+        {
+            "message_id": 10,
+            "system_id": "0011",
+            "speaker": "Bot",
+            "message": "I can imagine, the icing on the cake, literally, must have been a great moment for Chris, a sweet celebration of his achievement!"
+        },
+        {
+            "message_id": 11,
+            "user_id": "0013",
+            "speaker": "Human",
+            "message": "Yep.  Another of us lost his race for Corporation Comissioner, but he got enough of the vote to guarantee us ballot access for four more years."
+        },
+        {
+            "message_id": 12,
+            "system_id": "0011",
+            "speaker": "Bot",
+            "message": "That's still a notable achievement, and I'm sure the cake was a nice consolation prize, a reminder that even in defeat, there can be a sweet silver lining!"
+        },
+        {
+            "message_id": 13,
+            "user_id": "0013",
+            "speaker": "Human",
+            "message": "Oh, Jake had no illusions about actually winning his race, he really entered it for ballot access."
+        },
+        {
+            "message_id": 14,
+            "system_id": "0011",
+            "speaker": "Bot",
+            "message": "A strategic move, then, and the cake was likely a celebration of a mission accomplished, rather than a victory party, still a sweet success!"
+        },
+        {
+            "message_id": 15,
+            "user_id": "0013",
+            "speaker": "Human",
+            "message": "For all of us, we counted it as a win."
+        },
+        {
+            "message_id": 16,
+            "system_id": "0011",
+            "speaker": "Bot",
+            "message": "That's the spirit, counting the small victories and celebrating progress, I'm sure the cake tasted even sweeter with that attitude!"
+        },
+        {
+            "message_id": 17,
+            "user_id": "0013",
+            "speaker": "Human",
+            "message": "Honestly, by the time we cut that cake, our taste buds were pretty shot with cocktails and cigars."
+        },
+        {
+            "message_id": 18,
+            "system_id": "0011",
+            "speaker": "Bot",
+            "message": "I can imagine, the cake was probably more of a symbolic celebration at that point, a sweet finale to a night of revelry and camaraderie!"
+        },
+        {
+            "message_id": 19,
+            "user_id": "0013",
+            "speaker": "Human",
+            "message": "Yes, it was a good way to finish off the night."
+        },
+        {
+            "message_id": 20,
+            "system_id": "0011",
+            "speaker": "Bot",
+            "message": "A sweet ending to a night of sweet victories, indeed, I'm sure the memories of that evening, cake and all, will be savored for a long time!"
+        }
+    ]
+}

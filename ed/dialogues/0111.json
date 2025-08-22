@@ -1,0 +1,136 @@
+{
+    "dialogue_id": "0111",
+    "setting": "ed",
+    "model": "Llama-3.1-70B-Instruct",
+    "prompt": "neutral",
+    "emotion": "Guilty",
+    "episode": "I just dropped my cat off at the vet for some work today and she was very scared and I feel absolutely guilty and awful.",
+    "subjective_evaluation": {
+        "preference": 3.0,
+        "stylistic_similarity": 4.0,
+        "consistency": 4.0,
+        "empathy": 4.0
+    },
+    "dialogue": [
+        {
+            "message_id": 0,
+            "user_id": "0004",
+            "speaker": "Human",
+            "message": "I just dropped my cat off at the vet for some work today and she was very scared and it was hard leaving her.  I feel extremely guilty!\n"
+        },
+        {
+            "message_id": 1,
+            "system_id": "0003",
+            "speaker": "Bot",
+            "message": "It can be tough leaving a pet behind, especially when they're scared."
+        },
+        {
+            "message_id": 2,
+            "user_id": "0004",
+            "speaker": "Human",
+            "message": "Yeah I know she will be ok and that she is in good hands but I still feel very bad about it."
+        },
+        {
+            "message_id": 3,
+            "system_id": "0003",
+            "speaker": "Bot",
+            "message": "It's natural to worry about their well-being, even if you know they're in good care."
+        },
+        {
+            "message_id": 4,
+            "user_id": "0004",
+            "speaker": "Human",
+            "message": "Yes I feel bad because she just had to go to the vet a few days ago and now she is getting dental work.  She hates the vet and yowls the entire trip there and back."
+        },
+        {
+            "message_id": 5,
+            "system_id": "0003",
+            "speaker": "Bot",
+            "message": "Poor thing! It sounds like she's had a rough week, and that's hard on you too."
+        },
+        {
+            "message_id": 6,
+            "user_id": "0004",
+            "speaker": "Human",
+            "message": "It really has been!  I felt so bad so I stopped at Starbucks on my way to work and got something to drink to make me feel a little better."
+        },
+        {
+            "message_id": 7,
+            "system_id": "0003",
+            "speaker": "Bot",
+            "message": "A little pick-me-up can help take the edge off, right?"
+        },
+        {
+            "message_id": 8,
+            "user_id": "0004",
+            "speaker": "Human",
+            "message": "It definitely helped.  I still cannot stop feeling bad though.  I hope things are ok and she is fine."
+        },
+        {
+            "message_id": 9,
+            "system_id": "0003",
+            "speaker": "Bot",
+            "message": "It's hard to shake off the worry. Hopefully the vet will call soon with a good update."
+        },
+        {
+            "message_id": 10,
+            "user_id": "0004",
+            "speaker": "Human",
+            "message": "I sure hope so!  My pets are like family so I consider it the same as if another family member were at the hospital or at the doctor."
+        },
+        {
+            "message_id": 11,
+            "system_id": "0003",
+            "speaker": "Bot",
+            "message": "They're part of the family, and it's natural to feel that way."
+        },
+        {
+            "message_id": 12,
+            "user_id": "0004",
+            "speaker": "Human",
+            "message": "I'm glad you agree!  I will have to get her some treats when I get her back  home.  She definitely deserves something."
+        },
+        {
+            "message_id": 13,
+            "system_id": "0003",
+            "speaker": "Bot",
+            "message": "She'll appreciate the extra love and treats after a tough day at the vet!"
+        },
+        {
+            "message_id": 14,
+            "user_id": "0004",
+            "speaker": "Human",
+            "message": "I agree.  She tends not to be too upset with me after events like today.  She seems to get over things somewhat quickly."
+        },
+        {
+            "message_id": 15,
+            "system_id": "0003",
+            "speaker": "Bot",
+            "message": "That's great, she's a resilient kitty!"
+        },
+        {
+            "message_id": 16,
+            "user_id": "0004",
+            "speaker": "Human",
+            "message": "She really is.  They had to remove one tooth last year I'm hoping they don"
+        },
+        {
+            "message_id": 17,
+            "system_id": "0003",
+            "speaker": "Bot",
+            "message": "Fingers crossed it's just a routine cleaning and no more extractions!"
+        },
+        {
+            "message_id": 18,
+            "user_id": "0004",
+            "speaker": "Human",
+            "message": "Hoping they don't have to extract one this time.  Definitely!  Thank you for the kind words!"
+        },
+        {
+            "message_id": 19,
+            "system_id": "0003",
+            "speaker": "Bot",
+            "message": "You're welcome, sending you and your kitty positive vibes!"
+        }
+    ]
+}

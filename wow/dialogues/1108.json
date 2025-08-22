@@ -1,0 +1,141 @@
+{
+    "dialogue_id": "1108",
+    "setting": "wow",
+    "model": "Llama-3.1-70B-Instruct",
+    "prompt": "neutral",
+    "topic": "Blue Ridge Parkway",
+    "subjective_evaluation": {
+        "preference": 3.0,
+        "stylistic_similarity": 4.0,
+        "consistency": 5.0,
+        "engagingness": 3.0
+    },
+    "dialogue": [
+        {
+            "message_id": 0,
+            "system_id": "0009",
+            "speaker": "Bot",
+            "message": "Let's talk about the Blue Ridge Parkway, a scenic road in the US."
+        },
+        {
+            "message_id": 1,
+            "user_id": "0003",
+            "speaker": "Human",
+            "message": "Okay.  How long is the parkway?"
+        },
+        {
+            "message_id": 2,
+            "system_id": "0009",
+            "speaker": "Bot",
+            "message": "The parkway runs for 469 miles through 29 Virginia and North Carolina counties."
+        },
+        {
+            "message_id": 3,
+            "user_id": "0003",
+            "speaker": "Human",
+            "message": "How many miles are in each state?"
+        },
+        {
+            "message_id": 4,
+            "system_id": "0009",
+            "speaker": "Bot",
+            "message": "The parkway runs for 217 miles through Virginia and 252 miles through North Carolina"
+        },
+        {
+            "message_id": 5,
+            "user_id": "0003",
+            "speaker": "Human",
+            "message": "Who pays for upkeep of the parkway?"
+        },
+        {
+            "message_id": 6,
+            "system_id": "0009",
+            "speaker": "Bot",
+            "message": "The National Park Service owns and maintains the land on either side of the road."
+        },
+        {
+            "message_id": 7,
+            "user_id": "0003",
+            "speaker": "Human",
+            "message": "When was it built?"
+        },
+        {
+            "message_id": 8,
+            "system_id": "0009",
+            "speaker": "Bot",
+            "message": "It was begun during the administration of President Franklin D. Roosevelt."
+        },
+        {
+            "message_id": 9,
+            "user_id": "0003",
+            "speaker": "Human",
+            "message": "How long did it take to construct?"
+        },
+        {
+            "message_id": 10,
+            "system_id": "0009",
+            "speaker": "Bot",
+            "message": "I didn't mention that earlier, but it took more than 50 years to complete the parkway."
+        },
+        {
+            "message_id": 11,
+            "user_id": "0003",
+            "speaker": "Human",
+            "message": "What are some of the most popular stops along the parkway?"
+        },
+        {
+            "message_id": 12,
+            "system_id": "0009",
+            "speaker": "Bot",
+            "message": "I didn't mention that earlier, but some popular stops include Shenandoah National Park and Great Smoky Mountains National Park, which are the parkway's endpoints."
+        },
+        {
+            "message_id": 13,
+            "user_id": "0003",
+            "speaker": "Human",
+            "message": "How many scenic stops are there?"
+        },
+        {
+            "message_id": 14,
+            "system_id": "0009",
+            "speaker": "Bot",
+            "message": "I didn't mention that earlier, but there are over 200 scenic overlooks, 100 trails, and many more attractions along the parkway"
+        },
+        {
+            "message_id": 15,
+            "user_id": "0003",
+            "speaker": "Human",
+            "message": "What was the cost to construct?"
+        },
+        {
+            "message_id": 16,
+            "system_id": "0009",
+            "speaker": "Bot",
+            "message": "I didn't mention that earlier, I don't have that information."
+        },
+        {
+            "message_id": 17,
+            "user_id": "0003",
+            "speaker": "Human",
+            "message": "Why was it built?"
+        },
+        {
+            "message_id": 18,
+            "system_id": "0009",
+            "speaker": "Bot",
+            "message": "It was originally called the Appalachian Scenic Highway, so it was built for its scenic beauty."
+        },
+        {
+            "message_id": 19,
+            "user_id": "0003",
+            "speaker": "Human",
+            "message": "So it wasn't built for any practical purpose?"
+        },
+        {
+            "message_id": 20,
+            "system_id": "0009",
+            "speaker": "Bot",
+            "message": "It was built to provide a scenic route, rather than a practical one, linking Shenandoah National Park to Great Smoky Mountains National Park."
+        }
+    ]
+}

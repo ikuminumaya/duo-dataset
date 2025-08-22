@@ -1,0 +1,136 @@
+{
+    "dialogue_id": "0096",
+    "setting": "ed",
+    "model": "gpt-4o",
+    "prompt": "not_aligned",
+    "emotion": "Lonely",
+    "episode": "I celebrated my birthday recently.  None of my friends remembered it was my birthday.  I spent my birthday alone.",
+    "subjective_evaluation": {
+        "preference": 4.0,
+        "stylistic_similarity": 3.0,
+        "consistency": 5.0,
+        "empathy": 5.0
+    },
+    "dialogue": [
+        {
+            "message_id": 0,
+            "user_id": "0007",
+            "speaker": "Human",
+            "message": "I celebrated my birthday recently.  None of my friends remembered.  I spent my birthday alone."
+        },
+        {
+            "message_id": 1,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "I'm really sorry to hear that. It's tough when friends forget something important."
+        },
+        {
+            "message_id": 2,
+            "user_id": "0007",
+            "speaker": "Human",
+            "message": "Thank you.  I always remember my friends birthday.  I always try to send them well-wishes or meet up with them.  It makes me feel that I am not valued by my friends."
+        },
+        {
+            "message_id": 3,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "That's really disappointing. You deserve better, and it’s okay to feel hurt."
+        },
+        {
+            "message_id": 4,
+            "user_id": "0007",
+            "speaker": "Human",
+            "message": "I do feel hurt.  This made me think that I can only depend on myself in this life. "
+        },
+        {
+            "message_id": 5,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "I understand. It's tough, but remember some people do care and value you."
+        },
+        {
+            "message_id": 6,
+            "user_id": "0007",
+            "speaker": "Human",
+            "message": "It's hard for me to find the people who care about me.  But, I know they are out there.  I just have to keep on moving forward. "
+        },
+        {
+            "message_id": 7,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "Absolutely, keep going! Your kindness will attract the right people."
+        },
+        {
+            "message_id": 8,
+            "user_id": "0007",
+            "speaker": "Human",
+            "message": "Sometimes, I wish I wasn't so kind.  I feel it sets me up to get hurt.  But, I think it is best to kind without expecting anything in return. "
+        },
+        {
+            "message_id": 9,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "Kindness is your strength, not a weakness. Keep being you."
+        },
+        {
+            "message_id": 10,
+            "user_id": "0007",
+            "speaker": "Human",
+            "message": "One good thing about my birthday is that I ordered some takeout from a restaurant that I loved."
+        },
+        {
+            "message_id": 11,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "That's awesome! A great meal can lift your spirits."
+        },
+        {
+            "message_id": 12,
+            "user_id": "0007",
+            "speaker": "Human",
+            "message": "I don't typically eat out very often so it was a treat.  It was a seafood restaurant.  I splurged on my meal since I don't do it often."
+        },
+        {
+            "message_id": 13,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "Sounds delightful! Treats make moments special."
+        },
+        {
+            "message_id": 14,
+            "user_id": "0007",
+            "speaker": "Human",
+            "message": "The popcorn shrimp helped to lift my spirits up a little. "
+        },
+        {
+            "message_id": 15,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "Glad it cheered you up!"
+        },
+        {
+            "message_id": 16,
+            "user_id": "0007",
+            "speaker": "Human",
+            "message": "I tried to rationalize that my friends were busy with their own lives.  I know their world doesn't revolve around me. "
+        },
+        {
+            "message_id": 17,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "That's understanding of you. Life gets hectic sometimes."
+        },
+        {
+            "message_id": 18,
+            "user_id": "0007",
+            "speaker": "Human",
+            "message": "I know that I will find people in the future who will be there for me during my special moments."
+        },
+        {
+            "message_id": 19,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "Indeed. Keep believing in that."
+        }
+    ]
+}

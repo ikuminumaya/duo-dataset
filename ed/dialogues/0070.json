@@ -1,0 +1,136 @@
+{
+    "dialogue_id": "0070",
+    "setting": "ed",
+    "model": "gpt-4o",
+    "prompt": "aligned",
+    "emotion": "Nostalgic",
+    "episode": "I was travelling in another country, Japan, and passed by a familiar smell of food. It was a food from my childhood that smelled just like mother's cooking of a bean stew. It felt very nostalgic and heartwarming.",
+    "subjective_evaluation": {
+        "preference": 4.0,
+        "stylistic_similarity": 3.0,
+        "consistency": 4.0,
+        "empathy": 4.0
+    },
+    "dialogue": [
+        {
+            "message_id": 0,
+            "user_id": "0022",
+            "speaker": "Human",
+            "message": "This was about a time I felt nostalgic while travelling to another country recently, in Japan."
+        },
+        {
+            "message_id": 1,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "That sounds amazing! What reminded you of the past during your trip?"
+        },
+        {
+            "message_id": 2,
+            "user_id": "0022",
+            "speaker": "Human",
+            "message": "I was walking down a secluded street during the evening, filled with many scents of food for dinner being cooked."
+        },
+        {
+            "message_id": 3,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "That sounds so comforting! Did it remind you of a specific memory?"
+        },
+        {
+            "message_id": 4,
+            "user_id": "0022",
+            "speaker": "Human",
+            "message": "Yes, I passed by one peculiar restaurant that had a familiar scent of food from my childhood, something my mom always made every Sunday."
+        },
+        {
+            "message_id": 5,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "That's so special! It must have felt like a little piece of home."
+        },
+        {
+            "message_id": 6,
+            "user_id": "0022",
+            "speaker": "Human",
+            "message": "It was very endearing to smell, it reminded me of a bean soup stew that I ate and smelled frequently."
+        },
+        {
+            "message_id": 7,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "That's so heartwarming! It's amazing how scents can bring back such vivid memories."
+        },
+        {
+            "message_id": 8,
+            "user_id": "0022",
+            "speaker": "Human",
+            "message": "Yes, I couldn't believe my brain had remembered such a memory and I was surprised I could relate it to something so quickly."
+        },
+        {
+            "message_id": 9,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "It's incredible how our brains work like that! Such a cool experience."
+        },
+        {
+            "message_id": 10,
+            "user_id": "0022",
+            "speaker": "Human",
+            "message": "Indeed, anyway, I decided to look at their menu as I wanted to eat inside for dinner with my friends."
+        },
+        {
+            "message_id": 11,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "That's awesome! Did you end up trying the stew there?"
+        },
+        {
+            "message_id": 12,
+            "user_id": "0022",
+            "speaker": "Human",
+            "message": "I did, we went inside, were greeted by friendly staff and a humorous chef. It was a very pleasant experience."
+        },
+        {
+            "message_id": 13,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "That sounds wonderful! I'm glad it turned out to be such a nice time."
+        },
+        {
+            "message_id": 14,
+            "user_id": "0022",
+            "speaker": "Human",
+            "message": "The meal was also wonderful and while the scent was very similar to what I remembered as a child, the food didn't really taste the same. "
+        },
+        {
+            "message_id": 15,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "That's still great! The experience and memories are what truly matter."
+        },
+        {
+            "message_id": 16,
+            "user_id": "0022",
+            "speaker": "Human",
+            "message": "Though the food was still delicious and appetizing. I would definitely still go back to eat there."
+        },
+        {
+            "message_id": 17,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "That's fantastic! It's always nice to find a place you'd want to revisit."
+        },
+        {
+            "message_id": 18,
+            "user_id": "0022",
+            "speaker": "Human",
+            "message": "It was quite an enjoyable and tasty experience, everyone enjoyed themselves and I got to experience something unique and new."
+        },
+        {
+            "message_id": 19,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "That sounds awesome! Glad you all had a great time."
+        }
+    ]
+}

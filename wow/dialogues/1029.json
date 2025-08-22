@@ -1,0 +1,173 @@
+{
+    "dialogue_id": "1029",
+    "setting": "wow",
+    "model": "Llama-3.1-70B-Instruct",
+    "prompt": "neutral",
+    "topic": "Text messaging",
+    "objective_evaluation": {
+        "preference": 3.33,
+        "stylistic_similarity": 3.67,
+        "consistency": 3.67,
+        "engagingness": 3.33,
+        "preference_scores": [
+            4.0,
+            3.0,
+            3.0
+        ],
+        "stylistic_similarity_scores": [
+            3.0,
+            4.0,
+            4.0
+        ],
+        "consistency_scores": [
+            4.0,
+            4.0,
+            3.0
+        ],
+        "engagingness_scores": [
+            4.0,
+            3.0,
+            3.0
+        ]
+    },
+    "subjective_evaluation": {
+        "preference": 2.0,
+        "stylistic_similarity": 1.0,
+        "consistency": 5.0,
+        "engagingness": 1.0
+    },
+    "dialogue": [
+        {
+            "message_id": 0,
+            "system_id": "0009",
+            "speaker": "Bot",
+            "message": "So, what do you know about text messaging?"
+        },
+        {
+            "message_id": 1,
+            "user_id": "0010",
+            "speaker": "Human",
+            "message": "Hello."
+        },
+        {
+            "message_id": 2,
+            "system_id": "0009",
+            "speaker": "Bot",
+            "message": "SMS is a part of it, but it's grown to include more, like pictures and videos."
+        },
+        {
+            "message_id": 3,
+            "user_id": "0010",
+            "speaker": "Human",
+            "message": "Depends, are we talking SMS or something else?"
+        },
+        {
+            "message_id": 4,
+            "system_id": "0009",
+            "speaker": "Bot",
+            "message": "Text messaging is sending electronic messages between devices, like phones or computers."
+        },
+        {
+            "message_id": 5,
+            "user_id": "0010",
+            "speaker": "Human",
+            "message": "Ok, well, let's just assume that I know nothing then. What is text messaging?"
+        },
+        {
+            "message_id": 6,
+            "system_id": "0009",
+            "speaker": "Bot",
+            "message": "Yes, it often uses the Short Message Service, or SMS."
+        },
+        {
+            "message_id": 7,
+            "user_id": "0010",
+            "speaker": "Human",
+            "message": "Are there specific protocals?"
+        },
+        {
+            "message_id": 8,
+            "system_id": "0009",
+            "speaker": "Bot",
+            "message": "It sends messages over cellular networks."
+        },
+        {
+            "message_id": 9,
+            "user_id": "0010",
+            "speaker": "Human",
+            "message": "How does that work?"
+        },
+        {
+            "message_id": 10,
+            "system_id": "0009",
+            "speaker": "Bot",
+            "message": "I'm not getting into the technical details, but basically, it allows messages to be sent between mobile phones."
+        },
+        {
+            "message_id": 11,
+            "user_id": "0010",
+            "speaker": "Human",
+            "message": "No, I mean, *how does it work.*"
+        },
+        {
+            "message_id": 12,
+            "system_id": "0009",
+            "speaker": "Bot",
+            "message": "I'd be happy to explain, but I don't have that level of technical info on hand, let's just say it's a complex process that involves cellular networks and protocols."
+        },
+        {
+            "message_id": 13,
+            "user_id": "0010",
+            "speaker": "Human",
+            "message": "I would like the technical details, please."
+        },
+        {
+            "message_id": 14,
+            "system_id": "0009",
+            "speaker": "Bot",
+            "message": "It's not just for phones, you can also send texts via the internet."
+        },
+        {
+            "message_id": 15,
+            "user_id": "0010",
+            "speaker": "Human",
+            "message": "Ok, fine. What else do you got for me."
+        },
+        {
+            "message_id": 16,
+            "system_id": "0009",
+            "speaker": "Bot",
+            "message": "I can send texts using internet connection on my tablet or laptop."
+        },
+        {
+            "message_id": 17,
+            "user_id": "0010",
+            "speaker": "Human",
+            "message": "How so?"
+        },
+        {
+            "message_id": 18,
+            "system_id": "0009",
+            "speaker": "Bot",
+            "message": "I can send texts to phones using internet-based services that connect to cellular networks."
+        },
+        {
+            "message_id": 19,
+            "user_id": "0010",
+            "speaker": "Human",
+            "message": "Right, but since you have to send them via the internet, how can you text other phones. do you have to do some sort of link up?"
+        },
+        {
+            "message_id": 20,
+            "system_id": "0009",
+            "speaker": "Bot",
+            "message": "Yeah, it's pretty convenient, and it's become a big part of how people communicate, especially among youth and in business."
+        },
+        {
+            "message_id": 21,
+            "user_id": "0010",
+            "speaker": "Human",
+            "message": "I see, that makes sense."
+        }
+    ]
+}

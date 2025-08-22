@@ -1,0 +1,141 @@
+{
+    "dialogue_id": "1058",
+    "setting": "wow",
+    "model": "gpt-4o",
+    "prompt": "neutral",
+    "topic": "Candy",
+    "subjective_evaluation": {
+        "preference": 5.0,
+        "stylistic_similarity": 5.0,
+        "consistency": 5.0,
+        "engagingness": 5.0
+    },
+    "dialogue": [
+        {
+            "message_id": 0,
+            "system_id": "0006",
+            "speaker": "Bot",
+            "message": "Candy, also known as sweets or lollies, is a confection that primarily features sugar and is typically consumed as a snack between meals."
+        },
+        {
+            "message_id": 1,
+            "user_id": "0034",
+            "speaker": "Human",
+            "message": "Aren't they also called confections?"
+        },
+        {
+            "message_id": 2,
+            "system_id": "0006",
+            "speaker": "Bot",
+            "message": "Yes, candy is a type of confection, specifically part of the category known as \"sugar confectionery.\""
+        },
+        {
+            "message_id": 3,
+            "user_id": "0034",
+            "speaker": "Human",
+            "message": "I thought only suckers were called lollies?"
+        },
+        {
+            "message_id": 4,
+            "system_id": "0006",
+            "speaker": "Bot",
+            "message": "In some regions, the term \"lollies\" can refer to a broader range of candies, not just suckers or lollipops."
+        },
+        {
+            "message_id": 5,
+            "user_id": "0034",
+            "speaker": "Human",
+            "message": "Are they only lollies in the UK?"
+        },
+        {
+            "message_id": 6,
+            "system_id": "0006",
+            "speaker": "Bot",
+            "message": "The term \"lollies\" is commonly used in countries like Australia and New Zealand, while in the UK, \"sweets\" is more commonly used."
+        },
+        {
+            "message_id": 7,
+            "user_id": "0034",
+            "speaker": "Human",
+            "message": "Does the UK have different sweets than the US?"
+        },
+        {
+            "message_id": 8,
+            "system_id": "0006",
+            "speaker": "Bot",
+            "message": "Yes, the UK and the US have different sweets, with the UK using terms like \"sweets\" for a variety of sugar confections, while the US often uses \"candy.\""
+        },
+        {
+            "message_id": 9,
+            "user_id": "0034",
+            "speaker": "Human",
+            "message": "What different sweets does the UK have?"
+        },
+        {
+            "message_id": 10,
+            "system_id": "0006",
+            "speaker": "Bot",
+            "message": "The UK has a variety of unique sweets like Wine Gums, Licorice Allsorts, and Jelly Babies, which are quite different from typical American candies."
+        },
+        {
+            "message_id": 11,
+            "user_id": "0034",
+            "speaker": "Human",
+            "message": "What are Wine Gums?"
+        },
+        {
+            "message_id": 12,
+            "system_id": "0006",
+            "speaker": "Bot",
+            "message": "Wine Gums are a type of chewy, fruit-flavored candy that doesn't actually contain any wine, popular in the UK."
+        },
+        {
+            "message_id": 13,
+            "user_id": "0034",
+            "speaker": "Human",
+            "message": "Are they like Gummy Bears?"
+        },
+        {
+            "message_id": 14,
+            "system_id": "0006",
+            "speaker": "Bot",
+            "message": "Wine Gums are similar to gummy candies like Gummy Bears, but they have a firmer texture and are often less sweet."
+        },
+        {
+            "message_id": 15,
+            "user_id": "0034",
+            "speaker": "Human",
+            "message": "I see a lot more sugar free type of candies these days"
+        },
+        {
+            "message_id": 16,
+            "system_id": "0006",
+            "speaker": "Bot",
+            "message": "Yes, sugar-free candies are becoming more popular, often using sugar substitutes to maintain sweetness without the sugar content."
+        },
+        {
+            "message_id": 17,
+            "user_id": "0034",
+            "speaker": "Human",
+            "message": "Some of those things can really give you GI upset though"
+        },
+        {
+            "message_id": 18,
+            "system_id": "0006",
+            "speaker": "Bot",
+            "message": "Yes, sugar substitutes used in sugar-free candies can sometimes cause gastrointestinal issues for some people."
+        },
+        {
+            "message_id": 19,
+            "user_id": "0034",
+            "speaker": "Human",
+            "message": "There are some funny reviews on some sugar free gummy bears on Amazon if you want a laugh"
+        },
+        {
+            "message_id": 20,
+            "system_id": "0006",
+            "speaker": "Bot",
+            "message": "Yes, those reviews highlight the humorous side effects that can occur from the sugar substitutes used in some sugar-free candies."
+        }
+    ]
+}

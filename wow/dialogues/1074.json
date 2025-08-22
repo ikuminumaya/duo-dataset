@@ -1,0 +1,141 @@
+{
+    "dialogue_id": "1074",
+    "setting": "wow",
+    "model": "gpt-4o",
+    "prompt": "aligned",
+    "topic": "Disco",
+    "subjective_evaluation": {
+        "preference": 4.0,
+        "stylistic_similarity": 4.0,
+        "consistency": 5.0,
+        "engagingness": 5.0
+    },
+    "dialogue": [
+        {
+            "message_id": 0,
+            "system_id": "0007",
+            "speaker": "Bot",
+            "message": "Disco emerged in the early 1970s and quickly became popular, especially among diverse communities in cities like New York and Chicago."
+        },
+        {
+            "message_id": 1,
+            "user_id": "0015",
+            "speaker": "Human",
+            "message": "I heard Studio 54 had a large hand in popularizing disco as well. "
+        },
+        {
+            "message_id": 2,
+            "system_id": "0007",
+            "speaker": "Bot",
+            "message": "Yes, Studio 54 in New York City was iconic in popularizing disco during the height of its popularity in the mid to late 1970s."
+        },
+        {
+            "message_id": 3,
+            "user_id": "0015",
+            "speaker": "Human",
+            "message": "Is Studio 54 still open?"
+        },
+        {
+            "message_id": 4,
+            "system_id": "0007",
+            "speaker": "Bot",
+            "message": "No, Studio 54 isn't open anymore as a nightclub; it closed in 1986, but the building has been used for other purposes since then."
+        },
+        {
+            "message_id": 5,
+            "user_id": "0015",
+            "speaker": "Human",
+            "message": "Oh wow, interesting. Sounds like they came and went fast. "
+        },
+        {
+            "message_id": 6,
+            "system_id": "0007",
+            "speaker": "Bot",
+            "message": "Yeah, it was a quick rise and fall, with disco's peak popularity happening from the mid-1970s to the early 1980s."
+        },
+        {
+            "message_id": 7,
+            "user_id": "0015",
+            "speaker": "Human",
+            "message": "Why isn't disco popular anymore?"
+        },
+        {
+            "message_id": 8,
+            "system_id": "0007",
+            "speaker": "Bot",
+            "message": "Disco's decline in popularity was partly due to a backlash against the genre and the rise of other music styles like rock and punk."
+        },
+        {
+            "message_id": 9,
+            "user_id": "0015",
+            "speaker": "Human",
+            "message": "Was it a gradual decline in popularity?"
+        },
+        {
+            "message_id": 10,
+            "system_id": "0007",
+            "speaker": "Bot",
+            "message": "The decline was fairly rapid, influenced by a strong backlash and the rise of other genres like rock and punk."
+        },
+        {
+            "message_id": 11,
+            "user_id": "0015",
+            "speaker": "Human",
+            "message": "Wow, that would have been a sight to see. I wonder if other genres rose and fell so quickly. "
+        },
+        {
+            "message_id": 12,
+            "system_id": "0007",
+            "speaker": "Bot",
+            "message": "Disco was a reaction against the rock music dominance and was embraced by diverse communities, quickly gaining mainstream popularity."
+        },
+        {
+            "message_id": 13,
+            "user_id": "0015",
+            "speaker": "Human",
+            "message": "It seemed to be about the club lifestyle and having fun. "
+        },
+        {
+            "message_id": 14,
+            "system_id": "0007",
+            "speaker": "Bot",
+            "message": "Yeah, disco was definitely about the club lifestyle and having fun, with its vibrant dance moves like the Bump and the Hustle."
+        },
+        {
+            "message_id": 15,
+            "user_id": "0015",
+            "speaker": "Human",
+            "message": "Are those dances based on songs?"
+        },
+        {
+            "message_id": 16,
+            "system_id": "0007",
+            "speaker": "Bot",
+            "message": "The Bump and the Hustle weren't based on specific songs, but they became popular dance styles during the disco era."
+        },
+        {
+            "message_id": 17,
+            "user_id": "0015",
+            "speaker": "Human",
+            "message": "I've heard a song with the hook \"Do the Hustle\". Is this based on the dance move?"
+        },
+        {
+            "message_id": 18,
+            "system_id": "0007",
+            "speaker": "Bot",
+            "message": "Yes, \"Do the Hustle\" by Van McCoy is indeed based on the Hustle dance, which was popular during the disco era."
+        },
+        {
+            "message_id": 19,
+            "user_id": "0015",
+            "speaker": "Human",
+            "message": "Are there any contemporary disco artists today?"
+        },
+        {
+            "message_id": 20,
+            "system_id": "0007",
+            "speaker": "Bot",
+            "message": "Yes, there are contemporary artists like Dua Lipa and Daft Punk who draw heavily from disco influences in their music."
+        }
+    ]
+}

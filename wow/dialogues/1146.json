@@ -1,0 +1,141 @@
+{
+    "dialogue_id": "1146",
+    "setting": "wow",
+    "model": "Llama-3.1-70B-Instruct",
+    "prompt": "not_aligned",
+    "topic": "Scuba diving",
+    "subjective_evaluation": {
+        "preference": 5.0,
+        "stylistic_similarity": 5.0,
+        "consistency": 5.0,
+        "engagingness": 5.0
+    },
+    "dialogue": [
+        {
+            "message_id": 0,
+            "system_id": "0011",
+            "speaker": "Bot",
+            "message": "Scuba diving is pretty cool, right?"
+        },
+        {
+            "message_id": 1,
+            "user_id": "0037",
+            "speaker": "Human",
+            "message": "It is so cool but kind of scary."
+        },
+        {
+            "message_id": 2,
+            "system_id": "0011",
+            "speaker": "Bot",
+            "message": "Yeah, I get that, but the freedom of movement underwater is pretty amazing!"
+        },
+        {
+            "message_id": 3,
+            "user_id": "0037",
+            "speaker": "Human",
+            "message": "I bet I have never done it."
+        },
+        {
+            "message_id": 4,
+            "system_id": "0011",
+            "speaker": "Bot",
+            "message": "You should try it sometime, it's a whole different world down there!"
+        },
+        {
+            "message_id": 5,
+            "user_id": "0037",
+            "speaker": "Human",
+            "message": "Where are the best places to scuba dive?"
+        },
+        {
+            "message_id": 6,
+            "system_id": "0011",
+            "speaker": "Bot",
+            "message": "I've heard the Great Barrier Reef in Australia is insane, and the Red Sea in Egypt is pretty sweet too!"
+        },
+        {
+            "message_id": 7,
+            "user_id": "0037",
+            "speaker": "Human",
+            "message": "I would love seeing all of the colorful fish"
+        },
+        {
+            "message_id": 8,
+            "system_id": "0011",
+            "speaker": "Bot",
+            "message": "Totally, the coral reefs are like swimming in a rainbow, so many species and colors!"
+        },
+        {
+            "message_id": 9,
+            "user_id": "0037",
+            "speaker": "Human",
+            "message": "Is it hard to learn how to do?"
+        },
+        {
+            "message_id": 10,
+            "system_id": "0011",
+            "speaker": "Bot",
+            "message": "Nah, it's pretty straightforward, you just need to get certified and learn some basic skills!"
+        },
+        {
+            "message_id": 11,
+            "user_id": "0037",
+            "speaker": "Human",
+            "message": "Do you need a lot of equipment?"
+        },
+        {
+            "message_id": 12,
+            "system_id": "0011",
+            "speaker": "Bot",
+            "message": "Yeah, you need a tank, regulator, and some other gear, but it's all pretty standard stuff!"
+        },
+        {
+            "message_id": 13,
+            "user_id": "0037",
+            "speaker": "Human",
+            "message": "How far out into the ocean do you need to go to scuba dive?"
+        },
+        {
+            "message_id": 14,
+            "system_id": "0011",
+            "speaker": "Bot",
+            "message": "Depends, some dives are just offshore, while others are way out, but most popular spots are pretty accessible!"
+        },
+        {
+            "message_id": 15,
+            "user_id": "0037",
+            "speaker": "Human",
+            "message": "How deep can you go while scuba diving?"
+        },
+        {
+            "message_id": 16,
+            "system_id": "0011",
+            "speaker": "Bot",
+            "message": "It varies, but most rec dives are 30-40 meters, though some technical dives can go way deeper!"
+        },
+        {
+            "message_id": 17,
+            "user_id": "0037",
+            "speaker": "Human",
+            "message": "How long can you stay under?"
+        },
+        {
+            "message_id": 18,
+            "system_id": "0011",
+            "speaker": "Bot",
+            "message": "Typically an hour or two, but it depends on the dive plan, air supply, and your own limits!"
+        },
+        {
+            "message_id": 19,
+            "user_id": "0037",
+            "speaker": "Human",
+            "message": "Is one certification good for everywhere?"
+        },
+        {
+            "message_id": 20,
+            "system_id": "0011",
+            "speaker": "Bot",
+            "message": "Most certifications are globally recognized, so yeah, you can dive pretty much anywhere!"
+        }
+    ]
+}

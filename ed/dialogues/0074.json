@@ -1,0 +1,136 @@
+{
+    "dialogue_id": "0074",
+    "setting": "ed",
+    "model": "gpt-4o",
+    "prompt": "aligned",
+    "emotion": "Prepared",
+    "episode": "I took a lot of time to pack for a recent trip.",
+    "subjective_evaluation": {
+        "preference": 5.0,
+        "stylistic_similarity": 5.0,
+        "consistency": 5.0,
+        "empathy": 5.0
+    },
+    "dialogue": [
+        {
+            "message_id": 0,
+            "user_id": "0005",
+            "speaker": "Human",
+            "message": "I was very careful when packing for a recent trip to be sure I would have everything I needed."
+        },
+        {
+            "message_id": 1,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "That's great planning! Did it pay off on your trip?"
+        },
+        {
+            "message_id": 2,
+            "user_id": "0005",
+            "speaker": "Human",
+            "message": "It did because I did not have to purchase anything I forgot."
+        },
+        {
+            "message_id": 3,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "That's awesome! Planning ahead sure makes things easier."
+        },
+        {
+            "message_id": 4,
+            "user_id": "0005",
+            "speaker": "Human",
+            "message": "I did some work while away also and I had all I needed for that."
+        },
+        {
+            "message_id": 5,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "That's fantastic! Being prepared really pays off."
+        },
+        {
+            "message_id": 6,
+            "user_id": "0005",
+            "speaker": "Human",
+            "message": "I am going to keep the list I made for next time I have a trip."
+        },
+        {
+            "message_id": 7,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "Great idea! It'll save you time and stress."
+        },
+        {
+            "message_id": 8,
+            "user_id": "0005",
+            "speaker": "Human",
+            "message": "I will also try to collect more travel sized products. I really like them."
+        },
+        {
+            "message_id": 9,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "Travel-sized products are super handy!"
+        },
+        {
+            "message_id": 10,
+            "user_id": "0005",
+            "speaker": "Human",
+            "message": "They are, and they are cute."
+        },
+        {
+            "message_id": 11,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "Totally, they're adorable!"
+        },
+        {
+            "message_id": 12,
+            "user_id": "0005",
+            "speaker": "Human",
+            "message": "What is the most popular travel toiletry bag?"
+        },
+        {
+            "message_id": 13,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "The Sea to Summit Travelling Light is popular!"
+        },
+        {
+            "message_id": 14,
+            "user_id": "0005",
+            "speaker": "Human",
+            "message": "I will check that out. What are your favorite packing tips?"
+        },
+        {
+            "message_id": 15,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "Roll clothes to save space and use packing cubes!"
+        },
+        {
+            "message_id": 16,
+            "user_id": "0005",
+            "speaker": "Human",
+            "message": "I do roll clothes. Tell me more about packing cubes."
+        },
+        {
+            "message_id": 17,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "Packing cubes help organize and maximize space. Super handy!"
+        },
+        {
+            "message_id": 18,
+            "user_id": "0005",
+            "speaker": "Human",
+            "message": "Are they expensive?"
+        },
+        {
+            "message_id": 19,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "Not really, you can find affordable ones online!"
+        }
+    ]
+}

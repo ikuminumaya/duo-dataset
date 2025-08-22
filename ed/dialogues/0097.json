@@ -1,0 +1,136 @@
+{
+    "dialogue_id": "0097",
+    "setting": "ed",
+    "model": "gpt-4o",
+    "prompt": "not_aligned",
+    "emotion": "Furious",
+    "episode": "The Trump administration wrongfully deported a US citizen",
+    "subjective_evaluation": {
+        "preference": 1.0,
+        "stylistic_similarity": 1.0,
+        "consistency": 3.0,
+        "empathy": 3.0
+    },
+    "dialogue": [
+        {
+            "message_id": 0,
+            "user_id": "0008",
+            "speaker": "Human",
+            "message": "Did you see the story about the wrongful deportation?"
+        },
+        {
+            "message_id": 1,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "I haven't seen that one, could you fill me in?"
+        },
+        {
+            "message_id": 2,
+            "user_id": "0008",
+            "speaker": "Human",
+            "message": "The Trump administration got an Ecuadorean man wrongly deported "
+        },
+        {
+            "message_id": 3,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "That's really unfortunate. How's he doing now?"
+        },
+        {
+            "message_id": 4,
+            "user_id": "0008",
+            "speaker": "Human",
+            "message": "They're not letting him come back"
+        },
+        {
+            "message_id": 5,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "That's awful. Hope he finds support!"
+        },
+        {
+            "message_id": 6,
+            "user_id": "0008",
+            "speaker": "Human",
+            "message": "It's hard to beat the US government"
+        },
+        {
+            "message_id": 7,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "Indeed, challenging system. Stay hopeful."
+        },
+        {
+            "message_id": 8,
+            "user_id": "0008",
+            "speaker": "Human",
+            "message": "I'm beginning to lose hope"
+        },
+        {
+            "message_id": 9,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "Understandable, but keep faith!"
+        },
+        {
+            "message_id": 10,
+            "user_id": "0008",
+            "speaker": "Human",
+            "message": "This administration is just so evil"
+        },
+        {
+            "message_id": 11,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "It's truly disheartening."
+        },
+        {
+            "message_id": 12,
+            "user_id": "0008",
+            "speaker": "Human",
+            "message": "Trump should deport his own wife"
+        },
+        {
+            "message_id": 13,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "That's a strong statement."
+        },
+        {
+            "message_id": 14,
+            "user_id": "0008",
+            "speaker": "Human",
+            "message": "It crazy how hypocritical they are"
+        },
+        {
+            "message_id": 15,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "Hypocrisy can be frustrating."
+        },
+        {
+            "message_id": 16,
+            "user_id": "0008",
+            "speaker": "Human",
+            "message": "I'm also mad at the Democrats for letting all this happen"
+        },
+        {
+            "message_id": 17,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "It's tough when both sides disappoint."
+        },
+        {
+            "message_id": 18,
+            "user_id": "0008",
+            "speaker": "Human",
+            "message": "It just feels like we're all screwed"
+        },
+        {
+            "message_id": 19,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "It's indeed a challenging time."
+        }
+    ]
+}

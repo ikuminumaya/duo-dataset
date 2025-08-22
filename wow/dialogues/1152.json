@@ -1,0 +1,141 @@
+{
+    "dialogue_id": "1152",
+    "setting": "wow",
+    "model": "Llama-3.1-70B-Instruct",
+    "prompt": "not_aligned",
+    "topic": "Ice cream",
+    "subjective_evaluation": {
+        "preference": 5.0,
+        "stylistic_similarity": 5.0,
+        "consistency": 5.0,
+        "engagingness": 5.0
+    },
+    "dialogue": [
+        {
+            "message_id": 0,
+            "system_id": "0011",
+            "speaker": "Bot",
+            "message": "Lovely to meet you! What's your take on ice cream, do you have a favorite flavor?"
+        },
+        {
+            "message_id": 1,
+            "user_id": "0035",
+            "speaker": "Human",
+            "message": "Nice to meet you. I love ice cream. My favorite flavor is coffee but I also like vanilla and chocolate. "
+        },
+        {
+            "message_id": 2,
+            "system_id": "0011",
+            "speaker": "Bot",
+            "message": "Classic choices! I'm more of a fruity person myself, but there's something about a cold coffee ice cream on a hot day that's just perfect."
+        },
+        {
+            "message_id": 3,
+            "user_id": "0035",
+            "speaker": "Human",
+            "message": "Yes it is. I like to make ice cream sundaes at home in the summer time. It is something my family used to do together."
+        },
+        {
+            "message_id": 4,
+            "system_id": "0011",
+            "speaker": "Bot",
+            "message": "That sounds like a wonderful tradition! There's something special about creating memories with loved ones over a sweet treat like ice cream, isn't there?"
+        },
+        {
+            "message_id": 5,
+            "user_id": "0035",
+            "speaker": "Human",
+            "message": "Yes there is. I have also made homemade ice cream, which is wonderful. "
+        },
+        {
+            "message_id": 6,
+            "system_id": "0011",
+            "speaker": "Bot",
+            "message": "Homemade ice cream is the best! I've heard it's all about incorporating air and getting the temperature just right to get that smooth, creamy texture."
+        },
+        {
+            "message_id": 7,
+            "user_id": "0035",
+            "speaker": "Human",
+            "message": "Yes it is. As a kid we used to wait for the ice cream trucks to come to our neighborhood. We often bought something. "
+        },
+        {
+            "message_id": 8,
+            "system_id": "0011",
+            "speaker": "Bot",
+            "message": "The ice cream truck nostalgia! Who could resist the sound of that familiar tune and the excitement of choosing a treat from the colorful options?"
+        },
+        {
+            "message_id": 9,
+            "user_id": "0035",
+            "speaker": "Human",
+            "message": "It was wonderful. I do not see many ice cream trucks today. I wonder is they are less popular. "
+        },
+        {
+            "message_id": 10,
+            "system_id": "0011",
+            "speaker": "Bot",
+            "message": "It's true, ice cream trucks seem to be a rare sight these days. Maybe it's because of changing times or regulations, but it's nice to remember those carefree childhood summers when the ice cream truck was a highlight of the day."
+        },
+        {
+            "message_id": 11,
+            "user_id": "0035",
+            "speaker": "Human",
+            "message": "Absolutely. We also buy ice cream in the store for having at home. One of my favorite brands is Ben and Jerrys"
+        },
+        {
+            "message_id": 12,
+            "system_id": "0011",
+            "speaker": "Bot",
+            "message": "Ben & Jerry's is a great choice! They have such unique and delicious flavors, and I love that they're a company that's all about spreading joy and making a positive impact."
+        },
+        {
+            "message_id": 13,
+            "user_id": "0035",
+            "speaker": "Human",
+            "message": "Yes I too like that about their company. They do have unique flavors, something for everyone. "
+        },
+        {
+            "message_id": 14,
+            "system_id": "0011",
+            "speaker": "Bot",
+            "message": "Their flavors are so creative and fun, and they're always coming up with new and interesting combinations. It's like a little adventure in every pint!"
+        },
+        {
+            "message_id": 15,
+            "user_id": "0035",
+            "speaker": "Human",
+            "message": "Yes, it is. Ice cream is very popular here in the United States but I wonder is it just as popular in other countries. "
+        },
+        {
+            "message_id": 16,
+            "system_id": "0011",
+            "speaker": "Bot",
+            "message": "Ice cream is actually a global treat, and its popularity varies from country to country, but it's loved by many cultures around the world. Some countries even have their own unique ice cream traditions and flavors!"
+        },
+        {
+            "message_id": 17,
+            "user_id": "0035",
+            "speaker": "Human",
+            "message": "That is interesting. It is something most people can agree on, that ice cream is a great treat. "
+        },
+        {
+            "message_id": 18,
+            "system_id": "0011",
+            "speaker": "Bot",
+            "message": "Ice cream has a way of bringing people together, doesn't it? It's a universal language that transcends cultures and age groups, and who can resist a cold, creamy scoop on a hot day?"
+        },
+        {
+            "message_id": 19,
+            "user_id": "0035",
+            "speaker": "Human",
+            "message": "I think that is a nice way to spend time together. It is something people the world over can enjoy. They flavors may vary but most people love ice cream. "
+        },
+        {
+            "message_id": 20,
+            "system_id": "0011",
+            "speaker": "Bot",
+            "message": "It's a sweet way to connect with others and create shared memories, and the fact that it's enjoyed by people from all walks of life is a beautiful thing."
+        }
+    ]
+}

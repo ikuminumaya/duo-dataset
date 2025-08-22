@@ -1,0 +1,162 @@
+{
+    "dialogue_id": "0001",
+    "setting": "ed",
+    "model": "gpt-4o",
+    "prompt": "neutral",
+    "emotion": "Furious",
+    "episode": "I was furious when I saw the news on Republicans pushing tax cuts for the rich again.",
+    "objective_evaluation": {
+        "preference": 2.67,
+        "stylistic_similarity": 2.67,
+        "consistency": 4.33,
+        "empathy": 3.33,
+        "preference_scores": [
+            2.0,
+            3.0,
+            3.0
+        ],
+        "stylistic_similarity_scores": [
+            1.0,
+            4.0,
+            3.0
+        ],
+        "consistency_scores": [
+            4.0,
+            4.0,
+            5.0
+        ],
+        "empathy_scores": [
+            2.0,
+            5.0,
+            3.0
+        ]
+    },
+    "subjective_evaluation": {
+        "preference": 1.0,
+        "stylistic_similarity": 1.0,
+        "consistency": 3.0,
+        "empathy": 1.0
+    },
+    "dialogue": [
+        {
+            "message_id": 0,
+            "user_id": "0001",
+            "speaker": "Human",
+            "message": "Not too long ago, I saw in the news that Republicans were pushing tax cuts for the rich again."
+        },
+        {
+            "message_id": 1,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "That can be frustrating to hear."
+        },
+        {
+            "message_id": 2,
+            "user_id": "0001",
+            "speaker": "Human",
+            "message": "I was furious. The Dems don't have control of House or Senate to stop the Republicans this time."
+        },
+        {
+            "message_id": 3,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "I understand your frustration."
+        },
+        {
+            "message_id": 4,
+            "user_id": "0001",
+            "speaker": "Human",
+            "message": "While Trump is screwing everyone over with his tariffs that skyrocket input costs, Republicans are rewarding their wealthy backers. "
+        },
+        {
+            "message_id": 5,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "It's really upsetting."
+        },
+        {
+            "message_id": 6,
+            "user_id": "0001",
+            "speaker": "Human",
+            "message": "Here are some specifics: \"Nearly half the net benefit of extending the 2017 Trump tax cuts would go to the top 5 percent of households, or those making more than $450,000 a year. CBO estimates that permanently extending the 2017 tax law will cost $4.6 trillion (including net interest costs) over the decade.\""
+        },
+        {
+            "message_id": 7,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "That's really disheartening."
+        },
+        {
+            "message_id": 8,
+            "user_id": "0001",
+            "speaker": "Human",
+            "message": "What do you think can be done about this persistent issue?"
+        },
+        {
+            "message_id": 9,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "Advocacy and voting for change."
+        },
+        {
+            "message_id": 10,
+            "user_id": "0001",
+            "speaker": "Human",
+            "message": "I don't think voting will stop this as elections are far away. They would have passed the tax cuts for the rich long before that happens."
+        },
+        {
+            "message_id": 11,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "Understandable concern."
+        },
+        {
+            "message_id": 12,
+            "user_id": "0001",
+            "speaker": "Human",
+            "message": "Do you have any better solutions?"
+        },
+        {
+            "message_id": 13,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "Public pressure and protest."
+        },
+        {
+            "message_id": 14,
+            "user_id": "0001",
+            "speaker": "Human",
+            "message": "Public pressure doesn't seem to be doing much to change their ways. I also question the effectiveness of protests as such protests that happened so far had no effect."
+        },
+        {
+            "message_id": 15,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "Collaborate with advocacy groups."
+        },
+        {
+            "message_id": 16,
+            "user_id": "0001",
+            "speaker": "Human",
+            "message": "Which advocacy groups do you suggest for this?"
+        },
+        {
+            "message_id": 17,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "Groups like Americans for Tax Fairness."
+        },
+        {
+            "message_id": 18,
+            "user_id": "0001",
+            "speaker": "Human",
+            "message": "How effective is this group at stopping tax cuts for the rich? Crooked Republicans seem to ram through tax cuts for the rich regardless."
+        },
+        {
+            "message_id": 19,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "They raise awareness and lobby."
+        }
+    ]
+}

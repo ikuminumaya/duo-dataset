@@ -1,0 +1,136 @@
+{
+    "dialogue_id": "0154",
+    "setting": "ed",
+    "model": "Llama-3.1-70B-Instruct",
+    "prompt": "not_aligned",
+    "emotion": "Guilty",
+    "episode": "I stopped watching a streamer I've been watching for months",
+    "subjective_evaluation": {
+        "preference": 2.0,
+        "stylistic_similarity": 2.0,
+        "consistency": 4.0,
+        "empathy": 3.0
+    },
+    "dialogue": [
+        {
+            "message_id": 0,
+            "user_id": "0008",
+            "speaker": "Human",
+            "message": "I quit watching one of my old favorite streamers "
+        },
+        {
+            "message_id": 1,
+            "system_id": "0005",
+            "speaker": "Bot",
+            "message": "What made you stop watching them?"
+        },
+        {
+            "message_id": 2,
+            "user_id": "0008",
+            "speaker": "Human",
+            "message": "It just felt boring to watch them"
+        },
+        {
+            "message_id": 3,
+            "system_id": "0005",
+            "speaker": "Bot",
+            "message": "People can get stale after a while."
+        },
+        {
+            "message_id": 4,
+            "user_id": "0008",
+            "speaker": "Human",
+            "message": "I feel bad about it though"
+        },
+        {
+            "message_id": 5,
+            "system_id": "0005",
+            "speaker": "Bot",
+            "message": "Loyalty is hard to shake off."
+        },
+        {
+            "message_id": 6,
+            "user_id": "0008",
+            "speaker": "Human",
+            "message": "It feels like I've abandoned them"
+        },
+        {
+            "message_id": 7,
+            "system_id": "0005",
+            "speaker": "Bot",
+            "message": "Guilt's a natural part of moving on."
+        },
+        {
+            "message_id": 8,
+            "user_id": "0008",
+            "speaker": "Human",
+            "message": "It feels like I've lost a friend"
+        },
+        {
+            "message_id": 9,
+            "system_id": "0005",
+            "speaker": "Bot",
+            "message": "That's a deep connection to have."
+        },
+        {
+            "message_id": 10,
+            "user_id": "0008",
+            "speaker": "Human",
+            "message": "It feels like I'm just projecting my own issues"
+        },
+        {
+            "message_id": 11,
+            "system_id": "0005",
+            "speaker": "Bot",
+            "message": "Maybe, but feelings are still valid."
+        },
+        {
+            "message_id": 12,
+            "user_id": "0008",
+            "speaker": "Human",
+            "message": "Everyone says that"
+        },
+        {
+            "message_id": 13,
+            "system_id": "0005",
+            "speaker": "Bot",
+            "message": "Clichés often hold truth though."
+        },
+        {
+            "message_id": 14,
+            "user_id": "0008",
+            "speaker": "Human",
+            "message": "I wish I didn't get bored so easily"
+        },
+        {
+            "message_id": 15,
+            "system_id": "0005",
+            "speaker": "Bot",
+            "message": "It's tough to stay engaged sometimes."
+        },
+        {
+            "message_id": 16,
+            "user_id": "0008",
+            "speaker": "Human",
+            "message": "It feels mean to call other people boring"
+        },
+        {
+            "message_id": 17,
+            "system_id": "0005",
+            "speaker": "Bot",
+            "message": "Harsh on them, and on yourself too."
+        },
+        {
+            "message_id": 18,
+            "user_id": "0008",
+            "speaker": "Human",
+            "message": "I miss how it used to be"
+        },
+        {
+            "message_id": 19,
+            "system_id": "0005",
+            "speaker": "Bot",
+            "message": "Nostalgia can be bittersweet."
+        }
+    ]
+}

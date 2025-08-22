@@ -1,0 +1,141 @@
+{
+    "dialogue_id": "1134",
+    "setting": "wow",
+    "model": "Llama-3.1-70B-Instruct",
+    "prompt": "aligned",
+    "topic": "Swimming",
+    "subjective_evaluation": {
+        "preference": 5.0,
+        "stylistic_similarity": 4.0,
+        "consistency": 5.0,
+        "engagingness": 4.0
+    },
+    "dialogue": [
+        {
+            "message_id": 0,
+            "system_id": "0010",
+            "speaker": "Bot",
+            "message": "Hey, wanna chat about swimming?"
+        },
+        {
+            "message_id": 1,
+            "user_id": "0028",
+            "speaker": "Human",
+            "message": "Sure! I love swimming. I'm looking forward to the summer"
+        },
+        {
+            "message_id": 2,
+            "system_id": "0010",
+            "speaker": "Bot",
+            "message": "Yeah, me too! Swimming's such a great way to stay active and have fun, right?"
+        },
+        {
+            "message_id": 3,
+            "user_id": "0028",
+            "speaker": "Human",
+            "message": "It really is, and it is cool that it doesn't put stress on your joints too"
+        },
+        {
+            "message_id": 4,
+            "system_id": "0010",
+            "speaker": "Bot",
+            "message": "Totally! That's one of the best things about swimming, it's low-impact so it's easy on the body."
+        },
+        {
+            "message_id": 5,
+            "user_id": "0028",
+            "speaker": "Human",
+            "message": "Heck yeah. Plus it is really fun and I get to wear a bikini"
+        },
+        {
+            "message_id": 6,
+            "system_id": "0010",
+            "speaker": "Bot",
+            "message": "Love it! Swimming's definitely a great way to enjoy the water and show off your style!"
+        },
+        {
+            "message_id": 7,
+            "user_id": "0028",
+            "speaker": "Human",
+            "message": "Yess I have some of the cutest bikinis that my boyfriend absolutely loves"
+        },
+        {
+            "message_id": 8,
+            "system_id": "0010",
+            "speaker": "Bot",
+            "message": "Aw, that's sweet! He's a lucky guy to have a girlfriend who rocks cute bikinis!"
+        },
+        {
+            "message_id": 9,
+            "user_id": "0028",
+            "speaker": "Human",
+            "message": "LOL he is right by me and he thinks the same thing. He has some pretty cute swimming trunks too"
+        },
+        {
+            "message_id": 10,
+            "system_id": "0010",
+            "speaker": "Bot",
+            "message": "That's awesome! You two make a stylish swimming duo!"
+        },
+        {
+            "message_id": 11,
+            "user_id": "0028",
+            "speaker": "Human",
+            "message": "Absolutely! What are some names of different swimming strokes?"
+        },
+        {
+            "message_id": 12,
+            "system_id": "0010",
+            "speaker": "Bot",
+            "message": "Um, let's see... there's the freestyle, backstroke, breaststroke, and butterfly!"
+        },
+        {
+            "message_id": 13,
+            "user_id": "0028",
+            "speaker": "Human",
+            "message": "What are each of those like?"
+        },
+        {
+            "message_id": 14,
+            "system_id": "0010",
+            "speaker": "Bot",
+            "message": "So, freestyle's like the most common one, where you use alternating arm movements and a flutter kick. Backstroke's where you're on your back and use a scissor-like movement with your arms. Breaststroke's a bit more tricky, with a frog-like kick and your arms moving in a circular motion. And butterfly's like the hardest one, with a dolphin kick and your arms moving in a wide, circular motion!"
+        },
+        {
+            "message_id": 15,
+            "user_id": "0028",
+            "speaker": "Human",
+            "message": "Ahh yeah that makes sense. Is there anything else you wanna share with me on the subject of swimming?"
+        },
+        {
+            "message_id": 16,
+            "system_id": "0010",
+            "speaker": "Bot",
+            "message": "One more thing! Did you know that humans are naturally buoyant in water? Our bodies are only slightly less dense than water, so it's pretty easy to float and swim!"
+        },
+        {
+            "message_id": 17,
+            "user_id": "0028",
+            "speaker": "Human",
+            "message": "Yes! I've noticed that when I'm in the water but I thought it was just because I'm really skinny lol"
+        },
+        {
+            "message_id": 18,
+            "system_id": "0010",
+            "speaker": "Bot",
+            "message": "That's probably part of it too! But yeah, it's actually because of the way our bodies are made, not just because you're skinny!"
+        },
+        {
+            "message_id": 19,
+            "user_id": "0028",
+            "speaker": "Human",
+            "message": "Are fat people more likely to sink?"
+        },
+        {
+            "message_id": 20,
+            "system_id": "0010",
+            "speaker": "Bot",
+            "message": "Actually, it's the opposite! People with more body fat tend to be more buoyant in water, because fat is less dense than muscle. So, they might actually float more easily!"
+        }
+    ]
+}

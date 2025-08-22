@@ -1,0 +1,141 @@
+{
+    "dialogue_id": "1140",
+    "setting": "wow",
+    "model": "Llama-3.1-70B-Instruct",
+    "prompt": "not_aligned",
+    "topic": "Cinematography",
+    "subjective_evaluation": {
+        "preference": 3.0,
+        "stylistic_similarity": 4.0,
+        "consistency": 5.0,
+        "engagingness": 3.0
+    },
+    "dialogue": [
+        {
+            "message_id": 0,
+            "system_id": "0011",
+            "speaker": "Bot",
+            "message": "What would you like to know about cinematography?"
+        },
+        {
+            "message_id": 1,
+            "user_id": "0003",
+            "speaker": "Human",
+            "message": "What is it exactly?"
+        },
+        {
+            "message_id": 2,
+            "system_id": "0011",
+            "speaker": "Bot",
+            "message": "Cinematography is basically the art and science of motion-picture photography."
+        },
+        {
+            "message_id": 3,
+            "user_id": "0003",
+            "speaker": "Human",
+            "message": "Okay.  Where did it originate?"
+        },
+        {
+            "message_id": 4,
+            "system_id": "0011",
+            "speaker": "Bot",
+            "message": "The word \"cinematography\" comes from Greek roots, \"kinema\" meaning movement and \"graphein\" meaning to record."
+        },
+        {
+            "message_id": 5,
+            "user_id": "0003",
+            "speaker": "Human",
+            "message": "What's the history of cinematography?"
+        },
+        {
+            "message_id": 6,
+            "system_id": "0011",
+            "speaker": "Bot",
+            "message": "That's a long story, but I can give you a brief rundown - it's been around since the late 1800s, evolving from film stock to electronic image sensors, and now it's used in all sorts of fields, from entertainment to science."
+        },
+        {
+            "message_id": 7,
+            "user_id": "0003",
+            "speaker": "Human",
+            "message": "I didn't think of it in science.  Can you tell me more about that?"
+        },
+        {
+            "message_id": 8,
+            "system_id": "0011",
+            "speaker": "Bot",
+            "message": "Yeah, cinematography is used in scientific research, like high-speed cameras to study motion, and even in medical imaging, like endoscopy, to visualize the body's internal structures."
+        },
+        {
+            "message_id": 9,
+            "user_id": "0003",
+            "speaker": "Human",
+            "message": "Interesting.  How does someone get a job in the field?"
+        },
+        {
+            "message_id": 10,
+            "system_id": "0011",
+            "speaker": "Bot",
+            "message": "Typically, you'd need a strong foundation in photography, film, and visual arts, and many cinematographers start out as assistants or camera operators on film sets, working their way up."
+        },
+        {
+            "message_id": 11,
+            "user_id": "0003",
+            "speaker": "Human",
+            "message": "Do they need to be liscenced or below to some kind of guild?"
+        },
+        {
+            "message_id": 12,
+            "system_id": "0011",
+            "speaker": "Bot",
+            "message": "In the US, many cinematographers join the International Cinematographers Guild, which provides training, networking, and certification, but it's not necessarily a requirement to be licensed to work in the field."
+        },
+        {
+            "message_id": 13,
+            "user_id": "0003",
+            "speaker": "Human",
+            "message": "What's the average salary for this line of work?"
+        },
+        {
+            "message_id": 14,
+            "system_id": "0011",
+            "speaker": "Bot",
+            "message": "Salaries vary widely, but experienced cinematographers can earn upwards of $100,000 or more per year, depending on the project, location, and industry."
+        },
+        {
+            "message_id": 15,
+            "user_id": "0003",
+            "speaker": "Human",
+            "message": "Who has been the most famous cinematographer?"
+        },
+        {
+            "message_id": 16,
+            "system_id": "0011",
+            "speaker": "Bot",
+            "message": "One legend is Emmanuel Lubezki, known for his work on films like \"Gravity\", \"The Revenant\", and \"Birdman\" - he's won numerous Oscars and is widely regarded as one of the greatest cinematographers of all time."
+        },
+        {
+            "message_id": 17,
+            "user_id": "0003",
+            "speaker": "Human",
+            "message": "Is this considered an art form?"
+        },
+        {
+            "message_id": 18,
+            "system_id": "0011",
+            "speaker": "Bot",
+            "message": "Many people consider cinematography an art form, as it involves creative vision, composition, and lighting to tell a story and evoke emotions, just like painting or music."
+        },
+        {
+            "message_id": 19,
+            "user_id": "0003",
+            "speaker": "Human",
+            "message": "How many cinematographers are there usually on a major motion picture?"
+        },
+        {
+            "message_id": 20,
+            "system_id": "0011",
+            "speaker": "Bot",
+            "message": "Typically, there's just one lead cinematographer, also known as the Director of Photography, who oversees the entire visual look of the film."
+        }
+    ]
+}

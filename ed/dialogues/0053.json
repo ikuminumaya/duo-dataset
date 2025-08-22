@@ -1,0 +1,136 @@
+{
+    "dialogue_id": "0053",
+    "setting": "ed",
+    "model": "gpt-4o",
+    "prompt": "neutral",
+    "emotion": "Content",
+    "episode": "I finally got done moving all of my stuff into my new apartment! This place is amazing, I want to be live here for forever!",
+    "subjective_evaluation": {
+        "preference": 3.0,
+        "stylistic_similarity": 3.0,
+        "consistency": 5.0,
+        "empathy": 5.0
+    },
+    "dialogue": [
+        {
+            "message_id": 0,
+            "user_id": "0027",
+            "speaker": "Human",
+            "message": "I finally got done moving all of my stuff into my new apartment! This place is amazing, I want to be live here for forever!"
+        },
+        {
+            "message_id": 1,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "That's awesome! I'm glad you love your new place!"
+        },
+        {
+            "message_id": 2,
+            "user_id": "0027",
+            "speaker": "Human",
+            "message": "The balcony overlooks the park. I think that's gonna be my hiding spot."
+        },
+        {
+            "message_id": 3,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "Sounds perfect!"
+        },
+        {
+            "message_id": 4,
+            "user_id": "0027",
+            "speaker": "Human",
+            "message": "I love that I can walk to the store and a bunch of restaurants and shops. There is no need for driving or the bus from here. "
+        },
+        {
+            "message_id": 5,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "That's so convenient!"
+        },
+        {
+            "message_id": 6,
+            "user_id": "0027",
+            "speaker": "Human",
+            "message": "I signed a lease for a year. I wish I could buy it. This is the most perfect place I have ever lived."
+        },
+        {
+            "message_id": 7,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "That's wonderful!"
+        },
+        {
+            "message_id": 8,
+            "user_id": "0027",
+            "speaker": "Human",
+            "message": "I have sunflowers in my front yard and that's my favorite flower!"
+        },
+        {
+            "message_id": 9,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "That's beautiful!"
+        },
+        {
+            "message_id": 10,
+            "user_id": "0027",
+            "speaker": "Human",
+            "message": "It really is. I've been sitting here on the balcony for two hours just watching the bikers and hikers go in and out of the park."
+        },
+        {
+            "message_id": 11,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "That sounds so peaceful!"
+        },
+        {
+            "message_id": 12,
+            "user_id": "0027",
+            "speaker": "Human",
+            "message": "I think I'm going to turn into a homebody just because I'm so content here."
+        },
+        {
+            "message_id": 13,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "Sounds cozy!"
+        },
+        {
+            "message_id": 14,
+            "user_id": "0027",
+            "speaker": "Human",
+            "message": "Especially the new couch I bought! It's got those oversized cushions that you just sink into."
+        },
+        {
+            "message_id": 15,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "That sounds so comfy!"
+        },
+        {
+            "message_id": 16,
+            "user_id": "0027",
+            "speaker": "Human",
+            "message": "This is way better than my boyfriends place."
+        },
+        {
+            "message_id": 17,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "I'm glad you love it!"
+        },
+        {
+            "message_id": 18,
+            "user_id": "0027",
+            "speaker": "Human",
+            "message": "I'm wondering what I should do with the spare room. I have a bedroom and an office but there is another room that I haven't decided what to do with yet."
+        },
+        {
+            "message_id": 19,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "Maybe a guest room or a hobby space?"
+        }
+    ]
+}

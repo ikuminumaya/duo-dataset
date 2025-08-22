@@ -1,0 +1,141 @@
+{
+    "dialogue_id": "1121",
+    "setting": "wow",
+    "model": "Llama-3.1-70B-Instruct",
+    "prompt": "neutral",
+    "topic": "Poodle",
+    "subjective_evaluation": {
+        "preference": 5.0,
+        "stylistic_similarity": 3.0,
+        "consistency": 5.0,
+        "engagingness": 5.0
+    },
+    "dialogue": [
+        {
+            "message_id": 0,
+            "system_id": "0009",
+            "speaker": "Bot",
+            "message": "Hi! I'm excited to talk about poodles, have you ever had one as a pet?"
+        },
+        {
+            "message_id": 1,
+            "user_id": "0007",
+            "speaker": "Human",
+            "message": "I have never had a poodle.  It always seemed like it would be a lot of work to take care of their fur."
+        },
+        {
+            "message_id": 2,
+            "system_id": "0009",
+            "speaker": "Bot",
+            "message": "That's true, poodles do require regular grooming, but they're also highly intelligent and skilled in many dog sports and activities."
+        },
+        {
+            "message_id": 3,
+            "user_id": "0007",
+            "speaker": "Human",
+            "message": "My friend had a poodle.   It definitely seemed to be intelligent.  It knew a lot of complicated tricks. "
+        },
+        {
+            "message_id": 4,
+            "system_id": "0009",
+            "speaker": "Bot",
+            "message": "Poodles are indeed one of the smartest dog breeds, ranked second only to Border Collies in intelligence."
+        },
+        {
+            "message_id": 5,
+            "user_id": "0007",
+            "speaker": "Human",
+            "message": "Do you know if Shetland Sheepdogs are as smart as Border Collies?"
+        },
+        {
+            "message_id": 6,
+            "system_id": "0009",
+            "speaker": "Bot",
+            "message": "I don't have that info, but I can tell you that poodles are very close to Border Collies in terms of intelligence, and they're often skilled in agility and obedience."
+        },
+        {
+            "message_id": 7,
+            "user_id": "0007",
+            "speaker": "Human",
+            "message": "Aren't border collies used by shepherds a lot to tend to their animals? "
+        },
+        {
+            "message_id": 8,
+            "system_id": "0009",
+            "speaker": "Bot",
+            "message": "Border Collies are often used as herding dogs, and their intelligence and agility make them well-suited for that work. Poodles, on the other hand, were originally bred as water dogs."
+        },
+        {
+            "message_id": 9,
+            "user_id": "0007",
+            "speaker": "Human",
+            "message": "That's interesting.  Did poodles originally help people to find water?  Or did they carry water for people? "
+        },
+        {
+            "message_id": 10,
+            "system_id": "0009",
+            "speaker": "Bot",
+            "message": "No, poodles were actually used to help hunt waterfowl, such as ducks, and would retrieve game from the water."
+        },
+        {
+            "message_id": 11,
+            "user_id": "0007",
+            "speaker": "Human",
+            "message": "I didn't know that.  I have always associated poodles with being pampered.  I never imagined that they were used as hunting dogs."
+        },
+        {
+            "message_id": 12,
+            "system_id": "0009",
+            "speaker": "Bot",
+            "message": "That's a common misconception! Poodles have a long history of being working dogs, and their original purpose was quite different from the pampered pets we often think of today."
+        },
+        {
+            "message_id": 13,
+            "user_id": "0007",
+            "speaker": "Human",
+            "message": "Do you know when poodles were first bred as pets?"
+        },
+        {
+            "message_id": 14,
+            "system_id": "0009",
+            "speaker": "Bot",
+            "message": "I'm not sure of the exact timeline, but I do know that poodles have a long and disputed history, with some sources tracing their origins back to Germany and others to France."
+        },
+        {
+            "message_id": 15,
+            "user_id": "0007",
+            "speaker": "Human",
+            "message": "I see.  It's interesting to learn about how current dog breeds came to be.  Do all dogs originate from wolves?"
+        },
+        {
+            "message_id": 16,
+            "system_id": "0009",
+            "speaker": "Bot",
+            "message": "That's a topic for another time, but yes, most scientists agree that dogs were domesticated from gray wolves thousands of years ago."
+        },
+        {
+            "message_id": 17,
+            "user_id": "0007",
+            "speaker": "Human",
+            "message": "What is the most popular breed of poodle?  Is it the French Poodle?"
+        },
+        {
+            "message_id": 18,
+            "system_id": "0009",
+            "speaker": "Bot",
+            "message": "Actually, there's no such thing as a \"French Poodle\" breed, but rather, poodles originated in Germany and were also developed in France. As for popularity, I think the Toy Poodle, Miniature Poodle, and Standard Poodle are all well-known and popular in their own right!"
+        },
+        {
+            "message_id": 19,
+            "user_id": "0007",
+            "speaker": "Human",
+            "message": "Which poodle breed is smaller: toy poodles or miniature poodles? "
+        },
+        {
+            "message_id": 20,
+            "system_id": "0009",
+            "speaker": "Bot",
+            "message": "Toy Poodles are the smallest of the three breeds, even smaller than Miniature Poodles."
+        }
+    ]
+}

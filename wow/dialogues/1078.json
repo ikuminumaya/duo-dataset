@@ -1,0 +1,141 @@
+{
+    "dialogue_id": "1078",
+    "setting": "wow",
+    "model": "gpt-4o",
+    "prompt": "aligned",
+    "topic": "Autonomous car",
+    "subjective_evaluation": {
+        "preference": 5.0,
+        "stylistic_similarity": 5.0,
+        "consistency": 5.0,
+        "engagingness": 5.0
+    },
+    "dialogue": [
+        {
+            "message_id": 0,
+            "system_id": "0007",
+            "speaker": "Bot",
+            "message": "Autonomous cars can drive themselves by sensing their environment using techniques like radar, GPS, and computer vision."
+        },
+        {
+            "message_id": 1,
+            "user_id": "0035",
+            "speaker": "Human",
+            "message": "That is amazing. Are they safe?"
+        },
+        {
+            "message_id": 2,
+            "system_id": "0007",
+            "speaker": "Bot",
+            "message": "Autonomous cars have the potential to be really safe, with fewer traffic collisions and injuries, thanks to their advanced sensing and control systems."
+        },
+        {
+            "message_id": 3,
+            "user_id": "0035",
+            "speaker": "Human",
+            "message": "Are there more or less accidents with humans driving or a autonomous vehicle? "
+        },
+        {
+            "message_id": 4,
+            "system_id": "0007",
+            "speaker": "Bot",
+            "message": "Autonomous cars are expected to have fewer accidents than human drivers due to their advanced sensing and control systems."
+        },
+        {
+            "message_id": 5,
+            "user_id": "0035",
+            "speaker": "Human",
+            "message": "That sounds fantastic. That is a good thing. I know many people are careless when they drive so this will be an improvement. "
+        },
+        {
+            "message_id": 6,
+            "system_id": "0007",
+            "speaker": "Bot",
+            "message": "Yeah, autonomous cars can help reduce accidents, lower costs, and even make driving easier for people who can't drive themselves."
+        },
+        {
+            "message_id": 7,
+            "user_id": "0035",
+            "speaker": "Human",
+            "message": "That is true many more people will be able to rely on these vehicles."
+        },
+        {
+            "message_id": 8,
+            "system_id": "0007",
+            "speaker": "Bot",
+            "message": "Absolutely, autonomous cars can offer increased mobility for many, including children, the elderly, and those with disabilities."
+        },
+        {
+            "message_id": 9,
+            "user_id": "0035",
+            "speaker": "Human",
+            "message": "Wonderful! When do you think we will see regular usage of these vehicles? "
+        },
+        {
+            "message_id": 10,
+            "system_id": "0007",
+            "speaker": "Bot",
+            "message": "Widespread use of autonomous cars could be a few years away, as technology continues to develop and regulatory hurdles are addressed."
+        },
+        {
+            "message_id": 11,
+            "user_id": "0035",
+            "speaker": "Human",
+            "message": "I am looking forward to that time. I personally hate driving so I would use this type of vehicle. "
+        },
+        {
+            "message_id": 12,
+            "system_id": "0007",
+            "speaker": "Bot",
+            "message": "It's great to hear you're excited, and as the technology improves, autonomous cars will make driving a lot more convenient and stress-free for people like you!"
+        },
+        {
+            "message_id": 13,
+            "user_id": "0035",
+            "speaker": "Human",
+            "message": "I can't wait! Will they cost more than regular vehicles?"
+        },
+        {
+            "message_id": 14,
+            "system_id": "0007",
+            "speaker": "Bot",
+            "message": "Initially, autonomous cars might cost more due to advanced technology, but prices may decrease over time as they become more common."
+        },
+        {
+            "message_id": 15,
+            "user_id": "0035",
+            "speaker": "Human",
+            "message": "Yes, that is what will happen. Do you think many people will use these cars? "
+        },
+        {
+            "message_id": 16,
+            "system_id": "0007",
+            "speaker": "Bot",
+            "message": "Many people are expected to use autonomous cars due to their potential benefits, like increased safety and convenience."
+        },
+        {
+            "message_id": 17,
+            "user_id": "0035",
+            "speaker": "Human",
+            "message": "It is a whole new thing. Eventually it will be a common thing. I think that this is almost futuristic. However we are living it now. "
+        },
+        {
+            "message_id": 18,
+            "system_id": "0007",
+            "speaker": "Bot",
+            "message": "Yeah, it does feel like something out of a sci-fi movie, but we're living in exciting times where autonomous cars could soon become a common sight on the roads!"
+        },
+        {
+            "message_id": 19,
+            "user_id": "0035",
+            "speaker": "Human",
+            "message": "What companies make these cars now?"
+        },
+        {
+            "message_id": 20,
+            "system_id": "0007",
+            "speaker": "Bot",
+            "message": "Companies like Tesla, Waymo, and GM are leading the charge in developing autonomous cars."
+        }
+    ]
+}

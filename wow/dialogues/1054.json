@@ -1,0 +1,141 @@
+{
+    "dialogue_id": "1054",
+    "setting": "wow",
+    "model": "gpt-4o",
+    "prompt": "neutral",
+    "topic": "Kiss",
+    "subjective_evaluation": {
+        "preference": 4.0,
+        "stylistic_similarity": 4.0,
+        "consistency": 5.0,
+        "engagingness": 3.0
+    },
+    "dialogue": [
+        {
+            "message_id": 0,
+            "system_id": "0006",
+            "speaker": "Bot",
+            "message": "A kiss can express a wide range of emotions and meanings, from love and affection to respect and greeting, depending on the cultural context."
+        },
+        {
+            "message_id": 1,
+            "user_id": "0005",
+            "speaker": "Human",
+            "message": "Do all cultures feel the same about kissing?"
+        },
+        {
+            "message_id": 2,
+            "system_id": "0006",
+            "speaker": "Bot",
+            "message": "Cultural connotations of kissing vary widely, with some cultures embracing it as a sign of affection or greeting, while others may not practice it at all."
+        },
+        {
+            "message_id": 3,
+            "user_id": "0005",
+            "speaker": "Human",
+            "message": "What culture greets others with a kiss on the cheek?"
+        },
+        {
+            "message_id": 4,
+            "system_id": "0006",
+            "speaker": "Bot",
+            "message": "In many European and Latin American cultures, greeting someone with a kiss on the cheek is a common practice."
+        },
+        {
+            "message_id": 5,
+            "user_id": "0005",
+            "speaker": "Human",
+            "message": "Did that change any after COVID?"
+        },
+        {
+            "message_id": 6,
+            "system_id": "0006",
+            "speaker": "Bot",
+            "message": "After COVID, some cultures became more cautious about physical greetings like kissing on the cheek, opting for alternatives like elbow bumps or waves."
+        },
+        {
+            "message_id": 7,
+            "user_id": "0005",
+            "speaker": "Human",
+            "message": "Did they return to the kiss on the cheek?"
+        },
+        {
+            "message_id": 8,
+            "system_id": "0006",
+            "speaker": "Bot",
+            "message": "While some people have returned to greeting with a kiss on the cheek, others remain cautious and prefer less contact-intensive greetings."
+        },
+        {
+            "message_id": 9,
+            "user_id": "0005",
+            "speaker": "Human",
+            "message": "Is is acceptable by all cultures for mothers to kiss sons and fathers to kiss daughters?"
+        },
+        {
+            "message_id": 10,
+            "system_id": "0006",
+            "speaker": "Bot",
+            "message": "Cultural norms regarding parents kissing their children can vary, but it is generally acceptable in many cultures for mothers to kiss sons and fathers to kiss daughters as a sign of affection."
+        },
+        {
+            "message_id": 11,
+            "user_id": "0005",
+            "speaker": "Human",
+            "message": "At what age do children get embarrassed by a kiss from their parents?"
+        },
+        {
+            "message_id": 12,
+            "system_id": "0006",
+            "speaker": "Bot",
+            "message": "Children often start feeling embarrassed by parental kisses during their pre-teen or early teenage years, though this can vary individually."
+        },
+        {
+            "message_id": 13,
+            "user_id": "0005",
+            "speaker": "Human",
+            "message": "Oh, I thought it was earlier, like before out of elementary school."
+        },
+        {
+            "message_id": 14,
+            "system_id": "0006",
+            "speaker": "Bot",
+            "message": "Children's embarrassment about parental kisses can vary, but it often starts in the pre-teen years, although some may feel it earlier."
+        },
+        {
+            "message_id": 15,
+            "user_id": "0005",
+            "speaker": "Human",
+            "message": "The years where kids get a kiss before getting on the bus are so cute really."
+        },
+        {
+            "message_id": 16,
+            "system_id": "0006",
+            "speaker": "Bot",
+            "message": "Those moments are indeed precious, and anthropologists even debate whether our instinct to kiss is natural or evolved from practices like \"kiss feeding\" between mothers and infants."
+        },
+        {
+            "message_id": 17,
+            "user_id": "0005",
+            "speaker": "Human",
+            "message": "What is kiss feeding?"
+        },
+        {
+            "message_id": 18,
+            "system_id": "0006",
+            "speaker": "Bot",
+            "message": "Kiss feeding is a process where mothers feed their infants by passing chewed food directly into their mouths."
+        },
+        {
+            "message_id": 19,
+            "user_id": "0005",
+            "speaker": "Human",
+            "message": "That is nasty."
+        },
+        {
+            "message_id": 20,
+            "system_id": "0006",
+            "speaker": "Bot",
+            "message": "I understand how it might sound unappealing, but kiss feeding is thought by some anthropologists to be an ancestral practice that evolved into the kiss."
+        }
+    ]
+}

@@ -1,0 +1,162 @@
+{
+    "dialogue_id": "0018",
+    "setting": "ed",
+    "model": "gpt-4o",
+    "prompt": "aligned",
+    "emotion": "Hopeful",
+    "episode": "I paid a lot of money for people to fix up the yard. It looks presentable for the first time in years.",
+    "objective_evaluation": {
+        "preference": 4.33,
+        "stylistic_similarity": 4.33,
+        "consistency": 5.0,
+        "empathy": 4.33,
+        "preference_scores": [
+            4.0,
+            4.0,
+            5.0
+        ],
+        "stylistic_similarity_scores": [
+            4.0,
+            4.0,
+            5.0
+        ],
+        "consistency_scores": [
+            5.0,
+            5.0,
+            5.0
+        ],
+        "empathy_scores": [
+            4.0,
+            4.0,
+            5.0
+        ]
+    },
+    "subjective_evaluation": {
+        "preference": 4.0,
+        "stylistic_similarity": 3.0,
+        "consistency": 4.0,
+        "empathy": 4.0
+    },
+    "dialogue": [
+        {
+            "message_id": 0,
+            "user_id": "0017",
+            "speaker": "Human",
+            "message": "I'm finally hopeful about my front yard. I neglected it for years, but I hired some people to fix it up and it looks great."
+        },
+        {
+            "message_id": 1,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "That's awesome! It's amazing what a little help can do. How does it feel to see it all spruced up?"
+        },
+        {
+            "message_id": 2,
+            "user_id": "0017",
+            "speaker": "Human",
+            "message": "It feels good. Its got me motivated to keep at it and fix up the rest now."
+        },
+        {
+            "message_id": 3,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "That's the spirit! Keep that momentum going!"
+        },
+        {
+            "message_id": 4,
+            "user_id": "0017",
+            "speaker": "Human",
+            "message": "The only problem is how expensive it was. I hope I can figure out how to do this stuff myself from now on."
+        },
+        {
+            "message_id": 5,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "I get that, it can add up. Maybe some DIY videos could help you out!"
+        },
+        {
+            "message_id": 6,
+            "user_id": "0017",
+            "speaker": "Human",
+            "message": "Yeah, I'll have to look some up. But now I have a nice yard like my neighbors."
+        },
+        {
+            "message_id": 7,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "That's awesome, congrats! Enjoy it!"
+        },
+        {
+            "message_id": 8,
+            "user_id": "0017",
+            "speaker": "Human",
+            "message": "Thanks. Now I don't have to worry about the neighbors being mad at me either. They're all hyper focused on perfect lawns."
+        },
+        {
+            "message_id": 9,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "That's a relief! Enjoy fitting in."
+        },
+        {
+            "message_id": 10,
+            "user_id": "0017",
+            "speaker": "Human",
+            "message": "I will. What else should I do to make it look nice? right now its just a regular lawn."
+        },
+        {
+            "message_id": 11,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "Maybe add some flowers or a small garden?"
+        },
+        {
+            "message_id": 12,
+            "user_id": "0017",
+            "speaker": "Human",
+            "message": "Too much upkeep required."
+        },
+        {
+            "message_id": 13,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "Got it, maybe some low-maintenance shrubs or decorative rocks?"
+        },
+        {
+            "message_id": 14,
+            "user_id": "0017",
+            "speaker": "Human",
+            "message": "Are there such things as low maintenance shrubs?"
+        },
+        {
+            "message_id": 15,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "Yep, there are!"
+        },
+        {
+            "message_id": 16,
+            "user_id": "0017",
+            "speaker": "Human",
+            "message": "Like what?"
+        },
+        {
+            "message_id": 17,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "Like boxwood or junipers."
+        },
+        {
+            "message_id": 18,
+            "user_id": "0017",
+            "speaker": "Human",
+            "message": "Never heard of them. What about fake plants?"
+        },
+        {
+            "message_id": 19,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "Fake plants could work! Low effort, still looks good."
+        }
+    ]
+}

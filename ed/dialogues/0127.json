@@ -1,0 +1,136 @@
+{
+    "dialogue_id": "0127",
+    "setting": "ed",
+    "model": "Llama-3.1-70B-Instruct",
+    "prompt": "aligned",
+    "emotion": "Disgusted",
+    "episode": "I saw someone throwing garbage on road.",
+    "subjective_evaluation": {
+        "preference": 4.0,
+        "stylistic_similarity": 4.0,
+        "consistency": 4.0,
+        "empathy": 5.0
+    },
+    "dialogue": [
+        {
+            "message_id": 0,
+            "user_id": "0023",
+            "speaker": "Human",
+            "message": "I saw someone throwing garbage on road."
+        },
+        {
+            "message_id": 1,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "That's disgusting!"
+        },
+        {
+            "message_id": 2,
+            "user_id": "0023",
+            "speaker": "Human",
+            "message": "yeah, it is. Not sure why people behave like this"
+        },
+        {
+            "message_id": 3,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "Lack of awareness, I guess."
+        },
+        {
+            "message_id": 4,
+            "user_id": "0023",
+            "speaker": "Human",
+            "message": "or may be being careless."
+        },
+        {
+            "message_id": 5,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "Some people just don't think about the impact."
+        },
+        {
+            "message_id": 6,
+            "user_id": "0023",
+            "speaker": "Human",
+            "message": "These people should feel ashamed of what they do."
+        },
+        {
+            "message_id": 7,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "They definitely should."
+        },
+        {
+            "message_id": 8,
+            "user_id": "0023",
+            "speaker": "Human",
+            "message": "but they don't and keep throwing garbage everywhere."
+        },
+        {
+            "message_id": 9,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "It's really frustrating."
+        },
+        {
+            "message_id": 10,
+            "user_id": "0023",
+            "speaker": "Human",
+            "message": "how do we change them?"
+        },
+        {
+            "message_id": 11,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "That's the million-dollar question."
+        },
+        {
+            "message_id": 12,
+            "user_id": "0023",
+            "speaker": "Human",
+            "message": "any solution you can offer?"
+        },
+        {
+            "message_id": 13,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "Raise awareness, maybe?"
+        },
+        {
+            "message_id": 14,
+            "user_id": "0023",
+            "speaker": "Human",
+            "message": "and how do we do that?"
+        },
+        {
+            "message_id": 15,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "Social media campaigns, perhaps?"
+        },
+        {
+            "message_id": 16,
+            "user_id": "0023",
+            "speaker": "Human",
+            "message": "that can help in some cases but mostly these kind of people won't care about such campaigns"
+        },
+        {
+            "message_id": 17,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "Harsher penalties might work then."
+        },
+        {
+            "message_id": 18,
+            "user_id": "0023",
+            "speaker": "Human",
+            "message": "that is something can change such people. I hope govt strictly follow that."
+        },
+        {
+            "message_id": 19,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "Stricter laws can be a deterrent."
+        }
+    ]
+}

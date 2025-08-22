@@ -1,0 +1,136 @@
+{
+    "dialogue_id": "0153",
+    "setting": "ed",
+    "model": "Llama-3.1-70B-Instruct",
+    "prompt": "not_aligned",
+    "emotion": "Jealous",
+    "episode": "I was golfing with my friend and he was playing much better than me so I was jealous.",
+    "subjective_evaluation": {
+        "preference": 2.0,
+        "stylistic_similarity": 5.0,
+        "consistency": 4.0,
+        "empathy": 1.0
+    },
+    "dialogue": [
+        {
+            "message_id": 0,
+            "user_id": "0012",
+            "speaker": "Human",
+            "message": "Hi how's it going"
+        },
+        {
+            "message_id": 1,
+            "system_id": "0005",
+            "speaker": "Bot",
+            "message": "Not bad, just a bit anxious about this court thing"
+        },
+        {
+            "message_id": 2,
+            "user_id": "0012",
+            "speaker": "Human",
+            "message": "court thing?"
+        },
+        {
+            "message_id": 3,
+            "system_id": "0005",
+            "speaker": "Bot",
+            "message": "I have to go to court soon and I'm really worried about the outcome."
+        },
+        {
+            "message_id": 4,
+            "user_id": "0012",
+            "speaker": "Human",
+            "message": "wow sorry to hear that"
+        },
+        {
+            "message_id": 5,
+            "system_id": "0005",
+            "speaker": "Bot",
+            "message": "Thanks, I'm pretty freaked out"
+        },
+        {
+            "message_id": 6,
+            "user_id": "0012",
+            "speaker": "Human",
+            "message": "any way so I was out golfing the other day"
+        },
+        {
+            "message_id": 7,
+            "system_id": "0005",
+            "speaker": "Bot",
+            "message": "Wait, isn't that a bit of a mood switch?"
+        },
+        {
+            "message_id": 8,
+            "user_id": "0012",
+            "speaker": "Human",
+            "message": "oh sorry did you have more to say"
+        },
+        {
+            "message_id": 9,
+            "system_id": "0005",
+            "speaker": "Bot",
+            "message": "Yeah, I was in the middle of venting about court"
+        },
+        {
+            "message_id": 10,
+            "user_id": "0012",
+            "speaker": "Human",
+            "message": "well I thought a good way to get over something is to switch your attention"
+        },
+        {
+            "message_id": 11,
+            "system_id": "0005",
+            "speaker": "Bot",
+            "message": "I guess you're right, but I'm still stuck on this court thing"
+        },
+        {
+            "message_id": 12,
+            "user_id": "0012",
+            "speaker": "Human",
+            "message": "okay it"
+        },
+        {
+            "message_id": 13,
+            "system_id": "0005",
+            "speaker": "Bot",
+            "message": "Can we please focus on my court anxiety for a sec?"
+        },
+        {
+            "message_id": 14,
+            "user_id": "0012",
+            "speaker": "Human",
+            "message": "okay so it's not a big deal"
+        },
+        {
+            "message_id": 15,
+            "system_id": "0005",
+            "speaker": "Bot",
+            "message": "Are you kidding me? It's a huge deal to me!"
+        },
+        {
+            "message_id": 16,
+            "user_id": "0012",
+            "speaker": "Human",
+            "message": "how long will you be going to prison for?"
+        },
+        {
+            "message_id": 17,
+            "system_id": "0005",
+            "speaker": "Bot",
+            "message": "I don't know, that's what's killing me..."
+        },
+        {
+            "message_id": 18,
+            "user_id": "0012",
+            "speaker": "Human",
+            "message": "you have a defeatist attitude"
+        },
+        {
+            "message_id": 19,
+            "system_id": "0005",
+            "speaker": "Bot",
+            "message": "Thanks for the support... not."
+        }
+    ]
+}

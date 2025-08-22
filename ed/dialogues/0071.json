@@ -1,0 +1,136 @@
+{
+    "dialogue_id": "0071",
+    "setting": "ed",
+    "model": "gpt-4o",
+    "prompt": "aligned",
+    "emotion": "Annoyed",
+    "episode": "I pre-ordered some new skates.  Now, with the new tariffs on Chinese goods, the price is probably going to increase dramatically or they simply might not get imported until these tariffs can come down to a more realistic number.",
+    "subjective_evaluation": {
+        "preference": 2.0,
+        "stylistic_similarity": 3.0,
+        "consistency": 5.0,
+        "empathy": 3.0
+    },
+    "dialogue": [
+        {
+            "message_id": 0,
+            "user_id": "0020",
+            "speaker": "Human",
+            "message": "These new tariffs are annoying!  I have no idea what's going to happen to the skates I pre-ordered last month."
+        },
+        {
+            "message_id": 1,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "That sounds frustrating! I hope it doesn't affect your order too much."
+        },
+        {
+            "message_id": 2,
+            "user_id": "0020",
+            "speaker": "Human",
+            "message": "I guess no one is sure yet, but they will probably either cost twice as much or they will be put on hold since importing fees will just be too high."
+        },
+        {
+            "message_id": 3,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "That totally sucks! I hope it works out somehow."
+        },
+        {
+            "message_id": 4,
+            "user_id": "0020",
+            "speaker": "Human",
+            "message": "I wonder if anything like this has happened before and how it turned out in the end.  Do you know of anything?"
+        },
+        {
+            "message_id": 5,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "I can't think of any specific cases right now, but changes like these can definitely cause delays and price changes. Hope it resolves soon!"
+        },
+        {
+            "message_id": 6,
+            "user_id": "0020",
+            "speaker": "Human",
+            "message": "I do too.  These tariffs are totally crazy, especially when no one was given any time to prepare."
+        },
+        {
+            "message_id": 7,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "Yeah, it's really unfair when things like this happen without warning."
+        },
+        {
+            "message_id": 8,
+            "user_id": "0020",
+            "speaker": "Human",
+            "message": "I would be losing my mind if I was a small business owner.  I feel really bad for them."
+        },
+        {
+            "message_id": 9,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "Totally! It must be super stressful for them."
+        },
+        {
+            "message_id": 10,
+            "user_id": "0020",
+            "speaker": "Human",
+            "message": "I mean I'm pretty annoyed about it and the worst that will happen is I end up paying a bit more.  Some people could lose their entire businesses."
+        },
+        {
+            "message_id": 11,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "It's rough. Hope things settle soon."
+        },
+        {
+            "message_id": 12,
+            "user_id": "0020",
+            "speaker": "Human",
+            "message": "I wonder if there are any workarounds, like shipping the goods to another country that has lower fees, then shipping them here."
+        },
+        {
+            "message_id": 13,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "That's a smart thought! Might be an option to explore."
+        },
+        {
+            "message_id": 14,
+            "user_id": "0020",
+            "speaker": "Human",
+            "message": "Yeah I don't really know how all this works.  But if that's a solution, it almost makes the tariffs more annoying since it just creates extra hoops to jump through."
+        },
+        {
+            "message_id": 15,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "Totally agree. It's just needless hassle!"
+        },
+        {
+            "message_id": 16,
+            "user_id": "0020",
+            "speaker": "Human",
+            "message": "It really is.  None of this needed to happen right now.  It all seems so random and arbitrary."
+        },
+        {
+            "message_id": 17,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "Absolutely, it's frustratingly random."
+        },
+        {
+            "message_id": 18,
+            "user_id": "0020",
+            "speaker": "Human",
+            "message": "We can't just start making everything in the USA overnight.  It's incredibly frustrating."
+        },
+        {
+            "message_id": 19,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "Totally get it, it's a tough situation."
+        }
+    ]
+}

@@ -1,0 +1,141 @@
+{
+    "dialogue_id": "1099",
+    "setting": "wow",
+    "model": "gpt-4o",
+    "prompt": "not_aligned",
+    "topic": "Obsessive–compulsive disorder",
+    "subjective_evaluation": {
+        "preference": 3.0,
+        "stylistic_similarity": 4.0,
+        "consistency": 4.0,
+        "engagingness": 3.0
+    },
+    "dialogue": [
+        {
+            "message_id": 0,
+            "system_id": "0008",
+            "speaker": "Bot",
+            "message": "OCD is a mental disorder where people feel compelled to repeat certain actions or thoughts, often impacting their daily lives significantly."
+        },
+        {
+            "message_id": 1,
+            "user_id": "0030",
+            "speaker": "Human",
+            "message": "That's got to be hard to live with."
+        },
+        {
+            "message_id": 2,
+            "system_id": "0008",
+            "speaker": "Bot",
+            "message": "Yeah, it can really interfere with daily life, and people with OCD often know the behaviors don't make sense but find it hard to stop."
+        },
+        {
+            "message_id": 3,
+            "user_id": "0030",
+            "speaker": "Human",
+            "message": "I can understand that.  I suffer from trichotillomania"
+        },
+        {
+            "message_id": 4,
+            "system_id": "0008",
+            "speaker": "Bot",
+            "message": "Trichotillomania can be quite challenging too, as it's related to OCD and involves compulsive hair pulling, often triggered by stress or anxiety."
+        },
+        {
+            "message_id": 5,
+            "user_id": "0030",
+            "speaker": "Human",
+            "message": "I think a lot of people view OCD is just needing to be overly clean or that things have to be in a certain order like nothing can be out of place physically."
+        },
+        {
+            "message_id": 6,
+            "system_id": "0008",
+            "speaker": "Bot",
+            "message": "OCD is often misunderstood as just being overly clean or organized, but it actually involves repetitive thoughts and rituals that can take up a lot of time and impact daily life."
+        },
+        {
+            "message_id": 7,
+            "user_id": "0030",
+            "speaker": "Human",
+            "message": "So more than just counting numbers or checking the taps or stove burners?"
+        },
+        {
+            "message_id": 8,
+            "system_id": "0008",
+            "speaker": "Bot",
+            "message": "OCD involves much more than just counting or checking; it can include a range of repetitive thoughts and activities, like difficulty discarding items, that deeply affect daily life."
+        },
+        {
+            "message_id": 9,
+            "user_id": "0030",
+            "speaker": "Human",
+            "message": "I didn't know hoarding was a form of OCD"
+        },
+        {
+            "message_id": 10,
+            "system_id": "0008",
+            "speaker": "Bot",
+            "message": "Hoarding can sometimes be related to OCD, where people struggle to throw things out, affecting their daily lives."
+        },
+        {
+            "message_id": 11,
+            "user_id": "0030",
+            "speaker": "Human",
+            "message": "When did OCD become a recognized condition?"
+        },
+        {
+            "message_id": 12,
+            "system_id": "0008",
+            "speaker": "Bot",
+            "message": "OCD was recognized as a distinct condition in the late 19th and early 20th centuries, though understanding has evolved significantly over time."
+        },
+        {
+            "message_id": 13,
+            "user_id": "0030",
+            "speaker": "Human",
+            "message": "I wonder how many people are affected by OCD"
+        },
+        {
+            "message_id": 14,
+            "system_id": "0008",
+            "speaker": "Bot",
+            "message": "OCD affects about 1-2% of the population, making it quite common."
+        },
+        {
+            "message_id": 15,
+            "user_id": "0030",
+            "speaker": "Human",
+            "message": "That doesn't seem like a lot of people"
+        },
+        {
+            "message_id": 16,
+            "system_id": "0008",
+            "speaker": "Bot",
+            "message": "Even though 1-2% seems small, it actually translates to millions of people worldwide dealing with OCD."
+        },
+        {
+            "message_id": 17,
+            "user_id": "0030",
+            "speaker": "Human",
+            "message": "That makes sense.  Do scientists think its genetic?"
+        },
+        {
+            "message_id": 18,
+            "system_id": "0008",
+            "speaker": "Bot",
+            "message": "Yes, there seems to be a genetic component, as identical twins are more likely to both have OCD than non-identical twins."
+        },
+        {
+            "message_id": 19,
+            "user_id": "0030",
+            "speaker": "Human",
+            "message": "Is it something that can be passed to our children naturally?"
+        },
+        {
+            "message_id": 20,
+            "system_id": "0008",
+            "speaker": "Bot",
+            "message": "While the exact cause is unknown, there is evidence suggesting that OCD can have genetic components, meaning it might be passed down in families."
+        }
+    ]
+}

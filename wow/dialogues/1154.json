@@ -1,0 +1,141 @@
+{
+    "dialogue_id": "1154",
+    "setting": "wow",
+    "model": "Llama-3.1-70B-Instruct",
+    "prompt": "not_aligned",
+    "topic": "Sushi",
+    "subjective_evaluation": {
+        "preference": 5.0,
+        "stylistic_similarity": 4.0,
+        "consistency": 5.0,
+        "engagingness": 4.0
+    },
+    "dialogue": [
+        {
+            "message_id": 0,
+            "system_id": "0011",
+            "speaker": "Bot",
+            "message": "Hey, have you ever tried sushi with brown rice?"
+        },
+        {
+            "message_id": 1,
+            "user_id": "0002",
+            "speaker": "Human",
+            "message": "No I have never even tried sushi"
+        },
+        {
+            "message_id": 2,
+            "system_id": "0011",
+            "speaker": "Bot",
+            "message": "Whoa, you're in for a treat! Sushi's amazing, especially with wasabi and soy sauce"
+        },
+        {
+            "message_id": 3,
+            "user_id": "0002",
+            "speaker": "Human",
+            "message": "I just always think it sounds disgusting. but other people do seem to love it"
+        },
+        {
+            "message_id": 4,
+            "system_id": "0011",
+            "speaker": "Bot",
+            "message": "Haha, I get it, raw fish can be a turn-off, but trust me, it's a game-changer, and there's veggie options too!"
+        },
+        {
+            "message_id": 5,
+            "user_id": "0002",
+            "speaker": "Human",
+            "message": "Maybe I'll give it a try sometime. Does it actually taste good?"
+        },
+        {
+            "message_id": 6,
+            "system_id": "0011",
+            "speaker": "Bot",
+            "message": "Totally! It's got this perfect balance of sour and savory flavors, it's hard to describe, but it's addictive!"
+        },
+        {
+            "message_id": 7,
+            "user_id": "0002",
+            "speaker": "Human",
+            "message": "Alright. I'll try it maybe. I really like spicy foods so maybe some spicy sushi would be good"
+        },
+        {
+            "message_id": 8,
+            "system_id": "0011",
+            "speaker": "Bot",
+            "message": "Spicy sushi is a great idea! Wasabi's got a nice kick, and some rolls have spicy tuna or mayo that'll set your taste buds on fire"
+        },
+        {
+            "message_id": 9,
+            "user_id": "0002",
+            "speaker": "Human",
+            "message": "Wasabi can be intense!"
+        },
+        {
+            "message_id": 10,
+            "system_id": "0011",
+            "speaker": "Bot",
+            "message": "Right?! It's like a punch in the face, but in a good way, it wakes up your senses!"
+        },
+        {
+            "message_id": 11,
+            "user_id": "0002",
+            "speaker": "Human",
+            "message": "I bet that would be interesting"
+        },
+        {
+            "message_id": 12,
+            "system_id": "0011",
+            "speaker": "Bot",
+            "message": "Definitely! And it's weird, but the heat from wasabi makes the flavors of the sushi pop even more"
+        },
+        {
+            "message_id": 13,
+            "user_id": "0002",
+            "speaker": "Human",
+            "message": "I have heard that. Maybe I need to go outside my comfort zone and give it a go"
+        },
+        {
+            "message_id": 14,
+            "system_id": "0011",
+            "speaker": "Bot",
+            "message": "Exactly! You never know, you might just discover a new favorite food, and who knows, you might be hooked on sushi like I am"
+        },
+        {
+            "message_id": 15,
+            "user_id": "0002",
+            "speaker": "Human",
+            "message": "yes"
+        },
+        {
+            "message_id": 16,
+            "system_id": "0011",
+            "speaker": "Bot",
+            "message": "Awesome, I'm stoked to have inspired you to give sushi a shot, let me know what you think when you try it!"
+        },
+        {
+            "message_id": 17,
+            "user_id": "0002",
+            "speaker": "Human",
+            "message": "I will!"
+        },
+        {
+            "message_id": 18,
+            "system_id": "0011",
+            "speaker": "Bot",
+            "message": "Looking forward to it, happy sushi adventures ahead!"
+        },
+        {
+            "message_id": 19,
+            "user_id": "0002",
+            "speaker": "Human",
+            "message": "thank you. Still a little apprehensive about it though. I don't like trying new things"
+        },
+        {
+            "message_id": 20,
+            "system_id": "0011",
+            "speaker": "Bot",
+            "message": "Aww, don't worry, it's normal to feel that way, just take it one roll at a time"
+        }
+    ]
+}

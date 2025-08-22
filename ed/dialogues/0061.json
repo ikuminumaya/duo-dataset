@@ -1,0 +1,136 @@
+{
+    "dialogue_id": "0061",
+    "setting": "ed",
+    "model": "gpt-4o",
+    "prompt": "neutral",
+    "emotion": "Sad",
+    "episode": "I am sad about dog health condition",
+    "subjective_evaluation": {
+        "preference": 5.0,
+        "stylistic_similarity": 3.0,
+        "consistency": 5.0,
+        "empathy": 3.0
+    },
+    "dialogue": [
+        {
+            "message_id": 0,
+            "user_id": "0018",
+            "speaker": "Human",
+            "message": "I am sad about dog health condition"
+        },
+        {
+            "message_id": 1,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "I'm sorry to hear that. I hope your dog feels better soon."
+        },
+        {
+            "message_id": 2,
+            "user_id": "0018",
+            "speaker": "Human",
+            "message": "It will make me happy if your words become true"
+        },
+        {
+            "message_id": 3,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "I hope so too."
+        },
+        {
+            "message_id": 4,
+            "user_id": "0018",
+            "speaker": "Human",
+            "message": "But there is still problem in my dog health"
+        },
+        {
+            "message_id": 5,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "I'm really sorry to hear that."
+        },
+        {
+            "message_id": 6,
+            "user_id": "0018",
+            "speaker": "Human",
+            "message": "He vomited whatever he ate"
+        },
+        {
+            "message_id": 7,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "That sounds tough. Have you consulted a vet?"
+        },
+        {
+            "message_id": 8,
+            "user_id": "0018",
+            "speaker": "Human",
+            "message": "Yes. I brought up him to hospita."
+        },
+        {
+            "message_id": 9,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "That's good."
+        },
+        {
+            "message_id": 10,
+            "user_id": "0018",
+            "speaker": "Human",
+            "message": "Doctor said my dog was suffered by food poison"
+        },
+        {
+            "message_id": 11,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "I'm sorry to hear that."
+        },
+        {
+            "message_id": 12,
+            "user_id": "0018",
+            "speaker": "Human",
+            "message": "Then he gave medicine to dog. But still I am worried about his unhealth"
+        },
+        {
+            "message_id": 13,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "It's understandable."
+        },
+        {
+            "message_id": 14,
+            "user_id": "0018",
+            "speaker": "Human",
+            "message": "I am sad about his suffer and less active"
+        },
+        {
+            "message_id": 15,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "I can imagine."
+        },
+        {
+            "message_id": 16,
+            "user_id": "0018",
+            "speaker": "Human",
+            "message": "Even I am sad for what mistakes happen in his food by me"
+        },
+        {
+            "message_id": 17,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "It's not your fault."
+        },
+        {
+            "message_id": 18,
+            "user_id": "0018",
+            "speaker": "Human",
+            "message": "Doctor also said this same"
+        },
+        {
+            "message_id": 19,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "That's reassuring."
+        }
+    ]
+}

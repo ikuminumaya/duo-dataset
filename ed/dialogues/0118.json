@@ -1,0 +1,142 @@
+{
+    "dialogue_id": "0118",
+    "setting": "ed",
+    "model": "Llama-3.1-70B-Instruct",
+    "prompt": "neutral",
+    "emotion": "Excited",
+    "episode": "I am really excited for this Sunday since it is Easter Sunday and we are getting together with family and friends.",
+    "subjective_evaluation": {
+        "preference": 5.0,
+        "stylistic_similarity": 5.0,
+        "consistency": 5.0,
+        "empathy": 5.0
+    },
+    "dialogue": [
+        {
+            "message_id": 0,
+            "user_id": "0012",
+            "speaker": "Human",
+            "message": "howdy how ya doing"
+        },
+        {
+            "message_id": 1,
+            "system_id": "0003",
+            "speaker": "Bot",
+            "message": "I'm doing alright, thanks! How about you?"
+        },
+        {
+            "message_id": 2,
+            "user_id": "0012",
+            "speaker": "Human",
+            "message": "I am excited my friend"
+        },
+        {
+            "message_id": 3,
+            "system_id": "0003",
+            "speaker": "Bot",
+            "message": "What's got you so excited?"
+        },
+        {
+            "message_id": 4,
+            "user_id": "0012",
+            "speaker": "Human",
+            "message": "this Sunday is Easter!!!"
+        },
+        {
+            "message_id": 5,
+            "system_id": "0003",
+            "speaker": "Bot",
+            "message": "Easter is always so much fun!"
+        },
+        {
+            "message_id": 6,
+            "user_id": "0012",
+            "speaker": "Human",
+            "message": "yep getting together with family and friends"
+        },
+        {
+            "message_id": 7,
+            "system_id": "0003",
+            "speaker": "Bot",
+            "message": "Sounds like a great time!"
+        },
+        {
+            "message_id": 8,
+            "user_id": "0012",
+            "speaker": "Human",
+            "message": "great food"
+        },
+        {
+            "message_id": 9,
+            "system_id": "0003",
+            "speaker": "Bot",
+            "message": "Mmm, Easter dinner is the best!"
+        },
+        {
+            "message_id": 10,
+            "user_id": "0012",
+            "speaker": "Human",
+            "message": "Easter egg hunt"
+        },
+        {
+            "message_id": 11,
+            "system_id": "0003",
+            "speaker": "Bot",
+            "message": "That's always a blast for the kids!"
+        },
+        {
+            "message_id": 12,
+            "user_id": "0012",
+            "speaker": "Human",
+            "message": "always fun for sure"
+        },
+        {
+            "message_id": 13,
+            "system_id": "0003",
+            "speaker": "Bot",
+            "message": "Brings out the kid in everyone!"
+        },
+        {
+            "message_id": 14,
+            "user_id": "0012",
+            "speaker": "Human",
+            "message": "yep I absolutely love it"
+        },
+        {
+            "message_id": 15,
+            "system_id": "0003",
+            "speaker": "Bot",
+            "message": "Your enthusiasm is infectious!"
+        },
+        {
+            "message_id": 16,
+            "user_id": "0012",
+            "speaker": "Human",
+            "message": "yeah you wanna join us?"
+        },
+        {
+            "message_id": 17,
+            "system_id": "0003",
+            "speaker": "Bot",
+            "message": "That's so sweet of you to offer!"
+        },
+        {
+            "message_id": 18,
+            "user_id": "0012",
+            "speaker": "Human",
+            "message": "come on!"
+        },
+        {
+            "message_id": 19,
+            "system_id": "0003",
+            "speaker": "Bot",
+            "message": "I'd love to, thank you!"
+        },
+        {
+            "message_id": 20,
+            "user_id": "0012",
+            "speaker": "Human",
+            "message": "fun fun fun!"
+        }
+    ]
+}

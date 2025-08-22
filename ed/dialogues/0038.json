@@ -1,0 +1,162 @@
+{
+    "dialogue_id": "0038",
+    "setting": "ed",
+    "model": "Llama-3.1-70B-Instruct",
+    "prompt": "neutral",
+    "emotion": "Hopeful",
+    "episode": "My husband had a job interview for a new position that was perfect for him. I was very hopeful that they would hire him!",
+    "objective_evaluation": {
+        "preference": 4.0,
+        "stylistic_similarity": 4.0,
+        "consistency": 5.0,
+        "empathy": 4.67,
+        "preference_scores": [
+            4.0,
+            5.0,
+            3.0
+        ],
+        "stylistic_similarity_scores": [
+            4.0,
+            4.0,
+            4.0
+        ],
+        "consistency_scores": [
+            5.0,
+            5.0,
+            5.0
+        ],
+        "empathy_scores": [
+            4.0,
+            5.0,
+            5.0
+        ]
+    },
+    "subjective_evaluation": {
+        "preference": 3.0,
+        "stylistic_similarity": 4.0,
+        "consistency": 5.0,
+        "empathy": 4.0
+    },
+    "dialogue": [
+        {
+            "message_id": 0,
+            "user_id": "0019",
+            "speaker": "Human",
+            "message": "My husband had a job interview last week. I really hope they pick him for this position!"
+        },
+        {
+            "message_id": 1,
+            "system_id": "0003",
+            "speaker": "Bot",
+            "message": "Fingers crossed for him! What's the job for?"
+        },
+        {
+            "message_id": 2,
+            "user_id": "0019",
+            "speaker": "Human",
+            "message": "It is field interviewer on a survey project. It's something he's good at and enjoys doing."
+        },
+        {
+            "message_id": 3,
+            "system_id": "0003",
+            "speaker": "Bot",
+            "message": "Sounds like a great fit, then. When will you know the results?"
+        },
+        {
+            "message_id": 4,
+            "user_id": "0019",
+            "speaker": "Human",
+            "message": "We're hoping to find out by the end of this week. It's so hard to wait patiently!"
+        },
+        {
+            "message_id": 5,
+            "system_id": "0003",
+            "speaker": "Bot",
+            "message": "The waiting can be agonizing. Keeping my fingers crossed for good news!"
+        },
+        {
+            "message_id": 6,
+            "user_id": "0019",
+            "speaker": "Human",
+            "message": "Thank you so much for your positive vibes! He feels good about how the interview went but does not know how many others they are also considering."
+        },
+        {
+            "message_id": 7,
+            "system_id": "0003",
+            "speaker": "Bot",
+            "message": "Competition can be tough. Hopefully, his confidence will pay off."
+        },
+        {
+            "message_id": 8,
+            "user_id": "0019",
+            "speaker": "Human",
+            "message": "He definitely has the experience they are looking for, so that is helpful."
+        },
+        {
+            "message_id": 9,
+            "system_id": "0003",
+            "speaker": "Bot",
+            "message": "That's a big plus! Experience can make a big difference."
+        },
+        {
+            "message_id": 10,
+            "user_id": "0019",
+            "speaker": "Human",
+            "message": "We're really hoping so! Plus, he seemed to get along well with the person that interviewed him. He said they had a good rapport."
+        },
+        {
+            "message_id": 11,
+            "system_id": "0003",
+            "speaker": "Bot",
+            "message": "Good rapport can go a long way, that's a good sign!"
+        },
+        {
+            "message_id": 12,
+            "user_id": "0019",
+            "speaker": "Human",
+            "message": "All signs are pointing towards yay, but until we hear for sure, I am on pins and needles and just hoping for the best!"
+        },
+        {
+            "message_id": 13,
+            "system_id": "0003",
+            "speaker": "Bot",
+            "message": "I can imagine! Stay positive, you'll get the news soon!"
+        },
+        {
+            "message_id": 14,
+            "user_id": "0019",
+            "speaker": "Human",
+            "message": "How do I distract myself in the meantime? Any ideas?"
+        },
+        {
+            "message_id": 15,
+            "system_id": "0003",
+            "speaker": "Bot",
+            "message": "Try to stay busy with activities you enjoy, or take your mind off it with a good book or movie."
+        },
+        {
+            "message_id": 16,
+            "user_id": "0019",
+            "speaker": "Human",
+            "message": "Oh, reading is a great idea. Can you recommend a good book?"
+        },
+        {
+            "message_id": 17,
+            "system_id": "0003",
+            "speaker": "Bot",
+            "message": "I'm not picky, what genre do you like?"
+        },
+        {
+            "message_id": 18,
+            "user_id": "0019",
+            "speaker": "Human",
+            "message": "I like historical mysteries."
+        },
+        {
+            "message_id": 19,
+            "system_id": "0003",
+            "speaker": "Bot",
+            "message": "Historical mysteries are great! Have you read any of the Maisie Dobbs series?"
+        }
+    ]
+}

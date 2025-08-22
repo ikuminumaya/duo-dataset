@@ -1,0 +1,141 @@
+{
+    "dialogue_id": "1060",
+    "setting": "wow",
+    "model": "gpt-4o",
+    "prompt": "neutral",
+    "topic": "Game of Thrones",
+    "subjective_evaluation": {
+        "preference": 4.0,
+        "stylistic_similarity": 5.0,
+        "consistency": 5.0,
+        "engagingness": 4.0
+    },
+    "dialogue": [
+        {
+            "message_id": 0,
+            "system_id": "0006",
+            "speaker": "Bot",
+            "message": "\"Game of Thrones\" is an epic fantasy series set in the fictional continents of Westeros and Essos, featuring intricate plotlines and a vast ensemble cast."
+        },
+        {
+            "message_id": 1,
+            "user_id": "0029",
+            "speaker": "Human",
+            "message": "How many books are there in the series?"
+        },
+        {
+            "message_id": 2,
+            "system_id": "0006",
+            "speaker": "Bot",
+            "message": "The \"Game of Thrones\" TV series is based on George R. R. Martin's book series \"A Song of Ice and Fire,\" which consists of several novels."
+        },
+        {
+            "message_id": 3,
+            "user_id": "0029",
+            "speaker": "Human",
+            "message": "How many seasons did the TV show run?"
+        },
+        {
+            "message_id": 4,
+            "system_id": "0006",
+            "speaker": "Bot",
+            "message": "The \"Game of Thrones\" TV series ran for eight seasons, concluding in 2019."
+        },
+        {
+            "message_id": 5,
+            "user_id": "0029",
+            "speaker": "Human",
+            "message": "Who were the  principle characters in the series? It was a big cast, wasn't it?"
+        },
+        {
+            "message_id": 6,
+            "system_id": "0006",
+            "speaker": "Bot",
+            "message": "Indeed, \"Game of Thrones\" had a large ensemble cast with several key characters, including members of noble families vying for the Iron Throne and others defending the realm against ancient threats."
+        },
+        {
+            "message_id": 7,
+            "user_id": "0029",
+            "speaker": "Human",
+            "message": "Who were the noble families? "
+        },
+        {
+            "message_id": 8,
+            "system_id": "0006",
+            "speaker": "Bot",
+            "message": "The noble families in \"Game of Thrones\" include the Starks, Lannisters, Baratheons, Targaryens, Greyjoys, Tyrells, and Martells, among others, each vying for power and influence in the Seven Kingdoms."
+        },
+        {
+            "message_id": 9,
+            "user_id": "0029",
+            "speaker": "Human",
+            "message": "At the end of series who came out on top and ruled the Seven kingdoms?"
+        },
+        {
+            "message_id": 10,
+            "system_id": "0006",
+            "speaker": "Bot",
+            "message": "At the end of the series, Bran Stark is chosen to rule the Six Kingdoms, as the North becomes an independent kingdom under Sansa Stark."
+        },
+        {
+            "message_id": 11,
+            "user_id": "0029",
+            "speaker": "Human",
+            "message": "So the kingdoms are not united in the end? Was it a cautionary tale about seeking power and the cost of it?"
+        },
+        {
+            "message_id": 12,
+            "system_id": "0006",
+            "speaker": "Bot",
+            "message": "Yes, the series can be seen as a cautionary tale about the pursuit of power and its consequences, as the Seven Kingdoms remain divided with the North gaining independence."
+        },
+        {
+            "message_id": 13,
+            "user_id": "0029",
+            "speaker": "Human",
+            "message": "Interesting. Is there another series set in this fictional world?"
+        },
+        {
+            "message_id": 14,
+            "system_id": "0006",
+            "speaker": "Bot",
+            "message": "Yes, there is a prequel series called \"House of the Dragon,\" which explores the history of House Targaryen."
+        },
+        {
+            "message_id": 15,
+            "user_id": "0029",
+            "speaker": "Human",
+            "message": "Are there any more series planned for this world?"
+        },
+        {
+            "message_id": 16,
+            "system_id": "0006",
+            "speaker": "Bot",
+            "message": "Yes, there are more series planned, including several spin-offs in various stages of development."
+        },
+        {
+            "message_id": 17,
+            "user_id": "0029",
+            "speaker": "Human",
+            "message": "How far in the past is House of the Dragon set?"
+        },
+        {
+            "message_id": 18,
+            "system_id": "0006",
+            "speaker": "Bot",
+            "message": "\"House of the Dragon\" is set about 200 years before the events of \"Game of Thrones,\" exploring the history of House Targaryen."
+        },
+        {
+            "message_id": 19,
+            "user_id": "0029",
+            "speaker": "Human",
+            "message": "Cool. Is house the dragon have other families from the game of thrones"
+        },
+        {
+            "message_id": 20,
+            "system_id": "0006",
+            "speaker": "Bot",
+            "message": "Yes, \"House of the Dragon\" features other noble families from \"Game of Thrones,\" though its primary focus is on House Targaryen."
+        }
+    ]
+}

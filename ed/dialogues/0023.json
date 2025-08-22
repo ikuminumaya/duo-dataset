@@ -1,0 +1,162 @@
+{
+    "dialogue_id": "0023",
+    "setting": "ed",
+    "model": "gpt-4o",
+    "prompt": "not_aligned",
+    "emotion": "Anxious",
+    "episode": "I am feeling a lot of anxiety due to changes at work and in my workload there.",
+    "objective_evaluation": {
+        "preference": 4.0,
+        "stylistic_similarity": 3.33,
+        "consistency": 4.67,
+        "empathy": 4.33,
+        "preference_scores": [
+            4.0,
+            4.0,
+            4.0
+        ],
+        "stylistic_similarity_scores": [
+            3.0,
+            3.0,
+            4.0
+        ],
+        "consistency_scores": [
+            4.0,
+            5.0,
+            5.0
+        ],
+        "empathy_scores": [
+            4.0,
+            5.0,
+            4.0
+        ]
+    },
+    "subjective_evaluation": {
+        "preference": 5.0,
+        "stylistic_similarity": 5.0,
+        "consistency": 5.0,
+        "empathy": 5.0
+    },
+    "dialogue": [
+        {
+            "message_id": 0,
+            "user_id": "0003",
+            "speaker": "Human",
+            "message": "I'm having a lot of anxiety right now due to changes at work that have nearly doubled my workload."
+        },
+        {
+            "message_id": 1,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "That sounds really overwhelming. How are you managing with all the extra work?"
+        },
+        {
+            "message_id": 2,
+            "user_id": "0003",
+            "speaker": "Human",
+            "message": "I still haven't figured it out to be honest."
+        },
+        {
+            "message_id": 3,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "I totally get that. Maybe try breaking it into smaller tasks?"
+        },
+        {
+            "message_id": 4,
+            "user_id": "0003",
+            "speaker": "Human",
+            "message": "I'm a high performer and overall I'm well liked and respected at work, and I know the thought is that I can duplicate my prior success, but leadership isn't thinking about how much time that success actually took."
+        },
+        {
+            "message_id": 5,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "It’s tough when they don’t see the time investment. Maybe you can discuss this with them?"
+        },
+        {
+            "message_id": 6,
+            "user_id": "0003",
+            "speaker": "Human",
+            "message": "I've tried.  They've aligned a more junior person to me BUT they haven't reduced his workload to give him the time to help me out."
+        },
+        {
+            "message_id": 7,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "That's frustrating. Can you prioritize tasks to manage better?"
+        },
+        {
+            "message_id": 8,
+            "user_id": "0003",
+            "speaker": "Human",
+            "message": "The problem is that we aren't talking incremental time; it's literally impossible for me to do all of this well.  And leadership refuses to help me prioritize because they consider everything important."
+        },
+        {
+            "message_id": 9,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "That's really tough. Maybe you can document your concerns?"
+        },
+        {
+            "message_id": 10,
+            "user_id": "0003",
+            "speaker": "Human",
+            "message": "I'm actually thinking about resigning.  I actually decided to come out of an early (and short) retirement two years ago to take this job because I wasn't ready to retire, but I don't need this level of stress in my life."
+        },
+        {
+            "message_id": 11,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "Taking care of yourself is key. Retirement seems like a good option."
+        },
+        {
+            "message_id": 12,
+            "user_id": "0003",
+            "speaker": "Human",
+            "message": "It would be an easier decision if the stock market hadn't taken such a hit lately!"
+        },
+        {
+            "message_id": 13,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "I hear you, it complicates things. Have you considered consulting a financial advisor?"
+        },
+        {
+            "message_id": 14,
+            "user_id": "0003",
+            "speaker": "Human",
+            "message": "My finances are actually pretty well in order.  I didn't get hit as hard as I could have."
+        },
+        {
+            "message_id": 15,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "That's a relief! Maybe just take some time to weigh your options."
+        },
+        {
+            "message_id": 16,
+            "user_id": "0003",
+            "speaker": "Human",
+            "message": "I definitely don't want to be reactionary.  In truth, if I told my manager that the workload was unreasonable and I was considering resigning because I can't meet their expectations, it may make them back off and reduce my workload."
+        },
+        {
+            "message_id": 17,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "It's a bold move, but it might work. Worth trying!"
+        },
+        {
+            "message_id": 18,
+            "user_id": "0003",
+            "speaker": "Human",
+            "message": "I have it in my back pocket, but I am going to make 100% sure there's no way for me to meet the minimum obligations of all the projects I now have."
+        },
+        {
+            "message_id": 19,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "That sounds wise. Good luck!"
+        }
+    ]
+}

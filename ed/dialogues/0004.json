@@ -1,0 +1,162 @@
+{
+    "dialogue_id": "0004",
+    "setting": "ed",
+    "model": "gpt-4o",
+    "prompt": "neutral",
+    "emotion": "Caring",
+    "episode": "My father was recently taken to the emergency room and he is ok now so I have been spending a lot of time with him showing him love and care.",
+    "objective_evaluation": {
+        "preference": 4.33,
+        "stylistic_similarity": 4.0,
+        "consistency": 5.0,
+        "empathy": 4.67,
+        "preference_scores": [
+            5.0,
+            3.0,
+            5.0
+        ],
+        "stylistic_similarity_scores": [
+            4.0,
+            3.0,
+            5.0
+        ],
+        "consistency_scores": [
+            5.0,
+            5.0,
+            5.0
+        ],
+        "empathy_scores": [
+            5.0,
+            4.0,
+            5.0
+        ]
+    },
+    "subjective_evaluation": {
+        "preference": 3.0,
+        "stylistic_similarity": 2.0,
+        "consistency": 5.0,
+        "empathy": 3.0
+    },
+    "dialogue": [
+        {
+            "message_id": 0,
+            "user_id": "0004",
+            "speaker": "Human",
+            "message": "My father was recently taken the emergency room due to feeling quite sick.  He is ok and home now but I have been trying to spend a lot of time with him."
+        },
+        {
+            "message_id": 1,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "I'm glad he's okay. It's great you're spending time with him."
+        },
+        {
+            "message_id": 2,
+            "user_id": "0004",
+            "speaker": "Human",
+            "message": "Yes I worry about his health as he is getting older and I want to show him a great deal of love and affection."
+        },
+        {
+            "message_id": 3,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "That's very loving of you."
+        },
+        {
+            "message_id": 4,
+            "user_id": "0004",
+            "speaker": "Human",
+            "message": "Yes I know the day will come when he is no longer with us and I want to show him he is loved while he is still with me."
+        },
+        {
+            "message_id": 5,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "That's so important."
+        },
+        {
+            "message_id": 6,
+            "user_id": "0004",
+            "speaker": "Human",
+            "message": "It really is.  Life is short and I know a lot of people have regrets and I do not want to have any."
+        },
+        {
+            "message_id": 7,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "Absolutely, making memories now is key."
+        },
+        {
+            "message_id": 8,
+            "user_id": "0004",
+            "speaker": "Human",
+            "message": "You are correct.  He cannot get around very well anymore but I feel that simply spending time with him is enough."
+        },
+        {
+            "message_id": 9,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "Absolutely, your presence matters most."
+        },
+        {
+            "message_id": 10,
+            "user_id": "0004",
+            "speaker": "Human",
+            "message": "I was very worried when I got the call telling me he was in the emergency room."
+        },
+        {
+            "message_id": 11,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "That sounds so scary."
+        },
+        {
+            "message_id": 12,
+            "user_id": "0004",
+            "speaker": "Human",
+            "message": "It was!  My mind immediately went to worst case scenario.  It was somewhat of a false alarm but still a scary situation."
+        },
+        {
+            "message_id": 13,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "Understandable. Glad he's okay."
+        },
+        {
+            "message_id": 14,
+            "user_id": "0004",
+            "speaker": "Human",
+            "message": "Thank you I am too.  I hope it is a long time before I get a similar phone call."
+        },
+        {
+            "message_id": 15,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "I hope so too."
+        },
+        {
+            "message_id": 16,
+            "user_id": "0004",
+            "speaker": "Human",
+            "message": "Thank you.  I am lucky that he is still with me and a part of my life.  I know a lot of people whose parents passed away when they were much younger than me."
+        },
+        {
+            "message_id": 17,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "You're fortunate indeed."
+        },
+        {
+            "message_id": 18,
+            "user_id": "0004",
+            "speaker": "Human",
+            "message": "I really am.  Thank you for the support!"
+        },
+        {
+            "message_id": 19,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "Anytime!"
+        }
+    ]
+}

@@ -1,0 +1,162 @@
+{
+    "dialogue_id": "0002",
+    "setting": "ed",
+    "model": "gpt-4o",
+    "prompt": "neutral",
+    "emotion": "Proud",
+    "episode": "This past weekend my daughter completed in her college track meet and won her event. I was very proud of her",
+    "objective_evaluation": {
+        "preference": 2.67,
+        "stylistic_similarity": 3.0,
+        "consistency": 3.67,
+        "empathy": 3.67,
+        "preference_scores": [
+            1.0,
+            4.0,
+            3.0
+        ],
+        "stylistic_similarity_scores": [
+            3.0,
+            3.0,
+            3.0
+        ],
+        "consistency_scores": [
+            4.0,
+            3.0,
+            4.0
+        ],
+        "empathy_scores": [
+            2.0,
+            4.0,
+            5.0
+        ]
+    },
+    "subjective_evaluation": {
+        "preference": 3.0,
+        "stylistic_similarity": 4.0,
+        "consistency": 4.0,
+        "empathy": 3.0
+    },
+    "dialogue": [
+        {
+            "message_id": 0,
+            "user_id": "0002",
+            "speaker": "Human",
+            "message": "This past weekend my daughter completed in her college track meet and won her event. I was very proud of her"
+        },
+        {
+            "message_id": 1,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "That's amazing! You must be so proud of her achievement!"
+        },
+        {
+            "message_id": 2,
+            "user_id": "0002",
+            "speaker": "Human",
+            "message": "I was. She has worked so hard"
+        },
+        {
+            "message_id": 3,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "Her hard work truly paid off!"
+        },
+        {
+            "message_id": 4,
+            "user_id": "0002",
+            "speaker": "Human",
+            "message": "It really has. It has been a long bumpy process, but shes in full stride now and competing great"
+        },
+        {
+            "message_id": 5,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "That's fantastic to hear!"
+        },
+        {
+            "message_id": 6,
+            "user_id": "0002",
+            "speaker": "Human",
+            "message": "Thank you. "
+        },
+        {
+            "message_id": 7,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "You're welcome!"
+        },
+        {
+            "message_id": 8,
+            "user_id": "0002",
+            "speaker": "Human",
+            "message": "Im just so proud of everything she has overcome in her life"
+        },
+        {
+            "message_id": 9,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "That's truly inspiring!"
+        },
+        {
+            "message_id": 10,
+            "user_id": "0002",
+            "speaker": "Human",
+            "message": "thank you. She is a very hard worker"
+        },
+        {
+            "message_id": 11,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "Absolutely!"
+        },
+        {
+            "message_id": 12,
+            "user_id": "0002",
+            "speaker": "Human",
+            "message": "yes"
+        },
+        {
+            "message_id": 13,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "Understood!"
+        },
+        {
+            "message_id": 14,
+            "user_id": "0002",
+            "speaker": "Human",
+            "message": "Thank you for listening to me"
+        },
+        {
+            "message_id": 15,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "Anytime!"
+        },
+        {
+            "message_id": 16,
+            "user_id": "0002",
+            "speaker": "Human",
+            "message": "Is there anything else we can chat about"
+        },
+        {
+            "message_id": 17,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "Sure! What's on your mind?"
+        },
+        {
+            "message_id": 18,
+            "user_id": "0002",
+            "speaker": "Human",
+            "message": "Nothing much. Just having a pleasant day"
+        },
+        {
+            "message_id": 19,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "That's great!"
+        }
+    ]
+}

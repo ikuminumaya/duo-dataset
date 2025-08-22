@@ -1,0 +1,136 @@
+{
+    "dialogue_id": "0078",
+    "setting": "ed",
+    "model": "gpt-4o",
+    "prompt": "aligned",
+    "emotion": "Lonely",
+    "episode": "I felt lonely when my wife went to Iceland for two weeks several months ago",
+    "subjective_evaluation": {
+        "preference": 5.0,
+        "stylistic_similarity": 5.0,
+        "consistency": 5.0,
+        "empathy": 5.0
+    },
+    "dialogue": [
+        {
+            "message_id": 0,
+            "user_id": "0002",
+            "speaker": "Human",
+            "message": "I felt lonely when my wife went to Iceland for two weeks several months ago"
+        },
+        {
+            "message_id": 1,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "That must have been tough. Did you find anything to help pass the time?"
+        },
+        {
+            "message_id": 2,
+            "user_id": "0002",
+            "speaker": "Human",
+            "message": "I tried to keep busy working out and cleaning the house"
+        },
+        {
+            "message_id": 3,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "Sounds like a productive way to cope. Did it help?"
+        },
+        {
+            "message_id": 4,
+            "user_id": "0002",
+            "speaker": "Human",
+            "message": "A little bit. But the nights were still very lonely'"
+        },
+        {
+            "message_id": 5,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "I'm sorry to hear that. Nights can be the hardest."
+        },
+        {
+            "message_id": 6,
+            "user_id": "0002",
+            "speaker": "Human",
+            "message": "Yes. that is when the bad thoughts always seem to creep in"
+        },
+        {
+            "message_id": 7,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "I get that. Nights can be tough."
+        },
+        {
+            "message_id": 8,
+            "user_id": "0002",
+            "speaker": "Human",
+            "message": "Yes. It can get lonely for sure"
+        },
+        {
+            "message_id": 9,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "Yeah, it's rough."
+        },
+        {
+            "message_id": 10,
+            "user_id": "0002",
+            "speaker": "Human",
+            "message": "yes I agree"
+        },
+        {
+            "message_id": 11,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "Absolutely."
+        },
+        {
+            "message_id": 12,
+            "user_id": "0002",
+            "speaker": "Human",
+            "message": "I was so glad when she got home"
+        },
+        {
+            "message_id": 13,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "I bet! Must have been such a relief."
+        },
+        {
+            "message_id": 14,
+            "user_id": "0002",
+            "speaker": "Human",
+            "message": "yes it was. I love her so much"
+        },
+        {
+            "message_id": 15,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "That's sweet! Love is the best."
+        },
+        {
+            "message_id": 16,
+            "user_id": "0002",
+            "speaker": "Human",
+            "message": "It is. She is such a wonderful person"
+        },
+        {
+            "message_id": 17,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "That's awesome! She sounds amazing."
+        },
+        {
+            "message_id": 18,
+            "user_id": "0002",
+            "speaker": "Human",
+            "message": "she is. She is my world"
+        },
+        {
+            "message_id": 19,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "That's beautiful! You're lucky to have each other."
+        }
+    ]
+}

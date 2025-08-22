@@ -1,0 +1,141 @@
+{
+    "dialogue_id": "1084",
+    "setting": "wow",
+    "model": "gpt-4o",
+    "prompt": "not_aligned",
+    "topic": "Steak",
+    "subjective_evaluation": {
+        "preference": 4.0,
+        "stylistic_similarity": 3.0,
+        "consistency": 5.0,
+        "engagingness": 5.0
+    },
+    "dialogue": [
+        {
+            "message_id": 0,
+            "system_id": "0008",
+            "speaker": "Bot",
+            "message": "Ah, steaks come in all sorts of varieties, from beef to fish, and can be grilled, pan-fried, or even cooked in a tasty sauce!"
+        },
+        {
+            "message_id": 1,
+            "user_id": "0000",
+            "speaker": "Human",
+            "message": "Fish?"
+        },
+        {
+            "message_id": 2,
+            "system_id": "0008",
+            "speaker": "Bot",
+            "message": "Yes, fish steaks are a thing too, often made from larger fish like salmon or swordfish!"
+        },
+        {
+            "message_id": 3,
+            "user_id": "0000",
+            "speaker": "Human",
+            "message": "Are the chicken and turkey steaks?"
+        },
+        {
+            "message_id": 4,
+            "system_id": "0008",
+            "speaker": "Bot",
+            "message": "Yes, chicken and turkey can be called steaks when they're sliced similarly, though they might often be referred to as cutlets or fillets instead."
+        },
+        {
+            "message_id": 5,
+            "user_id": "0000",
+            "speaker": "Human",
+            "message": "That's weird. I prefer beef steaks, medium rare."
+        },
+        {
+            "message_id": 6,
+            "system_id": "0008",
+            "speaker": "Bot",
+            "message": "Beefsteak is indeed the classic choice when people mention \"steak,\" and medium rare is a popular preference for its juicy and tender texture!"
+        },
+        {
+            "message_id": 7,
+            "user_id": "0000",
+            "speaker": "Human",
+            "message": "Yes. Do you know that some people actually eat them raw?"
+        },
+        {
+            "message_id": 8,
+            "system_id": "0008",
+            "speaker": "Bot",
+            "message": "Yes, some people enjoy eating raw beef in dishes like steak tartare!"
+        },
+        {
+            "message_id": 9,
+            "user_id": "0000",
+            "speaker": "Human",
+            "message": "How is that made?"
+        },
+        {
+            "message_id": 10,
+            "system_id": "0008",
+            "speaker": "Bot",
+            "message": "Steak tartare is a dish made from raw ground beef, often served with onions, capers, and seasonings like Worcestershire sauce and mustard, and sometimes topped with a raw egg yolk."
+        },
+        {
+            "message_id": 11,
+            "user_id": "0000",
+            "speaker": "Human",
+            "message": "Does the sauce somehow \"cook\" the meat?"
+        },
+        {
+            "message_id": 12,
+            "system_id": "0008",
+            "speaker": "Bot",
+            "message": "No, the sauce doesn't cook the meat; it's just there to add flavor, as steak tartare is meant to be enjoyed raw."
+        },
+        {
+            "message_id": 13,
+            "user_id": "0000",
+            "speaker": "Human",
+            "message": "Wow. Do you know some people just eat it raw, with no sauce, egg or anything?"
+        },
+        {
+            "message_id": 14,
+            "system_id": "0008",
+            "speaker": "Bot",
+            "message": "Yes, some people enjoy eating raw beef simply as it is, appreciating its natural flavor and texture."
+        },
+        {
+            "message_id": 15,
+            "user_id": "0000",
+            "speaker": "Human",
+            "message": "Wouldn't they get worms?"
+        },
+        {
+            "message_id": 16,
+            "system_id": "0008",
+            "speaker": "Bot",
+            "message": "Eating raw meat does come with risks, such as potential exposure to parasites and bacteria, so it's important to ensure it's from a safe and reliable source."
+        },
+        {
+            "message_id": 17,
+            "user_id": "0000",
+            "speaker": "Human",
+            "message": "What do you think about artificial steaks, made in a lab, with cells grown from animal cells?"
+        },
+        {
+            "message_id": 18,
+            "system_id": "0008",
+            "speaker": "Bot",
+            "message": "Lab-grown steaks, developed from animal cells, aim to offer a sustainable and ethical alternative to traditional meat."
+        },
+        {
+            "message_id": 19,
+            "user_id": "0000",
+            "speaker": "Human",
+            "message": "I think it's disgusting."
+        },
+        {
+            "message_id": 20,
+            "system_id": "0008",
+            "speaker": "Bot",
+            "message": "I understand your perspective; lab-grown steaks are quite different from traditional ones, but they do offer an innovative approach to sustainability and animal welfare."
+        }
+    ]
+}

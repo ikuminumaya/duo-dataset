@@ -1,0 +1,136 @@
+{
+    "dialogue_id": "0138",
+    "setting": "ed",
+    "model": "Llama-3.1-70B-Instruct",
+    "prompt": "not_aligned",
+    "emotion": "Annoyed",
+    "episode": "I am annoyed by unknown phone calls",
+    "subjective_evaluation": {
+        "preference": 5.0,
+        "stylistic_similarity": 5.0,
+        "consistency": 5.0,
+        "empathy": 5.0
+    },
+    "dialogue": [
+        {
+            "message_id": 0,
+            "user_id": "0018",
+            "speaker": "Human",
+            "message": "I am annoyed by unknown phone calls repeatedly"
+        },
+        {
+            "message_id": 1,
+            "system_id": "0005",
+            "speaker": "Bot",
+            "message": "Those can be really frustrating."
+        },
+        {
+            "message_id": 2,
+            "user_id": "0018",
+            "speaker": "Human",
+            "message": "yeah"
+        },
+        {
+            "message_id": 3,
+            "system_id": "0005",
+            "speaker": "Bot",
+            "message": "Do you answer them or just ignore?"
+        },
+        {
+            "message_id": 4,
+            "user_id": "0018",
+            "speaker": "Human",
+            "message": "Initially I attend the call but i told them i don't want their services but they don't understand and called me again"
+        },
+        {
+            "message_id": 5,
+            "system_id": "0005",
+            "speaker": "Bot",
+            "message": "They just won't take no for an answer, huh?"
+        },
+        {
+            "message_id": 6,
+            "user_id": "0018",
+            "speaker": "Human",
+            "message": "yes then I decided to not go to attend their calls any more"
+        },
+        {
+            "message_id": 7,
+            "system_id": "0005",
+            "speaker": "Bot",
+            "message": "Blocking their number might be the next step."
+        },
+        {
+            "message_id": 8,
+            "user_id": "0018",
+            "speaker": "Human",
+            "message": "You're right. I just did what you have said"
+        },
+        {
+            "message_id": 9,
+            "system_id": "0005",
+            "speaker": "Bot",
+            "message": "Glad I could help, problem solved!"
+        },
+        {
+            "message_id": 10,
+            "user_id": "0018",
+            "speaker": "Human",
+            "message": "Yes you too find a solution as well as me decision"
+        },
+        {
+            "message_id": 11,
+            "system_id": "0005",
+            "speaker": "Bot",
+            "message": "Ha ha, thanks, I'm glad we both found a solution together!"
+        },
+        {
+            "message_id": 12,
+            "user_id": "0018",
+            "speaker": "Human",
+            "message": "Thats great really"
+        },
+        {
+            "message_id": 13,
+            "system_id": "0005",
+            "speaker": "Bot",
+            "message": "Thanks, me too!"
+        },
+        {
+            "message_id": 14,
+            "user_id": "0018",
+            "speaker": "Human",
+            "message": "Here after I will block unknown numbers on their first calls"
+        },
+        {
+            "message_id": 15,
+            "system_id": "0005",
+            "speaker": "Bot",
+            "message": "Wise decision!"
+        },
+        {
+            "message_id": 16,
+            "user_id": "0018",
+            "speaker": "Human",
+            "message": "thank you so much"
+        },
+        {
+            "message_id": 17,
+            "system_id": "0005",
+            "speaker": "Bot",
+            "message": "You're welcome!"
+        },
+        {
+            "message_id": 18,
+            "user_id": "0018",
+            "speaker": "Human",
+            "message": "have a nice day"
+        },
+        {
+            "message_id": 19,
+            "system_id": "0005",
+            "speaker": "Bot",
+            "message": "You too!"
+        }
+    ]
+}

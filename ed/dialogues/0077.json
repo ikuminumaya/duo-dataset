@@ -1,0 +1,136 @@
+{
+    "dialogue_id": "0077",
+    "setting": "ed",
+    "model": "gpt-4o",
+    "prompt": "aligned",
+    "emotion": "Devastated",
+    "episode": "I learned my friend had died a few weeks after the event and missed the funeral.",
+    "subjective_evaluation": {
+        "preference": 5.0,
+        "stylistic_similarity": 4.0,
+        "consistency": 5.0,
+        "empathy": 5.0
+    },
+    "dialogue": [
+        {
+            "message_id": 0,
+            "user_id": "0006",
+            "speaker": "Human",
+            "message": "I learned my friend had died a few weeks after the event and missed the funeral. "
+        },
+        {
+            "message_id": 1,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "I'm really sorry to hear that. It must be tough not being able to say goodbye."
+        },
+        {
+            "message_id": 2,
+            "user_id": "0006",
+            "speaker": "Human",
+            "message": "Yes.  I didn't know her family so they understandably didn't let me know.  I did go to where her ashes were scattered which was an odd experience on my own."
+        },
+        {
+            "message_id": 3,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "That sounds really tough. I'm glad you found a way to say goodbye in your own way."
+        },
+        {
+            "message_id": 4,
+            "user_id": "0006",
+            "speaker": "Human",
+            "message": "I have some roses in my garden in her memory - they were her favourites."
+        },
+        {
+            "message_id": 5,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "That's a beautiful tribute. I'm sure she would have loved that."
+        },
+        {
+            "message_id": 6,
+            "user_id": "0006",
+            "speaker": "Human",
+            "message": "Died too young and made me think of all the time/experiences we missed out on together."
+        },
+        {
+            "message_id": 7,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "It's really hard to lose someone so young. Those missed moments are tough to think about."
+        },
+        {
+            "message_id": 8,
+            "user_id": "0006",
+            "speaker": "Human",
+            "message": "I try to make the most of the years I have now but still think of her."
+        },
+        {
+            "message_id": 9,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "That's a wonderful way to honor her memory while living fully."
+        },
+        {
+            "message_id": 10,
+            "user_id": "0006",
+            "speaker": "Human",
+            "message": "Try not to focus too much on work as that was one of her down falls which didn't get her any where."
+        },
+        {
+            "message_id": 11,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "That's a good lesson to keep in mind. Balance is key."
+        },
+        {
+            "message_id": 12,
+            "user_id": "0006",
+            "speaker": "Human",
+            "message": "We work to live."
+        },
+        {
+            "message_id": 13,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "Absolutely."
+        },
+        {
+            "message_id": 14,
+            "user_id": "0006",
+            "speaker": "Human",
+            "message": "She was always promised promotions and pay rises but despite long hours they never seem to come."
+        },
+        {
+            "message_id": 15,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "That's really unfair."
+        },
+        {
+            "message_id": 16,
+            "user_id": "0006",
+            "speaker": "Human",
+            "message": "I was always there to listen and she was always very appreciative of that."
+        },
+        {
+            "message_id": 17,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "That's so important."
+        },
+        {
+            "message_id": 18,
+            "user_id": "0006",
+            "speaker": "Human",
+            "message": "Something I'm glad I did."
+        },
+        {
+            "message_id": 19,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "That's really meaningful."
+        }
+    ]
+}

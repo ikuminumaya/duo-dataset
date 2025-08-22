@@ -1,0 +1,153 @@
+{
+    "dialogue_id": "1101",
+    "setting": "wow",
+    "model": "gpt-4o",
+    "prompt": "not_aligned",
+    "topic": "Reading (process)",
+    "subjective_evaluation": {
+        "preference": 5.0,
+        "stylistic_similarity": 5.0,
+        "consistency": 5.0,
+        "engagingness": 5.0
+    },
+    "dialogue": [
+        {
+            "message_id": 0,
+            "system_id": "0008",
+            "speaker": "Bot",
+            "message": "Reading involves a fascinating blend of decoding symbols and crafting meaning, shaped by a reader's own experiences and creativity."
+        },
+        {
+            "message_id": 1,
+            "user_id": "0035",
+            "speaker": "Human",
+            "message": "I do not see the first message."
+        },
+        {
+            "message_id": 2,
+            "system_id": "0008",
+            "speaker": "Bot",
+            "message": "Absolutely, reading offers a wonderful escape and lets you explore new worlds while engaging your creativity and critical thinking!"
+        },
+        {
+            "message_id": 3,
+            "user_id": "0035",
+            "speaker": "Human",
+            "message": "I am ready"
+        },
+        {
+            "message_id": 4,
+            "system_id": "0008",
+            "speaker": "Bot",
+            "message": "Reading clubs are fantastic because they allow people to delve deeper into texts, share interpretations, and connect over their love for stories."
+        },
+        {
+            "message_id": 5,
+            "user_id": "0035",
+            "speaker": "Human",
+            "message": "I love reading. It takes your mind off of life's problems and concerns. "
+        },
+        {
+            "message_id": 6,
+            "system_id": "0008",
+            "speaker": "Bot",
+            "message": "Reading clubs not only foster social connections but also enhance our understanding of texts through shared interpretations and discussions."
+        },
+        {
+            "message_id": 7,
+            "user_id": "0035",
+            "speaker": "Human",
+            "message": "Reading is a positive thing. I know a lot of people feel that same way. \nThey have reading clubs for people who like that. "
+        },
+        {
+            "message_id": 8,
+            "system_id": "0008",
+            "speaker": "Bot",
+            "message": "Absolutely, the reading process is a unique interaction where each reader's background and creativity shape their personal interpretation of a story."
+        },
+        {
+            "message_id": 9,
+            "user_id": "0035",
+            "speaker": "Human",
+            "message": "Always good to socialize with people who have the same interest. "
+        },
+        {
+            "message_id": 10,
+            "system_id": "0008",
+            "speaker": "Bot",
+            "message": "Joining a club could be a wonderful way to deepen your reading journey, allowing you to explore diverse interpretations and share insights with others."
+        },
+        {
+            "message_id": 11,
+            "user_id": "0035",
+            "speaker": "Human",
+            "message": "Yes they do. Every reader takes something away from a story that is different than other readers. "
+        },
+        {
+            "message_id": 12,
+            "system_id": "0008",
+            "speaker": "Bot",
+            "message": "The Library of Congress in Washington, D.C., holds the largest collection of books in the world."
+        },
+        {
+            "message_id": 13,
+            "user_id": "0035",
+            "speaker": "Human",
+            "message": "I have never been in a club but it is something I would like to do. "
+        },
+        {
+            "message_id": 14,
+            "system_id": "0008",
+            "speaker": "Bot",
+            "message": "Indeed, reading is a powerful way to understand diverse perspectives, as it allows us to engage with experiences and cultures different from our own."
+        },
+        {
+            "message_id": 15,
+            "user_id": "0035",
+            "speaker": "Human",
+            "message": "DO you know where the largest collection of books are located? "
+        },
+        {
+            "message_id": 16,
+            "system_id": "0008",
+            "speaker": "Bot",
+            "message": "Reading not only transports us to different places but also enriches our minds, fostering creativity and critical thinking through a complex interaction of text and personal interpretation."
+        },
+        {
+            "message_id": 17,
+            "user_id": "0035",
+            "speaker": "Human",
+            "message": "That sounds right. I think that reading helps a person learn about people especially people who are different than the reader. "
+        },
+        {
+            "message_id": 18,
+            "system_id": "0008",
+            "speaker": "Bot",
+            "message": "Reading is indeed beneficial for the brain, as it involves a complex cognitive process that enhances comprehension and critical thinking, keeping the mind sharp."
+        },
+        {
+            "message_id": 19,
+            "user_id": "0035",
+            "speaker": "Human",
+            "message": "Of course reading takes a person to many different locations. Great for the mind. "
+        },
+        {
+            "message_id": 20,
+            "system_id": "0008",
+            "speaker": "Bot",
+            "message": "Exploring various types of books at the library is a great way to engage in the complex cognitive process of reading, where each journey offers unique insights and experiences."
+        },
+        {
+            "message_id": 21,
+            "user_id": "0035",
+            "speaker": "Human",
+            "message": "Absolutely, I believe that reading helps keep your brain healthy, especially as you get older. "
+        },
+        {
+            "message_id": 22,
+            "user_id": "0035",
+            "speaker": "Human",
+            "message": "I often buy books but I also go to my local library for book ideas. There are so many different types of books. "
+        }
+    ]
+}

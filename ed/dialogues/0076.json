@@ -1,0 +1,136 @@
+{
+    "dialogue_id": "0076",
+    "setting": "ed",
+    "model": "gpt-4o",
+    "prompt": "aligned",
+    "emotion": "Disappointed",
+    "episode": "I was not given a promotion at work that I have been trying for and I am feeling quite disappointed and frustrated.",
+    "subjective_evaluation": {
+        "preference": 5.0,
+        "stylistic_similarity": 4.0,
+        "consistency": 4.0,
+        "empathy": 5.0
+    },
+    "dialogue": [
+        {
+            "message_id": 0,
+            "user_id": "0004",
+            "speaker": "Human",
+            "message": "I was not given a promotion that I have been trying for at work and I am feeling quite disappointed and frustrated."
+        },
+        {
+            "message_id": 1,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "I'm really sorry to hear that. It's tough when you work hard for something and don't get it. Do you want to talk about what happened?"
+        },
+        {
+            "message_id": 2,
+            "user_id": "0004",
+            "speaker": "Human",
+            "message": "Yes it really is tough!  I thought I had a really good chance at this promotion but did not receive it.  It was given to someone with more time at the company than me which is understandable, but I really had my heart set on it."
+        },
+        {
+            "message_id": 3,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "I get it, that's really tough. It can be so disheartening. Maybe there's a chance for feedback or another opportunity soon?"
+        },
+        {
+            "message_id": 4,
+            "user_id": "0004",
+            "speaker": "Human",
+            "message": "I am sure there will be.  That is what I have been telling myself.  I am trying to stay positive but it is quite the letdown."
+        },
+        {
+            "message_id": 5,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "It's understandable to feel let down. Keep your chin up—your time will come!"
+        },
+        {
+            "message_id": 6,
+            "user_id": "0004",
+            "speaker": "Human",
+            "message": "I like your positivity!  I know you are right.  I am doing my best to keep my head up and stay positive about the future."
+        },
+        {
+            "message_id": 7,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "Glad to hear it! You've got this!"
+        },
+        {
+            "message_id": 8,
+            "user_id": "0004",
+            "speaker": "Human",
+            "message": "Thank you!  I do not feel as though I really did anything wrong.  I did my best and I guess that is all I could have really done in the situation."
+        },
+        {
+            "message_id": 9,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "Exactly, you did your best, and that's what counts!"
+        },
+        {
+            "message_id": 10,
+            "user_id": "0004",
+            "speaker": "Human",
+            "message": "Yes I really did.  I tried my hardest.  I am working on doing something nice for myself to help me with the disappointment."
+        },
+        {
+            "message_id": 11,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "That sounds like a great idea! Treat yourself—you deserve it!"
+        },
+        {
+            "message_id": 12,
+            "user_id": "0004",
+            "speaker": "Human",
+            "message": "Maybe I will go to a baseball game or do something fun this weekend to help take my mind off of the situation."
+        },
+        {
+            "message_id": 13,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "That sounds perfect! Enjoy yourself!"
+        },
+        {
+            "message_id": 14,
+            "user_id": "0004",
+            "speaker": "Human",
+            "message": "Thank you.  Do you have any other suggestions for ways to deal with letdown and disappoinment?"
+        },
+        {
+            "message_id": 15,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "Sure! Chat with friends, exercise, or start a new hobby."
+        },
+        {
+            "message_id": 16,
+            "user_id": "0004",
+            "speaker": "Human",
+            "message": "Those are some good ideas.  The weather has been much nicer lately so maybe I can start walking and running on the pathway that goes through town."
+        },
+        {
+            "message_id": 17,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "That sounds perfect! Enjoy the fresh air!"
+        },
+        {
+            "message_id": 18,
+            "user_id": "0004",
+            "speaker": "Human",
+            "message": "I definitely will.  Thank you for the help I am starting to feel better about the entire situation."
+        },
+        {
+            "message_id": 19,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "Glad to hear that! Keep going!"
+        }
+    ]
+}

@@ -1,0 +1,162 @@
+{
+    "dialogue_id": "0047",
+    "setting": "ed",
+    "model": "Llama-3.1-70B-Instruct",
+    "prompt": "not_aligned",
+    "emotion": "Hopeful",
+    "episode": "Despite the horror our world faces, I think to myself everyday that there is still hope with all the beauty and kindness that still exits.",
+    "objective_evaluation": {
+        "preference": 4.33,
+        "stylistic_similarity": 3.0,
+        "consistency": 4.0,
+        "empathy": 4.33,
+        "preference_scores": [
+            4.0,
+            5.0,
+            4.0
+        ],
+        "stylistic_similarity_scores": [
+            2.0,
+            3.0,
+            4.0
+        ],
+        "consistency_scores": [
+            3.0,
+            5.0,
+            4.0
+        ],
+        "empathy_scores": [
+            3.0,
+            5.0,
+            5.0
+        ]
+    },
+    "subjective_evaluation": {
+        "preference": 5.0,
+        "stylistic_similarity": 5.0,
+        "consistency": 5.0,
+        "empathy": 5.0
+    },
+    "dialogue": [
+        {
+            "message_id": 0,
+            "user_id": "0009",
+            "speaker": "Human",
+            "message": "I'm hopeful for a better future despite all the darkness of the reality we all live in"
+        },
+        {
+            "message_id": 1,
+            "system_id": "0005",
+            "speaker": "Bot",
+            "message": "That's a beautiful outlook, stay optimistic!"
+        },
+        {
+            "message_id": 2,
+            "user_id": "0009",
+            "speaker": "Human",
+            "message": "I didn't use to be this way and I was less than optimistic about the world but I was more focused on myself. Now I wonder what I will leave behind and what legacy that is positive that I can be an agent of"
+        },
+        {
+            "message_id": 3,
+            "system_id": "0005",
+            "speaker": "Bot",
+            "message": "It sounds like you've had a profound shift in perspective."
+        },
+        {
+            "message_id": 4,
+            "user_id": "0009",
+            "speaker": "Human",
+            "message": "I had a much harder life years ago. In some ways I made it that way and I take the blame for that, but I also took a lot of strife from detractors that cut deeply at the same time. We grow up expecting a simple path but life is not that easy in personal and professional spaces"
+        },
+        {
+            "message_id": 5,
+            "system_id": "0005",
+            "speaker": "Bot",
+            "message": "It's admirable that you're taking ownership of your past and acknowledging the struggles you've faced."
+        },
+        {
+            "message_id": 6,
+            "user_id": "0009",
+            "speaker": "Human",
+            "message": "It was an eyeopener when I had problems and tried to reach out: first with family, then with friends and found that I was turned away more than I was embraced in a time I needed at the very least...compassion and maybe love"
+        },
+        {
+            "message_id": 7,
+            "system_id": "0005",
+            "speaker": "Bot",
+            "message": "That must have been incredibly painful, feeling rejected when you needed support the most."
+        },
+        {
+            "message_id": 8,
+            "user_id": "0009",
+            "speaker": "Human",
+            "message": "Nobody cares in this world. So many will claim they care but they don't in life and you really don't find out until you need them to care...even if it isn't about you."
+        },
+        {
+            "message_id": 9,
+            "system_id": "0005",
+            "speaker": "Bot",
+            "message": "That's a really tough and isolating feeling, like you're completely on your own."
+        },
+        {
+            "message_id": 10,
+            "user_id": "0009",
+            "speaker": "Human",
+            "message": "I've always been on my own. I live in isolation but I like the older I get to just keep court with people I want to spend my time who value me"
+        },
+        {
+            "message_id": 11,
+            "system_id": "0005",
+            "speaker": "Bot",
+            "message": "Setting boundaries and surrounding yourself with people who truly value you can be very liberating."
+        },
+        {
+            "message_id": 12,
+            "user_id": "0009",
+            "speaker": "Human",
+            "message": "it is true freedom because you can't surround yourself with people who simply don't care. Sometimes it takes time who does and who doesn't"
+        },
+        {
+            "message_id": 13,
+            "system_id": "0005",
+            "speaker": "Bot",
+            "message": "Wisdom gained from experience, recognizing who's truly invested in you and who's not."
+        },
+        {
+            "message_id": 14,
+            "user_id": "0009",
+            "speaker": "Human",
+            "message": "You have to keep close those who matter because they make you who you are"
+        },
+        {
+            "message_id": 15,
+            "system_id": "0005",
+            "speaker": "Bot",
+            "message": "Nurturing those meaningful relationships can be a powerful source of identity and strength."
+        },
+        {
+            "message_id": 16,
+            "user_id": "0009",
+            "speaker": "Human",
+            "message": "It's the best strength to have. People are so devoid of this and treat others like they are meaningless"
+        },
+        {
+            "message_id": 17,
+            "system_id": "0005",
+            "speaker": "Bot",
+            "message": "It's heartbreaking to see people undervalued and disrespected, isn't it?"
+        },
+        {
+            "message_id": 18,
+            "user_id": "0009",
+            "speaker": "Human",
+            "message": "It's rough when it's someone you care about...or you. "
+        },
+        {
+            "message_id": 19,
+            "system_id": "0005",
+            "speaker": "Bot",
+            "message": "Especially when it's personal, it can be really hurtful and hard to shake off."
+        }
+    ]
+}

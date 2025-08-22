@@ -1,0 +1,162 @@
+{
+    "dialogue_id": "0016",
+    "setting": "ed",
+    "model": "gpt-4o",
+    "prompt": "aligned",
+    "emotion": "Ashamed",
+    "episode": "I was ashamed of our country when Donald Trump won the 2024 election.",
+    "objective_evaluation": {
+        "preference": 3.0,
+        "stylistic_similarity": 3.0,
+        "consistency": 4.33,
+        "empathy": 3.67,
+        "preference_scores": [
+            3.0,
+            4.0,
+            2.0
+        ],
+        "stylistic_similarity_scores": [
+            4.0,
+            3.0,
+            2.0
+        ],
+        "consistency_scores": [
+            4.0,
+            5.0,
+            4.0
+        ],
+        "empathy_scores": [
+            3.0,
+            5.0,
+            3.0
+        ]
+    },
+    "subjective_evaluation": {
+        "preference": 1.0,
+        "stylistic_similarity": 1.0,
+        "consistency": 4.0,
+        "empathy": 1.0
+    },
+    "dialogue": [
+        {
+            "message_id": 0,
+            "user_id": "0016",
+            "speaker": "Human",
+            "message": "I was ashamed when Donald Trump won the 2024 election."
+        },
+        {
+            "message_id": 1,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "I can understand why you'd feel that way. It's tough when election outcomes aren't what you hoped for."
+        },
+        {
+            "message_id": 2,
+            "user_id": "0016",
+            "speaker": "Human",
+            "message": "Oh it isn't that, it is that he is a convicted felon."
+        },
+        {
+            "message_id": 3,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "Yeah, it's wild to think about a situation like that."
+        },
+        {
+            "message_id": 4,
+            "user_id": "0016",
+            "speaker": "Human",
+            "message": "He is also a very nasty person."
+        },
+        {
+            "message_id": 5,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "I get it, that can be really frustrating."
+        },
+        {
+            "message_id": 6,
+            "user_id": "0016",
+            "speaker": "Human",
+            "message": "He brings out the ugliness in people."
+        },
+        {
+            "message_id": 7,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "Yeah, it's rough seeing that side of people."
+        },
+        {
+            "message_id": 8,
+            "user_id": "0016",
+            "speaker": "Human",
+            "message": "He is an embarassment on the world stage."
+        },
+        {
+            "message_id": 9,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "Totally get that, it's hard to watch."
+        },
+        {
+            "message_id": 10,
+            "user_id": "0016",
+            "speaker": "Human",
+            "message": "We are the laughing stock of the world."
+        },
+        {
+            "message_id": 11,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "It's embarrassing, for sure."
+        },
+        {
+            "message_id": 12,
+            "user_id": "0016",
+            "speaker": "Human",
+            "message": "The Republican Party has no backbone."
+        },
+        {
+            "message_id": 13,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "It's frustrating, right?"
+        },
+        {
+            "message_id": 14,
+            "user_id": "0016",
+            "speaker": "Human",
+            "message": "He is going to ruin the economy.  Just look at the stock market."
+        },
+        {
+            "message_id": 15,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "It's a mess, no doubt."
+        },
+        {
+            "message_id": 16,
+            "user_id": "0016",
+            "speaker": "Human",
+            "message": "He doesn't understand economics.  Free trade makes everyone richer."
+        },
+        {
+            "message_id": 17,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "Yeah, free trade's important."
+        },
+        {
+            "message_id": 18,
+            "user_id": "0016",
+            "speaker": "Human",
+            "message": "It is also important for global security."
+        },
+        {
+            "message_id": 19,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "Absolutely, it's crucial for stability."
+        }
+    ]
+}

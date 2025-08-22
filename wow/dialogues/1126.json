@@ -1,0 +1,141 @@
+{
+    "dialogue_id": "1126",
+    "setting": "wow",
+    "model": "Llama-3.1-70B-Instruct",
+    "prompt": "aligned",
+    "topic": "Shrimp and prawn as food",
+    "subjective_evaluation": {
+        "preference": 5.0,
+        "stylistic_similarity": 5.0,
+        "consistency": 5.0,
+        "engagingness": 5.0
+    },
+    "dialogue": [
+        {
+            "message_id": 0,
+            "system_id": "0010",
+            "speaker": "Bot",
+            "message": "Hey, wanna talk about shrimp and prawns?"
+        },
+        {
+            "message_id": 1,
+            "user_id": "0018",
+            "speaker": "Human",
+            "message": "yeah what kind of food is made from Shrimp and prawn"
+        },
+        {
+            "message_id": 2,
+            "system_id": "0010",
+            "speaker": "Bot",
+            "message": "Dude, they're like a staple in seafood, used in tons of dishes worldwide!"
+        },
+        {
+            "message_id": 3,
+            "user_id": "0018",
+            "speaker": "Human",
+            "message": "Really"
+        },
+        {
+            "message_id": 4,
+            "system_id": "0010",
+            "speaker": "Bot",
+            "message": "Yeah, and it's crazy how some places use the terms interchangeably, while others are super specific about calling them shrimp or prawns!"
+        },
+        {
+            "message_id": 5,
+            "user_id": "0018",
+            "speaker": "Human",
+            "message": "Where people did eat shrimp and prawn mostly?"
+        },
+        {
+            "message_id": 6,
+            "system_id": "0010",
+            "speaker": "Bot",
+            "message": "I think it's pretty popular in Australia and the UK, they love 'em, especially in Commonwealth nations!"
+        },
+        {
+            "message_id": 7,
+            "user_id": "0018",
+            "speaker": "Human",
+            "message": "I see"
+        },
+        {
+            "message_id": 8,
+            "system_id": "0010",
+            "speaker": "Bot",
+            "message": "Yeah, and it's funny, in the UK they usually say \"prawn\" on menus, but in North America, it's more like \"shrimp\"!"
+        },
+        {
+            "message_id": 9,
+            "user_id": "0018",
+            "speaker": "Human",
+            "message": "But both are same. Am I right?"
+        },
+        {
+            "message_id": 10,
+            "system_id": "0010",
+            "speaker": "Bot",
+            "message": "Kinda, they're similar, but not exactly the same, technically they belong to different suborders, but people often use the terms loosely!"
+        },
+        {
+            "message_id": 11,
+            "user_id": "0018",
+            "speaker": "Human",
+            "message": "Dude Actually how long shrimp or prawn would take time to cook approximately"
+        },
+        {
+            "message_id": 12,
+            "system_id": "0010",
+            "speaker": "Bot",
+            "message": "Bro, they cook super fast, like 2-3 minutes, depending on the size and method, but yeah, they're quick!"
+        },
+        {
+            "message_id": 13,
+            "user_id": "0018",
+            "speaker": "Human",
+            "message": "That's really great to heat all kind of prawns will be cooked with in 3 minutes. Isn't it?"
+        },
+        {
+            "message_id": 14,
+            "system_id": "0010",
+            "speaker": "Bot",
+            "message": "Nah, not all prawns, dude, some bigger ones like \"king prawns\" might take a bit longer, but yeah, 3 minutes is a good rough estimate!"
+        },
+        {
+            "message_id": 15,
+            "user_id": "0018",
+            "speaker": "Human",
+            "message": "Oh ok bro. Where Can I get these food at usa?"
+        },
+        {
+            "message_id": 16,
+            "system_id": "0010",
+            "speaker": "Bot",
+            "message": "You can find 'em at most seafood restaurants, bro, or even some supermarkets, but if you're lookin' for authentic stuff, try checkin' out seafood markets near the coast!"
+        },
+        {
+            "message_id": 17,
+            "user_id": "0018",
+            "speaker": "Human",
+            "message": "Can I eat this as my breakfast?"
+        },
+        {
+            "message_id": 18,
+            "system_id": "0010",
+            "speaker": "Bot",
+            "message": "Bro, why not?! Shrimp and prawns can be a sick breakfast option, throw 'em on some toast or in an omelette, and you're good to go!"
+        },
+        {
+            "message_id": 19,
+            "user_id": "0018",
+            "speaker": "Human",
+            "message": "Cool! Next time I will try it."
+        },
+        {
+            "message_id": 20,
+            "system_id": "0010",
+            "speaker": "Bot",
+            "message": "Yeah, do it, bro! You won't regret it, and who knows, you might just start a new breakfast tradition, shrimp for breakfast, why not?!"
+        }
+    ]
+}

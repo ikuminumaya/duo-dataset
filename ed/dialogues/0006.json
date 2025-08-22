@@ -1,0 +1,162 @@
+{
+    "dialogue_id": "0006",
+    "setting": "ed",
+    "model": "gpt-4o",
+    "prompt": "neutral",
+    "emotion": "Disgusted",
+    "episode": "Employed a trademan to do a job and he bailed part way through and went completely missing in action.",
+    "objective_evaluation": {
+        "preference": 3.67,
+        "stylistic_similarity": 4.33,
+        "consistency": 4.67,
+        "empathy": 4.33,
+        "preference_scores": [
+            4.0,
+            2.0,
+            5.0
+        ],
+        "stylistic_similarity_scores": [
+            5.0,
+            3.0,
+            5.0
+        ],
+        "consistency_scores": [
+            4.0,
+            5.0,
+            5.0
+        ],
+        "empathy_scores": [
+            5.0,
+            3.0,
+            5.0
+        ]
+    },
+    "subjective_evaluation": {
+        "preference": 2.0,
+        "stylistic_similarity": 2.0,
+        "consistency": 4.0,
+        "empathy": 3.0
+    },
+    "dialogue": [
+        {
+            "message_id": 0,
+            "user_id": "0006",
+            "speaker": "Human",
+            "message": "I employed a tradesman to do a job on my house and he bailed part way through and went completely missing in action.  I couldn't believe anyone would do that, leaving me in the lurch and incurring extra costs."
+        },
+        {
+            "message_id": 1,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "That sounds incredibly frustrating. I'm sorry you're going through this."
+        },
+        {
+            "message_id": 2,
+            "user_id": "0006",
+            "speaker": "Human",
+            "message": "He wouldn't answer my calls for a while and I assumed he would come back until eventually I had to abandon him."
+        },
+        {
+            "message_id": 3,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "That's really disappointing."
+        },
+        {
+            "message_id": 4,
+            "user_id": "0006",
+            "speaker": "Human",
+            "message": "Nothing I could do about it either, he just got away with it."
+        },
+        {
+            "message_id": 5,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "That's so unfair."
+        },
+        {
+            "message_id": 6,
+            "user_id": "0006",
+            "speaker": "Human",
+            "message": "Indeed.  The scaffolding which was up for him to finish was costing me money to keep up and the scaffolder was chasing me to complete or pay more."
+        },
+        {
+            "message_id": 7,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "That must have been so stressful."
+        },
+        {
+            "message_id": 8,
+            "user_id": "0006",
+            "speaker": "Human",
+            "message": "It was."
+        },
+        {
+            "message_id": 9,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "I understand."
+        },
+        {
+            "message_id": 10,
+            "user_id": "0006",
+            "speaker": "Human",
+            "message": "I contacted someone who had done work for me before and he finished it.  If anything goes wrong with it I have no comeback as can't tell who's fault it would be."
+        },
+        {
+            "message_id": 11,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "That's really tough."
+        },
+        {
+            "message_id": 12,
+            "user_id": "0006",
+            "speaker": "Human",
+            "message": "And it cost a lot of money."
+        },
+        {
+            "message_id": 13,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "I'm sorry to hear that."
+        },
+        {
+            "message_id": 14,
+            "user_id": "0006",
+            "speaker": "Human",
+            "message": "He was recommend to me as well.  Made me very distrusting of tradesman."
+        },
+        {
+            "message_id": 15,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "I understand your frustration."
+        },
+        {
+            "message_id": 16,
+            "user_id": "0006",
+            "speaker": "Human",
+            "message": "They don't seem to have any ability to communicate or desire to get the job done in a timely fashion.  So frustrating."
+        },
+        {
+            "message_id": 17,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "That sounds really frustrating."
+        },
+        {
+            "message_id": 18,
+            "user_id": "0006",
+            "speaker": "Human",
+            "message": "They aren't part of any trade body or anything so there is usually nothing you can do."
+        },
+        {
+            "message_id": 19,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "That makes it even harder."
+        }
+    ]
+}

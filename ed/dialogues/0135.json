@@ -1,0 +1,136 @@
+{
+    "dialogue_id": "0135",
+    "setting": "ed",
+    "model": "Llama-3.1-70B-Instruct",
+    "prompt": "aligned",
+    "emotion": "Nostalgic",
+    "episode": "I was listening to early 2000s music.",
+    "subjective_evaluation": {
+        "preference": 1.0,
+        "stylistic_similarity": 1.0,
+        "consistency": 2.0,
+        "empathy": 1.0
+    },
+    "dialogue": [
+        {
+            "message_id": 0,
+            "user_id": "0008",
+            "speaker": "Human",
+            "message": "The music I'm listening to is taking me back"
+        },
+        {
+            "message_id": 1,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "Nostalgic vibes"
+        },
+        {
+            "message_id": 2,
+            "user_id": "0008",
+            "speaker": "Human",
+            "message": "I'm listening to a lot of music I forgot about"
+        },
+        {
+            "message_id": 3,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "Blast from the past"
+        },
+        {
+            "message_id": 4,
+            "user_id": "0008",
+            "speaker": "Human",
+            "message": "It's bringing up old memories"
+        },
+        {
+            "message_id": 5,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "That can be bittersweet"
+        },
+        {
+            "message_id": 6,
+            "user_id": "0008",
+            "speaker": "Human",
+            "message": "There's something special about 2000s music"
+        },
+        {
+            "message_id": 7,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "Totally a great era"
+        },
+        {
+            "message_id": 8,
+            "user_id": "0008",
+            "speaker": "Human",
+            "message": "What do you think about the music back then?"
+        },
+        {
+            "message_id": 9,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "It had a certain charm"
+        },
+        {
+            "message_id": 10,
+            "user_id": "0008",
+            "speaker": "Human",
+            "message": "Why did it sound so different"
+        },
+        {
+            "message_id": 11,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "Different time, different vibe"
+        },
+        {
+            "message_id": 12,
+            "user_id": "0008",
+            "speaker": "Human",
+            "message": "I kinda miss it"
+        },
+        {
+            "message_id": 13,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "Me too, it's nostalgic"
+        },
+        {
+            "message_id": 14,
+            "user_id": "0008",
+            "speaker": "Human",
+            "message": "I got so many songs stuck in my head"
+        },
+        {
+            "message_id": 15,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "Earworms, right?"
+        },
+        {
+            "message_id": 16,
+            "user_id": "0008",
+            "speaker": "Human",
+            "message": "It feels like songwriting has gotten worse"
+        },
+        {
+            "message_id": 17,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "Not as authentic anymore"
+        },
+        {
+            "message_id": 18,
+            "user_id": "0008",
+            "speaker": "Human",
+            "message": "Why do you think that is"
+        },
+        {
+            "message_id": 19,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "Maybe too commercialized"
+        }
+    ]
+}

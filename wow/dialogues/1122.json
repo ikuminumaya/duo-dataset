@@ -1,0 +1,135 @@
+{
+    "dialogue_id": "1122",
+    "setting": "wow",
+    "model": "Llama-3.1-70B-Instruct",
+    "prompt": "neutral",
+    "topic": "Peanut",
+    "subjective_evaluation": {
+        "preference": 4.0,
+        "stylistic_similarity": 5.0,
+        "consistency": 5.0,
+        "engagingness": 5.0
+    },
+    "dialogue": [
+        {
+            "message_id": 0,
+            "system_id": "0009",
+            "speaker": "Bot",
+            "message": "I'm excited to chat with you, what's on your mind?"
+        },
+        {
+            "message_id": 1,
+            "user_id": "0004",
+            "speaker": "Human",
+            "message": "Thank you me too!  I am wondering what you can tell me that might be interesting or unknown about peanuts."
+        },
+        {
+            "message_id": 2,
+            "system_id": "0009",
+            "speaker": "Bot",
+            "message": "Peanuts are actually a type of legume, not a true nut!"
+        },
+        {
+            "message_id": 3,
+            "user_id": "0004",
+            "speaker": "Human",
+            "message": "I knew that but for some reason always seem to forget it!  So a peanut is more related to a mushroom than a nut?"
+        },
+        {
+            "message_id": 4,
+            "system_id": "0009",
+            "speaker": "Bot",
+            "message": "No, peanuts are more closely related to beans and peas than mushrooms, actually!"
+        },
+        {
+            "message_id": 5,
+            "user_id": "0004",
+            "speaker": "Human",
+            "message": "Well I feel silly.  I'm not sure what I was thinking there.  Ok legumes are beans I knew that.  "
+        },
+        {
+            "message_id": 6,
+            "system_id": "0009",
+            "speaker": "Bot",
+            "message": "Don't feel silly! Legumes also include peanuts, lentils, and peas, and they're all part of the same plant family, Fabaceae."
+        },
+        {
+            "message_id": 7,
+            "user_id": "0004",
+            "speaker": "Human",
+            "message": "Very interesting!  Are there other nuts that are actually legumes rather than nuts?"
+        },
+        {
+            "message_id": 8,
+            "system_id": "0009",
+            "speaker": "Bot",
+            "message": "No, peanuts are a bit of an outlier, but some other legumes are used as nuts, like soy nuts, which are actually soybeans!"
+        },
+        {
+            "message_id": 9,
+            "user_id": "0004",
+            "speaker": "Human",
+            "message": "Very interesting!  Are there any other nuts that are actually legumes rather than nuts?"
+        },
+        {
+            "message_id": 10,
+            "system_id": "0009",
+            "speaker": "Bot",
+            "message": "Peanuts are nutritious and offer several health benefits, similar to other legumes, and are a good source of protein, fiber, and healthy fats."
+        },
+        {
+            "message_id": 11,
+            "user_id": "0004",
+            "speaker": "Human",
+            "message": "I see.  Very interesting.  I believe that most legumes are considered healthy.  Would you say that peanuts are healthy?"
+        },
+        {
+            "message_id": 12,
+            "system_id": "0009",
+            "speaker": "Bot",
+            "message": "No, it's not recommended to eat peanut shells, as they're fibrous and can be difficult to digest, unlike the edible pods of some other legumes."
+        },
+        {
+            "message_id": 13,
+            "user_id": "0004",
+            "speaker": "Human",
+            "message": "That is good to know.  I think that other legumes such as beans and peas it is ok to eat the \"shell.\"  Is it safe to eat a peanut shell?"
+        },
+        {
+            "message_id": 14,
+            "system_id": "0009",
+            "speaker": "Bot",
+            "message": "One interesting fact is that peanuts grow underground, not on trees like many people think!"
+        },
+        {
+            "message_id": 15,
+            "user_id": "0004",
+            "speaker": "Human",
+            "message": "I see.  I certainly didn't think so!  Do you know of any other interesting facts regarding peanuts?"
+        },
+        {
+            "message_id": 16,
+            "system_id": "0009",
+            "speaker": "Bot",
+            "message": "It's a unique process, and peanuts are often harvested by digging up the entire plant, rather than just picking the peanuts from a tree or bush."
+        },
+        {
+            "message_id": 17,
+            "user_id": "0004",
+            "speaker": "Human",
+            "message": "Now that I actually knew, but it is interesting.  I would like to see someone harvest peanuts."
+        },
+        {
+            "message_id": 18,
+            "system_id": "0009",
+            "speaker": "Bot",
+            "message": "That's a great comparison! Yes, harvesting peanuts is similar to harvesting potatoes, where the whole plant is dug up to access the edible part that grows underground."
+        },
+        {
+            "message_id": 19,
+            "user_id": "0004",
+            "speaker": "Human",
+            "message": "So similar to harvesting potatoes?"
+        }
+    ]
+}

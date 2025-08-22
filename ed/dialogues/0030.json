@@ -1,0 +1,162 @@
+{
+    "dialogue_id": "0030",
+    "setting": "ed",
+    "model": "Llama-3.1-70B-Instruct",
+    "prompt": "neutral",
+    "emotion": "Proud",
+    "episode": "I helped my mother get some things done around her house and it really made her happy.",
+    "objective_evaluation": {
+        "preference": 3.67,
+        "stylistic_similarity": 3.33,
+        "consistency": 5.0,
+        "empathy": 4.67,
+        "preference_scores": [
+            3.0,
+            3.0,
+            5.0
+        ],
+        "stylistic_similarity_scores": [
+            3.0,
+            2.0,
+            5.0
+        ],
+        "consistency_scores": [
+            5.0,
+            5.0,
+            5.0
+        ],
+        "empathy_scores": [
+            4.0,
+            5.0,
+            5.0
+        ]
+    },
+    "subjective_evaluation": {
+        "preference": 3.0,
+        "stylistic_similarity": 3.0,
+        "consistency": 4.0,
+        "empathy": 3.0
+    },
+    "dialogue": [
+        {
+            "message_id": 0,
+            "user_id": "0005",
+            "speaker": "Human",
+            "message": "I helped my mother get some things done around her house and it really made her happy."
+        },
+        {
+            "message_id": 1,
+            "system_id": "0003",
+            "speaker": "Bot",
+            "message": "That's very thoughtful of you."
+        },
+        {
+            "message_id": 2,
+            "user_id": "0005",
+            "speaker": "Human",
+            "message": "It made me feel good to see her enjoying her space and I love to get to spend time with her."
+        },
+        {
+            "message_id": 3,
+            "system_id": "0003",
+            "speaker": "Bot",
+            "message": "It's great that you have a close relationship with your mom."
+        },
+        {
+            "message_id": 4,
+            "user_id": "0005",
+            "speaker": "Human",
+            "message": "It is. We had fun too. We cleaned out her spare room that is full of clothes and accessories so we tried on a lot of things together."
+        },
+        {
+            "message_id": 5,
+            "system_id": "0003",
+            "speaker": "Bot",
+            "message": "Sounds like you had a blast together!"
+        },
+        {
+            "message_id": 6,
+            "user_id": "0005",
+            "speaker": "Human",
+            "message": "We did and now she has more open space in the room and she can enjoy the things she actually does use."
+        },
+        {
+            "message_id": 7,
+            "system_id": "0003",
+            "speaker": "Bot",
+            "message": "That's wonderful, very fulfilling to help her declutter."
+        },
+        {
+            "message_id": 8,
+            "user_id": "0005",
+            "speaker": "Human",
+            "message": "It is good to know she has a clean space and some new good memories."
+        },
+        {
+            "message_id": 9,
+            "system_id": "0003",
+            "speaker": "Bot",
+            "message": "I'm sure she appreciates it, and so do you."
+        },
+        {
+            "message_id": 10,
+            "user_id": "0005",
+            "speaker": "Human",
+            "message": "I do and I want her to know I am there for her, big things and small ones."
+        },
+        {
+            "message_id": 11,
+            "system_id": "0003",
+            "speaker": "Bot",
+            "message": "That's very sweet of you, I'm sure she feels loved."
+        },
+        {
+            "message_id": 12,
+            "user_id": "0005",
+            "speaker": "Human",
+            "message": "I hope she will call on me if she ever needs something you know?"
+        },
+        {
+            "message_id": 13,
+            "system_id": "0003",
+            "speaker": "Bot",
+            "message": "I'm sure she will, you've shown her you're reliable."
+        },
+        {
+            "message_id": 14,
+            "user_id": "0005",
+            "speaker": "Human",
+            "message": "I also like to take the opportunities to visit her at home, just to be sure everything is ok."
+        },
+        {
+            "message_id": 15,
+            "system_id": "0003",
+            "speaker": "Bot",
+            "message": "That's thoughtful of you, I'm sure she appreciates the check-ins."
+        },
+        {
+            "message_id": 16,
+            "user_id": "0005",
+            "speaker": "Human",
+            "message": "I try to do the big chores like bathtub scrubbing for her when I visit."
+        },
+        {
+            "message_id": 17,
+            "system_id": "0003",
+            "speaker": "Bot",
+            "message": "That's so kind of you, a big help to her."
+        },
+        {
+            "message_id": 18,
+            "user_id": "0005",
+            "speaker": "Human",
+            "message": "I would hate to see her get hurt doing a chore I could have helped with."
+        },
+        {
+            "message_id": 19,
+            "system_id": "0003",
+            "speaker": "Bot",
+            "message": "That shows how much you care about her well-being."
+        }
+    ]
+}

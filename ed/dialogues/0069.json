@@ -1,0 +1,136 @@
+{
+    "dialogue_id": "0069",
+    "setting": "ed",
+    "model": "gpt-4o",
+    "prompt": "aligned",
+    "emotion": "Excited",
+    "episode": "I am excited for this upcoming Easter.",
+    "subjective_evaluation": {
+        "preference": 5.0,
+        "stylistic_similarity": 5.0,
+        "consistency": 5.0,
+        "empathy": 5.0
+    },
+    "dialogue": [
+        {
+            "message_id": 0,
+            "user_id": "0021",
+            "speaker": "Human",
+            "message": "I am excited for this upcoming Easter."
+        },
+        {
+            "message_id": 1,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "That's awesome! Do you have any special plans?"
+        },
+        {
+            "message_id": 2,
+            "user_id": "0021",
+            "speaker": "Human",
+            "message": "We always go to my Dad"
+        },
+        {
+            "message_id": 3,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "Sounds like a great tradition! What do you usually do there?"
+        },
+        {
+            "message_id": 4,
+            "user_id": "0021",
+            "speaker": "Human",
+            "message": "all of my sisters and nephews and there family go to my Dad's land out in the country"
+        },
+        {
+            "message_id": 5,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "That sounds like a blast! Bet it's a fun time with everyone there."
+        },
+        {
+            "message_id": 6,
+            "user_id": "0021",
+            "speaker": "Human",
+            "message": "Yes it is very fun. We cook barbecue, go fishing and shoot guns."
+        },
+        {
+            "message_id": 7,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "That sounds amazing! Can't beat good food and outdoor fun."
+        },
+        {
+            "message_id": 8,
+            "user_id": "0021",
+            "speaker": "Human",
+            "message": "I is very fun to be out in the country. Plus I get to plant my tomato plants too."
+        },
+        {
+            "message_id": 9,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "That's awesome! Fresh tomatoes are the best."
+        },
+        {
+            "message_id": 10,
+            "user_id": "0021",
+            "speaker": "Human",
+            "message": "I hope this year I have a good yeild. The past two years have been tough due to the heat and lack of rain"
+        },
+        {
+            "message_id": 11,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "Hope the weather cooperates this year! Fingers crossed for a great harvest."
+        },
+        {
+            "message_id": 12,
+            "user_id": "0021",
+            "speaker": "Human",
+            "message": "thanks. Also I get to see my new Great Nephew"
+        },
+        {
+            "message_id": 13,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "That's awesome! Bet he's adorable."
+        },
+        {
+            "message_id": 14,
+            "user_id": "0021",
+            "speaker": "Human",
+            "message": "I seen pictures of him, he is very cute"
+        },
+        {
+            "message_id": 15,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "Can't wait to meet him in person!"
+        },
+        {
+            "message_id": 16,
+            "user_id": "0021",
+            "speaker": "Human",
+            "message": "Yes, It will be a great Easter"
+        },
+        {
+            "message_id": 17,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "Sounds like it'll be awesome!"
+        },
+        {
+            "message_id": 18,
+            "user_id": "0021",
+            "speaker": "Human",
+            "message": "I hope the weather is good"
+        },
+        {
+            "message_id": 19,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "Fingers crossed for sunshine!"
+        }
+    ]
+}

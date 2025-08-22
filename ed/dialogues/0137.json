@@ -1,0 +1,136 @@
+{
+    "dialogue_id": "0137",
+    "setting": "ed",
+    "model": "Llama-3.1-70B-Instruct",
+    "prompt": "not_aligned",
+    "emotion": "Hopeful",
+    "episode": "I'm starting a new job today.",
+    "subjective_evaluation": {
+        "preference": 5.0,
+        "stylistic_similarity": 5.0,
+        "consistency": 5.0,
+        "empathy": 5.0
+    },
+    "dialogue": [
+        {
+            "message_id": 0,
+            "user_id": "0027",
+            "speaker": "Human",
+            "message": "I'm starting a new job today. It's the first time that I'll actually be using my degree."
+        },
+        {
+            "message_id": 1,
+            "system_id": "0005",
+            "speaker": "Bot",
+            "message": "How exciting! You must be thrilled to finally put your skills to use."
+        },
+        {
+            "message_id": 2,
+            "user_id": "0027",
+            "speaker": "Human",
+            "message": "I am. I really hope that I am good at it. They're paying me a lot of money. $80,000/yr"
+        },
+        {
+            "message_id": 3,
+            "system_id": "0005",
+            "speaker": "Bot",
+            "message": "That's a great salary. No pressure, right?"
+        },
+        {
+            "message_id": 4,
+            "user_id": "0027",
+            "speaker": "Human",
+            "message": "A lot but also a lot of hope. Making that much I will actually be able to pay my student loans off."
+        },
+        {
+            "message_id": 5,
+            "system_id": "0005",
+            "speaker": "Bot",
+            "message": "That's a huge weight off your shoulders, financially."
+        },
+        {
+            "message_id": 6,
+            "user_id": "0027",
+            "speaker": "Human",
+            "message": "Yes. This is the kind of company that a person retires from, you know."
+        },
+        {
+            "message_id": 7,
+            "system_id": "0005",
+            "speaker": "Bot",
+            "message": "Sounds like a dream company to have long-term stability."
+        },
+        {
+            "message_id": 8,
+            "user_id": "0027",
+            "speaker": "Human",
+            "message": "I've never had that. Most of my other jobs have been waiting tables. "
+        },
+        {
+            "message_id": 9,
+            "system_id": "0005",
+            "speaker": "Bot",
+            "message": "Big change of pace for you, then."
+        },
+        {
+            "message_id": 10,
+            "user_id": "0027",
+            "speaker": "Human",
+            "message": "Yes. and a lot more money!!!"
+        },
+        {
+            "message_id": 11,
+            "system_id": "0005",
+            "speaker": "Bot",
+            "message": "A definite upgrade!"
+        },
+        {
+            "message_id": 12,
+            "user_id": "0027",
+            "speaker": "Human",
+            "message": "Do you have any advice for me to make a good impression?"
+        },
+        {
+            "message_id": 13,
+            "system_id": "0005",
+            "speaker": "Bot",
+            "message": "Be yourself, be confident, and listen more than you talk."
+        },
+        {
+            "message_id": 14,
+            "user_id": "0027",
+            "speaker": "Human",
+            "message": "The last one has always been hard for me lol"
+        },
+        {
+            "message_id": 15,
+            "system_id": "0005",
+            "speaker": "Bot",
+            "message": "It's a tough habit to break, but worth it."
+        },
+        {
+            "message_id": 16,
+            "user_id": "0027",
+            "speaker": "Human",
+            "message": "Yes. I can see how that would be the case. "
+        },
+        {
+            "message_id": 17,
+            "system_id": "0005",
+            "speaker": "Bot",
+            "message": "People tend to appreciate a good listener."
+        },
+        {
+            "message_id": 18,
+            "user_id": "0027",
+            "speaker": "Human",
+            "message": "Yeah, serving made me pretty good at that! People tip you better when you are friendly."
+        },
+        {
+            "message_id": 19,
+            "system_id": "0005",
+            "speaker": "Bot",
+            "message": "Server skills can translate well to other roles, surprisingly."
+        }
+    ]
+}

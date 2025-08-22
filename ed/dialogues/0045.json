@@ -1,0 +1,162 @@
+{
+    "dialogue_id": "0045",
+    "setting": "ed",
+    "model": "Llama-3.1-70B-Instruct",
+    "prompt": "not_aligned",
+    "emotion": "Excited",
+    "episode": "I've been excited about a new project I've been assigned to at work.",
+    "objective_evaluation": {
+        "preference": 4.33,
+        "stylistic_similarity": 4.0,
+        "consistency": 5.0,
+        "empathy": 5.0,
+        "preference_scores": [
+            4.0,
+            4.0,
+            5.0
+        ],
+        "stylistic_similarity_scores": [
+            4.0,
+            3.0,
+            5.0
+        ],
+        "consistency_scores": [
+            5.0,
+            5.0,
+            5.0
+        ],
+        "empathy_scores": [
+            5.0,
+            5.0,
+            5.0
+        ]
+    },
+    "subjective_evaluation": {
+        "preference": 3.0,
+        "stylistic_similarity": 3.0,
+        "consistency": 5.0,
+        "empathy": 5.0
+    },
+    "dialogue": [
+        {
+            "message_id": 0,
+            "user_id": "0003",
+            "speaker": "Human",
+            "message": "I've been feeling excited about a new project I was just assigned at work."
+        },
+        {
+            "message_id": 1,
+            "system_id": "0005",
+            "speaker": "Bot",
+            "message": "What's the project about?"
+        },
+        {
+            "message_id": 2,
+            "user_id": "0003",
+            "speaker": "Human",
+            "message": "We are standing up a new product line/segment at work and I'll be getting the online banking process and features defined."
+        },
+        {
+            "message_id": 3,
+            "system_id": "0005",
+            "speaker": "Bot",
+            "message": "Sounds like a big responsibility, you must be thrilled to lead it."
+        },
+        {
+            "message_id": 4,
+            "user_id": "0003",
+            "speaker": "Human",
+            "message": "I am.  It's been quite a while since I worked on a new product launch."
+        },
+        {
+            "message_id": 5,
+            "system_id": "0005",
+            "speaker": "Bot",
+            "message": "A chance to start fresh, that's probably energizing for you."
+        },
+        {
+            "message_id": 6,
+            "user_id": "0003",
+            "speaker": "Human",
+            "message": "It is.  It's a great opportunity to brush off some knowledge that I haven't applied in awhile."
+        },
+        {
+            "message_id": 7,
+            "system_id": "0005",
+            "speaker": "Bot",
+            "message": "Like riding a bike, it'll come back quickly, right?"
+        },
+        {
+            "message_id": 8,
+            "user_id": "0003",
+            "speaker": "Human",
+            "message": "I think so.  I feel really comfortable at work in general; good folks and lots of support to get things done."
+        },
+        {
+            "message_id": 9,
+            "system_id": "0005",
+            "speaker": "Bot",
+            "message": "That makes a huge difference, having a supportive team behind you."
+        },
+        {
+            "message_id": 10,
+            "user_id": "0003",
+            "speaker": "Human",
+            "message": "It took me many years and many jobs to get here.  I'd always worked for the big banks until a couple of years ago when I came out of an early retirement for this opportunity at a small regional bank."
+        },
+        {
+            "message_id": 11,
+            "system_id": "0005",
+            "speaker": "Bot",
+            "message": "A fresh start at a smaller bank, that's a big change, how's the culture shift been?"
+        },
+        {
+            "message_id": 12,
+            "user_id": "0003",
+            "speaker": "Human",
+            "message": "Great.  I love being a bigger fish in a smaller pond.  My past experience and what got me ahead in my previous jobs is easy to apply here, and it makes me look like a genius.  I was rated \"exceeds expectations\" in my first annual review after only being here for about 6 months."
+        },
+        {
+            "message_id": 13,
+            "system_id": "0005",
+            "speaker": "Bot",
+            "message": "Nice validation, feels good to be recognized for your expertise, huh?"
+        },
+        {
+            "message_id": 14,
+            "user_id": "0003",
+            "speaker": "Human",
+            "message": "It feels so good to be appreciated, and to see that every day I do something that actually makes a difference for our customers."
+        },
+        {
+            "message_id": 15,
+            "system_id": "0005",
+            "speaker": "Bot",
+            "message": "Making a tangible impact, that's very fulfilling."
+        },
+        {
+            "message_id": 16,
+            "user_id": "0003",
+            "speaker": "Human",
+            "message": "It is.  At a larger company what you \"own\" is so small it doesn't make as much of a difference as what I do here."
+        },
+        {
+            "message_id": 17,
+            "system_id": "0005",
+            "speaker": "Bot",
+            "message": "You're making a dent, and that's satisfying."
+        },
+        {
+            "message_id": 18,
+            "user_id": "0003",
+            "speaker": "Human",
+            "message": "It is.  The only downside is the more I do, the more they expect me to do!  I am definitely overworked."
+        },
+        {
+            "message_id": 19,
+            "system_id": "0005",
+            "speaker": "Bot",
+            "message": "The old \"be careful what you wish for\" syndrome!"
+        }
+    ]
+}

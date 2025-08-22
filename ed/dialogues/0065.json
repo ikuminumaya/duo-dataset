@@ -1,0 +1,136 @@
+{
+    "dialogue_id": "0065",
+    "setting": "ed",
+    "model": "gpt-4o",
+    "prompt": "neutral",
+    "emotion": "Lonely",
+    "episode": "I took a job overseas to another country for a higher pay and had to leave my home state and town behind, as well as all my friends and family. After the first month at this new job, I felt extremely homesick and missed my friends and family.",
+    "subjective_evaluation": {
+        "preference": 3.0,
+        "stylistic_similarity": 3.0,
+        "consistency": 4.0,
+        "empathy": 3.0
+    },
+    "dialogue": [
+        {
+            "message_id": 0,
+            "user_id": "0022",
+            "speaker": "Human",
+            "message": "I took a new job overseas because the pay was much higher, however, I had to leave my home state and city to do so. Also leaving behind my close friends and family."
+        },
+        {
+            "message_id": 1,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "That must be tough, moving away from everyone you care about."
+        },
+        {
+            "message_id": 2,
+            "user_id": "0022",
+            "speaker": "Human",
+            "message": "Yea, it was the first time in my life I had travelled so far away and I kind of regretted it, since I knew I would start to feel lonely and alone there."
+        },
+        {
+            "message_id": 3,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "That's understandable. It's a big change."
+        },
+        {
+            "message_id": 4,
+            "user_id": "0022",
+            "speaker": "Human",
+            "message": "I was forced to take the offer, since I needed to start to branch out on my own and the pay was too good to resist too."
+        },
+        {
+            "message_id": 5,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "It makes sense, but it's still challenging."
+        },
+        {
+            "message_id": 6,
+            "user_id": "0022",
+            "speaker": "Human",
+            "message": "My new job wasn't so bad, the people were friendly, my boss was good natured and the work was easy enough."
+        },
+        {
+            "message_id": 7,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "That's good to hear."
+        },
+        {
+            "message_id": 8,
+            "user_id": "0022",
+            "speaker": "Human",
+            "message": "It was just being so far away from my normal social companions was distressing and I felt alone after awhile."
+        },
+        {
+            "message_id": 9,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "That sounds really hard."
+        },
+        {
+            "message_id": 10,
+            "user_id": "0022",
+            "speaker": "Human",
+            "message": "It was for a bit, I didn't really have anyone to connect with and I started to regret my decision big time."
+        },
+        {
+            "message_id": 11,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "I'm sorry you felt that way."
+        },
+        {
+            "message_id": 12,
+            "user_id": "0022",
+            "speaker": "Human",
+            "message": "It was tough starting a new job and new life, but I tried my best to keep my head up and stay positive."
+        },
+        {
+            "message_id": 13,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "That's a great attitude."
+        },
+        {
+            "message_id": 14,
+            "user_id": "0022",
+            "speaker": "Human",
+            "message": "I tried to focus on my work and obtain a forward looking perspective, this job wouldn't be permanent and I had holidays and vacations to look forward to."
+        },
+        {
+            "message_id": 15,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "That's a positive way to look at it."
+        },
+        {
+            "message_id": 16,
+            "user_id": "0022",
+            "speaker": "Human",
+            "message": "Eventually, I overcame my tough spot of loneliness and started to mingle more with my coworkers and the locals, even though I still missed my friends and family."
+        },
+        {
+            "message_id": 17,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "I'm glad to hear that."
+        },
+        {
+            "message_id": 18,
+            "user_id": "0022",
+            "speaker": "Human",
+            "message": "It also helped that my family and friends set up a schedule to facetime and chat with each other every week, to stay in touch and have a familiar face to chat with."
+        },
+        {
+            "message_id": 19,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "That's wonderful!"
+        }
+    ]
+}

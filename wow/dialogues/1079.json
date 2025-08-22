@@ -1,0 +1,141 @@
+{
+    "dialogue_id": "1079",
+    "setting": "wow",
+    "model": "gpt-4o",
+    "prompt": "aligned",
+    "topic": "Kobe beef",
+    "subjective_evaluation": {
+        "preference": 5.0,
+        "stylistic_similarity": 5.0,
+        "consistency": 5.0,
+        "engagingness": 5.0
+    },
+    "dialogue": [
+        {
+            "message_id": 0,
+            "system_id": "0007",
+            "speaker": "Bot",
+            "message": "Kobe beef comes from a specific type of Japanese cattle called wagyū, which were initially used for things like agriculture and transport before becoming famous for their high-quality meat."
+        },
+        {
+            "message_id": 1,
+            "user_id": "0002",
+            "speaker": "Human",
+            "message": "I've always heard about Kobe beef. Isn't it expensive?"
+        },
+        {
+            "message_id": 2,
+            "system_id": "0007",
+            "speaker": "Bot",
+            "message": "Yeah, Kobe beef is known for being quite pricey due to its high quality and the specific way the cattle are raised."
+        },
+        {
+            "message_id": 3,
+            "user_id": "0002",
+            "speaker": "Human",
+            "message": "Is the taste really that much better than other steaks?"
+        },
+        {
+            "message_id": 4,
+            "system_id": "0007",
+            "speaker": "Bot",
+            "message": "Many people find Kobe beef to have a superior taste and tenderness compared to other steaks, thanks to the unique genetics and careful breeding of the wagyū cattle."
+        },
+        {
+            "message_id": 5,
+            "user_id": "0002",
+            "speaker": "Human",
+            "message": "Interesting. I'd love to try it"
+        },
+        {
+            "message_id": 6,
+            "system_id": "0007",
+            "speaker": "Bot",
+            "message": "Yeah, it's definitely something special to try at least once, given its rich history and unique breeding process!"
+        },
+        {
+            "message_id": 7,
+            "user_id": "0002",
+            "speaker": "Human",
+            "message": "How rare is it to find Kobe beef"
+        },
+        {
+            "message_id": 8,
+            "system_id": "0007",
+            "speaker": "Bot",
+            "message": "Kobe beef can be pretty rare outside of Japan because it's produced under strict regulations and only a limited amount makes it to the international market."
+        },
+        {
+            "message_id": 9,
+            "user_id": "0002",
+            "speaker": "Human",
+            "message": "Could you tell me how expensive it is per serving?\n"
+        },
+        {
+            "message_id": 10,
+            "system_id": "0007",
+            "speaker": "Bot",
+            "message": "The price can vary a lot, but it's not uncommon for it to cost over $200 per pound in high-end restaurants."
+        },
+        {
+            "message_id": 11,
+            "user_id": "0002",
+            "speaker": "Human",
+            "message": "yikes!"
+        },
+        {
+            "message_id": 12,
+            "system_id": "0007",
+            "speaker": "Bot",
+            "message": "Yeah, it's pricey, but the way they carefully breed and raise the cattle makes it a unique experience!"
+        },
+        {
+            "message_id": 13,
+            "user_id": "0002",
+            "speaker": "Human",
+            "message": "My son LOVES steak. I'm sure he knows all about Kobe beef"
+        },
+        {
+            "message_id": 14,
+            "system_id": "0007",
+            "speaker": "Bot",
+            "message": "Yeah, it's cool to know that Kobe beef comes from wagyū cattle, which have a unique history and were originally used for work before becoming famous for their meat!"
+        },
+        {
+            "message_id": 15,
+            "user_id": "0002",
+            "speaker": "Human",
+            "message": "it seems like wagyu has a lot of fat. Is this true?"
+        },
+        {
+            "message_id": 16,
+            "system_id": "0007",
+            "speaker": "Bot",
+            "message": "Yes, wagyū is known for its high level of marbling, which means it has a lot of intramuscular fat, giving it that rich flavor and tenderness."
+        },
+        {
+            "message_id": 17,
+            "user_id": "0002",
+            "speaker": "Human",
+            "message": "that makes sense"
+        },
+        {
+            "message_id": 18,
+            "system_id": "0007",
+            "speaker": "Bot",
+            "message": "Yeah, the wagyū cattle have a rich history, and their breeding involved cross-breeding with foreign cattle back in the late 1800s and early 1900s!"
+        },
+        {
+            "message_id": 19,
+            "user_id": "0002",
+            "speaker": "Human",
+            "message": "so interesting!"
+        },
+        {
+            "message_id": 20,
+            "system_id": "0007",
+            "speaker": "Bot",
+            "message": "Yeah, it's fascinating how wagyū cattle were originally used for work before being bred for their delicious meat!"
+        }
+    ]
+}

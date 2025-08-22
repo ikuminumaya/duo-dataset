@@ -1,0 +1,167 @@
+{
+    "dialogue_id": "1012",
+    "setting": "wow",
+    "model": "gpt-4o",
+    "prompt": "aligned",
+    "topic": "The Avett Brothers",
+    "objective_evaluation": {
+        "preference": 2.33,
+        "stylistic_similarity": 2.0,
+        "consistency": 4.33,
+        "engagingness": 2.33,
+        "preference_scores": [
+            4.0,
+            2.0,
+            1.0
+        ],
+        "stylistic_similarity_scores": [
+            3.0,
+            1.0,
+            2.0
+        ],
+        "consistency_scores": [
+            4.0,
+            4.0,
+            5.0
+        ],
+        "engagingness_scores": [
+            4.0,
+            2.0,
+            1.0
+        ]
+    },
+    "subjective_evaluation": {
+        "preference": 3.0,
+        "stylistic_similarity": 3.0,
+        "consistency": 4.0,
+        "engagingness": 3.0
+    },
+    "dialogue": [
+        {
+            "message_id": 0,
+            "system_id": "0007",
+            "speaker": "Bot",
+            "message": "The Avett Brothers are a folk rock band from North Carolina, led by brothers Scott and Seth Avett, known for blending bluegrass, punk, and pop into their music."
+        },
+        {
+            "message_id": 1,
+            "user_id": "0032",
+            "speaker": "Human",
+            "message": "I have never heard of them "
+        },
+        {
+            "message_id": 2,
+            "system_id": "0007",
+            "speaker": "Bot",
+            "message": "They're a band from North Carolina that mixes folk, rock, bluegrass, and even punk to create a unique sound!"
+        },
+        {
+            "message_id": 3,
+            "user_id": "0032",
+            "speaker": "Human",
+            "message": "when were they around"
+        },
+        {
+            "message_id": 4,
+            "system_id": "0007",
+            "speaker": "Bot",
+            "message": "They started making music together in the late 1990s, and they've been around ever since!"
+        },
+        {
+            "message_id": 5,
+            "user_id": "0032",
+            "speaker": "Human",
+            "message": "who listened to them"
+        },
+        {
+            "message_id": 6,
+            "system_id": "0007",
+            "speaker": "Bot",
+            "message": "Their music appeals to fans of folk, rock, and indie, and they've been praised for their unique blend of styles, even drawing comparisons to artists like the Beatles and the Ramones."
+        },
+        {
+            "message_id": 7,
+            "user_id": "0032",
+            "speaker": "Human",
+            "message": "what were their popular songs?"
+        },
+        {
+            "message_id": 8,
+            "system_id": "0007",
+            "speaker": "Bot",
+            "message": "Some of their popular songs include \"I and Love and You,\" \"Live and Die,\" and \"Ain't No Man.\""
+        },
+        {
+            "message_id": 9,
+            "user_id": "0032",
+            "speaker": "Human",
+            "message": "where they good?"
+        },
+        {
+            "message_id": 10,
+            "system_id": "0007",
+            "speaker": "Bot",
+            "message": "Yeah, they're pretty well-regarded for their unique mix of genres and have a dedicated fanbase."
+        },
+        {
+            "message_id": 11,
+            "user_id": "0032",
+            "speaker": "Human",
+            "message": "who did they influence "
+        },
+        {
+            "message_id": 12,
+            "system_id": "0007",
+            "speaker": "Bot",
+            "message": "They've influenced a lot of folk and indie artists with their mix of bluegrass, punk, and pop."
+        },
+        {
+            "message_id": 13,
+            "user_id": "0032",
+            "speaker": "Human",
+            "message": "ok so no details"
+        },
+        {
+            "message_id": 14,
+            "system_id": "0007",
+            "speaker": "Bot",
+            "message": "Their unique style has influenced many indie and folk artists, and they've been described as having the pop concision of Buddy Holly and the raw energy of the Ramones."
+        },
+        {
+            "message_id": 15,
+            "user_id": "0032",
+            "speaker": "Human",
+            "message": "anything else I should know "
+        },
+        {
+            "message_id": 16,
+            "system_id": "0007",
+            "speaker": "Bot",
+            "message": "The Avett Brothers started out after merging their earlier bands and are known for a mix of styles from bluegrass to punk, with a lineup that includes their regular bandmates and a couple of touring members."
+        },
+        {
+            "message_id": 17,
+            "user_id": "0032",
+            "speaker": "Human",
+            "message": "thank you for that information "
+        },
+        {
+            "message_id": 18,
+            "system_id": "0007",
+            "speaker": "Bot",
+            "message": "No problem! They started by combining their previous bands and have a unique sound that blends bluegrass, country, and even punk."
+        },
+        {
+            "message_id": 19,
+            "user_id": "0032",
+            "speaker": "Human",
+            "message": "thank you again"
+        },
+        {
+            "message_id": 20,
+            "system_id": "0007",
+            "speaker": "Bot",
+            "message": "You're welcome! The Avett Brothers, from Concord, North Carolina, blend a variety of genres to create their unique sound."
+        }
+    ]
+}

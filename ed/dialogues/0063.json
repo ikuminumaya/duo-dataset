@@ -1,0 +1,136 @@
+{
+    "dialogue_id": "0063",
+    "setting": "ed",
+    "model": "gpt-4o",
+    "prompt": "neutral",
+    "emotion": "Anxious",
+    "episode": "Awhile back I noticed a really weird mole start to grow on my skin.  I kept putting off getting it checked and when I finally decided to get it looked at I was pretty anxious about it possibly being skin cancer.",
+    "subjective_evaluation": {
+        "preference": 2.0,
+        "stylistic_similarity": 3.0,
+        "consistency": 3.0,
+        "empathy": 3.0
+    },
+    "dialogue": [
+        {
+            "message_id": 0,
+            "user_id": "0020",
+            "speaker": "Human",
+            "message": "I'm really glad that mole was nothing to worry about.  I remember suddenly feeling pretty anxious about it being skin cancer or something."
+        },
+        {
+            "message_id": 1,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "I'm relieved to hear it wasn't serious! That must be a big weight off your shoulders."
+        },
+        {
+            "message_id": 2,
+            "user_id": "0020",
+            "speaker": "Human",
+            "message": "It was.  It was weird though, I wasn't worried about it at first but then suddenly one day I kind of panicked and thought I might have waited too long."
+        },
+        {
+            "message_id": 3,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "It's understandable to feel that way. I'm glad it turned out okay."
+        },
+        {
+            "message_id": 4,
+            "user_id": "0020",
+            "speaker": "Human",
+            "message": "Yeah it was fine, but I do have a family history of skin cancer so it's something I have to be on the look out for."
+        },
+        {
+            "message_id": 5,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "That's important to stay vigilant."
+        },
+        {
+            "message_id": 6,
+            "user_id": "0020",
+            "speaker": "Human",
+            "message": "Indeed.  I should stay vigilant but I don't want to freak out every time some minor thing comes up."
+        },
+        {
+            "message_id": 7,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "Finding a balance is key."
+        },
+        {
+            "message_id": 8,
+            "user_id": "0020",
+            "speaker": "Human",
+            "message": "It also sucks that health care is so expensive.  Even with insurance I can't afford to go to the doctor for everything."
+        },
+        {
+            "message_id": 9,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "That can be really tough."
+        },
+        {
+            "message_id": 10,
+            "user_id": "0020",
+            "speaker": "Human",
+            "message": "I wonder if there are some free AI tools that can give you a skin check?"
+        },
+        {
+            "message_id": 11,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "It's worth checking online for reputable options."
+        },
+        {
+            "message_id": 12,
+            "user_id": "0020",
+            "speaker": "Human",
+            "message": "Yeah I bet that's a thing now.  I should definitely look into that for next time.  If it's cheaper and gives faster results, that would be great because the waiting was the worst part."
+        },
+        {
+            "message_id": 13,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "That sounds like a smart plan."
+        },
+        {
+            "message_id": 14,
+            "user_id": "0020",
+            "speaker": "Human",
+            "message": "The whole situation really reminds me how much we take our health for granted"
+        },
+        {
+            "message_id": 15,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "Absolutely, it's easy to forget until something happens."
+        },
+        {
+            "message_id": 16,
+            "user_id": "0020",
+            "speaker": "Human",
+            "message": "Yeah.  And there are things far more serious than skin cancer so at least I haven't had to deal with anything worse yet."
+        },
+        {
+            "message_id": 17,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "True, that's a relief."
+        },
+        {
+            "message_id": 18,
+            "user_id": "0020",
+            "speaker": "Human",
+            "message": "Hopefully if anything else happens I will be a little better prepared now."
+        },
+        {
+            "message_id": 19,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "That's a good approach."
+        }
+    ]
+}

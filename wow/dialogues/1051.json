@@ -1,0 +1,141 @@
+{
+    "dialogue_id": "1051",
+    "setting": "wow",
+    "model": "gpt-4o",
+    "prompt": "neutral",
+    "topic": "Pizza",
+    "subjective_evaluation": {
+        "preference": 4.0,
+        "stylistic_similarity": 3.0,
+        "consistency": 4.0,
+        "engagingness": 4.0
+    },
+    "dialogue": [
+        {
+            "message_id": 0,
+            "system_id": "0006",
+            "speaker": "Bot",
+            "message": "Pizza, a popular dish originating from Naples, is beloved worldwide and often features a yeasted flatbread topped with tomato sauce and cheese."
+        },
+        {
+            "message_id": 1,
+            "user_id": "0015",
+            "speaker": "Human",
+            "message": "I honestly feel pizza is my favorite food. Can you give me some history on pizza? "
+        },
+        {
+            "message_id": 2,
+            "system_id": "0006",
+            "speaker": "Bot",
+            "message": "Pizza has a rich history, first mentioned in a 10th-century Italian manuscript, and was popularized in Naples where modern pizza as we know it was invented."
+        },
+        {
+            "message_id": 3,
+            "user_id": "0015",
+            "speaker": "Human",
+            "message": "So it is from Italy? I need to try some authentic pizza. "
+        },
+        {
+            "message_id": 4,
+            "system_id": "0006",
+            "speaker": "Bot",
+            "message": "Yes, authentic pizza originated in Italy, specifically Naples, and Neapolitan pizza is recognized as a Traditional Speciality Guaranteed dish by the European Union."
+        },
+        {
+            "message_id": 5,
+            "user_id": "0015",
+            "speaker": "Human",
+            "message": "How did pizza come to the US? "
+        },
+        {
+            "message_id": 6,
+            "system_id": "0006",
+            "speaker": "Bot",
+            "message": "Pizza arrived in the United States with Italian immigrants in the late 19th century and gained popularity in cities with large Italian populations."
+        },
+        {
+            "message_id": 7,
+            "user_id": "0015",
+            "speaker": "Human",
+            "message": "Do you know which pizza chain is the most successful in the US? "
+        },
+        {
+            "message_id": 8,
+            "system_id": "0006",
+            "speaker": "Bot",
+            "message": "Domino's Pizza is often considered the most successful pizza chain in the US."
+        },
+        {
+            "message_id": 9,
+            "user_id": "0015",
+            "speaker": "Human",
+            "message": "I do love Domino's. Lots of people like to hate on it like it isn't authentic but it hits the spot and the price is right. "
+        },
+        {
+            "message_id": 10,
+            "system_id": "0006",
+            "speaker": "Bot",
+            "message": "Despite its critics, Domino's has found great success by offering convenient and affordable pizza, making it a popular choice for many."
+        },
+        {
+            "message_id": 11,
+            "user_id": "0015",
+            "speaker": "Human",
+            "message": "Is Domino's present in Italy? "
+        },
+        {
+            "message_id": 12,
+            "system_id": "0006",
+            "speaker": "Bot",
+            "message": "Yes, Domino's has expanded to Italy, although the reception there has been mixed due to the strong presence of traditional pizzerias."
+        },
+        {
+            "message_id": 13,
+            "user_id": "0015",
+            "speaker": "Human",
+            "message": "Yeah I wonder what the locals have to say about Domino's. Is there a difference between Italian and US style pizza?"
+        },
+        {
+            "message_id": 14,
+            "system_id": "0006",
+            "speaker": "Bot",
+            "message": "Yes, there's a difference: Italian pizza often adheres to traditional styles like Neapolitan, while US pizza tends to be more varied and is often adapted to local tastes."
+        },
+        {
+            "message_id": 15,
+            "user_id": "0015",
+            "speaker": "Human",
+            "message": "What is a recipe for a traditional Italian pepperoni pizza?"
+        },
+        {
+            "message_id": 16,
+            "system_id": "0006",
+            "speaker": "Bot",
+            "message": "Traditional Italian pizza, like Neapolitan pizza, typically doesn't include pepperoni; instead, it focuses on simple ingredients like high-quality tomato sauce, mozzarella cheese, and fresh basil."
+        },
+        {
+            "message_id": 17,
+            "user_id": "0015",
+            "speaker": "Human",
+            "message": "What about meat? "
+        },
+        {
+            "message_id": 18,
+            "system_id": "0006",
+            "speaker": "Bot",
+            "message": "In Italy, cured meats like prosciutto or salami are more commonly used on traditional pizzas instead of pepperoni."
+        },
+        {
+            "message_id": 19,
+            "user_id": "0015",
+            "speaker": "Human",
+            "message": "How about GABAGOOL? I love the stuff."
+        },
+        {
+            "message_id": 20,
+            "system_id": "0006",
+            "speaker": "Bot",
+            "message": "Gabagool, or capicola, is a type of Italian cured meat that can be used as a topping for a more authentic Italian-style pizza."
+        }
+    ]
+}

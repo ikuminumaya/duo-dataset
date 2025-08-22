@@ -1,0 +1,136 @@
+{
+    "dialogue_id": "0132",
+    "setting": "ed",
+    "model": "Llama-3.1-70B-Instruct",
+    "prompt": "aligned",
+    "emotion": "Disappointed",
+    "episode": "A few months ago, I played in a tournament for my favorite video game of all time.  My team performed worse than expected and I mainly blamed myself for being rusty and not practicing as much as I should have.",
+    "subjective_evaluation": {
+        "preference": 3.0,
+        "stylistic_similarity": 4.0,
+        "consistency": 4.0,
+        "empathy": 4.0
+    },
+    "dialogue": [
+        {
+            "message_id": 0,
+            "user_id": "0020",
+            "speaker": "Human",
+            "message": "I'm still pretty disappointed in my performance in that tournament.  I feel like I let my team down."
+        },
+        {
+            "message_id": 1,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "Don't be too hard on yourself, it's just one game."
+        },
+        {
+            "message_id": 2,
+            "user_id": "0020",
+            "speaker": "Human",
+            "message": "Actually it was more than one game, it was several over the course of a few months."
+        },
+        {
+            "message_id": 3,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "That can be tough to bounce back from, what specifically is bothering you about your performance?"
+        },
+        {
+            "message_id": 4,
+            "user_id": "0020",
+            "speaker": "Human",
+            "message": "I just know I didn't live up to my own expectations.  I used to be a top player but I stopped playing for a few years so I was really rusty for the whole tournament."
+        },
+        {
+            "message_id": 5,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "It's tough to get back into the swing of things after a break, but you're recognizing the rust, that's a start to improving."
+        },
+        {
+            "message_id": 6,
+            "user_id": "0020",
+            "speaker": "Human",
+            "message": "Yeah I guess.  Unfortunately the game kind of died off again so it will be awhile before I have another chance to redeem myself."
+        },
+        {
+            "message_id": 7,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "Bummer, but maybe the break will give you time to practice and come back even stronger next time."
+        },
+        {
+            "message_id": 8,
+            "user_id": "0020",
+            "speaker": "Human",
+            "message": "That's true.  I don't really have the motivation anymore though.  My priorities have changed in life and playing games competitively isn't as important to me anymore."
+        },
+        {
+            "message_id": 9,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "Life gets in the way, priorities shift, it's okay to move on."
+        },
+        {
+            "message_id": 10,
+            "user_id": "0020",
+            "speaker": "Human",
+            "message": "Yeah.  It's tough though.  I was obsessed with the game for years and it was kind of a big part of my identity.  I still love it but I rarely get around to playing anymore."
+        },
+        {
+            "message_id": 11,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "It's hard to let go of something that was such a big part of you for so long."
+        },
+        {
+            "message_id": 12,
+            "user_id": "0020",
+            "speaker": "Human",
+            "message": "Yeah.  That's why it would have been nice to prove I still had my skills like I used to.  I'm sure I could get it back but the motivation just isn't there."
+        },
+        {
+            "message_id": 13,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "It's like you're saying goodbye to a part of yourself, but it's okay to acknowledge it's not the same anymore."
+        },
+        {
+            "message_id": 14,
+            "user_id": "0020",
+            "speaker": "Human",
+            "message": "Exactly.  It's such a unique game too.  It actually feels like a sport when you're playing it.  There's really nothing else like it."
+        },
+        {
+            "message_id": 15,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "That's special, it's not every game that can give you that kind of experience."
+        },
+        {
+            "message_id": 16,
+            "user_id": "0020",
+            "speaker": "Human",
+            "message": "Also the community.  I got to know a lot of different people from all over the world and had some unforgettable moments.  Even though it was just a game it felt special."
+        },
+        {
+            "message_id": 17,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "It's amazing how games can bring people together like that, creating lifelong memories and connections."
+        },
+        {
+            "message_id": 18,
+            "user_id": "0020",
+            "speaker": "Human",
+            "message": "Yeah.  Like some people I've known for close to 10 years.  Others have been playing together even longer than that.  It was a very close knit community."
+        },
+        {
+            "message_id": 19,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "That's incredible, 10 years is a long time, it's like a second family."
+        }
+    ]
+}

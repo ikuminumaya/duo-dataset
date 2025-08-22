@@ -1,0 +1,141 @@
+{
+    "dialogue_id": "1111",
+    "setting": "wow",
+    "model": "Llama-3.1-70B-Instruct",
+    "prompt": "neutral",
+    "topic": "Skin care",
+    "subjective_evaluation": {
+        "preference": 5.0,
+        "stylistic_similarity": 4.0,
+        "consistency": 5.0,
+        "engagingness": 5.0
+    },
+    "dialogue": [
+        {
+            "message_id": 0,
+            "system_id": "0009",
+            "speaker": "Bot",
+            "message": "Hey, I'm excited to chat with you about skin care, what's on your mind?"
+        },
+        {
+            "message_id": 1,
+            "user_id": "0015",
+            "speaker": "Human",
+            "message": "I have scars from acne that are only getting worse with age. What can I do?"
+        },
+        {
+            "message_id": 2,
+            "system_id": "0009",
+            "speaker": "Bot",
+            "message": "Exfoliation and retinol therapy might help, but let's discuss your skin type and needs first."
+        },
+        {
+            "message_id": 3,
+            "user_id": "0015",
+            "speaker": "Human",
+            "message": "How do I find out my skin type? My needs are fading these acne scars. "
+        },
+        {
+            "message_id": 4,
+            "system_id": "0009",
+            "speaker": "Bot",
+            "message": "Generally, skin types are dry, moist, or combo; observing how your skin reacts to products can help determine yours."
+        },
+        {
+            "message_id": 5,
+            "user_id": "0015",
+            "speaker": "Human",
+            "message": "My skin isn't dry. I usually just wash my face when I shower. "
+        },
+        {
+            "message_id": 6,
+            "system_id": "0009",
+            "speaker": "Bot",
+            "message": "Simple routine! If you don't feel tight after washing, you might have combination or oily skin, which can affect scar treatment."
+        },
+        {
+            "message_id": 7,
+            "user_id": "0015",
+            "speaker": "Human",
+            "message": "Oh I see. What about cold water?"
+        },
+        {
+            "message_id": 8,
+            "system_id": "0009",
+            "speaker": "Bot",
+            "message": "Cold water can help reduce pores, but warm water might be better for exfoliation and opening up pores to help with scar treatment."
+        },
+        {
+            "message_id": 9,
+            "user_id": "0015",
+            "speaker": "Human",
+            "message": "Got it! That's good advice. I like taking hot showers anyway. What skin care routine do you recommend?"
+        },
+        {
+            "message_id": 10,
+            "system_id": "0009",
+            "speaker": "Bot",
+            "message": "A consistent routine with gentle cleansing, exfoliating 1-2 times a week, and moisturizing can help, but we can tailor it to your needs."
+        },
+        {
+            "message_id": 11,
+            "user_id": "0015",
+            "speaker": "Human",
+            "message": "What about products?"
+        },
+        {
+            "message_id": 12,
+            "system_id": "0009",
+            "speaker": "Bot",
+            "message": "Look for products with retinol, it can help reduce acne scars and prevent new ones, but be patient, it can take time to see results."
+        },
+        {
+            "message_id": 13,
+            "user_id": "0015",
+            "speaker": "Human",
+            "message": "Do you suggest I see a dermatologist?"
+        },
+        {
+            "message_id": 14,
+            "system_id": "0009",
+            "speaker": "Bot",
+            "message": "Definitely, a dermatologist can give personalized advice and prescribe treatments tailored to your skin, especially for stubborn scars."
+        },
+        {
+            "message_id": 15,
+            "user_id": "0015",
+            "speaker": "Human",
+            "message": "I remember going to a skin doctor in high school. He put me on pills and my skin cleared up right away."
+        },
+        {
+            "message_id": 16,
+            "system_id": "0009",
+            "speaker": "Bot",
+            "message": "Medications can work wonders, but now that you're looking to fade scars, a dermatologist can help you explore other options, like laser resurfacing or peels."
+        },
+        {
+            "message_id": 17,
+            "user_id": "0015",
+            "speaker": "Human",
+            "message": "What kind of peels are there that would be effective?"
+        },
+        {
+            "message_id": 18,
+            "system_id": "0009",
+            "speaker": "Bot",
+            "message": "Chemical peels, like glycolic or lactic acid, can help exfoliate and stimulate collagen growth, which can reduce the appearance of scars."
+        },
+        {
+            "message_id": 19,
+            "user_id": "0015",
+            "speaker": "Human",
+            "message": "What is the recovery like for these chemical peels?"
+        },
+        {
+            "message_id": 20,
+            "system_id": "0009",
+            "speaker": "Bot",
+            "message": "Recovery time varies, but generally, it's a few days to a week of redness and sensitivity, depending on the peel's strength and your skin type."
+        }
+    ]
+}

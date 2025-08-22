@@ -1,0 +1,136 @@
+{
+    "dialogue_id": "0143",
+    "setting": "ed",
+    "model": "Llama-3.1-70B-Instruct",
+    "prompt": "not_aligned",
+    "emotion": "Terrified",
+    "episode": "A couple years ago we had a large severe storm sweep through our area. It was terrifying.",
+    "subjective_evaluation": {
+        "preference": 5.0,
+        "stylistic_similarity": 5.0,
+        "consistency": 5.0,
+        "empathy": 5.0
+    },
+    "dialogue": [
+        {
+            "message_id": 0,
+            "user_id": "0002",
+            "speaker": "Human",
+            "message": "hello"
+        },
+        {
+            "message_id": 1,
+            "system_id": "0005",
+            "speaker": "Bot",
+            "message": "How are you today?"
+        },
+        {
+            "message_id": 2,
+            "user_id": "0002",
+            "speaker": "Human",
+            "message": "A couple years ago we had a large severe storm sweep through our area. It was terrifying. "
+        },
+        {
+            "message_id": 3,
+            "system_id": "0005",
+            "speaker": "Bot",
+            "message": "That sounds intense, what happened during the storm?"
+        },
+        {
+            "message_id": 4,
+            "user_id": "0002",
+            "speaker": "Human",
+            "message": "We had very severe winds and large hail. It was very scary. Luckily, the damage to our house was minimal"
+        },
+        {
+            "message_id": 5,
+            "system_id": "0005",
+            "speaker": "Bot",
+            "message": "Glad to hear that, must have been a huge relief."
+        },
+        {
+            "message_id": 6,
+            "user_id": "0002",
+            "speaker": "Human",
+            "message": "Yes it was. You could feel our house shaking"
+        },
+        {
+            "message_id": 7,
+            "system_id": "0005",
+            "speaker": "Bot",
+            "message": "That must have been unsettling."
+        },
+        {
+            "message_id": 8,
+            "user_id": "0002",
+            "speaker": "Human",
+            "message": "yes it was"
+        },
+        {
+            "message_id": 9,
+            "system_id": "0005",
+            "speaker": "Bot",
+            "message": "I can imagine, it's frightening when your home feels vulnerable."
+        },
+        {
+            "message_id": 10,
+            "user_id": "0002",
+            "speaker": "Human",
+            "message": "Yes it is a very unsettling feeling. Luckily everything turned out okay"
+        },
+        {
+            "message_id": 11,
+            "system_id": "0005",
+            "speaker": "Bot",
+            "message": "Thank goodness, that's all that matters."
+        },
+        {
+            "message_id": 12,
+            "user_id": "0002",
+            "speaker": "Human",
+            "message": "absolutely. And nobody was hurt"
+        },
+        {
+            "message_id": 13,
+            "system_id": "0005",
+            "speaker": "Bot",
+            "message": "That's the most important thing."
+        },
+        {
+            "message_id": 14,
+            "user_id": "0002",
+            "speaker": "Human",
+            "message": "Yes. You can always buy a new house"
+        },
+        {
+            "message_id": 15,
+            "system_id": "0005",
+            "speaker": "Bot",
+            "message": "But you can't replace people."
+        },
+        {
+            "message_id": 16,
+            "user_id": "0002",
+            "speaker": "Human",
+            "message": "exaclty"
+        },
+        {
+            "message_id": 17,
+            "system_id": "0005",
+            "speaker": "Bot",
+            "message": "Material things can be replaced, but not lives."
+        },
+        {
+            "message_id": 18,
+            "user_id": "0002",
+            "speaker": "Human",
+            "message": "Yes. Health is everything. Material possessions come and go"
+        },
+        {
+            "message_id": 19,
+            "system_id": "0005",
+            "speaker": "Bot",
+            "message": "Wise words, health is truly priceless."
+        }
+    ]
+}

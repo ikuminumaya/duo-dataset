@@ -1,0 +1,162 @@
+{
+    "dialogue_id": "0029",
+    "setting": "ed",
+    "model": "gpt-4o",
+    "prompt": "not_aligned",
+    "emotion": "Caring",
+    "episode": "I never really liked kids or saw myself caring that much about them until my niece was born.  Then suddenly everything changed and I noticed I'm instinctively very protective with her.  I really just want what's best for her.",
+    "objective_evaluation": {
+        "preference": 4.0,
+        "stylistic_similarity": 3.33,
+        "consistency": 4.67,
+        "empathy": 4.67,
+        "preference_scores": [
+            4.0,
+            5.0,
+            3.0
+        ],
+        "stylistic_similarity_scores": [
+            4.0,
+            4.0,
+            2.0
+        ],
+        "consistency_scores": [
+            5.0,
+            4.0,
+            5.0
+        ],
+        "empathy_scores": [
+            4.0,
+            5.0,
+            5.0
+        ]
+    },
+    "subjective_evaluation": {
+        "preference": 5.0,
+        "stylistic_similarity": 4.0,
+        "consistency": 5.0,
+        "empathy": 5.0
+    },
+    "dialogue": [
+        {
+            "message_id": 0,
+            "user_id": "0020",
+            "speaker": "Human",
+            "message": "I never saw myself as a very caring person, but that all changed when my niece was born."
+        },
+        {
+            "message_id": 1,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "That's wonderful! How has she changed your perspective?"
+        },
+        {
+            "message_id": 2,
+            "user_id": "0020",
+            "speaker": "Human",
+            "message": "I guess it's really made me care about someone besides myself.  Not that I'm a completely selfish person but it's a different feeling with children."
+        },
+        {
+            "message_id": 3,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "Absolutely, it's a whole new world of responsibility and love, isn't it?"
+        },
+        {
+            "message_id": 4,
+            "user_id": "0020",
+            "speaker": "Human",
+            "message": "Yeah I guess it's the responsibility aspect.  I've never been around kids long enough to experience that until now."
+        },
+        {
+            "message_id": 5,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "It’s quite a journey, isn’t it? Such a big change!"
+        },
+        {
+            "message_id": 6,
+            "user_id": "0020",
+            "speaker": "Human",
+            "message": "Indeed.  I'm still not sure I could handle being a parent though.  That amount of responsibility full time must be difficult."
+        },
+        {
+            "message_id": 7,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "Totally! Parenting is a big deal, but you’re doing great with your niece."
+        },
+        {
+            "message_id": 8,
+            "user_id": "0020",
+            "speaker": "Human",
+            "message": "Babies still scare me though.  They just seem so fragile.  I feel more comfortable once they can crawl.  I wonder why that is?"
+        },
+        {
+            "message_id": 9,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "It’s probably natural; they’re tiny and need so much care. Crawling might signal they're more resilient!"
+        },
+        {
+            "message_id": 10,
+            "user_id": "0020",
+            "speaker": "Human",
+            "message": "That's probably true.  I still instinctively follow her when she goes crawling off by herself.  I don't want her to bonk her head on something."
+        },
+        {
+            "message_id": 11,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "It's great you're so attentive; she's lucky to have you!"
+        },
+        {
+            "message_id": 12,
+            "user_id": "0020",
+            "speaker": "Human",
+            "message": "I can kind of understand now how it's hard for parents to let their kids start to be independent once they grow up."
+        },
+        {
+            "message_id": 13,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "Indeed, letting go must be a challenge. You're gaining great insights!"
+        },
+        {
+            "message_id": 14,
+            "user_id": "0020",
+            "speaker": "Human",
+            "message": "Yeah it must be really hard.  You get so used to being there to protect them, then suddenly you have to let them go out into the world and hope they don't make too many big mistakes."
+        },
+        {
+            "message_id": 15,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "Aye, 'tis the cycle of life, watching them soar on wings of their own maketh the heart ache."
+        },
+        {
+            "message_id": 16,
+            "user_id": "0020",
+            "speaker": "Human",
+            "message": "and hope they don't fly too close to the sun, as they say"
+        },
+        {
+            "message_id": 17,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "Absolutely, but trust their wings!"
+        },
+        {
+            "message_id": 18,
+            "user_id": "0020",
+            "speaker": "Human",
+            "message": "True.  I guess you have to just hope that you've done your best to prepare them for the world."
+        },
+        {
+            "message_id": 19,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "Indeed, it’s all about trust and hope."
+        }
+    ]
+}

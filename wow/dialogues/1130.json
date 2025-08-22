@@ -1,0 +1,141 @@
+{
+    "dialogue_id": "1130",
+    "setting": "wow",
+    "model": "Llama-3.1-70B-Instruct",
+    "prompt": "aligned",
+    "topic": "Spider",
+    "subjective_evaluation": {
+        "preference": 4.0,
+        "stylistic_similarity": 4.0,
+        "consistency": 4.0,
+        "engagingness": 3.0
+    },
+    "dialogue": [
+        {
+            "message_id": 0,
+            "system_id": "0010",
+            "speaker": "Bot",
+            "message": "Hey, wanna talk about spiders?"
+        },
+        {
+            "message_id": 1,
+            "user_id": "0020",
+            "speaker": "Human",
+            "message": "Sure!  They are pretty interesting creatures.  Kind of scary though."
+        },
+        {
+            "message_id": 2,
+            "system_id": "0010",
+            "speaker": "Bot",
+            "message": "Yeah, those fangs can be intimidating, but they're actually really helpful for the spider!"
+        },
+        {
+            "message_id": 3,
+            "user_id": "0020",
+            "speaker": "Human",
+            "message": "Are their fangs basically their teeth?"
+        },
+        {
+            "message_id": 4,
+            "system_id": "0010",
+            "speaker": "Bot",
+            "message": "Kind of, but they're actually part of something called chelicerae, which are like built-in venom injectors!"
+        },
+        {
+            "message_id": 5,
+            "user_id": "0020",
+            "speaker": "Human",
+            "message": "Oh interesting.  Are all spiders venomous?"
+        },
+        {
+            "message_id": 6,
+            "system_id": "0010",
+            "speaker": "Bot",
+            "message": "Yeah, all spiders have venom, but most aren't strong enough to hurt humans, so don't worry!"
+        },
+        {
+            "message_id": 7,
+            "user_id": "0020",
+            "speaker": "Human",
+            "message": "That's a relief.  What is the most dangerous type of spider to humans?"
+        },
+        {
+            "message_id": 8,
+            "system_id": "0010",
+            "speaker": "Bot",
+            "message": "I think you're thinking of the usual suspects, but I didn't actually learn about specific types, just general spider facts, wanna move on?"
+        },
+        {
+            "message_id": 9,
+            "user_id": "0020",
+            "speaker": "Human",
+            "message": "Ok.  Speaking of teeth, do spiders have teeth?"
+        },
+        {
+            "message_id": 10,
+            "system_id": "0010",
+            "speaker": "Bot",
+            "message": "Nope, they don't have teeth like we do, but they do have those chelicerae I mentioned earlier, which help 'em eat!"
+        },
+        {
+            "message_id": 11,
+            "user_id": "0020",
+            "speaker": "Human",
+            "message": "What do spiders eat?"
+        },
+        {
+            "message_id": 12,
+            "system_id": "0010",
+            "speaker": "Bot",
+            "message": "They mostly munch on insects, but some bigger spiders can even eat small frogs or lizards, pretty cool!"
+        },
+        {
+            "message_id": 13,
+            "user_id": "0020",
+            "speaker": "Human",
+            "message": "Woah, a spider that can eat frogs?  Which kind does that?"
+        },
+        {
+            "message_id": 14,
+            "system_id": "0010",
+            "speaker": "Bot",
+            "message": "Uh, I didn't actually learn about a specific type, I was just generalizing, but I know some spiders are pretty big and can take down some surprising prey!"
+        },
+        {
+            "message_id": 15,
+            "user_id": "0020",
+            "speaker": "Human",
+            "message": "That's amazing.  So they never eat plants?"
+        },
+        {
+            "message_id": 16,
+            "system_id": "0010",
+            "speaker": "Bot",
+            "message": "Nope, spiders are carnivores, they don't eat plants, they stick to catching and eating other animals!"
+        },
+        {
+            "message_id": 17,
+            "user_id": "0020",
+            "speaker": "Human",
+            "message": "That's cool.  I've always heard they can help keep your house free of other insects so I always make sure to let them outside if I find one in the house.  I don't like killing them."
+        },
+        {
+            "message_id": 18,
+            "system_id": "0010",
+            "speaker": "Bot",
+            "message": "That's really nice of you! Spiders are actually super helpful at keeping pest populations under control, so it's awesome that you're giving 'em a break!"
+        },
+        {
+            "message_id": 19,
+            "user_id": "0020",
+            "speaker": "Human",
+            "message": "Are spiders smart compared to other insects?"
+        },
+        {
+            "message_id": 20,
+            "system_id": "0010",
+            "speaker": "Bot",
+            "message": "They're actually pretty brainy, having one of the most centralized nervous systems among arthropods!"
+        }
+    ]
+}

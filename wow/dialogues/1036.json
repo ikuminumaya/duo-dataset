@@ -1,0 +1,167 @@
+{
+    "dialogue_id": "1036",
+    "setting": "wow",
+    "model": "Llama-3.1-70B-Instruct",
+    "prompt": "aligned",
+    "topic": "Fishing",
+    "objective_evaluation": {
+        "preference": 3.33,
+        "stylistic_similarity": 3.0,
+        "consistency": 4.67,
+        "engagingness": 3.0,
+        "preference_scores": [
+            4.0,
+            3.0,
+            3.0
+        ],
+        "stylistic_similarity_scores": [
+            4.0,
+            3.0,
+            2.0
+        ],
+        "consistency_scores": [
+            5.0,
+            4.0,
+            5.0
+        ],
+        "engagingness_scores": [
+            4.0,
+            2.0,
+            3.0
+        ]
+    },
+    "subjective_evaluation": {
+        "preference": 5.0,
+        "stylistic_similarity": 5.0,
+        "consistency": 5.0,
+        "engagingness": 5.0
+    },
+    "dialogue": [
+        {
+            "message_id": 0,
+            "system_id": "0010",
+            "speaker": "Bot",
+            "message": "I'm stoked you're interested in fishing!"
+        },
+        {
+            "message_id": 1,
+            "user_id": "0002",
+            "speaker": "Human",
+            "message": "my son loves fishing! I have never really tried it"
+        },
+        {
+            "message_id": 2,
+            "system_id": "0010",
+            "speaker": "Bot",
+            "message": "You should give it a shot, it's super relaxing and a great way to spend time with your son!"
+        },
+        {
+            "message_id": 3,
+            "user_id": "0002",
+            "speaker": "Human",
+            "message": "that's what everyone says. I need a new hobby"
+        },
+        {
+            "message_id": 4,
+            "system_id": "0010",
+            "speaker": "Bot",
+            "message": "Fishing's a great one to pick up, and it's been around for like, 40,000 years or something!"
+        },
+        {
+            "message_id": 5,
+            "user_id": "0002",
+            "speaker": "Human",
+            "message": "its crazy. Where would you rank it among the most relaxing of hobbies?"
+        },
+        {
+            "message_id": 6,
+            "system_id": "0010",
+            "speaker": "Bot",
+            "message": "I'd say it's right up there, like top 3, it's so chill, just waiting for a bite, enjoying nature..."
+        },
+        {
+            "message_id": 7,
+            "user_id": "0002",
+            "speaker": "Human",
+            "message": "Chill is the perfect word. It does look very soothing and relaxing"
+        },
+        {
+            "message_id": 8,
+            "system_id": "0010",
+            "speaker": "Bot",
+            "message": "Totally, and it's not just about catching fish, it's the whole experience, the water, the scenery..."
+        },
+        {
+            "message_id": 9,
+            "user_id": "0002",
+            "speaker": "Human",
+            "message": "I have heard that before"
+        },
+        {
+            "message_id": 10,
+            "system_id": "0010",
+            "speaker": "Bot",
+            "message": "Yeah, there's something about being near the water that's just calming, you know?"
+        },
+        {
+            "message_id": 11,
+            "user_id": "0002",
+            "speaker": "Human",
+            "message": "isn't it also a bonding opportunity with people too? even if you don't catch anything"
+        },
+        {
+            "message_id": 12,
+            "system_id": "0010",
+            "speaker": "Bot",
+            "message": "For sure, it's a great way to spend quality time with family and friends, my dad and I used to go all the time when I was a kid."
+        },
+        {
+            "message_id": 13,
+            "user_id": "0002",
+            "speaker": "Human",
+            "message": "that's great. And that's probably why you still love fishing!"
+        },
+        {
+            "message_id": 14,
+            "system_id": "0010",
+            "speaker": "Bot",
+            "message": "It's one of my favorite memories, and now I love sharing that with others, like your son!"
+        },
+        {
+            "message_id": 15,
+            "user_id": "0002",
+            "speaker": "Human",
+            "message": "yes"
+        },
+        {
+            "message_id": 16,
+            "system_id": "0010",
+            "speaker": "Bot",
+            "message": "I'm sure he'll always treasure those moments with you, just like I do with my dad!"
+        },
+        {
+            "message_id": 17,
+            "user_id": "0002",
+            "speaker": "Human",
+            "message": "I'm sure he would. I feel regretful that I haven't fished with him yet"
+        },
+        {
+            "message_id": 18,
+            "system_id": "0010",
+            "speaker": "Bot",
+            "message": "Don't worry, there's still time! Take him out and make some new memories, I'm sure he'd love that!"
+        },
+        {
+            "message_id": 19,
+            "user_id": "0002",
+            "speaker": "Human",
+            "message": "yup!"
+        },
+        {
+            "message_id": 20,
+            "system_id": "0010",
+            "speaker": "Bot",
+            "message": "You should plan a trip soon, I'm sure he's been waiting for it!"
+        }
+    ]
+}

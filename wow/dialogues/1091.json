@@ -1,0 +1,141 @@
+{
+    "dialogue_id": "1091",
+    "setting": "wow",
+    "model": "gpt-4o",
+    "prompt": "not_aligned",
+    "topic": "Blue Ridge Parkway",
+    "subjective_evaluation": {
+        "preference": 3.0,
+        "stylistic_similarity": 4.0,
+        "consistency": 3.0,
+        "engagingness": 3.0
+    },
+    "dialogue": [
+        {
+            "message_id": 0,
+            "system_id": "0008",
+            "speaker": "Bot",
+            "message": "The Blue Ridge Parkway is a stunning drive through the mountains, connecting Shenandoah and Great Smoky Mountains National Parks."
+        },
+        {
+            "message_id": 1,
+            "user_id": "0032",
+            "speaker": "Human",
+            "message": "I have never been "
+        },
+        {
+            "message_id": 2,
+            "system_id": "0008",
+            "speaker": "Bot",
+            "message": "It's a beautiful drive through the mountains, known for its scenic views and as America's longest linear park, stretching through Virginia and North Carolina."
+        },
+        {
+            "message_id": 3,
+            "user_id": "0032",
+            "speaker": "Human",
+            "message": "how long is the drive"
+        },
+        {
+            "message_id": 4,
+            "system_id": "0008",
+            "speaker": "Bot",
+            "message": "The Blue Ridge Parkway stretches for 469 miles, linking Shenandoah National Park in Virginia to Great Smoky Mountains National Park in North Carolina."
+        },
+        {
+            "message_id": 5,
+            "user_id": "0032",
+            "speaker": "Human",
+            "message": "where do you think one should start"
+        },
+        {
+            "message_id": 6,
+            "system_id": "0008",
+            "speaker": "Bot",
+            "message": "You could start at the southern end in North Carolina near the Great Smoky Mountains, or at the northern end in Virginia near Shenandoah National Park, depending on which direction you prefer to travel."
+        },
+        {
+            "message_id": 7,
+            "user_id": "0032",
+            "speaker": "Human",
+            "message": "and where should you end "
+        },
+        {
+            "message_id": 8,
+            "system_id": "0008",
+            "speaker": "Bot",
+            "message": "You could end at the southern terminus at the Great Smoky Mountains National Park in North Carolina, which offers a beautiful transition into stunning natural landscapes."
+        },
+        {
+            "message_id": 9,
+            "user_id": "0032",
+            "speaker": "Human",
+            "message": "that is interesting"
+        },
+        {
+            "message_id": 10,
+            "system_id": "0008",
+            "speaker": "Bot",
+            "message": "It's a beautiful and historic drive, known for its scenic beauty and as part of the Appalachian Mountains, making it a must-visit."
+        },
+        {
+            "message_id": 11,
+            "user_id": "0032",
+            "speaker": "Human",
+            "message": "how long would it take to drive"
+        },
+        {
+            "message_id": 12,
+            "system_id": "0008",
+            "speaker": "Bot",
+            "message": "Driving the entire Blue Ridge Parkway typically takes about 10 to 12 hours without stops, but it's worth taking your time to enjoy the sights!"
+        },
+        {
+            "message_id": 13,
+            "user_id": "0032",
+            "speaker": "Human",
+            "message": "should someone do this drive"
+        },
+        {
+            "message_id": 14,
+            "system_id": "0008",
+            "speaker": "Bot",
+            "message": "Absolutely, it's a fantastic drive with stunning views, and it's been a favorite for visitors since the 1940s!"
+        },
+        {
+            "message_id": 15,
+            "user_id": "0032",
+            "speaker": "Human",
+            "message": "is it safe to do?"
+        },
+        {
+            "message_id": 16,
+            "system_id": "0008",
+            "speaker": "Bot",
+            "message": "Yes, it's safe and well-maintained by the National Park Service, making it a popular spot for visitors."
+        },
+        {
+            "message_id": 17,
+            "user_id": "0032",
+            "speaker": "Human",
+            "message": "what would be the best time to do it?"
+        },
+        {
+            "message_id": 18,
+            "system_id": "0008",
+            "speaker": "Bot",
+            "message": "The best time to drive the Blue Ridge Parkway is in the fall when the leaves are changing, offering stunning views along its scenic route."
+        },
+        {
+            "message_id": 19,
+            "user_id": "0032",
+            "speaker": "Human",
+            "message": "are there good places to stay when you do it?"
+        },
+        {
+            "message_id": 20,
+            "system_id": "0008",
+            "speaker": "Bot",
+            "message": "There are plenty of charming places to stay along the Blue Ridge Parkway, with options ranging from cozy cabins to quaint bed and breakfasts."
+        }
+    ]
+}

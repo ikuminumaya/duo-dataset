@@ -1,0 +1,162 @@
+{
+    "dialogue_id": "0008",
+    "setting": "ed",
+    "model": "gpt-4o",
+    "prompt": "neutral",
+    "emotion": "Disappointed",
+    "episode": "I lost my fantasy baseball matchup last week.",
+    "objective_evaluation": {
+        "preference": 2.0,
+        "stylistic_similarity": 3.0,
+        "consistency": 3.67,
+        "empathy": 2.67,
+        "preference_scores": [
+            2.0,
+            1.0,
+            3.0
+        ],
+        "stylistic_similarity_scores": [
+            5.0,
+            1.0,
+            3.0
+        ],
+        "consistency_scores": [
+            4.0,
+            3.0,
+            4.0
+        ],
+        "empathy_scores": [
+            3.0,
+            1.0,
+            4.0
+        ]
+    },
+    "subjective_evaluation": {
+        "preference": 1.0,
+        "stylistic_similarity": 1.0,
+        "consistency": 3.0,
+        "empathy": 2.0
+    },
+    "dialogue": [
+        {
+            "message_id": 0,
+            "user_id": "0008",
+            "speaker": "Human",
+            "message": "I lost my fantasy baseball matchup last week"
+        },
+        {
+            "message_id": 1,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "That's tough! How are you feeling about it?"
+        },
+        {
+            "message_id": 2,
+            "user_id": "0008",
+            "speaker": "Human",
+            "message": "I'm disappointed. I  expected to win"
+        },
+        {
+            "message_id": 3,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "I understand, that's frustrating."
+        },
+        {
+            "message_id": 4,
+            "user_id": "0008",
+            "speaker": "Human",
+            "message": "I feel  like I made too many mistakes "
+        },
+        {
+            "message_id": 5,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "It's okay, we learn from mistakes."
+        },
+        {
+            "message_id": 6,
+            "user_id": "0008",
+            "speaker": "Human",
+            "message": "I always make the same mistakes though"
+        },
+        {
+            "message_id": 7,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "It's okay; progress takes time."
+        },
+        {
+            "message_id": 8,
+            "user_id": "0008",
+            "speaker": "Human",
+            "message": "I hate that I take fantasy so seriously"
+        },
+        {
+            "message_id": 9,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "It's understandable."
+        },
+        {
+            "message_id": 10,
+            "user_id": "0008",
+            "speaker": "Human",
+            "message": "I let it hurt my ego too much"
+        },
+        {
+            "message_id": 11,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "It's normal to feel that way."
+        },
+        {
+            "message_id": 12,
+            "user_id": "0008",
+            "speaker": "Human",
+            "message": "I want to feel like I know more than others"
+        },
+        {
+            "message_id": 13,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "I get that."
+        },
+        {
+            "message_id": 14,
+            "user_id": "0008",
+            "speaker": "Human",
+            "message": "I spend so much time thinking about it"
+        },
+        {
+            "message_id": 15,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "It's understandable."
+        },
+        {
+            "message_id": 16,
+            "user_id": "0008",
+            "speaker": "Human",
+            "message": "I need to go out more"
+        },
+        {
+            "message_id": 17,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "That sounds like a good plan."
+        },
+        {
+            "message_id": 18,
+            "user_id": "0008",
+            "speaker": "Human",
+            "message": "It would take my mind off of it"
+        },
+        {
+            "message_id": 19,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "Absolutely."
+        }
+    ]
+}

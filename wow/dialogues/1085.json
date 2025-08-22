@@ -1,0 +1,141 @@
+{
+    "dialogue_id": "1085",
+    "setting": "wow",
+    "model": "gpt-4o",
+    "prompt": "not_aligned",
+    "topic": "Underwater diving",
+    "subjective_evaluation": {
+        "preference": 3.0,
+        "stylistic_similarity": 4.0,
+        "consistency": 5.0,
+        "engagingness": 3.0
+    },
+    "dialogue": [
+        {
+            "message_id": 0,
+            "system_id": "0008",
+            "speaker": "Bot",
+            "message": "Underwater diving is an intriguing activity where humans interact with the aquatic environment, but it requires special equipment and skills to manage the various risks involved."
+        },
+        {
+            "message_id": 1,
+            "user_id": "0003",
+            "speaker": "Human",
+            "message": "I've snorkled but I've never dove before.  It sounds really scary to me."
+        },
+        {
+            "message_id": 2,
+            "system_id": "0008",
+            "speaker": "Bot",
+            "message": "Diving can seem daunting, especially with the risks involved, but with proper training and equipment, many people find it to be an exciting and rewarding experience."
+        },
+        {
+            "message_id": 3,
+            "user_id": "0003",
+            "speaker": "Human",
+            "message": "You need certification to dive, right?"
+        },
+        {
+            "message_id": 4,
+            "system_id": "0008",
+            "speaker": "Bot",
+            "message": "Yes, certification is important for safety as it ensures you have the necessary skills and knowledge to handle the underwater environment and equipment properly."
+        },
+        {
+            "message_id": 5,
+            "user_id": "0003",
+            "speaker": "Human",
+            "message": "What does the certification process entail?"
+        },
+        {
+            "message_id": 6,
+            "system_id": "0008",
+            "speaker": "Bot",
+            "message": "The certification process typically involves classroom learning, pool training, and open water dives to ensure you're comfortable and safe underwater."
+        },
+        {
+            "message_id": 7,
+            "user_id": "0003",
+            "speaker": "Human",
+            "message": "I know it's a risky activity.  How many people die annually from participating?"
+        },
+        {
+            "message_id": 8,
+            "system_id": "0008",
+            "speaker": "Bot",
+            "message": "While diving has its risks, with proper training and precautions, these can be managed, allowing many to safely enjoy this unique experience."
+        },
+        {
+            "message_id": 9,
+            "user_id": "0003",
+            "speaker": "Human",
+            "message": "Do you know how many deaths there were last year while people were diving?"
+        },
+        {
+            "message_id": 10,
+            "system_id": "0008",
+            "speaker": "Bot",
+            "message": "While the exact numbers can vary, diving is relatively dangerous, and risks are managed through skills, training, and equipment."
+        },
+        {
+            "message_id": 11,
+            "user_id": "0003",
+            "speaker": "Human",
+            "message": "Where are some popular diving spots?"
+        },
+        {
+            "message_id": 12,
+            "system_id": "0008",
+            "speaker": "Bot",
+            "message": "Some popular diving spots include the Great Barrier Reef in Australia, the Blue Hole in Belize, and the Red Sea in Egypt, each offering unique underwater experiences."
+        },
+        {
+            "message_id": 13,
+            "user_id": "0003",
+            "speaker": "Human",
+            "message": "How has climate change effected diving?"
+        },
+        {
+            "message_id": 14,
+            "system_id": "0008",
+            "speaker": "Bot",
+            "message": "Climate change affects diving by altering marine environments, such as coral reefs, which can impact the diversity and health of underwater ecosystems."
+        },
+        {
+            "message_id": 15,
+            "user_id": "0003",
+            "speaker": "Human",
+            "message": "What reefs have been hardest hit?"
+        },
+        {
+            "message_id": 16,
+            "system_id": "0008",
+            "speaker": "Bot",
+            "message": "Some reefs, like the Great Barrier Reef, have been severely affected by climate change, leading to coral bleaching and loss of marine biodiversity."
+        },
+        {
+            "message_id": 17,
+            "user_id": "0003",
+            "speaker": "Human",
+            "message": "How many people are certified to dive in the US?"
+        },
+        {
+            "message_id": 18,
+            "system_id": "0008",
+            "speaker": "Bot",
+            "message": "In the U.S., there are millions of certified divers, with many receiving training to explore the underwater world safely."
+        },
+        {
+            "message_id": 19,
+            "user_id": "0003",
+            "speaker": "Human",
+            "message": "Where are the top spots to dive in the contenential US?"
+        },
+        {
+            "message_id": 20,
+            "system_id": "0008",
+            "speaker": "Bot",
+            "message": "Some great spots in the continental U.S. include the Florida Keys, Monterey Bay in California, and the Channel Islands."
+        }
+    ]
+}

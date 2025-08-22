@@ -1,0 +1,136 @@
+{
+    "dialogue_id": "0099",
+    "setting": "ed",
+    "model": "gpt-4o",
+    "prompt": "not_aligned",
+    "emotion": "Furious",
+    "episode": "I was furious when I took a lunch break during a 13 hour shift when I had gotten permission, and I was told I would penalized because of it.",
+    "subjective_evaluation": {
+        "preference": 3.0,
+        "stylistic_similarity": 3.0,
+        "consistency": 5.0,
+        "empathy": 4.0
+    },
+    "dialogue": [
+        {
+            "message_id": 0,
+            "user_id": "0009",
+            "speaker": "Human",
+            "message": "I was furious when I took a break during a 13 hour shift, and then was told I would be penalized for it"
+        },
+        {
+            "message_id": 1,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "That sounds incredibly unfair! Did they explain why?"
+        },
+        {
+            "message_id": 2,
+            "user_id": "0009",
+            "speaker": "Human",
+            "message": "Apparently I was in error because I didn't report to the right person. I missed a text while I was working and although I had reported to the same guy previously...this particular workday was cut up into 3 shifts for me and the one in the middle...before I took my break I had to check in for someone else."
+        },
+        {
+            "message_id": 3,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "That’s really frustrating. It sounds like a confusing setup."
+        },
+        {
+            "message_id": 4,
+            "user_id": "0009",
+            "speaker": "Human",
+            "message": "VERY. Honestly having been a supervisor in the past and considering the circumstances, if I were her I would have just let it pass because it was an honest mistake and I had gotten permission by our overall boss to do so."
+        },
+        {
+            "message_id": 5,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "It's a pity they didn’t consider your past experience and the situation."
+        },
+        {
+            "message_id": 6,
+            "user_id": "0009",
+            "speaker": "Human",
+            "message": "They don't care. They are kind of shady and if I hadn't complained to senior staff by calling their headquarters the next day...I would have been punished by this low tier supervisor "
+        },
+        {
+            "message_id": 7,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "Glad you stood up for yourself and called HQ!"
+        },
+        {
+            "message_id": 8,
+            "user_id": "0009",
+            "speaker": "Human",
+            "message": "I'm an independent contractor and some people are fickle, cheap, or both and you have to be on your toes. I only work with decent clients."
+        },
+        {
+            "message_id": 9,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "It's wise to choose clients carefully."
+        },
+        {
+            "message_id": 10,
+            "user_id": "0009",
+            "speaker": "Human",
+            "message": "You usually never know until you work for them once or twice "
+        },
+        {
+            "message_id": 11,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "It’s tough but learning from each experience helps."
+        },
+        {
+            "message_id": 12,
+            "user_id": "0009",
+            "speaker": "Human",
+            "message": "Oh yes, i've gotten experience now where I know when to supercede micromanaging nonsense because I need to protect myself. If you don't complain, they'll kill you and say you liked it."
+        },
+        {
+            "message_id": 13,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "It's crucial to stand up for yourself and set boundaries."
+        },
+        {
+            "message_id": 14,
+            "user_id": "0009",
+            "speaker": "Human",
+            "message": "People are so mean spirited these days. I just try to stay professional even if others don't. Needless to say...I was furious in the moment...so I walked off the job because I wasn't going to get penalized for the few hours we had still scheduled after working hard for more than half the time I was contracted for"
+        },
+        {
+            "message_id": 15,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "That's understandable. Good for you standing firm."
+        },
+        {
+            "message_id": 16,
+            "user_id": "0009",
+            "speaker": "Human",
+            "message": "People will walk all over you. It's ok to be furious but defend yourself when dealing with nonsense"
+        },
+        {
+            "message_id": 17,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "Absolutely, standing up is key. Take care!"
+        },
+        {
+            "message_id": 18,
+            "user_id": "0009",
+            "speaker": "Human",
+            "message": "thank you I like that you listened"
+        },
+        {
+            "message_id": 19,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "You're welcome. Always here to listen."
+        }
+    ]
+}

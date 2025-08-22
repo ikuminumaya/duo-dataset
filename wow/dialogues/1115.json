@@ -1,0 +1,141 @@
+{
+    "dialogue_id": "1115",
+    "setting": "wow",
+    "model": "Llama-3.1-70B-Instruct",
+    "prompt": "neutral",
+    "topic": "French Bulldog",
+    "subjective_evaluation": {
+        "preference": 3.0,
+        "stylistic_similarity": 3.0,
+        "consistency": 4.0,
+        "engagingness": 3.0
+    },
+    "dialogue": [
+        {
+            "message_id": 0,
+            "system_id": "0009",
+            "speaker": "Bot",
+            "message": "Let's talk about French Bulldogs, I just love their adorable faces!"
+        },
+        {
+            "message_id": 1,
+            "user_id": "0025",
+            "speaker": "Human",
+            "message": "I can see why you like their faces. No other dog looks quite like them!"
+        },
+        {
+            "message_id": 2,
+            "system_id": "0009",
+            "speaker": "Bot",
+            "message": "They're a unique breed, and did you know they originated from a cross between bulldog ancestors from England and local ratters in Paris?"
+        },
+        {
+            "message_id": 3,
+            "user_id": "0025",
+            "speaker": "Human",
+            "message": "I did not know that. What's a \"ratter\"? Is that a dog that chases rats?"
+        },
+        {
+            "message_id": 4,
+            "system_id": "0009",
+            "speaker": "Bot",
+            "message": "Ratters were small to medium-sized dogs used for catching rats and other rodents, often in urban areas like Paris."
+        },
+        {
+            "message_id": 5,
+            "user_id": "0025",
+            "speaker": "Human",
+            "message": "That was probably a very important job back in the day."
+        },
+        {
+            "message_id": 6,
+            "system_id": "0009",
+            "speaker": "Bot",
+            "message": "Yes, it was a vital role, especially in cities with rodent infestations, and the French Bulldog's ancestors played a part in that."
+        },
+        {
+            "message_id": 7,
+            "user_id": "0025",
+            "speaker": "Human",
+            "message": "How big do french bulldogs get?"
+        },
+        {
+            "message_id": 8,
+            "system_id": "0009",
+            "speaker": "Bot",
+            "message": "They're a relatively small breed, but I'm not sure about the exact size."
+        },
+        {
+            "message_id": 9,
+            "user_id": "0025",
+            "speaker": "Human",
+            "message": "I see, what's the difference between french bulldogs and other types of bulldogs?"
+        },
+        {
+            "message_id": 10,
+            "system_id": "0009",
+            "speaker": "Bot",
+            "message": "Well, French Bulldogs were bred down from larger bulldogs, like the ones used for bull-baiting, by crossing them with terriers or pugs to create a smaller companion dog."
+        },
+        {
+            "message_id": 11,
+            "user_id": "0025",
+            "speaker": "Human",
+            "message": "Are they popular pets in Asian countries, like China?"
+        },
+        {
+            "message_id": 12,
+            "system_id": "0009",
+            "speaker": "Bot",
+            "message": "I'm not sure about their popularity in Asian countries, but I do know they're quite popular in the West, ranking high in UK and US breed registrations, and even being the third most popular breed in Australia in 2017."
+        },
+        {
+            "message_id": 13,
+            "user_id": "0025",
+            "speaker": "Human",
+            "message": "Crikey, I never thought about french bulldogs in Australia. Can you think of any famous frenchies?"
+        },
+        {
+            "message_id": 14,
+            "system_id": "0009",
+            "speaker": "Bot",
+            "message": "Unfortunately, I don't have any specific famous French Bulldogs on my mind, but they're certainly a beloved breed among many celebrity owners!"
+        },
+        {
+            "message_id": 15,
+            "user_id": "0025",
+            "speaker": "Human",
+            "message": "Yeah, can you name a couple of celebrities who have them as pets?"
+        },
+        {
+            "message_id": 16,
+            "system_id": "0009",
+            "speaker": "Bot",
+            "message": "I wish I could, but I don't have that information on hand, sorry!"
+        },
+        {
+            "message_id": 17,
+            "user_id": "0025",
+            "speaker": "Human",
+            "message": "That's okay. I'll have to keep my eye out for them. What colors do they come in? Most of the ones I see are tan. "
+        },
+        {
+            "message_id": 18,
+            "system_id": "0009",
+            "speaker": "Bot",
+            "message": "Tan is a common color, but I'm not sure about the full range of colors they come in, sorry!"
+        },
+        {
+            "message_id": 19,
+            "user_id": "0025",
+            "speaker": "Human",
+            "message": "What kind of temperament are they known to have?"
+        },
+        {
+            "message_id": 20,
+            "system_id": "0009",
+            "speaker": "Bot",
+            "message": "They're known to be wonderful companions, but I don't have specific details on their temperament, sorry!"
+        }
+    ]
+}

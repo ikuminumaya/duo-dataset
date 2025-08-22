@@ -1,0 +1,162 @@
+{
+    "dialogue_id": "0028",
+    "setting": "ed",
+    "model": "gpt-4o",
+    "prompt": "not_aligned",
+    "emotion": "Sad",
+    "episode": "My father has been dealing with some serious health issues. I feel sad that he has not been feeling well.",
+    "objective_evaluation": {
+        "preference": 3.0,
+        "stylistic_similarity": 2.33,
+        "consistency": 5.0,
+        "empathy": 4.33,
+        "preference_scores": [
+            3.0,
+            3.0,
+            3.0
+        ],
+        "stylistic_similarity_scores": [
+            3.0,
+            2.0,
+            2.0
+        ],
+        "consistency_scores": [
+            5.0,
+            5.0,
+            5.0
+        ],
+        "empathy_scores": [
+            4.0,
+            5.0,
+            4.0
+        ]
+    },
+    "subjective_evaluation": {
+        "preference": 3.0,
+        "stylistic_similarity": 3.0,
+        "consistency": 5.0,
+        "empathy": 3.0
+    },
+    "dialogue": [
+        {
+            "message_id": 0,
+            "user_id": "0019",
+            "speaker": "Human",
+            "message": "Hello, I've been feeling sad lately because my father has been dealing with some serious health issues."
+        },
+        {
+            "message_id": 1,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "I'm really sorry to hear that your dad is having health problems. That's really tough to go through."
+        },
+        {
+            "message_id": 2,
+            "user_id": "0019",
+            "speaker": "Human",
+            "message": "Yes, it has been extremely difficult for me as well as the rest of my family."
+        },
+        {
+            "message_id": 3,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "I can imagine that's rough. Hope things get better soon."
+        },
+        {
+            "message_id": 4,
+            "user_id": "0019",
+            "speaker": "Human",
+            "message": "Thank you for your kind words. It's just been a really sad and tough time."
+        },
+        {
+            "message_id": 5,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "Hang in there. Thinking of you and your family."
+        },
+        {
+            "message_id": 6,
+            "user_id": "0019",
+            "speaker": "Human",
+            "message": "What can I do to feel better?"
+        },
+        {
+            "message_id": 7,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "Maybe try talking to someone or doing something that makes you happy."
+        },
+        {
+            "message_id": 8,
+            "user_id": "0019",
+            "speaker": "Human",
+            "message": "Yes, probably a good idea to do something I enjoy to take my mind off of things for a while."
+        },
+        {
+            "message_id": 9,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "Absolutely, a little distraction could help lift your spirits."
+        },
+        {
+            "message_id": 10,
+            "user_id": "0019",
+            "speaker": "Human",
+            "message": "Would you recommend counseling in a situation like this?"
+        },
+        {
+            "message_id": 11,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "Counseling's a great option. Could really help!"
+        },
+        {
+            "message_id": 12,
+            "user_id": "0019",
+            "speaker": "Human",
+            "message": "Yeah, if only to get my thoughts out of my head a bit."
+        },
+        {
+            "message_id": 13,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "Absolutely, expressing your thoughts can be very freeing."
+        },
+        {
+            "message_id": 14,
+            "user_id": "0019",
+            "speaker": "Human",
+            "message": "Perhaps it would make me feel a bit better about things."
+        },
+        {
+            "message_id": 15,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "Indeed, it often does."
+        },
+        {
+            "message_id": 16,
+            "user_id": "0019",
+            "speaker": "Human",
+            "message": "What else can I do to feel less sad?"
+        },
+        {
+            "message_id": 17,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "Consider journaling or meditating."
+        },
+        {
+            "message_id": 18,
+            "user_id": "0019",
+            "speaker": "Human",
+            "message": "I have never tried meditating. Do you think it could help?"
+        },
+        {
+            "message_id": 19,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "Yes, many find it calming!"
+        }
+    ]
+}

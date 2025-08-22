@@ -1,0 +1,162 @@
+{
+    "dialogue_id": "0009",
+    "setting": "ed",
+    "model": "gpt-4o",
+    "prompt": "neutral",
+    "emotion": "Surprised",
+    "episode": "I couldn't believe it when they took me on as a full time worker! I had only been there for a month and although I was on a seasonal contract, they asked me to continue beyond as a regular employee",
+    "objective_evaluation": {
+        "preference": 4.0,
+        "stylistic_similarity": 3.67,
+        "consistency": 4.67,
+        "empathy": 4.0,
+        "preference_scores": [
+            5.0,
+            2.0,
+            5.0
+        ],
+        "stylistic_similarity_scores": [
+            4.0,
+            2.0,
+            5.0
+        ],
+        "consistency_scores": [
+            5.0,
+            4.0,
+            5.0
+        ],
+        "empathy_scores": [
+            5.0,
+            2.0,
+            5.0
+        ]
+    },
+    "subjective_evaluation": {
+        "preference": 3.0,
+        "stylistic_similarity": 2.0,
+        "consistency": 5.0,
+        "empathy": 3.0
+    },
+    "dialogue": [
+        {
+            "message_id": 0,
+            "user_id": "0009",
+            "speaker": "Human",
+            "message": "I couldn't believe it...I started a 3 month temp job and they decided to promote me to a regular full time employee after a month!"
+        },
+        {
+            "message_id": 1,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "That's amazing! Congrats on the promotion!"
+        },
+        {
+            "message_id": 2,
+            "user_id": "0009",
+            "speaker": "Human",
+            "message": "Thank you...I was so shocked I thought I was just average"
+        },
+        {
+            "message_id": 3,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "You definitely proved yourself! Well done!"
+        },
+        {
+            "message_id": 4,
+            "user_id": "0009",
+            "speaker": "Human",
+            "message": "I just wondered at the time what was coming next beyond more responsibility"
+        },
+        {
+            "message_id": 5,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "It's a big step, but you're ready!"
+        },
+        {
+            "message_id": 6,
+            "user_id": "0009",
+            "speaker": "Human",
+            "message": "after 2 more months while I technically was promoted already during my temp contract they promoted me a 2nd time to supervisor!"
+        },
+        {
+            "message_id": 7,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "That's incredible!"
+        },
+        {
+            "message_id": 8,
+            "user_id": "0009",
+            "speaker": "Human",
+            "message": "Yeah I don't know many people who get rapidly promoted like that"
+        },
+        {
+            "message_id": 9,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "It's impressive!"
+        },
+        {
+            "message_id": 10,
+            "user_id": "0009",
+            "speaker": "Human",
+            "message": "It was so wonderful...they even gave me some gifts...and I got company lunch takeout weekly as a perk"
+        },
+        {
+            "message_id": 11,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "That's fantastic!"
+        },
+        {
+            "message_id": 12,
+            "user_id": "0009",
+            "speaker": "Human",
+            "message": "My employees are wonderful. I really don't have to work them too hard because they take initiative on their own"
+        },
+        {
+            "message_id": 13,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "That's great to hear!"
+        },
+        {
+            "message_id": 14,
+            "user_id": "0009",
+            "speaker": "Human",
+            "message": "It's hard to get people to listen to you, but I try to be good to them because I've been there"
+        },
+        {
+            "message_id": 15,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "That's a great approach!"
+        },
+        {
+            "message_id": 16,
+            "user_id": "0009",
+            "speaker": "Human",
+            "message": "Its rough in the workplace...not everyone is good with working together and/or wants to step on others along the way. I try to encourage us all to be a team and rise together"
+        },
+        {
+            "message_id": 17,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "That's a wonderful mindset!"
+        },
+        {
+            "message_id": 18,
+            "user_id": "0009",
+            "speaker": "Human",
+            "message": "I'm very lucky I don't think I've had an experience like this at work anywhere. It's usually nonsense"
+        },
+        {
+            "message_id": 19,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "I'm glad you found a positive place!"
+        }
+    ]
+}

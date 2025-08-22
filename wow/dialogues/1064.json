@@ -1,0 +1,141 @@
+{
+    "dialogue_id": "1064",
+    "setting": "wow",
+    "model": "gpt-4o",
+    "prompt": "aligned",
+    "topic": "React (JavaScript library)",
+    "subjective_evaluation": {
+        "preference": 3.0,
+        "stylistic_similarity": 3.0,
+        "consistency": 4.0,
+        "engagingness": 3.0
+    },
+    "dialogue": [
+        {
+            "message_id": 0,
+            "system_id": "0007",
+            "speaker": "Bot",
+            "message": "React is a JavaScript library created by Facebook for building user interfaces, focusing on speed, simplicity, and scalability."
+        },
+        {
+            "message_id": 1,
+            "user_id": "0028",
+            "speaker": "Human",
+            "message": "I have never heard of that before"
+        },
+        {
+            "message_id": 2,
+            "system_id": "0007",
+            "speaker": "Bot",
+            "message": "React is a JavaScript library created by Facebook to build user interfaces, and it's great for making dynamic web apps that can update without needing to reload the page."
+        },
+        {
+            "message_id": 3,
+            "user_id": "0028",
+            "speaker": "Human",
+            "message": "Can you explain it in layman's terms a little better?"
+        },
+        {
+            "message_id": 4,
+            "system_id": "0007",
+            "speaker": "Bot",
+            "message": "React is like a tool for building parts of a website that can change without needing the whole page to reload, making sites faster and more interactive."
+        },
+        {
+            "message_id": 5,
+            "user_id": "0028",
+            "speaker": "Human",
+            "message": "Can you give me any examples?"
+        },
+        {
+            "message_id": 6,
+            "system_id": "0007",
+            "speaker": "Bot",
+            "message": "For example, Facebook uses React to make its newsfeed update smoothly without reloading the whole page."
+        },
+        {
+            "message_id": 7,
+            "user_id": "0028",
+            "speaker": "Human",
+            "message": "Oh that's cool! Who else uses it?"
+        },
+        {
+            "message_id": 8,
+            "system_id": "0007",
+            "speaker": "Bot",
+            "message": "Instagram also uses React to make their site run smoothly, and it's popular among many big companies for building interactive web applications."
+        },
+        {
+            "message_id": 9,
+            "user_id": "0028",
+            "speaker": "Human",
+            "message": "What about Reddit? Do they use it?"
+        },
+        {
+            "message_id": 10,
+            "system_id": "0007",
+            "speaker": "Bot",
+            "message": "I'm not sure if Reddit uses React specifically, but many big sites do use it for their interfaces."
+        },
+        {
+            "message_id": 11,
+            "user_id": "0028",
+            "speaker": "Human",
+            "message": "Oh okay.. can I use it for a website I want to make?"
+        },
+        {
+            "message_id": 12,
+            "system_id": "0007",
+            "speaker": "Bot",
+            "message": "Absolutely! React is open-source, so you can definitely use it to build your own website and make it fast and interactive."
+        },
+        {
+            "message_id": 13,
+            "user_id": "0028",
+            "speaker": "Human",
+            "message": "Is it free for me to use? Where do I get started with it?"
+        },
+        {
+            "message_id": 14,
+            "system_id": "0007",
+            "speaker": "Bot",
+            "message": "Yes, React is free to use, and you can get started by checking out the official React documentation online."
+        },
+        {
+            "message_id": 15,
+            "user_id": "0028",
+            "speaker": "Human",
+            "message": "What are the pros and cons of it?"
+        },
+        {
+            "message_id": 16,
+            "system_id": "0007",
+            "speaker": "Bot",
+            "message": "React is great because it's fast and scalable, but it can be tricky to learn at first, especially if you're new to JavaScript."
+        },
+        {
+            "message_id": 17,
+            "user_id": "0028",
+            "speaker": "Human",
+            "message": "I don't know anything about JavaScript tbh"
+        },
+        {
+            "message_id": 18,
+            "system_id": "0007",
+            "speaker": "Bot",
+            "message": "No worries! React is beginner-friendly once you get the hang of JavaScript basics, and there are lots of resources to help you learn."
+        },
+        {
+            "message_id": 19,
+            "user_id": "0028",
+            "speaker": "Human",
+            "message": "What resources can I use?"
+        },
+        {
+            "message_id": 20,
+            "system_id": "0007",
+            "speaker": "Bot",
+            "message": "You can start with online tutorials like freeCodeCamp, MDN Web Docs, or React's official documentation."
+        }
+    ]
+}

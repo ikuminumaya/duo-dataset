@@ -1,0 +1,141 @@
+{
+    "dialogue_id": "1087",
+    "setting": "wow",
+    "model": "gpt-4o",
+    "prompt": "not_aligned",
+    "topic": "Quilting",
+    "subjective_evaluation": {
+        "preference": 3.0,
+        "stylistic_similarity": 4.0,
+        "consistency": 4.0,
+        "engagingness": 4.0
+    },
+    "dialogue": [
+        {
+            "message_id": 0,
+            "system_id": "0008",
+            "speaker": "Bot",
+            "message": "Quilting involves sewing multiple fabric layers together, often using a needle and thread, to create quilts or quilted garments."
+        },
+        {
+            "message_id": 1,
+            "user_id": "0023",
+            "speaker": "Human",
+            "message": "Thats great. It may require very intensive process."
+        },
+        {
+            "message_id": 2,
+            "system_id": "0008",
+            "speaker": "Bot",
+            "message": "Indeed, quilting can be an intensive process, involving steps like designing, piecing, and binding, along with sewing through multiple fabric layers."
+        },
+        {
+            "message_id": 3,
+            "user_id": "0023",
+            "speaker": "Human",
+            "message": "I think quiliting is part of textile industry or its not?"
+        },
+        {
+            "message_id": 4,
+            "system_id": "0008",
+            "speaker": "Bot",
+            "message": "Quilting is indeed a part of the textile industry, as it involves creating various textile products like quilts, wall hangings, and clothing."
+        },
+        {
+            "message_id": 5,
+            "user_id": "0023",
+            "speaker": "Human",
+            "message": "Which country leads in making best quilts?"
+        },
+        {
+            "message_id": 6,
+            "system_id": "0008",
+            "speaker": "Bot",
+            "message": "While many countries have their unique quilting traditions, the United States is renowned for its rich history and innovation in quilt-making."
+        },
+        {
+            "message_id": 7,
+            "user_id": "0023",
+            "speaker": "Human",
+            "message": "I never knew that. I thought China, Vietnam leads in quilting."
+        },
+        {
+            "message_id": 8,
+            "system_id": "0008",
+            "speaker": "Bot",
+            "message": "While China and Vietnam have strong textile industries, the U.S. is particularly famous for its rich quilting traditions and innovations."
+        },
+        {
+            "message_id": 9,
+            "user_id": "0023",
+            "speaker": "Human",
+            "message": "any famous company from USA which makes quilt?"
+        },
+        {
+            "message_id": 10,
+            "system_id": "0008",
+            "speaker": "Bot",
+            "message": "One well-known company in the U.S. that produces quilts is Amish Quilts, which is famous for its handcrafted designs."
+        },
+        {
+            "message_id": 11,
+            "user_id": "0023",
+            "speaker": "Human",
+            "message": "oh yeah, I have seen some of their product. They have really good ones but they are costly."
+        },
+        {
+            "message_id": 12,
+            "system_id": "0008",
+            "speaker": "Bot",
+            "message": "Yes, they are known for their craftsmanship, which often involves intricate designs and quality materials, contributing to the higher cost."
+        },
+        {
+            "message_id": 13,
+            "user_id": "0023",
+            "speaker": "Human",
+            "message": "They may be selling their product in multiple countries?"
+        },
+        {
+            "message_id": 14,
+            "system_id": "0008",
+            "speaker": "Bot",
+            "message": "Yes, many companies, including those producing Amish quilts, often sell their handcrafted products internationally to reach a wider audience."
+        },
+        {
+            "message_id": 15,
+            "user_id": "0023",
+            "speaker": "Human",
+            "message": "I have seen many other company selling products which says Amish style but may not be related to Amish company."
+        },
+        {
+            "message_id": 16,
+            "system_id": "0008",
+            "speaker": "Bot",
+            "message": "Some companies market \"Amish-style\" quilts without being directly connected to Amish communities, often mimicking the traditional craftsmanship."
+        },
+        {
+            "message_id": 17,
+            "user_id": "0023",
+            "speaker": "Human",
+            "message": "Thats bad as that creates confusion among buyers."
+        },
+        {
+            "message_id": 18,
+            "system_id": "0008",
+            "speaker": "Bot",
+            "message": "It's understandable, as the term \"Amish-style\" can be used by various manufacturers, leading to potential confusion for buyers seeking authentic products."
+        },
+        {
+            "message_id": 19,
+            "user_id": "0023",
+            "speaker": "Human",
+            "message": "So do you recommend any quilt I can try from Amish?"
+        },
+        {
+            "message_id": 20,
+            "system_id": "0008",
+            "speaker": "Bot",
+            "message": "If you're looking for quality, the Amish quilts are renowned for their craftsmanship, often featuring intricate hand or machine quilting."
+        }
+    ]
+}

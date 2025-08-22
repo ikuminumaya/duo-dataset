@@ -1,0 +1,141 @@
+{
+    "dialogue_id": "1072",
+    "setting": "wow",
+    "model": "gpt-4o",
+    "prompt": "aligned",
+    "topic": "Red hair",
+    "subjective_evaluation": {
+        "preference": 4.0,
+        "stylistic_similarity": 4.0,
+        "consistency": 5.0,
+        "engagingness": 4.0
+    },
+    "dialogue": [
+        {
+            "message_id": 0,
+            "system_id": "0007",
+            "speaker": "Bot",
+            "message": "Did you know red hair is super rare, occurring in just 1-2% of people, mostly those with northern or western European roots?"
+        },
+        {
+            "message_id": 1,
+            "user_id": "0005",
+            "speaker": "Human",
+            "message": "I did not know that. Do people with red hair always have two parents with red hair?"
+        },
+        {
+            "message_id": 2,
+            "system_id": "0007",
+            "speaker": "Bot",
+            "message": "No, red hair comes from a recessive gene, so a person can have red hair even if only one parent carries the gene, though it's more likely if both do."
+        },
+        {
+            "message_id": 3,
+            "user_id": "0005",
+            "speaker": "Human",
+            "message": "Ok, so one parent will for sure have red hair?"
+        },
+        {
+            "message_id": 4,
+            "system_id": "0007",
+            "speaker": "Bot",
+            "message": "Not necessarily; red hair appears most commonly when both parents carry a recessive allele on chromosome 16, even if they don't have red hair themselves."
+        },
+        {
+            "message_id": 5,
+            "user_id": "0005",
+            "speaker": "Human",
+            "message": "So a grandparent would have red hair then?"
+        },
+        {
+            "message_id": 6,
+            "system_id": "0007",
+            "speaker": "Bot",
+            "message": "Not necessarily; a grandparent might have red hair, or the gene could be carried silently through generations without showing up."
+        },
+        {
+            "message_id": 7,
+            "user_id": "0005",
+            "speaker": "Human",
+            "message": "That would be a surprise then!"
+        },
+        {
+            "message_id": 8,
+            "system_id": "0007",
+            "speaker": "Bot",
+            "message": "Definitely a surprise! Red hair can pop up unexpectedly in families, especially those with northern or western European ancestry."
+        },
+        {
+            "message_id": 9,
+            "user_id": "0005",
+            "speaker": "Human",
+            "message": "Could a child have siblings and only one have red hair?"
+        },
+        {
+            "message_id": 10,
+            "system_id": "0007",
+            "speaker": "Bot",
+            "message": "Absolutely, siblings can have different hair colors, including one with red hair, depending on the genetic mix they inherit from their parents."
+        },
+        {
+            "message_id": 11,
+            "user_id": "0005",
+            "speaker": "Human",
+            "message": "Is red hair curly or straight usually?"
+        },
+        {
+            "message_id": 12,
+            "system_id": "0007",
+            "speaker": "Bot",
+            "message": "Red hair can be either curly or straight, as it varies just like other hair colors."
+        },
+        {
+            "message_id": 13,
+            "user_id": "0005",
+            "speaker": "Human",
+            "message": "Does it turn gray the same as other colors?"
+        },
+        {
+            "message_id": 14,
+            "system_id": "0007",
+            "speaker": "Bot",
+            "message": "Red hair usually doesn't turn gray; it tends to fade to a lighter blonde or white as people age."
+        },
+        {
+            "message_id": 15,
+            "user_id": "0005",
+            "speaker": "Human",
+            "message": "That would be cool actually."
+        },
+        {
+            "message_id": 16,
+            "system_id": "0007",
+            "speaker": "Bot",
+            "message": "Yeah, red hair fades to light blonde or white, and it's pretty cool how it stands out with fair skin and light eyes!"
+        },
+        {
+            "message_id": 17,
+            "user_id": "0005",
+            "speaker": "Human",
+            "message": "How did Bonnie Raitt end up with that cool streak in her hair?"
+        },
+        {
+            "message_id": 18,
+            "system_id": "0007",
+            "speaker": "Bot",
+            "message": "Bonnie Raitt's famous streak is actually a natural patch of white hair she's had since she was a kid."
+        },
+        {
+            "message_id": 19,
+            "user_id": "0005",
+            "speaker": "Human",
+            "message": "Is that common?"
+        },
+        {
+            "message_id": 20,
+            "system_id": "0007",
+            "speaker": "Bot",
+            "message": "It's not super common, but some people naturally develop patches of white hair due to genetics or conditions like poliosis, which affects pigmentation."
+        }
+    ]
+}

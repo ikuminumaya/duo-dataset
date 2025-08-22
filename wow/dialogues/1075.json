@@ -1,0 +1,141 @@
+{
+    "dialogue_id": "1075",
+    "setting": "wow",
+    "model": "gpt-4o",
+    "prompt": "aligned",
+    "topic": "Common cold",
+    "subjective_evaluation": {
+        "preference": 5.0,
+        "stylistic_similarity": 5.0,
+        "consistency": 4.0,
+        "engagingness": 5.0
+    },
+    "dialogue": [
+        {
+            "message_id": 0,
+            "system_id": "0007",
+            "speaker": "Bot",
+            "message": "The common cold is a viral infection that affects the upper respiratory tract, and while it usually clears up in a week or so, it can sometimes linger for up to three weeks."
+        },
+        {
+            "message_id": 1,
+            "user_id": "0027",
+            "speaker": "Human",
+            "message": "How can you tell the difference between a cold and allergies?"
+        },
+        {
+            "message_id": 2,
+            "system_id": "0007",
+            "speaker": "Bot",
+            "message": "Colds usually come with symptoms like a sore throat and runny nose, while allergies often cause itchy eyes and sneezing without a fever."
+        },
+        {
+            "message_id": 3,
+            "user_id": "0027",
+            "speaker": "Human",
+            "message": "I always have a runny nose. It's usually my allergies. I almost never have a fever. Do colds have a fever?"
+        },
+        {
+            "message_id": 4,
+            "system_id": "0007",
+            "speaker": "Bot",
+            "message": "Colds can come with a fever, but it's not always the case, especially if your symptoms are more like your usual allergies."
+        },
+        {
+            "message_id": 5,
+            "user_id": "0027",
+            "speaker": "Human",
+            "message": "What should you do when you have a cold?"
+        },
+        {
+            "message_id": 6,
+            "system_id": "0007",
+            "speaker": "Bot",
+            "message": "When you have a cold, it's good to rest, stay hydrated, and maybe use over-the-counter meds to ease symptoms."
+        },
+        {
+            "message_id": 7,
+            "user_id": "0027",
+            "speaker": "Human",
+            "message": "Are they contagious?"
+        },
+        {
+            "message_id": 8,
+            "system_id": "0007",
+            "speaker": "Bot",
+            "message": "Yes, colds are contagious and spread through close contact or touching infected surfaces."
+        },
+        {
+            "message_id": 9,
+            "user_id": "0027",
+            "speaker": "Human",
+            "message": "So are they always from people? Like, if one day no one had a cold, could they ever be erradicated?"
+        },
+        {
+            "message_id": 10,
+            "system_id": "0007",
+            "speaker": "Bot",
+            "message": "Since colds come from over 200 viruses, eradicating them would be super tough, even if no one had one for a while!"
+        },
+        {
+            "message_id": 11,
+            "user_id": "0027",
+            "speaker": "Human",
+            "message": "Oh wow. I didn't realize that."
+        },
+        {
+            "message_id": 12,
+            "system_id": "0007",
+            "speaker": "Bot",
+            "message": "Yeah, with over 200 virus strains like rhinoviruses causing colds, getting rid of them completely would be super challenging!"
+        },
+        {
+            "message_id": 13,
+            "user_id": "0027",
+            "speaker": "Human",
+            "message": "Where do viruses originate?"
+        },
+        {
+            "message_id": 14,
+            "system_id": "0007",
+            "speaker": "Bot",
+            "message": "Viruses have been around for billions of years and can originate from many sources, often jumping from animals to humans."
+        },
+        {
+            "message_id": 15,
+            "user_id": "0027",
+            "speaker": "Human",
+            "message": "Can I catch a cold from my dog or cat?"
+        },
+        {
+            "message_id": 16,
+            "system_id": "0007",
+            "speaker": "Bot",
+            "message": "You can't catch a cold from your dog or cat since the viruses that cause colds in humans don't typically affect pets."
+        },
+        {
+            "message_id": 17,
+            "user_id": "0027",
+            "speaker": "Human",
+            "message": "But I thought you just said that they jump from animals to humans?"
+        },
+        {
+            "message_id": 18,
+            "system_id": "0007",
+            "speaker": "Bot",
+            "message": "While some viruses can jump from animals to humans, the specific viruses causing the common cold in humans don't typically come from pets like dogs or cats."
+        },
+        {
+            "message_id": 19,
+            "user_id": "0027",
+            "speaker": "Human",
+            "message": "I'm confused."
+        },
+        {
+            "message_id": 20,
+            "system_id": "0007",
+            "speaker": "Bot",
+            "message": "Sorry for the confusion! While some viruses jump from animals to humans, the ones causing colds in us usually don't come from pets like dogs or cats."
+        }
+    ]
+}

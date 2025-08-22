@@ -1,0 +1,136 @@
+{
+    "dialogue_id": "0092",
+    "setting": "ed",
+    "model": "gpt-4o",
+    "prompt": "not_aligned",
+    "emotion": "Terrified",
+    "episode": "I was skiing down a snowy mountain and heard a rumble, looking behind me, I saw a large patch of snow and rocks approaching me.",
+    "subjective_evaluation": {
+        "preference": 3.0,
+        "stylistic_similarity": 3.0,
+        "consistency": 4.0,
+        "empathy": 4.0
+    },
+    "dialogue": [
+        {
+            "message_id": 0,
+            "user_id": "0022",
+            "speaker": "Human",
+            "message": "I was skiing on a snow mountain when suddenly I heard a rumble and looked back to see an avalanche in the distance."
+        },
+        {
+            "message_id": 1,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "That must have been terrifying! Are you okay?"
+        },
+        {
+            "message_id": 2,
+            "user_id": "0022",
+            "speaker": "Human",
+            "message": "It was very scary and I feared for my life, obviously I ended up ok."
+        },
+        {
+            "message_id": 3,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "I'm so relieved you're safe. Must've been a heart-pounding moment!"
+        },
+        {
+            "message_id": 4,
+            "user_id": "0022",
+            "speaker": "Human",
+            "message": "It certainly got my adrenaline pumping at the time."
+        },
+        {
+            "message_id": 5,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "What an intense experience! Glad you made it through safely."
+        },
+        {
+            "message_id": 6,
+            "user_id": "0022",
+            "speaker": "Human",
+            "message": "Yes, though in the moment, I didn't know if I was going to survive."
+        },
+        {
+            "message_id": 7,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "That sounds terrifying. I'm just glad you're here to tell the tale."
+        },
+        {
+            "message_id": 8,
+            "user_id": "0022",
+            "speaker": "Human",
+            "message": "I was terrified and panicked a bit, I ended up finding refuge in a nearby forest and clung to a tall, sturdy tree to ride the avalanche out."
+        },
+        {
+            "message_id": 9,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "What a harrowing ordeal. You were clever to find safety."
+        },
+        {
+            "message_id": 10,
+            "user_id": "0022",
+            "speaker": "Human",
+            "message": "I remember the instructor telling us to find anything we could take cover behind, so I was lucky to be near a small forest. "
+        },
+        {
+            "message_id": 11,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "Good thinking to recall that advice. That forest really saved you!"
+        },
+        {
+            "message_id": 12,
+            "user_id": "0022",
+            "speaker": "Human",
+            "message": "I ended up with some bruises and cuts, but I was extremely lucky to only get those. I later heard some people unfortunately did not make it."
+        },
+        {
+            "message_id": 13,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "I'm so sorry to hear about the others. Glad you're okay, though."
+        },
+        {
+            "message_id": 14,
+            "user_id": "0022",
+            "speaker": "Human",
+            "message": "Yes, it was sad, I think around 3 people lost their lives that day."
+        },
+        {
+            "message_id": 15,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "That's heartbreaking. Glad you're safe, though."
+        },
+        {
+            "message_id": 16,
+            "user_id": "0022",
+            "speaker": "Human",
+            "message": "Thank you, it was a horrifying ordeal I hope to never experience again, and I am actual going skiing again soon, so I hope it is just a peaceful and calm vacation."
+        },
+        {
+            "message_id": 17,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "Wishing you a safe and relaxing trip!"
+        },
+        {
+            "message_id": 18,
+            "user_id": "0022",
+            "speaker": "Human",
+            "message": "Thanks, this was a cathartic experience, I hope I didn't ramble."
+        },
+        {
+            "message_id": 19,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "Not at all, glad it helped."
+        }
+    ]
+}

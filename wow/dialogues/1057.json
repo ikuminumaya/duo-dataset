@@ -1,0 +1,141 @@
+{
+    "dialogue_id": "1057",
+    "setting": "wow",
+    "model": "gpt-4o",
+    "prompt": "neutral",
+    "topic": "Indie rock",
+    "subjective_evaluation": {
+        "preference": 5.0,
+        "stylistic_similarity": 3.0,
+        "consistency": 5.0,
+        "engagingness": 5.0
+    },
+    "dialogue": [
+        {
+            "message_id": 0,
+            "system_id": "0006",
+            "speaker": "Bot",
+            "message": "Indie rock originated in the 1980s as a genre associated with independent labels and has evolved over the years, sometimes overlapping with terms like \"alternative rock\" and \"guitar pop rock.\""
+        },
+        {
+            "message_id": 1,
+            "user_id": "0007",
+            "speaker": "Human",
+            "message": "Indie Rock is one of my favorite genres.  Do you know the band Bloc Party?"
+        },
+        {
+            "message_id": 2,
+            "system_id": "0006",
+            "speaker": "Bot",
+            "message": "Yes, Bloc Party is a well-known band within the indie rock scene, especially recognized for their energetic sound and debut album \"Silent Alarm.\""
+        },
+        {
+            "message_id": 3,
+            "user_id": "0007",
+            "speaker": "Human",
+            "message": "I listen to Silent Alarm every year.  Is the song \"Like Eating Glass\" on this album?"
+        },
+        {
+            "message_id": 4,
+            "system_id": "0006",
+            "speaker": "Bot",
+            "message": "Yes, \"Like Eating Glass\" is the opening track on Bloc Party's debut album \"Silent Alarm.\""
+        },
+        {
+            "message_id": 5,
+            "user_id": "0007",
+            "speaker": "Human",
+            "message": "I love the live versions of that song.  I have never seen Bloc Party live.  I hope to see them soon."
+        },
+        {
+            "message_id": 6,
+            "system_id": "0006",
+            "speaker": "Bot",
+            "message": "Seeing Bloc Party live would be an amazing experience, especially with their energetic performances that have captivated audiences since the 2000s."
+        },
+        {
+            "message_id": 7,
+            "user_id": "0007",
+            "speaker": "Human",
+            "message": "I only wish I could have seen them with the original drummer and bassist.  "
+        },
+        {
+            "message_id": 8,
+            "system_id": "0006",
+            "speaker": "Bot",
+            "message": "Seeing them with their original lineup would have been special, especially given how the term \"indie rock\" evolved to include bands like Bloc Party who maintained an independent spirit."
+        },
+        {
+            "message_id": 9,
+            "user_id": "0007",
+            "speaker": "Human",
+            "message": "I don't think Bloc Party gets enough credit.  Especially, in the United States."
+        },
+        {
+            "message_id": 10,
+            "system_id": "0006",
+            "speaker": "Bot",
+            "message": "Bloc Party's influence and sound have certainly contributed to the indie rock landscape, even as the genre's definition evolved throughout the 2000s."
+        },
+        {
+            "message_id": 11,
+            "user_id": "0007",
+            "speaker": "Human",
+            "message": "Is Wye Oak considered to be an indie band?"
+        },
+        {
+            "message_id": 12,
+            "system_id": "0006",
+            "speaker": "Bot",
+            "message": "Yes, Wye Oak is considered an indie band, often associated with the indie rock genre."
+        },
+        {
+            "message_id": 13,
+            "user_id": "0007",
+            "speaker": "Human",
+            "message": "I have been listening to a lot of Wye Oak recently.  I was first introduced to their music in the show \"The Walking Dead\"."
+        },
+        {
+            "message_id": 14,
+            "system_id": "0006",
+            "speaker": "Bot",
+            "message": "It's great that you discovered Wye Oak through \"The Walking Dead\"; their indie rock sound has captivated many fans."
+        },
+        {
+            "message_id": 15,
+            "user_id": "0007",
+            "speaker": "Human",
+            "message": "Wye Oak deserves more recognition.   I haven't met anyone else who know who they are."
+        },
+        {
+            "message_id": 16,
+            "system_id": "0006",
+            "speaker": "Bot",
+            "message": "Indie rock bands like Wye Oak often maintain an outsider and underground perspective, which can lead to them being lesser-known despite their talent."
+        },
+        {
+            "message_id": 17,
+            "user_id": "0007",
+            "speaker": "Human",
+            "message": "True.  What are some other indie bands that were popular in the early 2000s?"
+        },
+        {
+            "message_id": 18,
+            "system_id": "0006",
+            "speaker": "Bot",
+            "message": "In the early 2000s, bands like The Strokes, Arcade Fire, and The White Stripes gained popularity in the indie rock scene."
+        },
+        {
+            "message_id": 19,
+            "user_id": "0007",
+            "speaker": "Human",
+            "message": "I like a few of Arcade Fire's songs.  Didn't they have a single with the word \"Lies\" in it during 2004-2005?"
+        },
+        {
+            "message_id": 20,
+            "system_id": "0006",
+            "speaker": "Bot",
+            "message": "Yes, Arcade Fire released the single \"Rebellion (Lies)\" during that time, which became quite popular."
+        }
+    ]
+}

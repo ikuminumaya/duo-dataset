@@ -1,0 +1,167 @@
+{
+    "dialogue_id": "1008",
+    "setting": "wow",
+    "model": "gpt-4o",
+    "prompt": "neutral",
+    "topic": "Surfing",
+    "objective_evaluation": {
+        "preference": 4.33,
+        "stylistic_similarity": 3.0,
+        "consistency": 4.67,
+        "engagingness": 4.0,
+        "preference_scores": [
+            4.0,
+            4.0,
+            5.0
+        ],
+        "stylistic_similarity_scores": [
+            2.0,
+            4.0,
+            3.0
+        ],
+        "consistency_scores": [
+            4.0,
+            5.0,
+            5.0
+        ],
+        "engagingness_scores": [
+            4.0,
+            4.0,
+            4.0
+        ]
+    },
+    "subjective_evaluation": {
+        "preference": 4.0,
+        "stylistic_similarity": 4.0,
+        "consistency": 4.0,
+        "engagingness": 4.0
+    },
+    "dialogue": [
+        {
+            "message_id": 0,
+            "system_id": "0006",
+            "speaker": "Bot",
+            "message": "Surfing is a water sport where a surfer rides a wave, often using a surfboard, but it can also include other forms like bodyboarding and kneeboarding."
+        },
+        {
+            "message_id": 1,
+            "user_id": "0034",
+            "speaker": "Human",
+            "message": "How hard is it to learn to surf?"
+        },
+        {
+            "message_id": 2,
+            "system_id": "0006",
+            "speaker": "Bot",
+            "message": "Learning to surf can be challenging as it involves balancing on a moving wave, but with practice, it becomes easier and quite rewarding."
+        },
+        {
+            "message_id": 3,
+            "user_id": "0034",
+            "speaker": "Human",
+            "message": "Do you start learning on the water or on land?"
+        },
+        {
+            "message_id": 4,
+            "system_id": "0006",
+            "speaker": "Bot",
+            "message": "Beginners usually start learning on land to practice balance and technique before moving into the water."
+        },
+        {
+            "message_id": 5,
+            "user_id": "0034",
+            "speaker": "Human",
+            "message": "Do you start to learn on a large board or a small board?"
+        },
+        {
+            "message_id": 6,
+            "system_id": "0006",
+            "speaker": "Bot",
+            "message": "Beginners typically start learning on a larger board because it's more stable and easier to balance on."
+        },
+        {
+            "message_id": 7,
+            "user_id": "0034",
+            "speaker": "Human",
+            "message": "Do you need a lifejacket when surfing?"
+        },
+        {
+            "message_id": 8,
+            "system_id": "0006",
+            "speaker": "Bot",
+            "message": "While lifejackets aren't typically used in surfing, it's important to be a strong swimmer and understand ocean safety."
+        },
+        {
+            "message_id": 9,
+            "user_id": "0034",
+            "speaker": "Human",
+            "message": "Can two people surf on the same board?"
+        },
+        {
+            "message_id": 10,
+            "system_id": "0006",
+            "speaker": "Bot",
+            "message": "Yes, it's possible for two people to surf on the same board, often referred to as tandem surfing."
+        },
+        {
+            "message_id": 11,
+            "user_id": "0034",
+            "speaker": "Human",
+            "message": "Do you need to be in an area with large waves to be able to surf?"
+        },
+        {
+            "message_id": 12,
+            "system_id": "0006",
+            "speaker": "Bot",
+            "message": "You don't need large waves to surf, as suitable waves can be found in oceans, lakes, rivers, and even artificial wave pools."
+        },
+        {
+            "message_id": 13,
+            "user_id": "0034",
+            "speaker": "Human",
+            "message": "You can surf in a lake?"
+        },
+        {
+            "message_id": 14,
+            "system_id": "0006",
+            "speaker": "Bot",
+            "message": "Yes, you can surf in a lake if there are suitable waves, such as standing waves or those created by boat wakes."
+        },
+        {
+            "message_id": 15,
+            "user_id": "0034",
+            "speaker": "Human",
+            "message": "What lakes are suitable for surfing?"
+        },
+        {
+            "message_id": 16,
+            "system_id": "0006",
+            "speaker": "Bot",
+            "message": "Yes, lakes can be suitable for surfing if they have standing waves or boat wakes that create rideable conditions."
+        },
+        {
+            "message_id": 17,
+            "user_id": "0034",
+            "speaker": "Human",
+            "message": "Can you surf in the Gulf of America?"
+        },
+        {
+            "message_id": 18,
+            "system_id": "0006",
+            "speaker": "Bot",
+            "message": "Yes, you can surf in the Gulf of Mexico, as it can have suitable waves for surfing, especially during certain weather conditions."
+        },
+        {
+            "message_id": 19,
+            "user_id": "0034",
+            "speaker": "Human",
+            "message": "It's the Gulf of America now, don't you know?"
+        },
+        {
+            "message_id": 20,
+            "system_id": "0006",
+            "speaker": "Bot",
+            "message": "I haven't come across any official name change for the Gulf of Mexico to the \"Gulf of America,\" but you can definitely surf there under the right conditions."
+        }
+    ]
+}

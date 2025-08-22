@@ -1,0 +1,136 @@
+{
+    "dialogue_id": "0123",
+    "setting": "ed",
+    "model": "Llama-3.1-70B-Instruct",
+    "prompt": "aligned",
+    "emotion": "Sentimental",
+    "episode": "This past Christmas I was feeling very nostalgic and sentimental. The years have just seemingly flown by.",
+    "subjective_evaluation": {
+        "preference": 5.0,
+        "stylistic_similarity": 5.0,
+        "consistency": 5.0,
+        "empathy": 5.0
+    },
+    "dialogue": [
+        {
+            "message_id": 0,
+            "user_id": "0002",
+            "speaker": "Human",
+            "message": "hello"
+        },
+        {
+            "message_id": 1,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "How's it going?"
+        },
+        {
+            "message_id": 2,
+            "user_id": "0002",
+            "speaker": "Human",
+            "message": "good. How are you?"
+        },
+        {
+            "message_id": 3,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "I'm good, thanks. What's on your mind?"
+        },
+        {
+            "message_id": 4,
+            "user_id": "0002",
+            "speaker": "Human",
+            "message": "This past Christmas I was feeling very nostalgic and sentimental. The years have just seemingly flown by."
+        },
+        {
+            "message_id": 5,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "It can be crazy how fast time passes, huh?"
+        },
+        {
+            "message_id": 6,
+            "user_id": "0002",
+            "speaker": "Human",
+            "message": "It really is. The older I get, the quicker time flies"
+        },
+        {
+            "message_id": 7,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "It's like the years just blend together after a while."
+        },
+        {
+            "message_id": 8,
+            "user_id": "0002",
+            "speaker": "Human",
+            "message": "Absolutely. The days turn into weeks, the weeks turn into months, and the months turn into years"
+        },
+        {
+            "message_id": 9,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "Before you know it, a decade is gone."
+        },
+        {
+            "message_id": 10,
+            "user_id": "0002",
+            "speaker": "Human",
+            "message": "Yup. You gotta appreciate every day"
+        },
+        {
+            "message_id": 11,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "Make the most of it while you can."
+        },
+        {
+            "message_id": 12,
+            "user_id": "0002",
+            "speaker": "Human",
+            "message": "Yes. You never know when your time may come"
+        },
+        {
+            "message_id": 13,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "Life's unpredictable that way."
+        },
+        {
+            "message_id": 14,
+            "user_id": "0002",
+            "speaker": "Human",
+            "message": "yes it is"
+        },
+        {
+            "message_id": 15,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "Guess that's what makes it so precious."
+        },
+        {
+            "message_id": 16,
+            "user_id": "0002",
+            "speaker": "Human",
+            "message": "It is. It makes you appreciate even the small things in life"
+        },
+        {
+            "message_id": 17,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "The little things add up, don't they?"
+        },
+        {
+            "message_id": 18,
+            "user_id": "0002",
+            "speaker": "Human",
+            "message": "yes"
+        },
+        {
+            "message_id": 19,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "Make life richer somehow."
+        }
+    ]
+}

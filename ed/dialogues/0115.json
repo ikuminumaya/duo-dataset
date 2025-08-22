@@ -1,0 +1,136 @@
+{
+    "dialogue_id": "0115",
+    "setting": "ed",
+    "model": "Llama-3.1-70B-Instruct",
+    "prompt": "neutral",
+    "emotion": "Lonely",
+    "episode": "I feel like even when I'm not alone, that I am alone and forgotten.",
+    "subjective_evaluation": {
+        "preference": 2.0,
+        "stylistic_similarity": 2.0,
+        "consistency": 3.0,
+        "empathy": 3.0
+    },
+    "dialogue": [
+        {
+            "message_id": 0,
+            "user_id": "0030",
+            "speaker": "Human",
+            "message": "I feel alone a lot of the time even when I'm not alone.  I just feel forgotten a lot and that no one really cares about how my day went even though I hear about everyone else's day."
+        },
+        {
+            "message_id": 1,
+            "system_id": "0003",
+            "speaker": "Bot",
+            "message": "That sounds really tough. Feeling invisible can be painful."
+        },
+        {
+            "message_id": 2,
+            "user_id": "0030",
+            "speaker": "Human",
+            "message": "It is, and I'm not sure how to overcome it, especially with my husband."
+        },
+        {
+            "message_id": 3,
+            "system_id": "0003",
+            "speaker": "Bot",
+            "message": "Have you tried talking to him about how you feel?"
+        },
+        {
+            "message_id": 4,
+            "user_id": "0030",
+            "speaker": "Human",
+            "message": "yes, he will tell me he will try to do a better job at taking some time out of his day to ask about my day but he usually forgets or will wait until he's ready to roll over and go to sleep at the end of the day."
+        },
+        {
+            "message_id": 5,
+            "system_id": "0003",
+            "speaker": "Bot",
+            "message": "It sounds like his efforts aren't quite translating into consistent action."
+        },
+        {
+            "message_id": 6,
+            "user_id": "0030",
+            "speaker": "Human",
+            "message": "I agree and it's left me stuck as I don't know what to do or say to get things to be more consistent and not feel like I'm forcing him to ask.  I just feel like at the end of the day all he cares about is seeing that I haven't just up and left him."
+        },
+        {
+            "message_id": 7,
+            "system_id": "0003",
+            "speaker": "Bot",
+            "message": "That must feel really unfulfilling and like you're just an afterthought."
+        },
+        {
+            "message_id": 8,
+            "user_id": "0030",
+            "speaker": "Human",
+            "message": "very much so."
+        },
+        {
+            "message_id": 9,
+            "system_id": "0003",
+            "speaker": "Bot",
+            "message": "It's like you're craving emotional connection, but it's not being met."
+        },
+        {
+            "message_id": 10,
+            "user_id": "0030",
+            "speaker": "Human",
+            "message": "That is exactly it.  I bring up to him at least once I month that I don't feel like we have a connection but most of the time he'll just say sorry or essentially change the subject."
+        },
+        {
+            "message_id": 11,
+            "system_id": "0003",
+            "speaker": "Bot",
+            "message": "It sounds like he's not really hearing you or taking your concerns seriously."
+        },
+        {
+            "message_id": 12,
+            "user_id": "0030",
+            "speaker": "Human",
+            "message": "Yep, that's what it feels like."
+        },
+        {
+            "message_id": 13,
+            "system_id": "0003",
+            "speaker": "Bot",
+            "message": "That's really frustrating and invalidating."
+        },
+        {
+            "message_id": 14,
+            "user_id": "0030",
+            "speaker": "Human",
+            "message": "Agreed.  It doesn't help my already lacking self esteem either."
+        },
+        {
+            "message_id": 15,
+            "system_id": "0003",
+            "speaker": "Bot",
+            "message": "It's like a vicious cycle, reinforcing your negative feelings about yourself."
+        },
+        {
+            "message_id": 16,
+            "user_id": "0030",
+            "speaker": "Human",
+            "message": "Yes."
+        },
+        {
+            "message_id": 17,
+            "system_id": "0003",
+            "speaker": "Bot",
+            "message": "That must be really hard to deal with."
+        },
+        {
+            "message_id": 18,
+            "user_id": "0030",
+            "speaker": "Human",
+            "message": "It truly is.  Some days I just feel like a shell of my self."
+        },
+        {
+            "message_id": 19,
+            "system_id": "0003",
+            "speaker": "Bot",
+            "message": "That sounds incredibly draining and sad."
+        }
+    ]
+}

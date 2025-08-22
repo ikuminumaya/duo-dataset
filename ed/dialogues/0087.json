@@ -1,0 +1,136 @@
+{
+    "dialogue_id": "0087",
+    "setting": "ed",
+    "model": "gpt-4o",
+    "prompt": "not_aligned",
+    "emotion": "Excited",
+    "episode": "I have a cruise coming up in a few weeks and I am absolutely thrilled and excited as I look forward to the vacation.",
+    "subjective_evaluation": {
+        "preference": 4.0,
+        "stylistic_similarity": 4.0,
+        "consistency": 4.0,
+        "empathy": 5.0
+    },
+    "dialogue": [
+        {
+            "message_id": 0,
+            "user_id": "0004",
+            "speaker": "Human",
+            "message": "I have a cruise coming up in a few short weeks and I am thrilled and excited as the trip gets closer and closer."
+        },
+        {
+            "message_id": 1,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "How splendid! Cruises can be such a delightful escape. Do you have any specific plans for when you're on board?"
+        },
+        {
+            "message_id": 2,
+            "user_id": "0004",
+            "speaker": "Human",
+            "message": "Well it is a music cruise with around thirty bands on board so it is basically constant concerts.  I will definitely be getting my fill of music."
+        },
+        {
+            "message_id": 3,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "That sounds absolutely incredible! You're in for a spectacular time."
+        },
+        {
+            "message_id": 4,
+            "user_id": "0004",
+            "speaker": "Human",
+            "message": "I have done cruises like this in the past and I always have an absolute blast.  I can barely control my excitement!\n"
+        },
+        {
+            "message_id": 5,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "Sounds like a blast! Enjoy every moment of it!"
+        },
+        {
+            "message_id": 6,
+            "user_id": "0004",
+            "speaker": "Human",
+            "message": "I definitely will.  It ports for two days so I am looking forward to some beach time and some rest and relaxation as well."
+        },
+        {
+            "message_id": 7,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "Sounds divine! Enjoy the sun and tranquility!"
+        },
+        {
+            "message_id": 8,
+            "user_id": "0004",
+            "speaker": "Human",
+            "message": "I will.  My only concern is that I tend to get motion sickness and have gotten sick on cruises in the past so I have some Dramimine packed and ready to go."
+        },
+        {
+            "message_id": 9,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "Smart thinking! Hopefully, it does the trick."
+        },
+        {
+            "message_id": 10,
+            "user_id": "0004",
+            "speaker": "Human",
+            "message": "It usually does.  If I remember to take it!  Now I just have to make it through a couple more weeks of work."
+        },
+        {
+            "message_id": 11,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "Hang in there, the reward will be worth it!"
+        },
+        {
+            "message_id": 12,
+            "user_id": "0004",
+            "speaker": "Human",
+            "message": "That is what I keep telling myself!  Work seems to drag as time gets closer and closer to a vacation but it will be well worth the wait."
+        },
+        {
+            "message_id": 13,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "Absolutely worth it! Time will fly by!"
+        },
+        {
+            "message_id": 14,
+            "user_id": "0004",
+            "speaker": "Human",
+            "message": "I sure hope so!  As long as it does not fly by while I am on the actual cruise!"
+        },
+        {
+            "message_id": 15,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "May time slow for your enjoyment!"
+        },
+        {
+            "message_id": 16,
+            "user_id": "0004",
+            "speaker": "Human",
+            "message": "Thank you!  This is going to be my tenth cruise.  I am starting to feel like a regular!\n"
+        },
+        {
+            "message_id": 17,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "You're quite the seasoned cruiser!"
+        },
+        {
+            "message_id": 18,
+            "user_id": "0004",
+            "speaker": "Human",
+            "message": "I am definitely getting there.  Thank you for all of the kind words.  I cannot wait until we sail off!"
+        },
+        {
+            "message_id": 19,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "Wishing you smooth sailing and endless fun!"
+        }
+    ]
+}

@@ -1,0 +1,136 @@
+{
+    "dialogue_id": "0103",
+    "setting": "ed",
+    "model": "Llama-3.1-70B-Instruct",
+    "prompt": "neutral",
+    "emotion": "Anxious",
+    "episode": "I have been having trouble getting my medicine.",
+    "subjective_evaluation": {
+        "preference": 4.0,
+        "stylistic_similarity": 5.0,
+        "consistency": 5.0,
+        "empathy": 5.0
+    },
+    "dialogue": [
+        {
+            "message_id": 0,
+            "user_id": "0027",
+            "speaker": "Human",
+            "message": "I've very stressed an anxious right now. I have been trying to get my new medicine since last Thursday to no avail."
+        },
+        {
+            "message_id": 1,
+            "system_id": "0003",
+            "speaker": "Bot",
+            "message": "That sounds really frustrating. What's going on with the medicine?"
+        },
+        {
+            "message_id": 2,
+            "user_id": "0027",
+            "speaker": "Human",
+            "message": "My doctor prescribed me a new medicine for anxiety but when I went to the pharmacy they didn't have it in the computer. I have tried three times since Friday and even called the doctor again yesterday. The doctor didn't call me back after several hours so I called him back and he said it was at the pharmacy so now I have to wait for them to open and pray."
+        },
+        {
+            "message_id": 3,
+            "system_id": "0003",
+            "speaker": "Bot",
+            "message": "That's infuriating. I hope the pharmacy has it today and you can finally get the help you need."
+        },
+        {
+            "message_id": 4,
+            "user_id": "0027",
+            "speaker": "Human",
+            "message": "This is so not helping my anxiety problems, you know"
+        },
+        {
+            "message_id": 5,
+            "system_id": "0003",
+            "speaker": "Bot",
+            "message": "I can imagine. It's like a vicious cycle, isn't it?"
+        },
+        {
+            "message_id": 6,
+            "user_id": "0027",
+            "speaker": "Human",
+            "message": "yep. The worse thing is I don't drive so I put it at the Walgreens down the street that I can walk to but get this- the pharmacy isn't open on weekends. Wasn't Walgreens originally primarily a pharmacy?"
+        },
+        {
+            "message_id": 7,
+            "system_id": "0003",
+            "speaker": "Bot",
+            "message": "That's ridiculous. You'd think a pharmacy would be open when people need it most."
+        },
+        {
+            "message_id": 8,
+            "user_id": "0027",
+            "speaker": "Human",
+            "message": "Yeah. I miss the days before the pandemic when Walgreens and Kroger pharmacies were both open 24 hours."
+        },
+        {
+            "message_id": 9,
+            "system_id": "0003",
+            "speaker": "Bot",
+            "message": "Me too, it's like they've forgotten about people's needs."
+        },
+        {
+            "message_id": 10,
+            "user_id": "0027",
+            "speaker": "Human",
+            "message": "Seriously."
+        },
+        {
+            "message_id": 11,
+            "system_id": "0003",
+            "speaker": "Bot",
+            "message": "It's just adding to your stress, isn't it?"
+        },
+        {
+            "message_id": 12,
+            "user_id": "0027",
+            "speaker": "Human",
+            "message": "Very much so. I had originally planned on visiting my mother in Delaware for her birthday yesterday but that can't happen until I get my meds and make sure that I don't have any bad side effects."
+        },
+        {
+            "message_id": 13,
+            "system_id": "0003",
+            "speaker": "Bot",
+            "message": "That's a bummer. Missing your mom's birthday must be really disappointing."
+        },
+        {
+            "message_id": 14,
+            "user_id": "0027",
+            "speaker": "Human",
+            "message": "It is. At least her gift got there a couple of days early."
+        },
+        {
+            "message_id": 15,
+            "system_id": "0003",
+            "speaker": "Bot",
+            "message": "That's a small consolation, at least."
+        },
+        {
+            "message_id": 16,
+            "user_id": "0027",
+            "speaker": "Human",
+            "message": "I really hate taking medicines. I'm always worried that they will cause something more severe than my current problem."
+        },
+        {
+            "message_id": 17,
+            "system_id": "0003",
+            "speaker": "Bot",
+            "message": "That's a valid fear. Side effects can be scary."
+        },
+        {
+            "message_id": 18,
+            "user_id": "0027",
+            "speaker": "Human",
+            "message": "Yeah. A lot of them sometimes cause things that can't be seen for 10 to 20 years"
+        },
+        {
+            "message_id": 19,
+            "system_id": "0003",
+            "speaker": "Bot",
+            "message": "Long-term effects can be unsettling to think about."
+        }
+    ]
+}

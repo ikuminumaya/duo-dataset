@@ -1,0 +1,167 @@
+{
+    "dialogue_id": "1031",
+    "setting": "wow",
+    "model": "Llama-3.1-70B-Instruct",
+    "prompt": "aligned",
+    "topic": "Heavy metal music",
+    "objective_evaluation": {
+        "preference": 4.0,
+        "stylistic_similarity": 3.67,
+        "consistency": 4.67,
+        "engagingness": 4.33,
+        "preference_scores": [
+            5.0,
+            3.0,
+            4.0
+        ],
+        "stylistic_similarity_scores": [
+            5.0,
+            3.0,
+            3.0
+        ],
+        "consistency_scores": [
+            5.0,
+            4.0,
+            5.0
+        ],
+        "engagingness_scores": [
+            5.0,
+            4.0,
+            4.0
+        ]
+    },
+    "subjective_evaluation": {
+        "preference": 3.0,
+        "stylistic_similarity": 3.0,
+        "consistency": 4.0,
+        "engagingness": 3.0
+    },
+    "dialogue": [
+        {
+            "message_id": 0,
+            "system_id": "0010",
+            "speaker": "Bot",
+            "message": "Let's get this convo started, dude! What's up with heavy metal music?"
+        },
+        {
+            "message_id": 1,
+            "user_id": "0005",
+            "speaker": "Human",
+            "message": "I don't know, I've always been confused what the criteria is to make music considered heavy metal."
+        },
+        {
+            "message_id": 2,
+            "system_id": "0010",
+            "speaker": "Bot",
+            "message": "Fair question! I think it's all about the heavy riffs, loudness, and distortion, you know?"
+        },
+        {
+            "message_id": 3,
+            "user_id": "0005",
+            "speaker": "Human",
+            "message": "So who is the best known heavy metal band?"
+        },
+        {
+            "message_id": 4,
+            "system_id": "0010",
+            "speaker": "Bot",
+            "message": "Gotta be Black Sabbath, they're like the OGs of heavy metal, formed in '68 and all that!"
+        },
+        {
+            "message_id": 5,
+            "user_id": "0005",
+            "speaker": "Human",
+            "message": "I'm down with that. Things like GWAR I am not."
+        },
+        {
+            "message_id": 6,
+            "system_id": "0010",
+            "speaker": "Bot",
+            "message": "GWAR's a bit too out there, even for some metalheads, but hey, to each their own, right?"
+        },
+        {
+            "message_id": 7,
+            "user_id": "0005",
+            "speaker": "Human",
+            "message": "What is the most popular heavy metal band out today?"
+        },
+        {
+            "message_id": 8,
+            "system_id": "0010",
+            "speaker": "Bot",
+            "message": "I'd say Metallica's still killing it, they're like the metal gods, even after all these years!"
+        },
+        {
+            "message_id": 9,
+            "user_id": "0005",
+            "speaker": "Human",
+            "message": "When did they last perform?"
+        },
+        {
+            "message_id": 10,
+            "system_id": "0010",
+            "speaker": "Bot",
+            "message": "I'm not totally sure, but I think they're still touring, they just did a huge show in 2019, and they're always doing something new, those guys never stop!"
+        },
+        {
+            "message_id": 11,
+            "user_id": "0005",
+            "speaker": "Human",
+            "message": "Do they have all of the original band members?"
+        },
+        {
+            "message_id": 12,
+            "system_id": "0010",
+            "speaker": "Bot",
+            "message": "Nah, they've had some lineup changes over the years, but James Hetfield and Kirk Hammett are still rocking it, been with the band for ages!"
+        },
+        {
+            "message_id": 13,
+            "user_id": "0005",
+            "speaker": "Human",
+            "message": "What metal bands are still performing from the 90s?"
+        },
+        {
+            "message_id": 14,
+            "system_id": "0010",
+            "speaker": "Bot",
+            "message": "Dude, there are a few! I know Tool's still out there, and so is Slipknot, they're still bringing the heat!"
+        },
+        {
+            "message_id": 15,
+            "user_id": "0005",
+            "speaker": "Human",
+            "message": "What about female heavy metal bands?"
+        },
+        {
+            "message_id": 16,
+            "system_id": "0010",
+            "speaker": "Bot",
+            "message": "Butcher Babies are crushing it, and I'm also loving Halestorm, Lzzy Hale's vocals are insane!"
+        },
+        {
+            "message_id": 17,
+            "user_id": "0005",
+            "speaker": "Human",
+            "message": "What is their best song?"
+        },
+        {
+            "message_id": 18,
+            "system_id": "0010",
+            "speaker": "Bot",
+            "message": "Halestorm's got a lot of sick tracks, but I think \"Love Bites (So Do I)\" is a fan fave, it's so high-energy!"
+        },
+        {
+            "message_id": 19,
+            "user_id": "0005",
+            "speaker": "Human",
+            "message": "What is the most popular heavy metal song of all time?"
+        },
+        {
+            "message_id": 20,
+            "system_id": "0010",
+            "speaker": "Bot",
+            "message": "That's a tough one, but I'd say it's gotta be \"Master of Puppets\" by Metallica, it's like the ultimate metal anthem!"
+        }
+    ]
+}

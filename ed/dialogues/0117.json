@@ -1,0 +1,136 @@
+{
+    "dialogue_id": "0117",
+    "setting": "ed",
+    "model": "Llama-3.1-70B-Instruct",
+    "prompt": "neutral",
+    "emotion": "Guilty",
+    "episode": "I have too many feelings that I shouldn't be having in the first place",
+    "subjective_evaluation": {
+        "preference": 1.0,
+        "stylistic_similarity": 1.0,
+        "consistency": 5.0,
+        "empathy": 1.0
+    },
+    "dialogue": [
+        {
+            "message_id": 0,
+            "user_id": "0010",
+            "speaker": "Human",
+            "message": "My feelings are disgusting and I shouldn't be having them in the first place."
+        },
+        {
+            "message_id": 1,
+            "system_id": "0003",
+            "speaker": "Bot",
+            "message": "What's going on that's making you feel that way?"
+        },
+        {
+            "message_id": 2,
+            "user_id": "0010",
+            "speaker": "Human",
+            "message": "Just my feelings for others. It's pathetic."
+        },
+        {
+            "message_id": 3,
+            "system_id": "0003",
+            "speaker": "Bot",
+            "message": "Having strong feelings for someone can be overwhelming."
+        },
+        {
+            "message_id": 4,
+            "user_id": "0010",
+            "speaker": "Human",
+            "message": "It's disgusting, is what it is."
+        },
+        {
+            "message_id": 5,
+            "system_id": "0003",
+            "speaker": "Bot",
+            "message": "It sounds like you're really struggling with these emotions."
+        },
+        {
+            "message_id": 6,
+            "user_id": "0010",
+            "speaker": "Human",
+            "message": "I don't want to have these feelings anymore"
+        },
+        {
+            "message_id": 7,
+            "system_id": "0003",
+            "speaker": "Bot",
+            "message": "It can be painful to feel things you wish you didn't."
+        },
+        {
+            "message_id": 8,
+            "user_id": "0010",
+            "speaker": "Human",
+            "message": "And I don't anymore."
+        },
+        {
+            "message_id": 9,
+            "system_id": "0003",
+            "speaker": "Bot",
+            "message": "So you've been able to let go of them?"
+        },
+        {
+            "message_id": 10,
+            "user_id": "0010",
+            "speaker": "Human",
+            "message": "No."
+        },
+        {
+            "message_id": 11,
+            "system_id": "0003",
+            "speaker": "Bot",
+            "message": "It's still a struggle then."
+        },
+        {
+            "message_id": 12,
+            "user_id": "0010",
+            "speaker": "Human",
+            "message": "Yes, obviously, why would it not be one?"
+        },
+        {
+            "message_id": 13,
+            "system_id": "0003",
+            "speaker": "Bot",
+            "message": "I can sense the frustration and helplessness."
+        },
+        {
+            "message_id": 14,
+            "user_id": "0010",
+            "speaker": "Human",
+            "message": "Oh, you can sense it, huh?"
+        },
+        {
+            "message_id": 15,
+            "system_id": "0003",
+            "speaker": "Bot",
+            "message": "Your words convey a lot of emotion."
+        },
+        {
+            "message_id": 16,
+            "user_id": "0010",
+            "speaker": "Human",
+            "message": "This is mucho unhelpful."
+        },
+        {
+            "message_id": 17,
+            "system_id": "0003",
+            "speaker": "Bot",
+            "message": "I'm sorry if I'm not providing the support you need."
+        },
+        {
+            "message_id": 18,
+            "user_id": "0010",
+            "speaker": "Human",
+            "message": "Goodbye."
+        },
+        {
+            "message_id": 19,
+            "system_id": "0003",
+            "speaker": "Bot",
+            "message": "Take care of yourself."
+        }
+    ]
+}

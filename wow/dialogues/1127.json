@@ -1,0 +1,141 @@
+{
+    "dialogue_id": "1127",
+    "setting": "wow",
+    "model": "Llama-3.1-70B-Instruct",
+    "prompt": "aligned",
+    "topic": "Track and field",
+    "subjective_evaluation": {
+        "preference": 4.0,
+        "stylistic_similarity": 4.0,
+        "consistency": 4.0,
+        "engagingness": 4.0
+    },
+    "dialogue": [
+        {
+            "message_id": 0,
+            "system_id": "0010",
+            "speaker": "Bot",
+            "message": "Let's get this conversation started! What's up, wanna talk about track and field?"
+        },
+        {
+            "message_id": 1,
+            "user_id": "0017",
+            "speaker": "Human",
+            "message": "I guess so. I was never fast enough to participate in track in school."
+        },
+        {
+            "message_id": 2,
+            "system_id": "0010",
+            "speaker": "Bot",
+            "message": "Speed isn't everything, there are lots of other events like jumping and throwing that are just as cool!"
+        },
+        {
+            "message_id": 3,
+            "user_id": "0017",
+            "speaker": "Human",
+            "message": "What's the one where you throw a heavy ball called?"
+        },
+        {
+            "message_id": 4,
+            "system_id": "0010",
+            "speaker": "Bot",
+            "message": "You're thinking of shot put!"
+        },
+        {
+            "message_id": 5,
+            "user_id": "0017",
+            "speaker": "Human",
+            "message": "And what's the one where you throw a ball attached to a chain?"
+        },
+        {
+            "message_id": 6,
+            "system_id": "0010",
+            "speaker": "Bot",
+            "message": "That's the hammer throw, pretty intense event!"
+        },
+        {
+            "message_id": 7,
+            "user_id": "0017",
+            "speaker": "Human",
+            "message": "I see. Those are the two I'd like to do, but too late now as I'm 30."
+        },
+        {
+            "message_id": 8,
+            "system_id": "0010",
+            "speaker": "Bot",
+            "message": "Don't say that! You can still try them out, masters athletics is a thing, people compete in their 30s, 40s, and beyond!"
+        },
+        {
+            "message_id": 9,
+            "user_id": "0017",
+            "speaker": "Human",
+            "message": "Masters athletics? Is that like in the Olympics?"
+        },
+        {
+            "message_id": 10,
+            "system_id": "0010",
+            "speaker": "Bot",
+            "message": "Nope, it's separate from the Olympics, but still super competitive, and there are even world championships for masters athletes!"
+        },
+        {
+            "message_id": 11,
+            "user_id": "0017",
+            "speaker": "Human",
+            "message": "Cool! Who is the most decorated track and field Olympian? I assume Usain Bolt."
+        },
+        {
+            "message_id": 12,
+            "system_id": "0010",
+            "speaker": "Bot",
+            "message": "Actually, it's Carl Lewis, with 9 Olympic gold medals, but Usain Bolt is a close second, with 8!"
+        },
+        {
+            "message_id": 13,
+            "user_id": "0017",
+            "speaker": "Human",
+            "message": "I never heard of him. When did he compete?"
+        },
+        {
+            "message_id": 14,
+            "system_id": "0010",
+            "speaker": "Bot",
+            "message": "Carl Lewis was a legend back in the 80s and 90s, won his medals between '84 and '96!"
+        },
+        {
+            "message_id": 15,
+            "user_id": "0017",
+            "speaker": "Human",
+            "message": "Isn't there a track olympian related to the Kardashians?"
+        },
+        {
+            "message_id": 16,
+            "system_id": "0010",
+            "speaker": "Bot",
+            "message": "You're thinking of Caitlyn Jenner, formerly Bruce Jenner, won gold in the decathlon in '76, and yeah, stepdad to the Kardashians!"
+        },
+        {
+            "message_id": 17,
+            "user_id": "0017",
+            "speaker": "Human",
+            "message": "What's a decathalon again?"
+        },
+        {
+            "message_id": 18,
+            "system_id": "0010",
+            "speaker": "Bot",
+            "message": "Decathlon's a 10-event competition, includes stuff like sprinting, distance running, hurdling, jumping, and throwing, it's like the ultimate test of athleticism!"
+        },
+        {
+            "message_id": 19,
+            "user_id": "0017",
+            "speaker": "Human",
+            "message": "Do they still have that in the Olympics?"
+        },
+        {
+            "message_id": 20,
+            "system_id": "0010",
+            "speaker": "Bot",
+            "message": "Yeah, decathlon's still an Olympic event, and it's considered one of the toughest and most prestigious titles to win!"
+        }
+    ]
+}

@@ -1,0 +1,141 @@
+{
+    "dialogue_id": "1048",
+    "setting": "wow",
+    "model": "gpt-4o",
+    "prompt": "neutral",
+    "topic": "Cooking",
+    "subjective_evaluation": {
+        "preference": 3.0,
+        "stylistic_similarity": 3.0,
+        "consistency": 4.0,
+        "engagingness": 3.0
+    },
+    "dialogue": [
+        {
+            "message_id": 0,
+            "system_id": "0006",
+            "speaker": "Bot",
+            "message": "Cooking is a fascinating blend of art, science, and tradition, with techniques ranging from grilling over an open fire to using modern electric stoves."
+        },
+        {
+            "message_id": 1,
+            "user_id": "0022",
+            "speaker": "Human",
+            "message": "Cooking has never been my forte, do you know any good recipes a beginner like myself should start at?"
+        },
+        {
+            "message_id": 2,
+            "system_id": "0006",
+            "speaker": "Bot",
+            "message": "A great recipe for beginners is a simple pasta dish, like spaghetti aglio e olio, which requires just a few basic ingredients and minimal cooking skills."
+        },
+        {
+            "message_id": 3,
+            "user_id": "0022",
+            "speaker": "Human",
+            "message": "Ok, spaghetti seems good, can you walk me through a simple meatball and spaghetti recipe I could try out?"
+        },
+        {
+            "message_id": 4,
+            "system_id": "0006",
+            "speaker": "Bot",
+            "message": "Sure! Let's start with a simple meatball and spaghetti recipe that involves basic cooking techniques perfect for beginners."
+        },
+        {
+            "message_id": 5,
+            "user_id": "0022",
+            "speaker": "Human",
+            "message": "Sounds good, show me a simple step by step recipe please."
+        },
+        {
+            "message_id": 6,
+            "system_id": "0006",
+            "speaker": "Bot",
+            "message": "Cooking is a craft that varies widely, but let's dive into a simple meatball and spaghetti recipe to get you started!"
+        },
+        {
+            "message_id": 7,
+            "user_id": "0022",
+            "speaker": "Human",
+            "message": "Ok then, I need a simple recipe on how to cook the spaghetti first."
+        },
+        {
+            "message_id": 8,
+            "system_id": "0006",
+            "speaker": "Bot",
+            "message": "Sure, cooking spaghetti is simple: just boil water, add a pinch of salt, and cook the pasta until it's al dente, usually about 8-10 minutes."
+        },
+        {
+            "message_id": 9,
+            "user_id": "0022",
+            "speaker": "Human",
+            "message": "Ok, got it, I can do that. Now how about cooking the meatballs?"
+        },
+        {
+            "message_id": 10,
+            "system_id": "0006",
+            "speaker": "Bot",
+            "message": "To cook the meatballs, mix ground beef with breadcrumbs, an egg, and seasonings, form into balls, and then bake or fry them until fully cooked."
+        },
+        {
+            "message_id": 11,
+            "user_id": "0022",
+            "speaker": "Human",
+            "message": "How long do I cook the meatballs for and and what temperature?"
+        },
+        {
+            "message_id": 12,
+            "system_id": "0006",
+            "speaker": "Bot",
+            "message": "Bake the meatballs at 400°F (200°C) for about 20-25 minutes, or until they're browned and cooked through."
+        },
+        {
+            "message_id": 13,
+            "user_id": "0022",
+            "speaker": "Human",
+            "message": "Easy peasy, what about a spaghetti sauce? "
+        },
+        {
+            "message_id": 14,
+            "system_id": "0006",
+            "speaker": "Bot",
+            "message": "For a simple spaghetti sauce, sauté garlic and onions in olive oil, add canned tomatoes, and season with salt, pepper, and basil, then simmer for about 15-20 minutes."
+        },
+        {
+            "message_id": 15,
+            "user_id": "0022",
+            "speaker": "Human",
+            "message": "I can do that, and if I want some cheese or bread? How should I prepare those or what ingredients do I need?"
+        },
+        {
+            "message_id": 16,
+            "system_id": "0006",
+            "speaker": "Bot",
+            "message": "You can sprinkle grated Parmesan cheese on the spaghetti and serve it with a side of garlic bread, made by spreading butter, garlic, and herbs on sliced bread before toasting it."
+        },
+        {
+            "message_id": 17,
+            "user_id": "0022",
+            "speaker": "Human",
+            "message": "This is sounding tasty, do you recommend any particular wines to be paired with this meal?"
+        },
+        {
+            "message_id": 18,
+            "system_id": "0006",
+            "speaker": "Bot",
+            "message": "A medium-bodied red wine like Chianti or a light Pinot Noir pairs wonderfully with spaghetti and meatballs."
+        },
+        {
+            "message_id": 19,
+            "user_id": "0022",
+            "speaker": "Human",
+            "message": "I will take note of this, thank you for the interesting cooking recipe, I hope I can cook this and it taste delicious."
+        },
+        {
+            "message_id": 20,
+            "system_id": "0006",
+            "speaker": "Bot",
+            "message": "You're welcome! Cooking is a wonderful blend of art and science, and I'm sure your dish will turn out delicious. Enjoy your meal!"
+        }
+    ]
+}

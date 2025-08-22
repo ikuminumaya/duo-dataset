@@ -1,0 +1,167 @@
+{
+    "dialogue_id": "1011",
+    "setting": "wow",
+    "model": "gpt-4o",
+    "prompt": "aligned",
+    "topic": "Cat",
+    "objective_evaluation": {
+        "preference": 3.33,
+        "stylistic_similarity": 3.0,
+        "consistency": 4.33,
+        "engagingness": 3.67,
+        "preference_scores": [
+            4.0,
+            2.0,
+            4.0
+        ],
+        "stylistic_similarity_scores": [
+            4.0,
+            2.0,
+            3.0
+        ],
+        "consistency_scores": [
+            5.0,
+            3.0,
+            5.0
+        ],
+        "engagingness_scores": [
+            5.0,
+            2.0,
+            4.0
+        ]
+    },
+    "subjective_evaluation": {
+        "preference": 5.0,
+        "stylistic_similarity": 4.0,
+        "consistency": 5.0,
+        "engagingness": 5.0
+    },
+    "dialogue": [
+        {
+            "message_id": 0,
+            "system_id": "0007",
+            "speaker": "Bot",
+            "message": "Cats are fascinating creatures with sharp claws and teeth, quick reflexes, and an impressive ability to see in near darkness!"
+        },
+        {
+            "message_id": 1,
+            "user_id": "0022",
+            "speaker": "Human",
+            "message": "Can cats really see in the dark? Even pitch blackness?"
+        },
+        {
+            "message_id": 2,
+            "system_id": "0007",
+            "speaker": "Bot",
+            "message": "Cats can't see in complete darkness, but they do have excellent vision in low-light conditions."
+        },
+        {
+            "message_id": 3,
+            "user_id": "0022",
+            "speaker": "Human",
+            "message": "Oh interesting, I've seen them jump really how, how high can a cat jump?"
+        },
+        {
+            "message_id": 4,
+            "system_id": "0007",
+            "speaker": "Bot",
+            "message": "Cats can jump up to six times their body length, thanks to their strong, flexible bodies and quick reflexes."
+        },
+        {
+            "message_id": 5,
+            "user_id": "0022",
+            "speaker": "Human",
+            "message": "I meant how high, not how, my mistake. Anyway, do you know how high specifically in feet a cat can jump into the air?"
+        },
+        {
+            "message_id": 6,
+            "system_id": "0007",
+            "speaker": "Bot",
+            "message": "Cats can jump up to about six feet high, thanks to their strong and flexible bodies."
+        },
+        {
+            "message_id": 7,
+            "user_id": "0022",
+            "speaker": "Human",
+            "message": "Wow, that is impressive. I've also heard that a cat can always land on their feet, is this true or an urban myth?"
+        },
+        {
+            "message_id": 8,
+            "system_id": "0007",
+            "speaker": "Bot",
+            "message": "Cats have a remarkable ability to land on their feet due to their flexible bodies and quick reflexes, but it doesn't always work perfectly in every situation."
+        },
+        {
+            "message_id": 9,
+            "user_id": "0022",
+            "speaker": "Human",
+            "message": "Interesting, and their claws, how long do those get?"
+        },
+        {
+            "message_id": 10,
+            "system_id": "0007",
+            "speaker": "Bot",
+            "message": "Cats have sharp retractable claws that can vary in length, but they usually keep them well-maintained through scratching."
+        },
+        {
+            "message_id": 11,
+            "user_id": "0022",
+            "speaker": "Human",
+            "message": "I always see cats online massaging various things, I'm not sure what that is called, I think kneading. Do you know why they do that?"
+        },
+        {
+            "message_id": 12,
+            "system_id": "0007",
+            "speaker": "Bot",
+            "message": "Cats knead, or \"make biscuits,\" as a way to show comfort and contentment, often reminding them of nursing from their mothers."
+        },
+        {
+            "message_id": 13,
+            "user_id": "0022",
+            "speaker": "Human",
+            "message": "Oh, I didn't realize it was that meaningful to them, so a cat kneads on people's backs when they are happy. How old can cats live to be?"
+        },
+        {
+            "message_id": 14,
+            "system_id": "0007",
+            "speaker": "Bot",
+            "message": "Cats can live into their late teens or early twenties, with some even reaching 30 years or more!"
+        },
+        {
+            "message_id": 15,
+            "user_id": "0022",
+            "speaker": "Human",
+            "message": "That is crazy, a 30 year old cat seems insane. So they live longer than dogs. How large can a house cat get?"
+        },
+        {
+            "message_id": 16,
+            "system_id": "0007",
+            "speaker": "Bot",
+            "message": "House cats can vary in size, but some larger breeds can weigh up to 25 pounds or more."
+        },
+        {
+            "message_id": 17,
+            "user_id": "0022",
+            "speaker": "Human",
+            "message": "Oh, they don't weigh much, how many breeds of cats are there?"
+        },
+        {
+            "message_id": 18,
+            "system_id": "0007",
+            "speaker": "Bot",
+            "message": "There are more than seventy cat breeds recognized by various cat registries."
+        },
+        {
+            "message_id": 19,
+            "user_id": "0022",
+            "speaker": "Human",
+            "message": "That's more than I thought, do you know if cats are nocturnal?"
+        },
+        {
+            "message_id": 20,
+            "system_id": "0007",
+            "speaker": "Bot",
+            "message": "Cats are actually crepuscular, meaning they are most active during dawn and dusk."
+        }
+    ]
+}

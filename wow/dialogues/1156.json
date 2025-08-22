@@ -1,0 +1,141 @@
+{
+    "dialogue_id": "1156",
+    "setting": "wow",
+    "model": "Llama-3.1-70B-Instruct",
+    "prompt": "not_aligned",
+    "topic": "Clubbing (subculture)",
+    "subjective_evaluation": {
+        "preference": 5.0,
+        "stylistic_similarity": 4.0,
+        "consistency": 5.0,
+        "engagingness": 5.0
+    },
+    "dialogue": [
+        {
+            "message_id": 0,
+            "system_id": "0011",
+            "speaker": "Bot",
+            "message": "So, you wanna know about clubbing?"
+        },
+        {
+            "message_id": 1,
+            "user_id": "0007",
+            "speaker": "Human",
+            "message": "Sure.  What do you know about clubbing?"
+        },
+        {
+            "message_id": 2,
+            "system_id": "0011",
+            "speaker": "Bot",
+            "message": "It's a scene where people gather at nightclubs, festivals, and raves to socialize, dance, and listen to electronic dance music, often performed by DJs!"
+        },
+        {
+            "message_id": 3,
+            "user_id": "0007",
+            "speaker": "Human",
+            "message": "I used to love clubbing when I was younger, but I can't do it anymore.  "
+        },
+        {
+            "message_id": 4,
+            "system_id": "0011",
+            "speaker": "Bot",
+            "message": "Those late nights can be tough to keep up with as you get older, huh?"
+        },
+        {
+            "message_id": 5,
+            "user_id": "0007",
+            "speaker": "Human",
+            "message": "Yep.  The late nights are rough.  I also don't like having to yell over loud music in order to talk to people."
+        },
+        {
+            "message_id": 6,
+            "system_id": "0011",
+            "speaker": "Bot",
+            "message": "The loud music can be overwhelming, and it's hard to have a decent conversation when you're screaming over the beat."
+        },
+        {
+            "message_id": 7,
+            "user_id": "0007",
+            "speaker": "Human",
+            "message": "What are some of the most famous clubs in the world?"
+        },
+        {
+            "message_id": 8,
+            "system_id": "0011",
+            "speaker": "Bot",
+            "message": "I'm not aware of any specific super famous clubs, but I know some popular ones are usually in cities like Ibiza, Berlin, and Tokyo!"
+        },
+        {
+            "message_id": 9,
+            "user_id": "0007",
+            "speaker": "Human",
+            "message": "Clubbing in Tokyo sounds like fun.  I know a few people who have visited Japan.  They had a great time."
+        },
+        {
+            "message_id": 10,
+            "system_id": "0011",
+            "speaker": "Bot",
+            "message": "Yeah, Tokyo's club scene is supposed to be incredible, with a unique energy and some amazing DJs!"
+        },
+        {
+            "message_id": 11,
+            "user_id": "0007",
+            "speaker": "Human",
+            "message": "Do you know what type of music is popular in the Japanese clubs? "
+        },
+        {
+            "message_id": 12,
+            "system_id": "0011",
+            "speaker": "Bot",
+            "message": "From what I know, Japanese clubs often feature a mix of electronic dance music, like techno, trance, and house, but also some J-pop and J-rock influences!"
+        },
+        {
+            "message_id": 13,
+            "user_id": "0007",
+            "speaker": "Human",
+            "message": "Is Utada Hikaru a J-pop star? "
+        },
+        {
+            "message_id": 14,
+            "system_id": "0011",
+            "speaker": "Bot",
+            "message": "Utada Hikaru is actually a huge J-pop and J-rock star, and some of their songs might even get played in Tokyo clubs!"
+        },
+        {
+            "message_id": 15,
+            "user_id": "0007",
+            "speaker": "Human",
+            "message": "She's great.  I discovered Utada recently.  American radios don't really play her music. "
+        },
+        {
+            "message_id": 16,
+            "system_id": "0011",
+            "speaker": "Bot",
+            "message": "Yeah, that's true, J-pop and J-rock aren't always widely played on American radios, but Utada Hikaru's music is definitely worth checking out, even if you have to look beyond mainstream channels!"
+        },
+        {
+            "message_id": 17,
+            "user_id": "0007",
+            "speaker": "Human",
+            "message": "I hear there is a strong hip hop scene in Japanese clubs too. "
+        },
+        {
+            "message_id": 18,
+            "system_id": "0011",
+            "speaker": "Bot",
+            "message": "Japanese hip-hop has gained a lot of popularity in recent years, and you can definitely hear it in some Tokyo clubs, especially in areas like Shibuya and Harajuku!"
+        },
+        {
+            "message_id": 19,
+            "user_id": "0007",
+            "speaker": "Human",
+            "message": "Do famous DJs ever go to Tokyo nightclubs to play?"
+        },
+        {
+            "message_id": 20,
+            "system_id": "0011",
+            "speaker": "Bot",
+            "message": "Totally! Tokyo's clubs often host world-renowned DJs, and some even have residencies there, so you might catch a big-name DJ spinning tracks in a Tokyo club!"
+        }
+    ]
+}

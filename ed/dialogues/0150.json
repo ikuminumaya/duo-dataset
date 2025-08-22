@@ -1,0 +1,136 @@
+{
+    "dialogue_id": "0150",
+    "setting": "ed",
+    "model": "Llama-3.1-70B-Instruct",
+    "prompt": "not_aligned",
+    "emotion": "Furious",
+    "episode": "I was driving into a parking lot and another car decided to speed up behind me, pass me and swerve to get the parking space I was going to get.",
+    "subjective_evaluation": {
+        "preference": 3.0,
+        "stylistic_similarity": 3.0,
+        "consistency": 5.0,
+        "empathy": 3.0
+    },
+    "dialogue": [
+        {
+            "message_id": 0,
+            "user_id": "0022",
+            "speaker": "Human",
+            "message": "I was furious when I was driving to a business and was in the parking lot, when I spotted a space, but suddenly a car behind me decided to speed up, swerve pass me and dangerously park into my space with a risky turn."
+        },
+        {
+            "message_id": 1,
+            "system_id": "0005",
+            "speaker": "Bot",
+            "message": "That's infuriating! What a reckless driver!"
+        },
+        {
+            "message_id": 2,
+            "user_id": "0022",
+            "speaker": "Human",
+            "message": "Yes, they broke many laws and endangered everyone around them."
+        },
+        {
+            "message_id": 3,
+            "system_id": "0005",
+            "speaker": "Bot",
+            "message": "Unbelievable! Did you confront them?"
+        },
+        {
+            "message_id": 4,
+            "user_id": "0022",
+            "speaker": "Human",
+            "message": "I did, I verbally ridiculed their reckless behavior and told them it was insane driving all for a simply parking space."
+        },
+        {
+            "message_id": 5,
+            "system_id": "0005",
+            "speaker": "Bot",
+            "message": "Good for you! Hope they learned a lesson."
+        },
+        {
+            "message_id": 6,
+            "user_id": "0022",
+            "speaker": "Human",
+            "message": "I actually captured the whole thing on my dashcam video."
+        },
+        {
+            "message_id": 7,
+            "system_id": "0005",
+            "speaker": "Bot",
+            "message": "Perfect evidence! You should report them."
+        },
+        {
+            "message_id": 8,
+            "user_id": "0022",
+            "speaker": "Human",
+            "message": "That was the first thing I did as well, as I noticed a police car driving by shortly after."
+        },
+        {
+            "message_id": 9,
+            "system_id": "0005",
+            "speaker": "Bot",
+            "message": "Karma's quick! Did they get a ticket?"
+        },
+        {
+            "message_id": 10,
+            "user_id": "0022",
+            "speaker": "Human",
+            "message": "After I showed the officer this person's reckless driving, the officer decided to fine and ticket them."
+        },
+        {
+            "message_id": 11,
+            "system_id": "0005",
+            "speaker": "Bot",
+            "message": "Justice served!"
+        },
+        {
+            "message_id": 12,
+            "user_id": "0022",
+            "speaker": "Human",
+            "message": "Yea, it felt pretty good to see the law in action and to witness this person get what they deserved."
+        },
+        {
+            "message_id": 13,
+            "system_id": "0005",
+            "speaker": "Bot",
+            "message": "Sweet vindication!"
+        },
+        {
+            "message_id": 14,
+            "user_id": "0022",
+            "speaker": "Human",
+            "message": "It was very satisfying to have the law be so swift and for this stupid reckless driver get this fine and punishment."
+        },
+        {
+            "message_id": 15,
+            "system_id": "0005",
+            "speaker": "Bot",
+            "message": "Closure is sweet!"
+        },
+        {
+            "message_id": 16,
+            "user_id": "0022",
+            "speaker": "Human",
+            "message": "I hope it prevents such future incidents from occurring in the future and the driver thinks twice next time about how they should be driving responsibly."
+        },
+        {
+            "message_id": 17,
+            "system_id": "0005",
+            "speaker": "Bot",
+            "message": "A valuable lesson learned!"
+        },
+        {
+            "message_id": 18,
+            "user_id": "0022",
+            "speaker": "Human",
+            "message": "Well that is everything I had to say about this incident, thank you for listening and providing and outlet for my thoughts."
+        },
+        {
+            "message_id": 19,
+            "system_id": "0005",
+            "speaker": "Bot",
+            "message": "Glad I could listen!"
+        }
+    ]
+}

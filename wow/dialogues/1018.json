@@ -1,0 +1,167 @@
+{
+    "dialogue_id": "1018",
+    "setting": "wow",
+    "model": "gpt-4o",
+    "prompt": "not_aligned",
+    "topic": "Knitting",
+    "objective_evaluation": {
+        "preference": 4.0,
+        "stylistic_similarity": 2.67,
+        "consistency": 5.0,
+        "engagingness": 4.33,
+        "preference_scores": [
+            4.0,
+            5.0,
+            3.0
+        ],
+        "stylistic_similarity_scores": [
+            2.0,
+            4.0,
+            2.0
+        ],
+        "consistency_scores": [
+            5.0,
+            5.0,
+            5.0
+        ],
+        "engagingness_scores": [
+            4.0,
+            5.0,
+            4.0
+        ]
+    },
+    "subjective_evaluation": {
+        "preference": 4.0,
+        "stylistic_similarity": 4.0,
+        "consistency": 5.0,
+        "engagingness": 4.0
+    },
+    "dialogue": [
+        {
+            "message_id": 0,
+            "system_id": "0008",
+            "speaker": "Bot",
+            "message": "Knitting is a fascinating craft that involves creating textiles by forming loops of yarn with needles, allowing for a variety of textures and designs."
+        },
+        {
+            "message_id": 1,
+            "user_id": "0029",
+            "speaker": "Human",
+            "message": "What is the best way to learn to knit?"
+        },
+        {
+            "message_id": 2,
+            "system_id": "0008",
+            "speaker": "Bot",
+            "message": "A great way to learn knitting is to start with some basic stitches, like the knit and purl, using tutorial videos or beginner-friendly books to guide you through the process."
+        },
+        {
+            "message_id": 3,
+            "user_id": "0029",
+            "speaker": "Human",
+            "message": "What kind of needles should a beginner buy?"
+        },
+        {
+            "message_id": 4,
+            "system_id": "0008",
+            "speaker": "Bot",
+            "message": "For beginners, starting with medium-sized needles, like size 8 (5mm), is a good choice as they’re easier to handle and work well with worsted-weight yarn."
+        },
+        {
+            "message_id": 5,
+            "user_id": "0029",
+            "speaker": "Human",
+            "message": "What is a good project for a beginner?"
+        },
+        {
+            "message_id": 6,
+            "system_id": "0008",
+            "speaker": "Bot",
+            "message": "A simple scarf is a great beginner project, as it allows you to practice basic stitches and get comfortable with handling yarn and needles."
+        },
+        {
+            "message_id": 7,
+            "user_id": "0029",
+            "speaker": "Human",
+            "message": "How long yarn is necessary for a scarf?"
+        },
+        {
+            "message_id": 8,
+            "system_id": "0008",
+            "speaker": "Bot",
+            "message": "For a basic scarf, around 300-400 yards of worsted-weight yarn should be enough to get you started."
+        },
+        {
+            "message_id": 9,
+            "user_id": "0029",
+            "speaker": "Human",
+            "message": "What types of yarn are there?"
+        },
+        {
+            "message_id": 10,
+            "system_id": "0008",
+            "speaker": "Bot",
+            "message": "Yarn comes in various types, including different fibers, textures, and twists, which can affect the look and feel of your knitted projects."
+        },
+        {
+            "message_id": 11,
+            "user_id": "0029",
+            "speaker": "Human",
+            "message": "What kind of yarn is appropriate for a winter hat?"
+        },
+        {
+            "message_id": 12,
+            "system_id": "0008",
+            "speaker": "Bot",
+            "message": "For a cozy winter hat, wool yarn is a great choice due to its excellent heat retention properties."
+        },
+        {
+            "message_id": 13,
+            "user_id": "0029",
+            "speaker": "Human",
+            "message": "Is wool yarn harder for a beginner to use?"
+        },
+        {
+            "message_id": 14,
+            "system_id": "0008",
+            "speaker": "Bot",
+            "message": "Wool yarn can be a bit tricky for beginners because it can sometimes split or be more difficult to unravel if mistakes are made."
+        },
+        {
+            "message_id": 15,
+            "user_id": "0029",
+            "speaker": "Human",
+            "message": "A hat is more complicated than making a scarf?"
+        },
+        {
+            "message_id": 16,
+            "system_id": "0008",
+            "speaker": "Bot",
+            "message": "Knitting a hat is a bit more complex than a scarf because it involves shaping and possibly working in the round, but it's a rewarding challenge for beginners ready to try something new!"
+        },
+        {
+            "message_id": 17,
+            "user_id": "0029",
+            "speaker": "Human",
+            "message": "How many completed knitting projects does it take to get a good feel for the process?"
+        },
+        {
+            "message_id": 18,
+            "system_id": "0008",
+            "speaker": "Bot",
+            "message": "There's no set number of projects, but as you complete each one, you'll become more familiar with creating loops and stitches, and soon you'll gain confidence and skill in knitting!"
+        },
+        {
+            "message_id": 19,
+            "user_id": "0029",
+            "speaker": "Human",
+            "message": "How long does it take to make a scarf if I try to knit for at least a half an hour a day?"
+        },
+        {
+            "message_id": 20,
+            "system_id": "0008",
+            "speaker": "Bot",
+            "message": "It usually takes a few weeks to complete a scarf with consistent practice, like knitting for half an hour a day, depending on the complexity and your skill level."
+        }
+    ]
+}

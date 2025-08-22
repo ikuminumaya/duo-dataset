@@ -1,0 +1,141 @@
+{
+    "dialogue_id": "1125",
+    "setting": "wow",
+    "model": "Llama-3.1-70B-Instruct",
+    "prompt": "neutral",
+    "topic": "Coffee",
+    "subjective_evaluation": {
+        "preference": 5.0,
+        "stylistic_similarity": 5.0,
+        "consistency": 5.0,
+        "engagingness": 5.0
+    },
+    "dialogue": [
+        {
+            "message_id": 0,
+            "system_id": "0009",
+            "speaker": "Bot",
+            "message": "Let's talk about coffee, a popular drink enjoyed worldwide!"
+        },
+        {
+            "message_id": 1,
+            "user_id": "0021",
+            "speaker": "Human",
+            "message": "I use to drink coffee, now I drink tea"
+        },
+        {
+            "message_id": 2,
+            "system_id": "0009",
+            "speaker": "Bot",
+            "message": "What made you switch from coffee to tea?"
+        },
+        {
+            "message_id": 3,
+            "user_id": "0021",
+            "speaker": "Human",
+            "message": "I like something cold an refreshing with caffeine"
+        },
+        {
+            "message_id": 4,
+            "system_id": "0009",
+            "speaker": "Bot",
+            "message": "You might enjoy iced coffee then!"
+        },
+        {
+            "message_id": 5,
+            "user_id": "0021",
+            "speaker": "Human",
+            "message": "I may try it one day. Can you make iced coffee with instant coffee?"
+        },
+        {
+            "message_id": 6,
+            "system_id": "0009",
+            "speaker": "Bot",
+            "message": "Yes, you can, but it's better with brewed coffee or espresso for more flavor."
+        },
+        {
+            "message_id": 7,
+            "user_id": "0021",
+            "speaker": "Human",
+            "message": "That is the problem I have with coffee, to many steps."
+        },
+        {
+            "message_id": 8,
+            "system_id": "0009",
+            "speaker": "Bot",
+            "message": "Brewing coffee can be a process, but some methods are simpler than others, like a French press."
+        },
+        {
+            "message_id": 9,
+            "user_id": "0021",
+            "speaker": "Human",
+            "message": "how does a french press work?"
+        },
+        {
+            "message_id": 10,
+            "system_id": "0009",
+            "speaker": "Bot",
+            "message": "You add coarse coffee grounds to the press, pour hot water, and then press the grounds to the bottom to separate."
+        },
+        {
+            "message_id": 11,
+            "user_id": "0021",
+            "speaker": "Human",
+            "message": "sounds simple.With iced coffee, do you make it and add ice or store in the fridge for the next day?"
+        },
+        {
+            "message_id": 12,
+            "system_id": "0009",
+            "speaker": "Bot",
+            "message": "You can do either, but brewing a pot and chilling it in the fridge overnight is a popular way to make iced coffee."
+        },
+        {
+            "message_id": 13,
+            "user_id": "0021",
+            "speaker": "Human",
+            "message": "I may try it, but I do not know if I would like the taste."
+        },
+        {
+            "message_id": 14,
+            "system_id": "0009",
+            "speaker": "Bot",
+            "message": "Coffee taste can be quite different from tea, but you can try a small batch to see if you like it."
+        },
+        {
+            "message_id": 15,
+            "user_id": "0021",
+            "speaker": "Human",
+            "message": "so how much more caffeine in coffee over tea?"
+        },
+        {
+            "message_id": 16,
+            "system_id": "0009",
+            "speaker": "Bot",
+            "message": "Coffee generally has more caffeine than tea, but it depends on the type, arabica has less caffeine than robusta."
+        },
+        {
+            "message_id": 17,
+            "user_id": "0021",
+            "speaker": "Human",
+            "message": "one thing I do not like about coffee is the caffeine spike and then the crash."
+        },
+        {
+            "message_id": 18,
+            "system_id": "0009",
+            "speaker": "Bot",
+            "message": "The caffeine crash can be unpleasant, but Arabica beans have a smoother, more balanced caffeine release."
+        },
+        {
+            "message_id": 19,
+            "user_id": "0021",
+            "speaker": "Human",
+            "message": "what brands use Arabica beans?"
+        },
+        {
+            "message_id": 20,
+            "system_id": "0009",
+            "speaker": "Bot",
+            "message": "Many brands use Arabica beans, but I'm not familiar with specific brands, I just know it's a type of coffee bean."
+        }
+    ]
+}

@@ -1,0 +1,162 @@
+{
+    "dialogue_id": "0021",
+    "setting": "ed",
+    "model": "gpt-4o",
+    "prompt": "aligned",
+    "emotion": "Proud",
+    "episode": "I finished a Lego after I almost quit doing it.",
+    "objective_evaluation": {
+        "preference": 3.33,
+        "stylistic_similarity": 4.0,
+        "consistency": 5.0,
+        "empathy": 4.33,
+        "preference_scores": [
+            2.0,
+            3.0,
+            5.0
+        ],
+        "stylistic_similarity_scores": [
+            4.0,
+            3.0,
+            5.0
+        ],
+        "consistency_scores": [
+            5.0,
+            5.0,
+            5.0
+        ],
+        "empathy_scores": [
+            3.0,
+            5.0,
+            5.0
+        ]
+    },
+    "subjective_evaluation": {
+        "preference": 2.0,
+        "stylistic_similarity": 3.0,
+        "consistency": 5.0,
+        "empathy": 4.0
+    },
+    "dialogue": [
+        {
+            "message_id": 0,
+            "user_id": "0008",
+            "speaker": "Human",
+            "message": "I just finished doing a Lego that was pretty hard"
+        },
+        {
+            "message_id": 1,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "That's awesome! Feels great to complete a tough build, right?"
+        },
+        {
+            "message_id": 2,
+            "user_id": "0008",
+            "speaker": "Human",
+            "message": "Yeah, I was so close to quitting"
+        },
+        {
+            "message_id": 3,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "Glad you stuck with it! Feels awesome to finish."
+        },
+        {
+            "message_id": 4,
+            "user_id": "0008",
+            "speaker": "Human",
+            "message": "Thank you. I feel awesome"
+        },
+        {
+            "message_id": 5,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "No problem! You deserve it!"
+        },
+        {
+            "message_id": 6,
+            "user_id": "0008",
+            "speaker": "Human",
+            "message": "I haven't completed a Lego since  I was a kid"
+        },
+        {
+            "message_id": 7,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "That's so cool! Feels like being a kid again, right?"
+        },
+        {
+            "message_id": 8,
+            "user_id": "0008",
+            "speaker": "Human",
+            "message": "Yeah, I'm trying to feel like a kid again"
+        },
+        {
+            "message_id": 9,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "That's awesome! Keep it up!"
+        },
+        {
+            "message_id": 10,
+            "user_id": "0008",
+            "speaker": "Human",
+            "message": "I spend too much time doing adult stuff"
+        },
+        {
+            "message_id": 11,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "I get that. Adulting can be overwhelming!"
+        },
+        {
+            "message_id": 12,
+            "user_id": "0008",
+            "speaker": "Human",
+            "message": "I'm planning on buying more Legos now"
+        },
+        {
+            "message_id": 13,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "That's awesome! Have fun building!"
+        },
+        {
+            "message_id": 14,
+            "user_id": "0008",
+            "speaker": "Human",
+            "message": "I'm thinking of buying a bigger one but I'm worried"
+        },
+        {
+            "message_id": 15,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "No worries! Go for it!"
+        },
+        {
+            "message_id": 16,
+            "user_id": "0008",
+            "speaker": "Human",
+            "message": "Yeah, I want to prove it to myself"
+        },
+        {
+            "message_id": 17,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "You totally can! Go for it!"
+        },
+        {
+            "message_id": 18,
+            "user_id": "0008",
+            "speaker": "Human",
+            "message": "If I can complete this one, I can do any of them"
+        },
+        {
+            "message_id": 19,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "Absolutely! You got this!"
+        }
+    ]
+}

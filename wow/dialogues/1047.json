@@ -1,0 +1,141 @@
+{
+    "dialogue_id": "1047",
+    "setting": "wow",
+    "model": "gpt-4o",
+    "prompt": "neutral",
+    "topic": "The Beatles",
+    "subjective_evaluation": {
+        "preference": 5.0,
+        "stylistic_similarity": 4.0,
+        "consistency": 5.0,
+        "engagingness": 5.0
+    },
+    "dialogue": [
+        {
+            "message_id": 0,
+            "system_id": "0006",
+            "speaker": "Bot",
+            "message": "The Beatles, formed in Liverpool in 1960, became one of the most influential bands in history, with members John Lennon, Paul McCartney, George Harrison, and Ringo Starr."
+        },
+        {
+            "message_id": 1,
+            "user_id": "0025",
+            "speaker": "Human",
+            "message": "How did they all get started playing together?"
+        },
+        {
+            "message_id": 2,
+            "system_id": "0006",
+            "speaker": "Bot",
+            "message": "The Beatles started playing together in Liverpool and Hamburg, with John Lennon, Paul McCartney, and George Harrison initially, and later they invited Ringo Starr to join as their drummer in 1962."
+        },
+        {
+            "message_id": 3,
+            "user_id": "0025",
+            "speaker": "Human",
+            "message": "Did they go to school together or something? I wonder how they all met."
+        },
+        {
+            "message_id": 4,
+            "system_id": "0006",
+            "speaker": "Bot",
+            "message": "John Lennon and Paul McCartney met at a church fete in 1957, and they later invited George Harrison and eventually Ringo Starr to join the band, solidifying the lineup by 1962."
+        },
+        {
+            "message_id": 5,
+            "user_id": "0025",
+            "speaker": "Human",
+            "message": "If Ringo wasn't their first drummer, who was?"
+        },
+        {
+            "message_id": 6,
+            "system_id": "0006",
+            "speaker": "Bot",
+            "message": "Before Ringo Starr joined, Pete Best was the drummer for The Beatles."
+        },
+        {
+            "message_id": 7,
+            "user_id": "0025",
+            "speaker": "Human",
+            "message": "Did they kick him out of the band, or did he leave on his own accord?"
+        },
+        {
+            "message_id": 8,
+            "system_id": "0006",
+            "speaker": "Bot",
+            "message": "Pete Best was replaced by Ringo Starr in 1962, a decision made by the band's manager, Brian Epstein."
+        },
+        {
+            "message_id": 9,
+            "user_id": "0025",
+            "speaker": "Human",
+            "message": "That's a lot of power for the manager. I'll bet John and Paul had a lot of say in the matter!"
+        },
+        {
+            "message_id": 10,
+            "system_id": "0006",
+            "speaker": "Bot",
+            "message": "While Brian Epstein made the final decision, John Lennon and Paul McCartney were influential in the choice to replace Pete Best with Ringo Starr."
+        },
+        {
+            "message_id": 11,
+            "user_id": "0025",
+            "speaker": "Human",
+            "message": "What did Pete Best do after leaving the band?"
+        },
+        {
+            "message_id": 12,
+            "system_id": "0006",
+            "speaker": "Bot",
+            "message": "After leaving The Beatles, Pete Best formed his own band, the Pete Best Band, and later worked in various roles outside the music industry."
+        },
+        {
+            "message_id": 13,
+            "user_id": "0025",
+            "speaker": "Human",
+            "message": "Good for him. I hope he made some money on royalties too. "
+        },
+        {
+            "message_id": 14,
+            "system_id": "0006",
+            "speaker": "Bot",
+            "message": "While Pete Best didn't earn much from royalties, he did eventually receive some financial compensation from Beatles-related projects."
+        },
+        {
+            "message_id": 15,
+            "user_id": "0025",
+            "speaker": "Human",
+            "message": "That's better than nothing. How old was John when he died? I don't think I was even born yet."
+        },
+        {
+            "message_id": 16,
+            "system_id": "0006",
+            "speaker": "Bot",
+            "message": "John Lennon was 40 years old when he died in 1980."
+        },
+        {
+            "message_id": 17,
+            "user_id": "0025",
+            "speaker": "Human",
+            "message": "What a shame, was he still actively making music around the time he was killed?"
+        },
+        {
+            "message_id": 18,
+            "system_id": "0006",
+            "speaker": "Bot",
+            "message": "Yes, John Lennon had just released the album \"Double Fantasy\" in 1980, shortly before he was killed."
+        },
+        {
+            "message_id": 19,
+            "user_id": "0025",
+            "speaker": "Human",
+            "message": "Hmm, I'll have to give it a listen. What year did the Beatles break up?"
+        },
+        {
+            "message_id": 20,
+            "system_id": "0006",
+            "speaker": "Bot",
+            "message": "The Beatles officially broke up in 1970."
+        }
+    ]
+}

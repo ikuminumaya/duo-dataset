@@ -1,0 +1,162 @@
+{
+    "dialogue_id": "0007",
+    "setting": "ed",
+    "model": "gpt-4o",
+    "prompt": "neutral",
+    "emotion": "Ashamed",
+    "episode": "I recently gave a presentation which I felt wasn't my best work.  I prepared, but my nervousness just got the better of me.  I felt ashamed afterwards.",
+    "objective_evaluation": {
+        "preference": 4.33,
+        "stylistic_similarity": 4.0,
+        "consistency": 4.67,
+        "empathy": 4.33,
+        "preference_scores": [
+            4.0,
+            4.0,
+            5.0
+        ],
+        "stylistic_similarity_scores": [
+            4.0,
+            4.0,
+            4.0
+        ],
+        "consistency_scores": [
+            4.0,
+            5.0,
+            5.0
+        ],
+        "empathy_scores": [
+            4.0,
+            4.0,
+            5.0
+        ]
+    },
+    "subjective_evaluation": {
+        "preference": 1.0,
+        "stylistic_similarity": 1.0,
+        "consistency": 5.0,
+        "empathy": 2.0
+    },
+    "dialogue": [
+        {
+            "message_id": 0,
+            "user_id": "0007",
+            "speaker": "Human",
+            "message": "I recently gave a presentation at work.  It really didn't go well.  I felt ashamed after the meeting. "
+        },
+        {
+            "message_id": 1,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "I'm sorry to hear that. It's tough when things don't go as planned."
+        },
+        {
+            "message_id": 2,
+            "user_id": "0007",
+            "speaker": "Human",
+            "message": "I gave the presentation in front of a number of heads of other offices.  I prepared very well.  However, my nerves got the better of me."
+        },
+        {
+            "message_id": 3,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "That sounds really tough, but it's understandable to feel nervous."
+        },
+        {
+            "message_id": 4,
+            "user_id": "0007",
+            "speaker": "Human",
+            "message": "I don't know why, but my nerves were out of control.  I normally don't get like this so it shocked me."
+        },
+        {
+            "message_id": 5,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "It's okay, it happens to everyone sometimes."
+        },
+        {
+            "message_id": 6,
+            "user_id": "0007",
+            "speaker": "Human",
+            "message": "How do you think I could better control my nerves in the future?"
+        },
+        {
+            "message_id": 7,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "Practice deep breathing or visualization techniques."
+        },
+        {
+            "message_id": 8,
+            "user_id": "0007",
+            "speaker": "Human",
+            "message": "I see.  Can you give me an example of visualization techniques?  I am not familiar with them."
+        },
+        {
+            "message_id": 9,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "Imagine yourself giving a successful presentation."
+        },
+        {
+            "message_id": 10,
+            "user_id": "0007",
+            "speaker": "Human",
+            "message": "That sounds very simple.  How long do I need to do this?"
+        },
+        {
+            "message_id": 11,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "Just a few minutes each day leading up to the presentation."
+        },
+        {
+            "message_id": 12,
+            "user_id": "0007",
+            "speaker": "Human",
+            "message": "That sounds easy to do.  I can sacrifice a few minutes out of my day for better performance.  Do I need to combine the deep breathing with the visualization techniques?"
+        },
+        {
+            "message_id": 13,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "Yes, combining them can enhance the effect."
+        },
+        {
+            "message_id": 14,
+            "user_id": "0007",
+            "speaker": "Human",
+            "message": "Are there any studies that show that visualization techniques work?"
+        },
+        {
+            "message_id": 15,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "Yes, many athletes use them for performance improvement."
+        },
+        {
+            "message_id": 16,
+            "user_id": "0007",
+            "speaker": "Human",
+            "message": "Now that you say that, I think I have heard of some athletes who use these visualization techniques.  I wonder if I need to talk to my doctor about my anxiety as well."
+        },
+        {
+            "message_id": 17,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "It could be helpful to discuss it with your doctor."
+        },
+        {
+            "message_id": 18,
+            "user_id": "0007",
+            "speaker": "Human",
+            "message": "I don't like to take medication, but I would be willing to do it to avoid the performance that I had.  I still feel a sense of shame thinking about my performance. "
+        },
+        {
+            "message_id": 19,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "It's understandable, but remember, we all have off days."
+        }
+    ]
+}

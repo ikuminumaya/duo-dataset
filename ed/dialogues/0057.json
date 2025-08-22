@@ -1,0 +1,136 @@
+{
+    "dialogue_id": "0057",
+    "setting": "ed",
+    "model": "gpt-4o",
+    "prompt": "neutral",
+    "emotion": "Devastated",
+    "episode": "I learned that my favorite teacher from high school passed away. I was devastated.",
+    "subjective_evaluation": {
+        "preference": 4.0,
+        "stylistic_similarity": 4.0,
+        "consistency": 5.0,
+        "empathy": 5.0
+    },
+    "dialogue": [
+        {
+            "message_id": 0,
+            "user_id": "0029",
+            "speaker": "Human",
+            "message": "I learned that my favorite teacher from high school passed away. I was devastated. "
+        },
+        {
+            "message_id": 1,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "I'm so sorry to hear that. Losing someone important is really hard."
+        },
+        {
+            "message_id": 2,
+            "user_id": "0029",
+            "speaker": "Human",
+            "message": "She has a long illness. She was, however, still young. "
+        },
+        {
+            "message_id": 3,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "That's heartbreaking. It's tough when someone goes too soon."
+        },
+        {
+            "message_id": 4,
+            "user_id": "0029",
+            "speaker": "Human",
+            "message": "Yes. It is tough. I hope her family is okay. This was devastating news to hear. I was not expecting it. I heard she was getting better. "
+        },
+        {
+            "message_id": 5,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "It's really hard when things happen unexpectedly. I'm here for you."
+        },
+        {
+            "message_id": 6,
+            "user_id": "0029",
+            "speaker": "Human",
+            "message": "Thank you. It was sad to think that her life was cut short and she had so much more to live for."
+        },
+        {
+            "message_id": 7,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "It's truly unfair."
+        },
+        {
+            "message_id": 8,
+            "user_id": "0029",
+            "speaker": "Human",
+            "message": "It makes me think about the fragility of life. "
+        },
+        {
+            "message_id": 9,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "Absolutely. Life can be unpredictable."
+        },
+        {
+            "message_id": 10,
+            "user_id": "0029",
+            "speaker": "Human",
+            "message": "Life can be much too short."
+        },
+        {
+            "message_id": 11,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "It really can be."
+        },
+        {
+            "message_id": 12,
+            "user_id": "0029",
+            "speaker": "Human",
+            "message": "It is important to cherish people while they are here"
+        },
+        {
+            "message_id": 13,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "Definitely."
+        },
+        {
+            "message_id": 14,
+            "user_id": "0029",
+            "speaker": "Human",
+            "message": "I tried to convey to her when I last saw her how she was a big part of my life. I hope she took it to heart."
+        },
+        {
+            "message_id": 15,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "I'm sure she did."
+        },
+        {
+            "message_id": 16,
+            "user_id": "0029",
+            "speaker": "Human",
+            "message": "I can only hope that she was not in a lot of pain"
+        },
+        {
+            "message_id": 17,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "I hope so too."
+        },
+        {
+            "message_id": 18,
+            "user_id": "0029",
+            "speaker": "Human",
+            "message": "I hope she knew that she was beloved"
+        },
+        {
+            "message_id": 19,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "I'm sure she did."
+        }
+    ]
+}

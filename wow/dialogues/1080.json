@@ -1,0 +1,141 @@
+{
+    "dialogue_id": "1080",
+    "setting": "wow",
+    "model": "gpt-4o",
+    "prompt": "aligned",
+    "topic": "University of Alabama",
+    "subjective_evaluation": {
+        "preference": 3.0,
+        "stylistic_similarity": 3.0,
+        "consistency": 3.0,
+        "engagingness": 3.0
+    },
+    "dialogue": [
+        {
+            "message_id": 0,
+            "system_id": "0007",
+            "speaker": "Bot",
+            "message": "The University of Alabama, founded in 1820, is the oldest public university in the state and is known for its rich history and strong academic programs."
+        },
+        {
+            "message_id": 1,
+            "user_id": "0007",
+            "speaker": "Human",
+            "message": "Does the University of Alabama have a business school?"
+        },
+        {
+            "message_id": 2,
+            "system_id": "0007",
+            "speaker": "Bot",
+            "message": "Yes, the University of Alabama does have a business school, known as the Culverhouse College of Business."
+        },
+        {
+            "message_id": 3,
+            "user_id": "0007",
+            "speaker": "Human",
+            "message": "What is the Culverhouse College of Business ranking amongst other business schools?"
+        },
+        {
+            "message_id": 4,
+            "system_id": "0007",
+            "speaker": "Bot",
+            "message": "While I don't have specific rankings right now, the Culverhouse College of Business is well-regarded for its academic programs and contributions."
+        },
+        {
+            "message_id": 5,
+            "user_id": "0007",
+            "speaker": "Human",
+            "message": "What's the most popular major at the University of Alabama?"
+        },
+        {
+            "message_id": 6,
+            "system_id": "0007",
+            "speaker": "Bot",
+            "message": "The University of Alabama offers a wide range of popular majors, including programs in business, engineering, and communication."
+        },
+        {
+            "message_id": 7,
+            "user_id": "0007",
+            "speaker": "Human",
+            "message": "Interesting.  How many students go to the University of Alabama?"
+        },
+        {
+            "message_id": 8,
+            "system_id": "0007",
+            "speaker": "Bot",
+            "message": "The University of Alabama is the largest public university in the state."
+        },
+        {
+            "message_id": 9,
+            "user_id": "0007",
+            "speaker": "Human",
+            "message": "I see.  Do you know who started the University of Alabama?"
+        },
+        {
+            "message_id": 10,
+            "system_id": "0007",
+            "speaker": "Bot",
+            "message": "The University of Alabama was founded in 1820 and is the oldest public university in the state."
+        },
+        {
+            "message_id": 11,
+            "user_id": "0007",
+            "speaker": "Human",
+            "message": "The University of Alabama has seen a lot of changes in its lifetime.  It was created before the Civil War.  "
+        },
+        {
+            "message_id": 12,
+            "system_id": "0007",
+            "speaker": "Bot",
+            "message": "Yeah, the University of Alabama has been around since before the Civil War and played a big role during both that and the Civil Rights Movement."
+        },
+        {
+            "message_id": 13,
+            "user_id": "0007",
+            "speaker": "Human",
+            "message": "What role did the university play in the Civil Rights movement?"
+        },
+        {
+            "message_id": 14,
+            "system_id": "0007",
+            "speaker": "Bot",
+            "message": "During the Civil Rights Movement, the University of Alabama was notably involved when Governor George Wallace attempted to block the enrollment of African American students, which became a pivotal moment in the movement."
+        },
+        {
+            "message_id": 15,
+            "user_id": "0007",
+            "speaker": "Human",
+            "message": "Wow.  Did George Wallace ever apologize for his actions? "
+        },
+        {
+            "message_id": 16,
+            "system_id": "0007",
+            "speaker": "Bot",
+            "message": "Yes, George Wallace did eventually apologize for his actions later in life."
+        },
+        {
+            "message_id": 17,
+            "user_id": "0007",
+            "speaker": "Human",
+            "message": "That's good.  Does the University of Alabama have a medical school?"
+        },
+        {
+            "message_id": 18,
+            "system_id": "0007",
+            "speaker": "Bot",
+            "message": "The University of Alabama doesn't have a medical school, but it does have unique programs in areas like metallurgy and social work."
+        },
+        {
+            "message_id": 19,
+            "user_id": "0007",
+            "speaker": "Human",
+            "message": "Can you describe what metallurgy is to me?  Does it have to do with minerals in the earth?"
+        },
+        {
+            "message_id": 20,
+            "system_id": "0007",
+            "speaker": "Bot",
+            "message": "Metallurgy is the study of metals and their properties, which often involves working with minerals from the earth."
+        }
+    ]
+}

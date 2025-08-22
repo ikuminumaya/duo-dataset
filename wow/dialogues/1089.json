@@ -1,0 +1,147 @@
+{
+    "dialogue_id": "1089",
+    "setting": "wow",
+    "model": "gpt-4o",
+    "prompt": "not_aligned",
+    "topic": "Alcoholism",
+    "subjective_evaluation": {
+        "preference": 3.0,
+        "stylistic_similarity": 3.0,
+        "consistency": 4.0,
+        "engagingness": 3.0
+    },
+    "dialogue": [
+        {
+            "message_id": 0,
+            "system_id": "0008",
+            "speaker": "Bot",
+            "message": "Alcoholism, or alcohol use disorder, involves drinking that leads to various mental or physical health issues, affecting the brain, heart, liver, and more."
+        },
+        {
+            "message_id": 1,
+            "user_id": "0038",
+            "speaker": "Human",
+            "message": "If I wanted to learn how to throw lightning, could you teach me?"
+        },
+        {
+            "message_id": 2,
+            "system_id": "0008",
+            "speaker": "Bot",
+            "message": "Drinking large amounts over a long time or in risky situations can lead to serious health problems and is considered excessive."
+        },
+        {
+            "message_id": 3,
+            "user_id": "0038",
+            "speaker": "Human",
+            "message": "How much drinking is likely to cause those sort of health issues? What's an excessive amount?"
+        },
+        {
+            "message_id": 4,
+            "system_id": "0008",
+            "speaker": "Bot",
+            "message": "Excessive drinking is often defined as consuming large amounts over a long period, especially when it leads to health or social problems."
+        },
+        {
+            "message_id": 5,
+            "user_id": "0038",
+            "speaker": "Human",
+            "message": "Right, but how much is a large amount?"
+        },
+        {
+            "message_id": 6,
+            "system_id": "0008",
+            "speaker": "Bot",
+            "message": "Excessive drinking often involves having difficulty cutting down, drinking in risky situations like driving, or facing health and social issues from alcohol use."
+        },
+        {
+            "message_id": 7,
+            "user_id": "0038",
+            "speaker": "Human",
+            "message": "That's not very specific"
+        },
+        {
+            "message_id": 8,
+            "system_id": "0008",
+            "speaker": "Bot",
+            "message": "Yes, it's often about the inability to moderate, but also drinking large amounts over a long time and facing issues like health or social problems."
+        },
+        {
+            "message_id": 9,
+            "user_id": "0038",
+            "speaker": "Human",
+            "message": "So the inability to moderate your drinking is what makes it excessive, rather than any specific amount?"
+        },
+        {
+            "message_id": 10,
+            "system_id": "0008",
+            "speaker": "Bot",
+            "message": "Drinking a beer or a glass of wine a day is generally considered moderate, but a six-pack daily can lead to health risks and may be excessive."
+        },
+        {
+            "message_id": 11,
+            "user_id": "0038",
+            "speaker": "Human",
+            "message": "Is a beer a day a large amount? A six pack? A bottle of wine?"
+        },
+        {
+            "message_id": 12,
+            "system_id": "0008",
+            "speaker": "Bot",
+            "message": "Alcohol use can affect various parts of the body, leading to issues like mental illness, liver damage, and increased cancer risk."
+        },
+        {
+            "message_id": 13,
+            "user_id": "0038",
+            "speaker": "Human",
+            "message": "Ok I think I get it. Can you tell me more about the health risks?"
+        },
+        {
+            "message_id": 14,
+            "system_id": "0008",
+            "speaker": "Bot",
+            "message": "Signs of liver damage from alcoholism can include jaundice, abdominal pain, and swelling, as well as fatigue and confusion."
+        },
+        {
+            "message_id": 15,
+            "user_id": "0038",
+            "speaker": "Human",
+            "message": "What are signs of liver damage from alcoholism?"
+        },
+        {
+            "message_id": 16,
+            "system_id": "0008",
+            "speaker": "Bot",
+            "message": "Jaundice is a condition where the skin and eyes turn yellow due to a buildup of bilirubin, often linked to liver damage."
+        },
+        {
+            "message_id": 17,
+            "user_id": "0038",
+            "speaker": "Human",
+            "message": "What's jaundice?"
+        },
+        {
+            "message_id": 18,
+            "system_id": "0008",
+            "speaker": "Bot",
+            "message": "Yes, it can be quite unpleasant, and liver damage from alcohol can also lead to even more serious conditions like cirrhosis."
+        },
+        {
+            "message_id": 19,
+            "user_id": "0038",
+            "speaker": "Human",
+            "message": "That sounds unpleasant"
+        },
+        {
+            "message_id": 20,
+            "system_id": "0008",
+            "speaker": "Bot",
+            "message": "Cirrhosis is a serious liver condition where healthy tissue is replaced with scar tissue, often due to long-term alcohol abuse."
+        },
+        {
+            "message_id": 21,
+            "user_id": "0038",
+            "speaker": "Human",
+            "message": "What's that?"
+        }
+    ]
+}

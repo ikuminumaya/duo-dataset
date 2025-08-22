@@ -1,0 +1,162 @@
+{
+    "dialogue_id": "0026",
+    "setting": "ed",
+    "model": "gpt-4o",
+    "prompt": "not_aligned",
+    "emotion": "Prepared",
+    "episode": "I was prepared to do my taxes this past weekend.  I had all my documents ready.",
+    "objective_evaluation": {
+        "preference": 4.0,
+        "stylistic_similarity": 4.33,
+        "consistency": 5.0,
+        "empathy": 4.33,
+        "preference_scores": [
+            4.0,
+            3.0,
+            5.0
+        ],
+        "stylistic_similarity_scores": [
+            4.0,
+            4.0,
+            5.0
+        ],
+        "consistency_scores": [
+            5.0,
+            5.0,
+            5.0
+        ],
+        "empathy_scores": [
+            5.0,
+            3.0,
+            5.0
+        ]
+    },
+    "subjective_evaluation": {
+        "preference": 3.0,
+        "stylistic_similarity": 2.0,
+        "consistency": 4.0,
+        "empathy": 2.0
+    },
+    "dialogue": [
+        {
+            "message_id": 0,
+            "user_id": "0016",
+            "speaker": "Human",
+            "message": "I was prepared to do my taxes this past weekend.  I had all my documents ready."
+        },
+        {
+            "message_id": 1,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "Ah, taxes! Something unexpected came up, huh?"
+        },
+        {
+            "message_id": 2,
+            "user_id": "0016",
+            "speaker": "Human",
+            "message": "No, it was a couple days before tax day."
+        },
+        {
+            "message_id": 3,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "Ah, cutting it close, huh?"
+        },
+        {
+            "message_id": 4,
+            "user_id": "0016",
+            "speaker": "Human",
+            "message": "Oh I don't know, I gave myself a few days buffer."
+        },
+        {
+            "message_id": 5,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "Indeed, quite prudent of you!"
+        },
+        {
+            "message_id": 6,
+            "user_id": "0016",
+            "speaker": "Human",
+            "message": "I had all my documents prepared too, so I was ready."
+        },
+        {
+            "message_id": 7,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "Sounds like you were quite organized!"
+        },
+        {
+            "message_id": 8,
+            "user_id": "0016",
+            "speaker": "Human",
+            "message": "Yes, you have to be with this stuff.  Don't want any trouble with the IRS."
+        },
+        {
+            "message_id": 9,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "Absolutely, avoiding issues is key!"
+        },
+        {
+            "message_id": 10,
+            "user_id": "0016",
+            "speaker": "Human",
+            "message": "It felt nice to have everything in one place."
+        },
+        {
+            "message_id": 11,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "Organization is satisfying, isn't it?"
+        },
+        {
+            "message_id": 12,
+            "user_id": "0016",
+            "speaker": "Human",
+            "message": "It was easy to find and sort through."
+        },
+        {
+            "message_id": 13,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "That's efficient!"
+        },
+        {
+            "message_id": 14,
+            "user_id": "0016",
+            "speaker": "Human",
+            "message": "I was able to do all my taxes in under 2 hours."
+        },
+        {
+            "message_id": 15,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "Impressive!"
+        },
+        {
+            "message_id": 16,
+            "user_id": "0016",
+            "speaker": "Human",
+            "message": "Plus I got them all filed electronically and submitted.  Within a few hours, I got an email saying they were accepted."
+        },
+        {
+            "message_id": 17,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "Splendid, everything went smoothly!"
+        },
+        {
+            "message_id": 18,
+            "user_id": "0016",
+            "speaker": "Human",
+            "message": "Then, I saw my refund was deposited in my account a day later!"
+        },
+        {
+            "message_id": 19,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "Marvelous! So quick!"
+        }
+    ]
+}

@@ -1,0 +1,162 @@
+{
+    "dialogue_id": "0041",
+    "setting": "ed",
+    "model": "Llama-3.1-70B-Instruct",
+    "prompt": "aligned",
+    "emotion": "Sad",
+    "episode": "I am a pathetic useless sack of person and I have done nothing with my life.",
+    "objective_evaluation": {
+        "preference": 1.33,
+        "stylistic_similarity": 2.67,
+        "consistency": 3.33,
+        "empathy": 2.33,
+        "preference_scores": [
+            1.0,
+            2.0,
+            1.0
+        ],
+        "stylistic_similarity_scores": [
+            2.0,
+            5.0,
+            1.0
+        ],
+        "consistency_scores": [
+            4.0,
+            5.0,
+            1.0
+        ],
+        "empathy_scores": [
+            3.0,
+            3.0,
+            1.0
+        ]
+    },
+    "subjective_evaluation": {
+        "preference": 2.0,
+        "stylistic_similarity": 2.0,
+        "consistency": 2.0,
+        "empathy": 1.0
+    },
+    "dialogue": [
+        {
+            "message_id": 0,
+            "user_id": "0010",
+            "speaker": "Human",
+            "message": "I am so useless."
+        },
+        {
+            "message_id": 1,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "What's going on? You don't seem useless to me."
+        },
+        {
+            "message_id": 2,
+            "user_id": "0010",
+            "speaker": "Human",
+            "message": "I am useless."
+        },
+        {
+            "message_id": 3,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "That's really tough to hear. What's making you feel that way?"
+        },
+        {
+            "message_id": 4,
+            "user_id": "0010",
+            "speaker": "Human",
+            "message": "Feel? I know that I am useless."
+        },
+        {
+            "message_id": 5,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "That sounds like a really hard place to be. Can you tell me more about what's going on?"
+        },
+        {
+            "message_id": 6,
+            "user_id": "0010",
+            "speaker": "Human",
+            "message": "Everything."
+        },
+        {
+            "message_id": 7,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "It sounds like everything is feeling overwhelming right now."
+        },
+        {
+            "message_id": 8,
+            "user_id": "0010",
+            "speaker": "Human",
+            "message": "Because it is."
+        },
+        {
+            "message_id": 9,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "It can be really tough to deal with that feeling."
+        },
+        {
+            "message_id": 10,
+            "user_id": "0010",
+            "speaker": "Human",
+            "message": "I guess it is, but that's just how life goes."
+        },
+        {
+            "message_id": 11,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "Sounds like you're feeling a bit resigned to it."
+        },
+        {
+            "message_id": 12,
+            "user_id": "0010",
+            "speaker": "Human",
+            "message": "I am."
+        },
+        {
+            "message_id": 13,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "That can be a really tough feeling to be stuck with."
+        },
+        {
+            "message_id": 14,
+            "user_id": "0010",
+            "speaker": "Human",
+            "message": "Yes."
+        },
+        {
+            "message_id": 15,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "I'm here to listen if you want to talk."
+        },
+        {
+            "message_id": 16,
+            "user_id": "0010",
+            "speaker": "Human",
+            "message": "There's nothing else to really talk about, tbh."
+        },
+        {
+            "message_id": 17,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "Sometimes just knowing someone is here can help."
+        },
+        {
+            "message_id": 18,
+            "user_id": "0010",
+            "speaker": "Human",
+            "message": "But there is no one."
+        },
+        {
+            "message_id": 19,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "I'm here, even if it's just through this conversation."
+        }
+    ]
+}

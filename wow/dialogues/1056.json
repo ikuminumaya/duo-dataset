@@ -1,0 +1,141 @@
+{
+    "dialogue_id": "1056",
+    "setting": "wow",
+    "model": "gpt-4o",
+    "prompt": "neutral",
+    "topic": "Soup kitchen",
+    "subjective_evaluation": {
+        "preference": 3.0,
+        "stylistic_similarity": 4.0,
+        "consistency": 5.0,
+        "engagingness": 3.0
+    },
+    "dialogue": [
+        {
+            "message_id": 0,
+            "system_id": "0006",
+            "speaker": "Bot",
+            "message": "Soup kitchens are places where food is provided to the hungry, often for free, and are usually staffed by volunteers from community or church groups."
+        },
+        {
+            "message_id": 1,
+            "user_id": "0034",
+            "speaker": "Human",
+            "message": "Do they have to prove they are in need?"
+        },
+        {
+            "message_id": 2,
+            "system_id": "0006",
+            "speaker": "Bot",
+            "message": "Typically, people do not have to prove they are in need to receive food at a soup kitchen, as they aim to provide accessible help to anyone who needs it."
+        },
+        {
+            "message_id": 3,
+            "user_id": "0034",
+            "speaker": "Human",
+            "message": "Where do they find the volunteers?"
+        },
+        {
+            "message_id": 4,
+            "system_id": "0006",
+            "speaker": "Bot",
+            "message": "Volunteers for soup kitchens often come from community groups, churches, and sometimes are individuals who are simply looking to give back to their community."
+        },
+        {
+            "message_id": 5,
+            "user_id": "0034",
+            "speaker": "Human",
+            "message": "Where does the food come from?"
+        },
+        {
+            "message_id": 6,
+            "system_id": "0006",
+            "speaker": "Bot",
+            "message": "Soup kitchens often obtain food from food banks, which provide supplies for free or at a low price because they are considered charitable organizations."
+        },
+        {
+            "message_id": 7,
+            "user_id": "0034",
+            "speaker": "Human",
+            "message": "Do they only serve soup?"
+        },
+        {
+            "message_id": 8,
+            "system_id": "0006",
+            "speaker": "Bot",
+            "message": "Although traditionally some served only soup, many modern soup kitchens provide a variety of hot meals."
+        },
+        {
+            "message_id": 9,
+            "user_id": "0034",
+            "speaker": "Human",
+            "message": "Do they just serve one meal a day?"
+        },
+        {
+            "message_id": 10,
+            "system_id": "0006",
+            "speaker": "Bot",
+            "message": "Soup kitchens can serve one or multiple meals a day, depending on their resources and the needs of the community."
+        },
+        {
+            "message_id": 11,
+            "user_id": "0034",
+            "speaker": "Human",
+            "message": "Do they also offer cots for sleeping?"
+        },
+        {
+            "message_id": 12,
+            "system_id": "0006",
+            "speaker": "Bot",
+            "message": "Soup kitchens typically focus on providing meals rather than shelter, so they usually do not offer cots for sleeping."
+        },
+        {
+            "message_id": 13,
+            "user_id": "0034",
+            "speaker": "Human",
+            "message": "Do they offer any other type of assistance?"
+        },
+        {
+            "message_id": 14,
+            "system_id": "0006",
+            "speaker": "Bot",
+            "message": "Besides meals, some soup kitchens may also offer referrals to other social services for additional assistance."
+        },
+        {
+            "message_id": 15,
+            "user_id": "0034",
+            "speaker": "Human",
+            "message": "Do they ever do a Thanksgiving dinner with turkey and the fixings?"
+        },
+        {
+            "message_id": 16,
+            "system_id": "0006",
+            "speaker": "Bot",
+            "message": "Yes, many soup kitchens host special meals like Thanksgiving dinners with turkey and all the fixings to provide a festive meal for those in need."
+        },
+        {
+            "message_id": 17,
+            "user_id": "0034",
+            "speaker": "Human",
+            "message": "Do celebrities ever help at soup kitchens in secret"
+        },
+        {
+            "message_id": 18,
+            "system_id": "0006",
+            "speaker": "Bot",
+            "message": "Yes, there are instances where celebrities volunteer at soup kitchens, sometimes choosing to do so quietly to avoid drawing attention."
+        },
+        {
+            "message_id": 19,
+            "user_id": "0034",
+            "speaker": "Human",
+            "message": "Can people donate to soup kitchens?"
+        },
+        {
+            "message_id": 20,
+            "system_id": "0006",
+            "speaker": "Bot",
+            "message": "Yes, people can donate to soup kitchens, often through monetary contributions, food donations, or by volunteering their time."
+        }
+    ]
+}

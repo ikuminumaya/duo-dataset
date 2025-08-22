@@ -1,0 +1,141 @@
+{
+    "dialogue_id": "1086",
+    "setting": "wow",
+    "model": "gpt-4o",
+    "prompt": "not_aligned",
+    "topic": "Chocolate chip cookie",
+    "subjective_evaluation": {
+        "preference": 2.0,
+        "stylistic_similarity": 3.0,
+        "consistency": 3.0,
+        "engagingness": 1.0
+    },
+    "dialogue": [
+        {
+            "message_id": 0,
+            "system_id": "0008",
+            "speaker": "Bot",
+            "message": "Did you know the chocolate chip cookie was actually invented on purpose in 1938 by Ruth Graves Wakefield at the Toll House Inn?"
+        },
+        {
+            "message_id": 1,
+            "user_id": "0001",
+            "speaker": "Human",
+            "message": "What was the purpose?"
+        },
+        {
+            "message_id": 2,
+            "system_id": "0008",
+            "speaker": "Bot",
+            "message": "Ruth Graves Wakefield created the chocolate chip cookie on purpose while running the Toll House Inn because she wanted a new dessert to serve with ice cream."
+        },
+        {
+            "message_id": 3,
+            "user_id": "0001",
+            "speaker": "Human",
+            "message": "I'm actually not a big fan of the chocolate chip cookie but I do like other cookies."
+        },
+        {
+            "message_id": 4,
+            "system_id": "0008",
+            "speaker": "Bot",
+            "message": "No worries, there are so many other delicious cookie options out there, like oatmeal raisin or peanut butter cookies!"
+        },
+        {
+            "message_id": 5,
+            "user_id": "0001",
+            "speaker": "Human",
+            "message": "Can you make a list ordering cookies by popularity?"
+        },
+        {
+            "message_id": 6,
+            "system_id": "0008",
+            "speaker": "Bot",
+            "message": "While the chocolate chip cookie is a classic favorite, other popular cookies include oatmeal raisin, peanut butter, and snickerdoodle."
+        },
+        {
+            "message_id": 7,
+            "user_id": "0001",
+            "speaker": "Human",
+            "message": "What does the snickerdoodle taste like?"
+        },
+        {
+            "message_id": 8,
+            "system_id": "0008",
+            "speaker": "Bot",
+            "message": "A snickerdoodle has a buttery, sweet flavor with a hint of cinnamon, making it a cozy and satisfying treat!"
+        },
+        {
+            "message_id": 9,
+            "user_id": "0001",
+            "speaker": "Human",
+            "message": "How many calories on average does each cookie type have?"
+        },
+        {
+            "message_id": 10,
+            "system_id": "0008",
+            "speaker": "Bot",
+            "message": "While I don't have specific calorie counts, chocolate chip cookies can vary based on ingredients, but they’re generally similar to other buttery, sugary cookies."
+        },
+        {
+            "message_id": 11,
+            "user_id": "0001",
+            "speaker": "Human",
+            "message": "You don't know the average calorie of a chocolate chip cookie?"
+        },
+        {
+            "message_id": 12,
+            "system_id": "0008",
+            "speaker": "Bot",
+            "message": "A typical chocolate chip cookie has about 150-200 calories, depending on size and ingredients."
+        },
+        {
+            "message_id": 13,
+            "user_id": "0001",
+            "speaker": "Human",
+            "message": "Did Ruth Graves Wakefield invent anything else?"
+        },
+        {
+            "message_id": 14,
+            "system_id": "0008",
+            "speaker": "Bot",
+            "message": "Ruth Graves Wakefield is best known for inventing the chocolate chip cookie, but she was also known for her home-style cooking at the Toll House Inn."
+        },
+        {
+            "message_id": 15,
+            "user_id": "0001",
+            "speaker": "Human",
+            "message": "What are the most popular brands of chocolate chip cookies these days?"
+        },
+        {
+            "message_id": 16,
+            "system_id": "0008",
+            "speaker": "Bot",
+            "message": "Some popular brands of chocolate chip cookies today include Nestlé Toll House, Chips Ahoy!, and Pepperidge Farm."
+        },
+        {
+            "message_id": 17,
+            "user_id": "0001",
+            "speaker": "Human",
+            "message": "What is the average cost of a chocolate chip cookie in 2025?"
+        },
+        {
+            "message_id": 18,
+            "system_id": "0008",
+            "speaker": "Bot",
+            "message": "I'm not sure what the average cost will be in 2025, but prices can vary based on location and brand."
+        },
+        {
+            "message_id": 19,
+            "user_id": "0001",
+            "speaker": "Human",
+            "message": "Well what is the average cost according to what you know?"
+        },
+        {
+            "message_id": 20,
+            "system_id": "0008",
+            "speaker": "Bot",
+            "message": "The average cost of a chocolate chip cookie these days varies, but you might find them for about $1 to $3 each, depending on where you buy them."
+        }
+    ]
+}

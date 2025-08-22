@@ -1,0 +1,141 @@
+{
+    "dialogue_id": "1049",
+    "setting": "wow",
+    "model": "gpt-4o",
+    "prompt": "neutral",
+    "topic": "Divorce",
+    "subjective_evaluation": {
+        "preference": 4.0,
+        "stylistic_similarity": 4.0,
+        "consistency": 5.0,
+        "engagingness": 4.0
+    },
+    "dialogue": [
+        {
+            "message_id": 0,
+            "system_id": "0006",
+            "speaker": "Bot",
+            "message": "Divorce, also known as the dissolution of marriage, involves the legal termination of a marital union and can include issues like alimony, child custody, and property division."
+        },
+        {
+            "message_id": 1,
+            "user_id": "0008",
+            "speaker": "Human",
+            "message": "I think divorces should be easier to go through"
+        },
+        {
+            "message_id": 2,
+            "system_id": "0006",
+            "speaker": "Bot",
+            "message": "Divorce processes can indeed be complex, as they often involve legal issues like child custody and property division, which vary significantly depending on the country's laws."
+        },
+        {
+            "message_id": 3,
+            "user_id": "0008",
+            "speaker": "Human",
+            "message": "What makes property division so complex"
+        },
+        {
+            "message_id": 4,
+            "system_id": "0006",
+            "speaker": "Bot",
+            "message": "Property division is complex because it involves distributing assets and debts between spouses, which requires careful legal consideration and varies by jurisdiction."
+        },
+        {
+            "message_id": 5,
+            "user_id": "0008",
+            "speaker": "Human",
+            "message": "How does it vary by jurisdiction?"
+        },
+        {
+            "message_id": 6,
+            "system_id": "0006",
+            "speaker": "Bot",
+            "message": "Property division varies by jurisdiction because different countries and states have specific laws governing how assets and debts are distributed during a divorce."
+        },
+        {
+            "message_id": 7,
+            "user_id": "0008",
+            "speaker": "Human",
+            "message": "What states are more lenient for men?"
+        },
+        {
+            "message_id": 8,
+            "system_id": "0006",
+            "speaker": "Bot",
+            "message": "Divorce laws and processes vary widely, but there isn't a clear consensus on which states might be more lenient for men specifically."
+        },
+        {
+            "message_id": 9,
+            "user_id": "0008",
+            "speaker": "Human",
+            "message": "Are any states konwn for being harder on men?"
+        },
+        {
+            "message_id": 10,
+            "system_id": "0006",
+            "speaker": "Bot",
+            "message": "Divorce laws and outcomes can differ greatly, but perceptions of bias can vary and depend on individual cases rather than specific states being categorically harder on men."
+        },
+        {
+            "message_id": 11,
+            "user_id": "0008",
+            "speaker": "Human",
+            "message": "What is the most common result of child custody?"
+        },
+        {
+            "message_id": 12,
+            "system_id": "0006",
+            "speaker": "Bot",
+            "message": "The most common outcome of child custody cases is joint custody, where both parents share responsibility, though specifics can vary by jurisdiction."
+        },
+        {
+            "message_id": 13,
+            "user_id": "0008",
+            "speaker": "Human",
+            "message": "What are some reasons why they wouldn't share?"
+        },
+        {
+            "message_id": 14,
+            "system_id": "0006",
+            "speaker": "Bot",
+            "message": "Parents might not share custody if there are concerns about one parent's ability to provide a safe and stable environment for the child."
+        },
+        {
+            "message_id": 15,
+            "user_id": "0008",
+            "speaker": "Human",
+            "message": "What are some examples of that?"
+        },
+        {
+            "message_id": 16,
+            "system_id": "0006",
+            "speaker": "Bot",
+            "message": "Examples of why parents might not share custody include concerns over domestic violence, substance abuse, or the inability of one parent to provide a stable environment."
+        },
+        {
+            "message_id": 17,
+            "user_id": "0008",
+            "speaker": "Human",
+            "message": "Would weed ever be used as a reason?"
+        },
+        {
+            "message_id": 18,
+            "system_id": "0006",
+            "speaker": "Bot",
+            "message": "Yes, marijuana use could be a concern if it impacts a parent's ability to provide a safe and stable environment for the child."
+        },
+        {
+            "message_id": 19,
+            "user_id": "0008",
+            "speaker": "Human",
+            "message": "What states experience the most divorces?"
+        },
+        {
+            "message_id": 20,
+            "system_id": "0006",
+            "speaker": "Bot",
+            "message": "Divorce rates can vary significantly by state, often influenced by cultural, economic, and legal factors."
+        }
+    ]
+}

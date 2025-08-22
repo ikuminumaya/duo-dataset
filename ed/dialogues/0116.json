@@ -1,0 +1,136 @@
+{
+    "dialogue_id": "0116",
+    "setting": "ed",
+    "model": "Llama-3.1-70B-Instruct",
+    "prompt": "neutral",
+    "emotion": "Nostalgic",
+    "episode": "I rediscovered an old television show that I used to watch all of the time when I was a kid.  It made me miss those times.",
+    "subjective_evaluation": {
+        "preference": 2.0,
+        "stylistic_similarity": 2.0,
+        "consistency": 5.0,
+        "empathy": 3.0
+    },
+    "dialogue": [
+        {
+            "message_id": 0,
+            "user_id": "0007",
+            "speaker": "Human",
+            "message": "When I was a kid, I used to watch a show called Ghostwriter on PBS.  I recently rediscovered some episodes on Youtube."
+        },
+        {
+            "message_id": 1,
+            "system_id": "0003",
+            "speaker": "Bot",
+            "message": "That's a blast from the past!"
+        },
+        {
+            "message_id": 2,
+            "user_id": "0007",
+            "speaker": "Human",
+            "message": "It is.  It really made me feel nostalgic about those times.  Times were much more simple when I was a child. "
+        },
+        {
+            "message_id": 3,
+            "system_id": "0003",
+            "speaker": "Bot",
+            "message": "It's nice to reminisce about simpler times."
+        },
+        {
+            "message_id": 4,
+            "user_id": "0007",
+            "speaker": "Human",
+            "message": "It is.  I like being an adult and the independence it brings.  But, I would like to take a trip back into time."
+        },
+        {
+            "message_id": 5,
+            "system_id": "0003",
+            "speaker": "Bot",
+            "message": "I think we all feel that way sometimes."
+        },
+        {
+            "message_id": 6,
+            "user_id": "0007",
+            "speaker": "Human",
+            "message": "I used to watch Ghostwriter all of the time when I was sick and needed to stay home from school. "
+        },
+        {
+            "message_id": 7,
+            "system_id": "0003",
+            "speaker": "Bot",
+            "message": "Sick days were the best, huh?"
+        },
+        {
+            "message_id": 8,
+            "user_id": "0007",
+            "speaker": "Human",
+            "message": "Somewhat.  I hated being sick.  Ghostwriter helped me to get my mind off of being sick. "
+        },
+        {
+            "message_id": 9,
+            "system_id": "0003",
+            "speaker": "Bot",
+            "message": "It was a good distraction."
+        },
+        {
+            "message_id": 10,
+            "user_id": "0007",
+            "speaker": "Human",
+            "message": "The show also helped to exercise my imagination.  "
+        },
+        {
+            "message_id": 11,
+            "system_id": "0003",
+            "speaker": "Bot",
+            "message": "Nostalgia and creativity, what a great combo!"
+        },
+        {
+            "message_id": 12,
+            "user_id": "0007",
+            "speaker": "Human",
+            "message": "Agreed.  I hope children today have a show like Ghostwriter that they will look back on with positive memories. "
+        },
+        {
+            "message_id": 13,
+            "system_id": "0003",
+            "speaker": "Bot",
+            "message": "Me too, that's special."
+        },
+        {
+            "message_id": 14,
+            "user_id": "0007",
+            "speaker": "Human",
+            "message": "While re-watching Ghostwriter, I saw some young actors that went on to be bigger actors as they grew up. "
+        },
+        {
+            "message_id": 15,
+            "system_id": "0003",
+            "speaker": "Bot",
+            "message": "That's cool, full circle moment."
+        },
+        {
+            "message_id": 16,
+            "user_id": "0007",
+            "speaker": "Human",
+            "message": "It's interesting to see people before they became really famous.  "
+        },
+        {
+            "message_id": 17,
+            "system_id": "0003",
+            "speaker": "Bot",
+            "message": "A glimpse of their humble beginnings."
+        },
+        {
+            "message_id": 18,
+            "user_id": "0007",
+            "speaker": "Human",
+            "message": "Another show that makes me feel nostalgic is Reading Rainbow with Levar Burton. "
+        },
+        {
+            "message_id": 19,
+            "system_id": "0003",
+            "speaker": "Bot",
+            "message": "Classic! That show was amazing."
+        }
+    ]
+}

@@ -1,0 +1,162 @@
+{
+    "dialogue_id": "0005",
+    "setting": "ed",
+    "model": "gpt-4o",
+    "prompt": "neutral",
+    "emotion": "Sentimental",
+    "episode": "I was watching an old sitcom and it made me remember the time when I was in high school.",
+    "objective_evaluation": {
+        "preference": 3.33,
+        "stylistic_similarity": 3.0,
+        "consistency": 4.33,
+        "empathy": 4.0,
+        "preference_scores": [
+            3.0,
+            4.0,
+            3.0
+        ],
+        "stylistic_similarity_scores": [
+            4.0,
+            3.0,
+            2.0
+        ],
+        "consistency_scores": [
+            4.0,
+            4.0,
+            5.0
+        ],
+        "empathy_scores": [
+            3.0,
+            4.0,
+            5.0
+        ]
+    },
+    "subjective_evaluation": {
+        "preference": 3.0,
+        "stylistic_similarity": 4.0,
+        "consistency": 5.0,
+        "empathy": 4.0
+    },
+    "dialogue": [
+        {
+            "message_id": 0,
+            "user_id": "0005",
+            "speaker": "Human",
+            "message": "I was watching an old sitcom that was out in the 90s and it reminded me of the days I was in school."
+        },
+        {
+            "message_id": 1,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "Nostalgia can be so powerful. Do you miss those school days?"
+        },
+        {
+            "message_id": 2,
+            "user_id": "0005",
+            "speaker": "Human",
+            "message": "I miss my friends but school was a lot of work."
+        },
+        {
+            "message_id": 3,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "That's understandable, balancing work and friendships can be tough."
+        },
+        {
+            "message_id": 4,
+            "user_id": "0005",
+            "speaker": "Human",
+            "message": "I miss the time we did not have cell phones."
+        },
+        {
+            "message_id": 5,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "Life was simpler then."
+        },
+        {
+            "message_id": 6,
+            "user_id": "0005",
+            "speaker": "Human",
+            "message": "We had to work to solve problems and we had few of them to solve."
+        },
+        {
+            "message_id": 7,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "Those were the days."
+        },
+        {
+            "message_id": 8,
+            "user_id": "0005",
+            "speaker": "Human",
+            "message": "If we were upset after 9 pm we had to deal with it. No texting, posting, or calling your friends house too late!"
+        },
+        {
+            "message_id": 9,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "So true, we had to be more patient."
+        },
+        {
+            "message_id": 10,
+            "user_id": "0005",
+            "speaker": "Human",
+            "message": "I think we had better character and ability to handle our emotions."
+        },
+        {
+            "message_id": 11,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "That makes a lot of sense."
+        },
+        {
+            "message_id": 12,
+            "user_id": "0005",
+            "speaker": "Human",
+            "message": "Sometimes you need to be still and quiet about your emotions as they often resolve or ease if you just hold tight."
+        },
+        {
+            "message_id": 13,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "Absolutely."
+        },
+        {
+            "message_id": 14,
+            "user_id": "0005",
+            "speaker": "Human",
+            "message": "I miss those days when people could handle their stuff, you know?"
+        },
+        {
+            "message_id": 15,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "I understand."
+        },
+        {
+            "message_id": 16,
+            "user_id": "0005",
+            "speaker": "Human",
+            "message": "Do you think technology makes us better?"
+        },
+        {
+            "message_id": 17,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "It has pros and cons."
+        },
+        {
+            "message_id": 18,
+            "user_id": "0005",
+            "speaker": "Human",
+            "message": "What do you think are the cons?"
+        },
+        {
+            "message_id": 19,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "Reduced face-to-face interaction."
+        }
+    ]
+}

@@ -1,0 +1,167 @@
+{
+    "dialogue_id": "1013",
+    "setting": "wow",
+    "model": "gpt-4o",
+    "prompt": "aligned",
+    "topic": "Marriage",
+    "objective_evaluation": {
+        "preference": 3.67,
+        "stylistic_similarity": 2.33,
+        "consistency": 5.0,
+        "engagingness": 3.67,
+        "preference_scores": [
+            3.0,
+            5.0,
+            3.0
+        ],
+        "stylistic_similarity_scores": [
+            1.0,
+            4.0,
+            2.0
+        ],
+        "consistency_scores": [
+            5.0,
+            5.0,
+            5.0
+        ],
+        "engagingness_scores": [
+            3.0,
+            5.0,
+            3.0
+        ]
+    },
+    "subjective_evaluation": {
+        "preference": 2.0,
+        "stylistic_similarity": 3.0,
+        "consistency": 5.0,
+        "engagingness": 2.0
+    },
+    "dialogue": [
+        {
+            "message_id": 0,
+            "system_id": "0007",
+            "speaker": "Bot",
+            "message": "Marriage is a culturally recognized union between people, creating rights and obligations, and it varies widely across cultures and history."
+        },
+        {
+            "message_id": 1,
+            "user_id": "0025",
+            "speaker": "Human",
+            "message": "I was married once. Not any more though! In what ways does it vary in different cultures?"
+        },
+        {
+            "message_id": 2,
+            "system_id": "0007",
+            "speaker": "Bot",
+            "message": "Marriage varies widely, with some cultures having arranged marriages or polygamy, and others emphasizing individual choice and love."
+        },
+        {
+            "message_id": 3,
+            "user_id": "0025",
+            "speaker": "Human",
+            "message": "Oh, that makes sense. I know that Mormons used to practice polygamy."
+        },
+        {
+            "message_id": 4,
+            "system_id": "0007",
+            "speaker": "Bot",
+            "message": "Yes, the early Mormons practiced polygamy, but the mainstream church discontinued it in the late 19th century."
+        },
+        {
+            "message_id": 5,
+            "user_id": "0025",
+            "speaker": "Human",
+            "message": "That's a little surprising, I thought it was more recent than that. Are there any places where polygamy is still common? "
+        },
+        {
+            "message_id": 6,
+            "system_id": "0007",
+            "speaker": "Bot",
+            "message": "Yes, polygamy is still common in some cultures, particularly in parts of Africa and the Middle East."
+        },
+        {
+            "message_id": 7,
+            "user_id": "0025",
+            "speaker": "Human",
+            "message": "Interesting. Are there any places where women have multiple husbands, or is it always the other way around?"
+        },
+        {
+            "message_id": 8,
+            "system_id": "0007",
+            "speaker": "Bot",
+            "message": "Yes, polyandry, where a woman has multiple husbands, is practiced in some parts of the world, like certain regions in Tibet and Nepal."
+        },
+        {
+            "message_id": 9,
+            "user_id": "0025",
+            "speaker": "Human",
+            "message": "Wow, I didn't know it had its own name like that. What are some other interesting marriage related facts?"
+        },
+        {
+            "message_id": 10,
+            "system_id": "0007",
+            "speaker": "Bot",
+            "message": "Marriage is considered a cultural universal and can serve many purposes, like legal, emotional, or financial reasons."
+        },
+        {
+            "message_id": 11,
+            "user_id": "0025",
+            "speaker": "Human",
+            "message": "Do most cultures also have divorce, like we do in the US?"
+        },
+        {
+            "message_id": 12,
+            "system_id": "0007",
+            "speaker": "Bot",
+            "message": "Yes, most cultures have some form of divorce, though the rules and acceptance levels can vary widely."
+        },
+        {
+            "message_id": 13,
+            "user_id": "0025",
+            "speaker": "Human",
+            "message": "I know that in some places getting divorced is very difficult, especially for women."
+        },
+        {
+            "message_id": 14,
+            "system_id": "0007",
+            "speaker": "Bot",
+            "message": "Yes, in some cultures, divorce can be quite challenging, especially for women, due to legal and social restrictions."
+        },
+        {
+            "message_id": 15,
+            "user_id": "0025",
+            "speaker": "Human",
+            "message": "I've heard some women say that marriage is sexist, have you ever heard that before?"
+        },
+        {
+            "message_id": 16,
+            "system_id": "0007",
+            "speaker": "Bot",
+            "message": "Yes, some people view marriage as sexist due to traditional roles and societal expectations that often disadvantage women."
+        },
+        {
+            "message_id": 17,
+            "user_id": "0025",
+            "speaker": "Human",
+            "message": "I can see their point of view, but I think two people who love each other making a commitment to each other can be a good thing."
+        },
+        {
+            "message_id": 18,
+            "system_id": "0007",
+            "speaker": "Bot",
+            "message": "Absolutely, marriage can be a beautiful commitment between two people, and its meaning can vary greatly across different cultures and personal beliefs."
+        },
+        {
+            "message_id": 19,
+            "user_id": "0025",
+            "speaker": "Human",
+            "message": "I think of it as mostly a legal thing. "
+        },
+        {
+            "message_id": 20,
+            "system_id": "0007",
+            "speaker": "Bot",
+            "message": "Yes, marriage can definitely be seen as a legal institution, often involving rights and obligations between spouses."
+        }
+    ]
+}

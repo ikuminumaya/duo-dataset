@@ -1,0 +1,136 @@
+{
+    "dialogue_id": "0072",
+    "setting": "ed",
+    "model": "gpt-4o",
+    "prompt": "aligned",
+    "emotion": "Terrified",
+    "episode": "I was out walking few days back when I saw a group fighting and had to run from there.",
+    "subjective_evaluation": {
+        "preference": 5.0,
+        "stylistic_similarity": 5.0,
+        "consistency": 5.0,
+        "empathy": 5.0
+    },
+    "dialogue": [
+        {
+            "message_id": 0,
+            "user_id": "0023",
+            "speaker": "Human",
+            "message": "I was out walking few days back when I saw a group fighting and had to run from there."
+        },
+        {
+            "message_id": 1,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "That sounds really intense! Are you okay?"
+        },
+        {
+            "message_id": 2,
+            "user_id": "0023",
+            "speaker": "Human",
+            "message": "yeah, all okay but was terrified seeing people fight."
+        },
+        {
+            "message_id": 3,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "That's good to hear, but I can imagine how scary that must have been!"
+        },
+        {
+            "message_id": 4,
+            "user_id": "0023",
+            "speaker": "Human",
+            "message": "yes. I was not sure what was going on."
+        },
+        {
+            "message_id": 5,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "Yeah, that sounds confusing and scary. Glad you're safe!"
+        },
+        {
+            "message_id": 6,
+            "user_id": "0023",
+            "speaker": "Human",
+            "message": "have you been to similar situation?"
+        },
+        {
+            "message_id": 7,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "Not exactly, but I can imagine the fear."
+        },
+        {
+            "message_id": 8,
+            "user_id": "0023",
+            "speaker": "Human",
+            "message": "what would have you done in this situation?"
+        },
+        {
+            "message_id": 9,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "I'd probably try to stay safe and avoid the situation too."
+        },
+        {
+            "message_id": 10,
+            "user_id": "0023",
+            "speaker": "Human",
+            "message": "should we call police if there are people fighting on street?"
+        },
+        {
+            "message_id": 11,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "Yeah, calling the police would be a good idea."
+        },
+        {
+            "message_id": 12,
+            "user_id": "0023",
+            "speaker": "Human",
+            "message": "what if people retaliate?"
+        },
+        {
+            "message_id": 13,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "That's a risk, but safety comes first. Stay distant."
+        },
+        {
+            "message_id": 14,
+            "user_id": "0023",
+            "speaker": "Human",
+            "message": "ok. So idea is keep distance and call police when I feel safe. Should I give my identity to police or I can be anonymous?"
+        },
+        {
+            "message_id": 15,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "You can be anonymous if you prefer."
+        },
+        {
+            "message_id": 16,
+            "user_id": "0023",
+            "speaker": "Human",
+            "message": "nice. That will help"
+        },
+        {
+            "message_id": 17,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "Glad to hear! Stay safe!"
+        },
+        {
+            "message_id": 18,
+            "user_id": "0023",
+            "speaker": "Human",
+            "message": "Thanks, have a good day."
+        },
+        {
+            "message_id": 19,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "You too!"
+        }
+    ]
+}

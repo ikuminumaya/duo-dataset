@@ -1,0 +1,167 @@
+{
+    "dialogue_id": "1026",
+    "setting": "wow",
+    "model": "Llama-3.1-70B-Instruct",
+    "prompt": "neutral",
+    "topic": "Honda Civic",
+    "objective_evaluation": {
+        "preference": 2.67,
+        "stylistic_similarity": 3.0,
+        "consistency": 3.67,
+        "engagingness": 3.0,
+        "preference_scores": [
+            4.0,
+            2.0,
+            2.0
+        ],
+        "stylistic_similarity_scores": [
+            4.0,
+            3.0,
+            2.0
+        ],
+        "consistency_scores": [
+            4.0,
+            4.0,
+            3.0
+        ],
+        "engagingness_scores": [
+            4.0,
+            3.0,
+            2.0
+        ]
+    },
+    "subjective_evaluation": {
+        "preference": 1.0,
+        "stylistic_similarity": 1.0,
+        "consistency": 4.0,
+        "engagingness": 1.0
+    },
+    "dialogue": [
+        {
+            "message_id": 0,
+            "system_id": "0009",
+            "speaker": "Bot",
+            "message": "The Honda Civic is a line of cars manufactured by Honda."
+        },
+        {
+            "message_id": 1,
+            "user_id": "0016",
+            "speaker": "Human",
+            "message": "Is it affordable?"
+        },
+        {
+            "message_id": 2,
+            "system_id": "0009",
+            "speaker": "Bot",
+            "message": "It's known for being fuel-efficient, reliable, and environmentally friendly."
+        },
+        {
+            "message_id": 3,
+            "user_id": "0016",
+            "speaker": "Human",
+            "message": "What is it's price point?"
+        },
+        {
+            "message_id": 4,
+            "system_id": "0009",
+            "speaker": "Bot",
+            "message": "I'm not sure about the exact price, but it's positioned between the Honda Fit and Accord."
+        },
+        {
+            "message_id": 5,
+            "user_id": "0016",
+            "speaker": "Human",
+            "message": "How many MPG does it get?"
+        },
+        {
+            "message_id": 6,
+            "system_id": "0009",
+            "speaker": "Bot",
+            "message": "It was initially gaining a reputation for being fuel-efficient."
+        },
+        {
+            "message_id": 7,
+            "user_id": "0016",
+            "speaker": "Human",
+            "message": "Can you give me an estimated number?"
+        },
+        {
+            "message_id": 8,
+            "system_id": "0009",
+            "speaker": "Bot",
+            "message": "I don't have the exact MPG numbers, but it's known for being fuel-efficient."
+        },
+        {
+            "message_id": 9,
+            "user_id": "0016",
+            "speaker": "Human",
+            "message": "Would in the 40s be a good guess?"
+        },
+        {
+            "message_id": 10,
+            "system_id": "0009",
+            "speaker": "Bot",
+            "message": "That sounds reasonable, but I don't have the exact numbers."
+        },
+        {
+            "message_id": 11,
+            "user_id": "0016",
+            "speaker": "Human",
+            "message": "How is it environmentally friendly?"
+        },
+        {
+            "message_id": 12,
+            "system_id": "0009",
+            "speaker": "Bot",
+            "message": "It was initially gaining a reputation for being environmentally friendly."
+        },
+        {
+            "message_id": 13,
+            "user_id": "0016",
+            "speaker": "Human",
+            "message": "What led it to getting that reputation?"
+        },
+        {
+            "message_id": 14,
+            "system_id": "0009",
+            "speaker": "Bot",
+            "message": "Its small dimensions and fuel-efficient engine helped."
+        },
+        {
+            "message_id": 15,
+            "user_id": "0016",
+            "speaker": "Human",
+            "message": "Sounds like it would be easy to park!"
+        },
+        {
+            "message_id": 16,
+            "system_id": "0009",
+            "speaker": "Bot",
+            "message": "It has good interior space despite overall small dimensions."
+        },
+        {
+            "message_id": 17,
+            "user_id": "0016",
+            "speaker": "Human",
+            "message": "Is it known to be reliable?"
+        },
+        {
+            "message_id": 18,
+            "system_id": "0009",
+            "speaker": "Bot",
+            "message": "Yes, it's known for being reliable."
+        },
+        {
+            "message_id": 19,
+            "user_id": "0016",
+            "speaker": "Human",
+            "message": "How many years does it last?"
+        },
+        {
+            "message_id": 20,
+            "system_id": "0009",
+            "speaker": "Bot",
+            "message": "I don't have a specific number, but it's known for being reliable."
+        }
+    ]
+}

@@ -1,0 +1,167 @@
+{
+    "dialogue_id": "1038",
+    "setting": "wow",
+    "model": "Llama-3.1-70B-Instruct",
+    "prompt": "aligned",
+    "topic": "Magic: The Gathering",
+    "objective_evaluation": {
+        "preference": 3.33,
+        "stylistic_similarity": 3.33,
+        "consistency": 4.67,
+        "engagingness": 3.33,
+        "preference_scores": [
+            5.0,
+            1.0,
+            4.0
+        ],
+        "stylistic_similarity_scores": [
+            3.0,
+            2.0,
+            5.0
+        ],
+        "consistency_scores": [
+            5.0,
+            4.0,
+            5.0
+        ],
+        "engagingness_scores": [
+            4.0,
+            2.0,
+            4.0
+        ]
+    },
+    "subjective_evaluation": {
+        "preference": 3.0,
+        "stylistic_similarity": 1.0,
+        "consistency": 4.0,
+        "engagingness": 4.0
+    },
+    "dialogue": [
+        {
+            "message_id": 0,
+            "system_id": "0010",
+            "speaker": "Bot",
+            "message": "Hey, wanna talk about Magic: The Gathering?"
+        },
+        {
+            "message_id": 1,
+            "user_id": "0010",
+            "speaker": "Human",
+            "message": "Sure!"
+        },
+        {
+            "message_id": 2,
+            "system_id": "0010",
+            "speaker": "Bot",
+            "message": "So, did you know it was created by Richard Garfield back in '93?"
+        },
+        {
+            "message_id": 3,
+            "user_id": "0010",
+            "speaker": "Human",
+            "message": "Yes!"
+        },
+        {
+            "message_id": 4,
+            "system_id": "0010",
+            "speaker": "Bot",
+            "message": "It's crazy how it's still super popular with like 20 million players, right?"
+        },
+        {
+            "message_id": 5,
+            "user_id": "0010",
+            "speaker": "Human",
+            "message": "It's does have the funny name given to it."
+        },
+        {
+            "message_id": 6,
+            "system_id": "0010",
+            "speaker": "Bot",
+            "message": "The name \"Magic\" is pretty iconic, but I've heard players call it MTG for short, haha!"
+        },
+        {
+            "message_id": 7,
+            "user_id": "0010",
+            "speaker": "Human",
+            "message": "Not that nickname, but sure, lets go with that?"
+        },
+        {
+            "message_id": 8,
+            "system_id": "0010",
+            "speaker": "Bot",
+            "message": "You're thinking of something else, aren't you? Spill the beans, what's the funny name you're thinking of?"
+        },
+        {
+            "message_id": 9,
+            "user_id": "0010",
+            "speaker": "Human",
+            "message": "No, I don't think I will."
+        },
+        {
+            "message_id": 10,
+            "system_id": "0010",
+            "speaker": "Bot",
+            "message": "Come on, I'm curious now!"
+        },
+        {
+            "message_id": 11,
+            "user_id": "0010",
+            "speaker": "Human",
+            "message": "Anyway, back to the Magic: The Gathering, what is the biggest ruleset? And who makes the games today?"
+        },
+        {
+            "message_id": 12,
+            "system_id": "0010",
+            "speaker": "Bot",
+            "message": "So, the biggest ruleset is probably the \"Constructed\" format, where players build decks from cards they own. And, Wizards of the Coast still makes the games today!"
+        },
+        {
+            "message_id": 13,
+            "user_id": "0010",
+            "speaker": "Human",
+            "message": "Ok, cool. What else can you tell me about the game."
+        },
+        {
+            "message_id": 14,
+            "system_id": "0010",
+            "speaker": "Bot",
+            "message": "So, in the game, you're basically a \"planeswalker\" battling other wizards, using spells, creatures, and artifacts to defeat them. It's pretty epic!"
+        },
+        {
+            "message_id": 15,
+            "user_id": "0010",
+            "speaker": "Human",
+            "message": "What is a plansewalker in universe?"
+        },
+        {
+            "message_id": 16,
+            "system_id": "0010",
+            "speaker": "Bot",
+            "message": "In the Magic: The Gathering universe, a planeswalker is a super powerful wizard who can travel between different planes of existence, kind of like a cosmic wizard!"
+        },
+        {
+            "message_id": 17,
+            "user_id": "0010",
+            "speaker": "Human",
+            "message": "Now, why are the decks referred to as colors?"
+        },
+        {
+            "message_id": 18,
+            "system_id": "0010",
+            "speaker": "Bot",
+            "message": "In Magic, the decks are referred to as colors because each deck is typically built around one or more of the five colors: White, Blue, Black, Red, and Green, each with its own unique style and playstyle!"
+        },
+        {
+            "message_id": 19,
+            "user_id": "0010",
+            "speaker": "Human",
+            "message": "What's a commander deck, then?"
+        },
+        {
+            "message_id": 20,
+            "system_id": "0010",
+            "speaker": "Bot",
+            "message": "A Commander deck is a special kind of deck that's centered around a single, powerful legendary creature, known as the Commander, and it's usually a casual, multiplayer format that's all about having fun!"
+        }
+    ]
+}

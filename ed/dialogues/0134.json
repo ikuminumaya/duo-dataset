@@ -1,0 +1,136 @@
+{
+    "dialogue_id": "0134",
+    "setting": "ed",
+    "model": "Llama-3.1-70B-Instruct",
+    "prompt": "aligned",
+    "emotion": "Lonely",
+    "episode": "My husband was away on a month long business trip, and I spent a lot of time on my own.",
+    "subjective_evaluation": {
+        "preference": 4.0,
+        "stylistic_similarity": 4.0,
+        "consistency": 5.0,
+        "empathy": 4.0
+    },
+    "dialogue": [
+        {
+            "message_id": 0,
+            "user_id": "0019",
+            "speaker": "Human",
+            "message": "My husband is away on a month long business trip. It has been tough having him away for so long!"
+        },
+        {
+            "message_id": 1,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "That must be really hard on you. Missing him?"
+        },
+        {
+            "message_id": 2,
+            "user_id": "0019",
+            "speaker": "Human",
+            "message": "Yes, missing him greatly! We usually spend a lot of time together."
+        },
+        {
+            "message_id": 3,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "It's tough when routines are disrupted. Staying busy helping?"
+        },
+        {
+            "message_id": 4,
+            "user_id": "0019",
+            "speaker": "Human",
+            "message": "I have been trying to keep busy with things, but I still have felt very lonely a lot of the time."
+        },
+        {
+            "message_id": 5,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "Loneliness can be tough to shake. Counting down the days until he's back?"
+        },
+        {
+            "message_id": 6,
+            "user_id": "0019",
+            "speaker": "Human",
+            "message": "Absolutely! It's still another week. Any suggestions for things I can do to make the time pass faster?"
+        },
+        {
+            "message_id": 7,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "Try picking up a new hobby or watching a new TV series."
+        },
+        {
+            "message_id": 8,
+            "user_id": "0019",
+            "speaker": "Human",
+            "message": "A tv series is a great idea. But choosing something new is so hard!"
+        },
+        {
+            "message_id": 9,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "What kind of shows do you usually like?"
+        },
+        {
+            "message_id": 10,
+            "user_id": "0019",
+            "speaker": "Human",
+            "message": "I really like emotional dramas."
+        },
+        {
+            "message_id": 11,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "Those can be really engaging. Have you seen \"This Is Us\"?"
+        },
+        {
+            "message_id": 12,
+            "user_id": "0019",
+            "speaker": "Human",
+            "message": "That is one of my favorite shows! I am looking for something similar. Any recommendations?"
+        },
+        {
+            "message_id": 13,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "You might like \"Parenthood\" or \"Brothers & Sisters\"."
+        },
+        {
+            "message_id": 14,
+            "user_id": "0019",
+            "speaker": "Human",
+            "message": "I was thinking of Brothers and Sisters. Is it any good?"
+        },
+        {
+            "message_id": 15,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "It's great! Family drama, relatable characters... you'll probably love it!"
+        },
+        {
+            "message_id": 16,
+            "user_id": "0019",
+            "speaker": "Human",
+            "message": "It does sound like something I would like. Maybe I should start that tonight."
+        },
+        {
+            "message_id": 17,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "Give it a try! I think it'll be a great distraction from the loneliness."
+        },
+        {
+            "message_id": 18,
+            "user_id": "0019",
+            "speaker": "Human",
+            "message": "Yeah... get lost in someone else's drama!"
+        },
+        {
+            "message_id": 19,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "Exactly! Sometimes that's just what we need."
+        }
+    ]
+}

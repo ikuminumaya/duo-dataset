@@ -1,0 +1,136 @@
+{
+    "dialogue_id": "0055",
+    "setting": "ed",
+    "model": "gpt-4o",
+    "prompt": "neutral",
+    "emotion": "Anxious",
+    "episode": "My roommate is kicking my sister out and it is giving me bad butterflies.",
+    "subjective_evaluation": {
+        "preference": 3.0,
+        "stylistic_similarity": 2.0,
+        "consistency": 3.0,
+        "empathy": 3.0
+    },
+    "dialogue": [
+        {
+            "message_id": 0,
+            "user_id": "0028",
+            "speaker": "Human",
+            "message": "My roommate is kicking my sister out and it is making me incredibly uneasy."
+        },
+        {
+            "message_id": 1,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "That sounds really stressful. How are you planning to handle the situation?"
+        },
+        {
+            "message_id": 2,
+            "user_id": "0028",
+            "speaker": "Human",
+            "message": "I can't do much other than support her, but I can tell she's mad at me too."
+        },
+        {
+            "message_id": 3,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "That must be tough. I'm here for you."
+        },
+        {
+            "message_id": 4,
+            "user_id": "0028",
+            "speaker": "Human",
+            "message": "Thank you, I appreciate it. He is only giving her a few days too which is pretty devestating"
+        },
+        {
+            "message_id": 5,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "That's really harsh. I'm sorry you're both going through this."
+        },
+        {
+            "message_id": 6,
+            "user_id": "0028",
+            "speaker": "Human",
+            "message": "It's okay. She wasn't paying rent and it was hard living with her so I know it is for the best at the end of the day"
+        },
+        {
+            "message_id": 7,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "I understand. It's still difficult."
+        },
+        {
+            "message_id": 8,
+            "user_id": "0028",
+            "speaker": "Human",
+            "message": "Exactly. But I know eventually I will be thankful this happened."
+        },
+        {
+            "message_id": 9,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "Absolutely, it will get better."
+        },
+        {
+            "message_id": 10,
+            "user_id": "0028",
+            "speaker": "Human",
+            "message": "Yes, I agree. It will for sure. But for now im anxious af lol"
+        },
+        {
+            "message_id": 11,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "That's totally understandable."
+        },
+        {
+            "message_id": 12,
+            "user_id": "0028",
+            "speaker": "Human",
+            "message": "Any tips for me?"
+        },
+        {
+            "message_id": 13,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "Try deep breathing."
+        },
+        {
+            "message_id": 14,
+            "user_id": "0028",
+            "speaker": "Human",
+            "message": "I do. But that's pretty basic advice"
+        },
+        {
+            "message_id": 15,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "Maybe journaling?"
+        },
+        {
+            "message_id": 16,
+            "user_id": "0028",
+            "speaker": "Human",
+            "message": "What are some ideas for good journal prompts? I'd like at least 3 of them"
+        },
+        {
+            "message_id": 17,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "1. What am I grateful for today?\n2. How do I feel about this situation?\n3. What steps can I take to feel better?"
+        },
+        {
+            "message_id": 18,
+            "user_id": "0028",
+            "speaker": "Human",
+            "message": "Can you make them more personalized to this situation?"
+        },
+        {
+            "message_id": 19,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "1. What have I learned from this experience?\n2. How can I support my sister and myself right now?\n3. What positive outcomes can come from this change?"
+        }
+    ]
+}

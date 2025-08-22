@@ -1,0 +1,136 @@
+{
+    "dialogue_id": "0050",
+    "setting": "ed",
+    "model": "gpt-4o",
+    "prompt": "neutral",
+    "emotion": "Excited",
+    "episode": "I won $100k in a lucky draw",
+    "subjective_evaluation": {
+        "preference": 2.0,
+        "stylistic_similarity": 2.0,
+        "consistency": 5.0,
+        "empathy": 5.0
+    },
+    "dialogue": [
+        {
+            "message_id": 0,
+            "user_id": "0000",
+            "speaker": "Human",
+            "message": "Something big happened a few days ago. I'm trying not to tell anyone about it yet, but it's hard not to talk!"
+        },
+        {
+            "message_id": 1,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "It sounds exciting! How are you feeling about it?"
+        },
+        {
+            "message_id": 2,
+            "user_id": "0000",
+            "speaker": "Human",
+            "message": "Soooo excited!"
+        },
+        {
+            "message_id": 3,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "That's amazing!"
+        },
+        {
+            "message_id": 4,
+            "user_id": "0000",
+            "speaker": "Human",
+            "message": "Don't you wonder what it is?"
+        },
+        {
+            "message_id": 5,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "Absolutely!"
+        },
+        {
+            "message_id": 6,
+            "user_id": "0000",
+            "speaker": "Human",
+            "message": "I entered this drawing at a local business. I got the top prize!"
+        },
+        {
+            "message_id": 7,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "Wow, congrats! That's fantastic!"
+        },
+        {
+            "message_id": 8,
+            "user_id": "0000",
+            "speaker": "Human",
+            "message": "Yes. Don't you want to know what the prize is?"
+        },
+        {
+            "message_id": 9,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "Of course!"
+        },
+        {
+            "message_id": 10,
+            "user_id": "0000",
+            "speaker": "Human",
+            "message": "ONE HUNDRED THOUSAND DOLLARS!!!"
+        },
+        {
+            "message_id": 11,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "That's incredible!"
+        },
+        {
+            "message_id": 12,
+            "user_id": "0000",
+            "speaker": "Human",
+            "message": "I know!"
+        },
+        {
+            "message_id": 13,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "I'm thrilled for you!"
+        },
+        {
+            "message_id": 14,
+            "user_id": "0000",
+            "speaker": "Human",
+            "message": "Thanks! I'm already thinking of what I'll buy with it!"
+        },
+        {
+            "message_id": 15,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "That's exciting!"
+        },
+        {
+            "message_id": 16,
+            "user_id": "0000",
+            "speaker": "Human",
+            "message": "Yes. I want to buy gold and silver, but I don't know. What do you think?"
+        },
+        {
+            "message_id": 17,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "Investing sounds smart!"
+        },
+        {
+            "message_id": 18,
+            "user_id": "0000",
+            "speaker": "Human",
+            "message": "So physical gold and silver is a good bet, right?"
+        },
+        {
+            "message_id": 19,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "Yes, it can be."
+        }
+    ]
+}

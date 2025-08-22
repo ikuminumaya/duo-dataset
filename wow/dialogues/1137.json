@@ -1,0 +1,141 @@
+{
+    "dialogue_id": "1137",
+    "setting": "wow",
+    "model": "Llama-3.1-70B-Instruct",
+    "prompt": "aligned",
+    "topic": "DreamWorks",
+    "subjective_evaluation": {
+        "preference": 5.0,
+        "stylistic_similarity": 4.0,
+        "consistency": 4.0,
+        "engagingness": 4.0
+    },
+    "dialogue": [
+        {
+            "message_id": 0,
+            "system_id": "0010",
+            "speaker": "Bot",
+            "message": "So, wanna talk about DreamWorks?"
+        },
+        {
+            "message_id": 1,
+            "user_id": "0030",
+            "speaker": "Human",
+            "message": "Sure, I don't know really anything about them."
+        },
+        {
+            "message_id": 2,
+            "system_id": "0010",
+            "speaker": "Bot",
+            "message": "No worries, I can fill you in - basically, DreamWorks is a big film production company founded by Steven Spielberg and a couple of other guys back in '94."
+        },
+        {
+            "message_id": 3,
+            "user_id": "0030",
+            "speaker": "Human",
+            "message": "Was there something that happened prior to make them want to create the company?"
+        },
+        {
+            "message_id": 4,
+            "system_id": "0010",
+            "speaker": "Bot",
+            "message": "Yeah, Spielberg and his friends, Jeffrey Katzenberg and David Geffen, were all big shots in the industry already, but they wanted to create their own studio to make the kinds of movies they wanted to make, without having to answer to anyone else."
+        },
+        {
+            "message_id": 5,
+            "user_id": "0030",
+            "speaker": "Human",
+            "message": "That makes sense, seems to be the standard reason why someone creates their own company or label, especially in the entertainment industry.  What was the first film produced under the company?"
+        },
+        {
+            "message_id": 6,
+            "system_id": "0010",
+            "speaker": "Bot",
+            "message": "I don't have that info off the top of my head, but I can tell you they've produced some huge hits over the years, like movies that made over $100 million each!"
+        },
+        {
+            "message_id": 7,
+            "user_id": "0030",
+            "speaker": "Human",
+            "message": "Well knowing how much of a household name Steven Spielberg is that does not surprise me one bit."
+        },
+        {
+            "message_id": 8,
+            "system_id": "0010",
+            "speaker": "Bot",
+            "message": "Totally! Spielberg's a legend, and his name alone can make a movie a big deal. Anyway, DreamWorks has had its ups and downs over the years, but it's still a major player in Hollywood."
+        },
+        {
+            "message_id": 9,
+            "user_id": "0030",
+            "speaker": "Human",
+            "message": "What are some of the most recognized movies under the company?"
+        },
+        {
+            "message_id": 10,
+            "system_id": "0010",
+            "speaker": "Bot",
+            "message": "They've done a bunch, but I don't have a list or anything, sorry! I can tell you they've had some big successes, but I don't have specifics."
+        },
+        {
+            "message_id": 11,
+            "user_id": "0030",
+            "speaker": "Human",
+            "message": "What else can you tell me about them?"
+        },
+        {
+            "message_id": 12,
+            "system_id": "0010",
+            "speaker": "Bot",
+            "message": "So, DreamWorks has changed hands a few times over the years - they were sold to Viacom, and then they partnered with some other companies, like Reliance ADA Group. Now, Universal Pictures distributes their films."
+        },
+        {
+            "message_id": 13,
+            "user_id": "0030",
+            "speaker": "Human",
+            "message": "That is unfortunate they aren't independent any longer.  I'm sure Universal paid a pretty penny for the name."
+        },
+        {
+            "message_id": 14,
+            "system_id": "0010",
+            "speaker": "Bot",
+            "message": "Actually, Universal just distributes their films, they didn't exactly buy the company. But yeah, it's not the same as when Spielberg and his friends were running the show independently."
+        },
+        {
+            "message_id": 15,
+            "user_id": "0030",
+            "speaker": "Human",
+            "message": "When did they have their first sell out, to Viacom?"
+        },
+        {
+            "message_id": 16,
+            "system_id": "0010",
+            "speaker": "Bot",
+            "message": "DreamWorks was sold to Viacom in 2006, but the deal was actually made in 2005, and it was a pretty big deal at the time!"
+        },
+        {
+            "message_id": 17,
+            "user_id": "0030",
+            "speaker": "Human",
+            "message": "So the company lasted only about 10 years before Viacom stepped in.  I wonder what happened to cause that/"
+        },
+        {
+            "message_id": 18,
+            "system_id": "0010",
+            "speaker": "Bot",
+            "message": "It was actually more like 11 years, but yeah, it's a pretty short time for a company to change hands like that. I don't know all the details, but I'm sure it was a complicated deal!"
+        },
+        {
+            "message_id": 19,
+            "user_id": "0030",
+            "speaker": "Human",
+            "message": "I would have a hard time believing it wasn't complicated!"
+        },
+        {
+            "message_id": 20,
+            "system_id": "0010",
+            "speaker": "Bot",
+            "message": "Right? Big corporate deals are always messy! But hey, that's just the way the industry works, I guess."
+        }
+    ]
+}

@@ -1,0 +1,162 @@
+{
+    "dialogue_id": "0040",
+    "setting": "ed",
+    "model": "Llama-3.1-70B-Instruct",
+    "prompt": "aligned",
+    "emotion": "Nostalgic",
+    "episode": "I saw my friend from Jr. High the other day. We talked for an hour about the old days.",
+    "objective_evaluation": {
+        "preference": 4.0,
+        "stylistic_similarity": 4.67,
+        "consistency": 4.67,
+        "empathy": 4.33,
+        "preference_scores": [
+            4.0,
+            3.0,
+            5.0
+        ],
+        "stylistic_similarity_scores": [
+            5.0,
+            4.0,
+            5.0
+        ],
+        "consistency_scores": [
+            4.0,
+            5.0,
+            5.0
+        ],
+        "empathy_scores": [
+            5.0,
+            3.0,
+            5.0
+        ]
+    },
+    "subjective_evaluation": {
+        "preference": 3.0,
+        "stylistic_similarity": 2.0,
+        "consistency": 3.0,
+        "empathy": 3.0
+    },
+    "dialogue": [
+        {
+            "message_id": 0,
+            "user_id": "0017",
+            "speaker": "Human",
+            "message": "I saw my friend for the first time in 10 years the other day. We reminisced for hours!"
+        },
+        {
+            "message_id": 1,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "That's so awesome! What made you lose touch?"
+        },
+        {
+            "message_id": 2,
+            "user_id": "0017",
+            "speaker": "Human",
+            "message": "Just life. He went off to WV for college and I stayed home."
+        },
+        {
+            "message_id": 3,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "Time flies, huh?"
+        },
+        {
+            "message_id": 4,
+            "user_id": "0017",
+            "speaker": "Human",
+            "message": "Yeah. It was so nostalgic seeing him again."
+        },
+        {
+            "message_id": 5,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "Must've felt like no time had passed."
+        },
+        {
+            "message_id": 6,
+            "user_id": "0017",
+            "speaker": "Human",
+            "message": "Not really. He looks so different and I just felt like we got so old."
+        },
+        {
+            "message_id": 7,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "Reality check, huh?"
+        },
+        {
+            "message_id": 8,
+            "user_id": "0017",
+            "speaker": "Human",
+            "message": "Yeah. Nostalgia is bittersweet."
+        },
+        {
+            "message_id": 9,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "Definitely is."
+        },
+        {
+            "message_id": 10,
+            "user_id": "0017",
+            "speaker": "Human",
+            "message": "Its more bitter than sweet for me. It makes me sad looking back on my youth."
+        },
+        {
+            "message_id": 11,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "It's tough to accept that it's gone."
+        },
+        {
+            "message_id": 12,
+            "user_id": "0017",
+            "speaker": "Human",
+            "message": "Yes it is. But I still like doing things that make me feel it."
+        },
+        {
+            "message_id": 13,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "Holding on to it somehow."
+        },
+        {
+            "message_id": 14,
+            "user_id": "0017",
+            "speaker": "Human",
+            "message": "Yupp. I need to touch base with other old friends now."
+        },
+        {
+            "message_id": 15,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "Reunion mode activated!"
+        },
+        {
+            "message_id": 16,
+            "user_id": "0017",
+            "speaker": "Human",
+            "message": "Yeah, it should be fun to do the same with more people."
+        },
+        {
+            "message_id": 17,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "Catch up and relive old times!"
+        },
+        {
+            "message_id": 18,
+            "user_id": "0017",
+            "speaker": "Human",
+            "message": "Do you ever feel nostalgic>"
+        },
+        {
+            "message_id": 19,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "Yeah, who doesn't?"
+        }
+    ]
+}

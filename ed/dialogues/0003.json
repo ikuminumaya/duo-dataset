@@ -1,0 +1,162 @@
+{
+    "dialogue_id": "0003",
+    "setting": "ed",
+    "model": "gpt-4o",
+    "prompt": "neutral",
+    "emotion": "Prepared",
+    "episode": "I had a meeting with my boss' boss the other day and my preparation paid off!",
+    "objective_evaluation": {
+        "preference": 4.0,
+        "stylistic_similarity": 3.67,
+        "consistency": 4.33,
+        "empathy": 4.0,
+        "preference_scores": [
+            4.0,
+            3.0,
+            5.0
+        ],
+        "stylistic_similarity_scores": [
+            3.0,
+            3.0,
+            5.0
+        ],
+        "consistency_scores": [
+            4.0,
+            4.0,
+            5.0
+        ],
+        "empathy_scores": [
+            4.0,
+            3.0,
+            5.0
+        ]
+    },
+    "subjective_evaluation": {
+        "preference": 1.0,
+        "stylistic_similarity": 2.0,
+        "consistency": 5.0,
+        "empathy": 3.0
+    },
+    "dialogue": [
+        {
+            "message_id": 0,
+            "user_id": "0003",
+            "speaker": "Human",
+            "message": "Taking time to prepare is worth it.  I was asked to give an update to my manager's manager last week and I spent hours preparing and it went amazingly well."
+        },
+        {
+            "message_id": 1,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "That's fantastic! Your hard work really paid off."
+        },
+        {
+            "message_id": 2,
+            "user_id": "0003",
+            "speaker": "Human",
+            "message": "Absolutely.  I don't get in front of that level of leadership very often and I was able to make a good impression."
+        },
+        {
+            "message_id": 3,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "Well done! That's a big achievement."
+        },
+        {
+            "message_id": 4,
+            "user_id": "0003",
+            "speaker": "Human",
+            "message": "But now I've set the bar and have to do the same every time."
+        },
+        {
+            "message_id": 5,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "You've got this!"
+        },
+        {
+            "message_id": 6,
+            "user_id": "0003",
+            "speaker": "Human",
+            "message": "Yes, it just takes time away from getting work done."
+        },
+        {
+            "message_id": 7,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "I understand. Balancing is tough."
+        },
+        {
+            "message_id": 8,
+            "user_id": "0003",
+            "speaker": "Human",
+            "message": "It really is.  In general what's important to me is getting good work done, not showing it off."
+        },
+        {
+            "message_id": 9,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "That makes sense. Your dedication shows."
+        },
+        {
+            "message_id": 10,
+            "user_id": "0003",
+            "speaker": "Human",
+            "message": "I wish self promotion weren't necessary."
+        },
+        {
+            "message_id": 11,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "I get that."
+        },
+        {
+            "message_id": 12,
+            "user_id": "0003",
+            "speaker": "Human",
+            "message": "How do you know you haven't overprepared?"
+        },
+        {
+            "message_id": 13,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "Trust your instincts and the feedback you get."
+        },
+        {
+            "message_id": 14,
+            "user_id": "0003",
+            "speaker": "Human",
+            "message": "Is there anything more objective?"
+        },
+        {
+            "message_id": 15,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "Set clear goals and timelines."
+        },
+        {
+            "message_id": 16,
+            "user_id": "0003",
+            "speaker": "Human",
+            "message": "I always make sure to do that."
+        },
+        {
+            "message_id": 17,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "Great strategy!"
+        },
+        {
+            "message_id": 18,
+            "user_id": "0003",
+            "speaker": "Human",
+            "message": "I also write down everything I want to say in meetings where I think I might get nervous and have my mind go blank."
+        },
+        {
+            "message_id": 19,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "Smart move!"
+        }
+    ]
+}

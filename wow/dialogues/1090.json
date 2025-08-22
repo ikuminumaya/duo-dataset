@@ -1,0 +1,141 @@
+{
+    "dialogue_id": "1090",
+    "setting": "wow",
+    "model": "gpt-4o",
+    "prompt": "not_aligned",
+    "topic": "Mount Kilimanjaro",
+    "subjective_evaluation": {
+        "preference": 5.0,
+        "stylistic_similarity": 5.0,
+        "consistency": 5.0,
+        "engagingness": 4.0
+    },
+    "dialogue": [
+        {
+            "message_id": 0,
+            "system_id": "0008",
+            "speaker": "Bot",
+            "message": "Mount Kilimanjaro, with its three volcanic cones, is the highest mountain in Africa and a major climbing destination, located in Tanzania."
+        },
+        {
+            "message_id": 1,
+            "user_id": "0037",
+            "speaker": "Human",
+            "message": "What is the average temperature at the top?"
+        },
+        {
+            "message_id": 2,
+            "system_id": "0008",
+            "speaker": "Bot",
+            "message": "At the top of Mount Kilimanjaro, temperatures can drop to around -7°C (19°F) or even lower, especially at night."
+        },
+        {
+            "message_id": 3,
+            "user_id": "0037",
+            "speaker": "Human",
+            "message": "How many people climb to the top each year?"
+        },
+        {
+            "message_id": 4,
+            "system_id": "0008",
+            "speaker": "Bot",
+            "message": "Every year, about 30,000 to 40,000 people attempt to climb to the summit of Mount Kilimanjaro."
+        },
+        {
+            "message_id": 5,
+            "user_id": "0037",
+            "speaker": "Human",
+            "message": "Has it ever erupted?"
+        },
+        {
+            "message_id": 6,
+            "system_id": "0008",
+            "speaker": "Bot",
+            "message": "Mount Kilimanjaro's Kibo cone is dormant and could erupt again, but its other cones, Mawenzi and Shira, are extinct."
+        },
+        {
+            "message_id": 7,
+            "user_id": "0037",
+            "speaker": "Human",
+            "message": "How long does it take on average to climb to the top?"
+        },
+        {
+            "message_id": 8,
+            "system_id": "0008",
+            "speaker": "Bot",
+            "message": "Climbing to the top of Mount Kilimanjaro usually takes between five to nine days, depending on the route and pace."
+        },
+        {
+            "message_id": 9,
+            "user_id": "0037",
+            "speaker": "Human",
+            "message": "Can you climb it year round?"
+        },
+        {
+            "message_id": 10,
+            "system_id": "0008",
+            "speaker": "Bot",
+            "message": "Yes, you can climb Mount Kilimanjaro year-round, but the best times are during the dry seasons from late June to October and from late December to February."
+        },
+        {
+            "message_id": 11,
+            "user_id": "0037",
+            "speaker": "Human",
+            "message": "How many have died trying?"
+        },
+        {
+            "message_id": 12,
+            "system_id": "0008",
+            "speaker": "Bot",
+            "message": "While exact numbers vary, it's estimated that around 10 climbers die on Mount Kilimanjaro each year."
+        },
+        {
+            "message_id": 13,
+            "user_id": "0037",
+            "speaker": "Human",
+            "message": "Do you have to pay to try to climb it?"
+        },
+        {
+            "message_id": 14,
+            "system_id": "0008",
+            "speaker": "Bot",
+            "message": "Yes, you need to pay a fee, as Mount Kilimanjaro is part of a national park managed by the Tanzania National Parks Authority."
+        },
+        {
+            "message_id": 15,
+            "user_id": "0037",
+            "speaker": "Human",
+            "message": "I didn't realize it was a national park"
+        },
+        {
+            "message_id": 16,
+            "system_id": "0008",
+            "speaker": "Bot",
+            "message": "Yes, it's part of the Kilimanjaro National Park and is a major climbing destination."
+        },
+        {
+            "message_id": 17,
+            "user_id": "0037",
+            "speaker": "Human",
+            "message": "Is there others things to do at the bottom of the mountain?"
+        },
+        {
+            "message_id": 18,
+            "system_id": "0008",
+            "speaker": "Bot",
+            "message": "Yes, the base of Mount Kilimanjaro offers various activities, including exploring the rich wildlife and scenic landscapes of Kilimanjaro National Park."
+        },
+        {
+            "message_id": 19,
+            "user_id": "0037",
+            "speaker": "Human",
+            "message": "Sounds like so much fun"
+        },
+        {
+            "message_id": 20,
+            "system_id": "0008",
+            "speaker": "Bot",
+            "message": "Absolutely, the base of Kilimanjaro offers plenty of fun, including exploring its beautiful national park and observing the fascinating wildlife!"
+        }
+    ]
+}

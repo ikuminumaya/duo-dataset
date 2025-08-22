@@ -1,0 +1,167 @@
+{
+    "dialogue_id": "1028",
+    "setting": "wow",
+    "model": "Llama-3.1-70B-Instruct",
+    "prompt": "neutral",
+    "topic": "Apple",
+    "objective_evaluation": {
+        "preference": 3.33,
+        "stylistic_similarity": 3.33,
+        "consistency": 4.0,
+        "engagingness": 3.33,
+        "preference_scores": [
+            4.0,
+            3.0,
+            3.0
+        ],
+        "stylistic_similarity_scores": [
+            4.0,
+            4.0,
+            2.0
+        ],
+        "consistency_scores": [
+            4.0,
+            3.0,
+            5.0
+        ],
+        "engagingness_scores": [
+            4.0,
+            3.0,
+            3.0
+        ]
+    },
+    "subjective_evaluation": {
+        "preference": 3.0,
+        "stylistic_similarity": 3.0,
+        "consistency": 4.0,
+        "engagingness": 2.0
+    },
+    "dialogue": [
+        {
+            "message_id": 0,
+            "system_id": "0009",
+            "speaker": "Bot",
+            "message": "Hi! I'm excited to talk about apples, have you tried any new varieties lately?"
+        },
+        {
+            "message_id": 1,
+            "user_id": "0029",
+            "speaker": "Human",
+            "message": "I have not tried new varieties lately but I love having a lot of choices. What is the most popular apple variety?"
+        },
+        {
+            "message_id": 2,
+            "system_id": "0009",
+            "speaker": "Bot",
+            "message": "Unfortunately, I don't have that info, but I do know there are over 7,500 known cultivars of apples!"
+        },
+        {
+            "message_id": 3,
+            "user_id": "0029",
+            "speaker": "Human",
+            "message": "That is a lot. Where are most apples cultivated in the United States?"
+        },
+        {
+            "message_id": 4,
+            "system_id": "0009",
+            "speaker": "Bot",
+            "message": "Apples are grown in many parts of the US, but I'm not sure about the specific top region, however, I do know they were brought to North America by European colonists."
+        },
+        {
+            "message_id": 5,
+            "user_id": "0029",
+            "speaker": "Human",
+            "message": "Apples are not native the US. Interesting. What kind of apples are used in baking?"
+        },
+        {
+            "message_id": 6,
+            "system_id": "0009",
+            "speaker": "Bot",
+            "message": "Some apple varieties are better suited for baking, but I'm not sure which specific ones, I do know different cultivars are bred for various tastes and uses, including cooking!"
+        },
+        {
+            "message_id": 7,
+            "user_id": "0029",
+            "speaker": "Human",
+            "message": "Do you know how many different variety of apples are grown in the United States?"
+        },
+        {
+            "message_id": 8,
+            "system_id": "0009",
+            "speaker": "Bot",
+            "message": "I don't have the exact number for the US, but I do know there are over 7,500 known cultivars of apples worldwide!"
+        },
+        {
+            "message_id": 9,
+            "user_id": "0029",
+            "speaker": "Human",
+            "message": "What other regions of the world grow apples?"
+        },
+        {
+            "message_id": 10,
+            "system_id": "0009",
+            "speaker": "Bot",
+            "message": "Apples have been grown for thousands of years in Asia and Europe, and they're also cultivated worldwide, with the tree originally coming from Central Asia."
+        },
+        {
+            "message_id": 11,
+            "user_id": "0029",
+            "speaker": "Human",
+            "message": "Do apples grown in Asia taste different than those grown in the United States?"
+        },
+        {
+            "message_id": 12,
+            "system_id": "0009",
+            "speaker": "Bot",
+            "message": "I'm not sure about the taste difference, but I do know apples have been grown in Asia for thousands of years, and different cultivars are bred for various tastes!"
+        },
+        {
+            "message_id": 13,
+            "user_id": "0029",
+            "speaker": "Human",
+            "message": "Apples have their root in Asia. That's cool. When did they make their way to Europe?"
+        },
+        {
+            "message_id": 14,
+            "system_id": "0009",
+            "speaker": "Bot",
+            "message": "I don't have a specific timeline, but I do know apples have been grown for thousands of years in both Asia and Europe!"
+        },
+        {
+            "message_id": 15,
+            "user_id": "0029",
+            "speaker": "Human",
+            "message": "Are all apples red?"
+        },
+        {
+            "message_id": 16,
+            "system_id": "0009",
+            "speaker": "Bot",
+            "message": "No, definitely not! I don't have specifics on colors, but with over 7,500 cultivars, I'm sure there's a wide range of colors and varieties!"
+        },
+        {
+            "message_id": 17,
+            "user_id": "0029",
+            "speaker": "Human",
+            "message": "What is the favor profile of an apple grown in Europe?"
+        },
+        {
+            "message_id": 18,
+            "system_id": "0009",
+            "speaker": "Bot",
+            "message": "I don't have specific info on European apple flavor profiles, but I do know different cultivars are bred for various tastes, so it likely varies!"
+        },
+        {
+            "message_id": 19,
+            "user_id": "0029",
+            "speaker": "Human",
+            "message": "Are all apples sweet?"
+        },
+        {
+            "message_id": 20,
+            "system_id": "0009",
+            "speaker": "Bot",
+            "message": "No, not all apples are sweet! Some are better suited for cooking or cider production, suggesting they might be more tart or bitter."
+        }
+    ]
+}

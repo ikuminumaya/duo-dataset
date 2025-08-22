@@ -1,0 +1,141 @@
+{
+    "dialogue_id": "1155",
+    "setting": "wow",
+    "model": "Llama-3.1-70B-Instruct",
+    "prompt": "not_aligned",
+    "topic": "India",
+    "subjective_evaluation": {
+        "preference": 5.0,
+        "stylistic_similarity": 5.0,
+        "consistency": 5.0,
+        "engagingness": 5.0
+    },
+    "dialogue": [
+        {
+            "message_id": 0,
+            "system_id": "0011",
+            "speaker": "Bot",
+            "message": "I'm excited to chat with you about India, a country with a rich history and diverse culture!"
+        },
+        {
+            "message_id": 1,
+            "user_id": "0021",
+            "speaker": "Human",
+            "message": "I find India to be a very interesting country."
+        },
+        {
+            "message_id": 2,
+            "system_id": "0011",
+            "speaker": "Bot",
+            "message": "It's indeed a fascinating place, home to over 1.2 billion people, making it the world's second-most populous country!"
+        },
+        {
+            "message_id": 3,
+            "user_id": "0021",
+            "speaker": "Human",
+            "message": "that is a lot of people. what language to they speak?"
+        },
+        {
+            "message_id": 4,
+            "system_id": "0011",
+            "speaker": "Bot",
+            "message": "Actually, India has many languages, but Hindi is the official one, and English is widely spoken too!"
+        },
+        {
+            "message_id": 5,
+            "user_id": "0021",
+            "speaker": "Human",
+            "message": "what religion to they have?"
+        },
+        {
+            "message_id": 6,
+            "system_id": "0011",
+            "speaker": "Bot",
+            "message": "India's a melting pot of faiths, but Hinduism's the most prominent, with Buddhism, Jainism, and others like Sikhism, Islam, and Christianity also present!"
+        },
+        {
+            "message_id": 7,
+            "user_id": "0021",
+            "speaker": "Human",
+            "message": "So, tell me an interesting fact about India."
+        },
+        {
+            "message_id": 8,
+            "system_id": "0011",
+            "speaker": "Bot",
+            "message": "Did you know that India is home to the ancient Indus Valley Civilization, which dates back to the 3rd millennium BCE?"
+        },
+        {
+            "message_id": 9,
+            "user_id": "0021",
+            "speaker": "Human",
+            "message": "i never heard about that"
+        },
+        {
+            "message_id": 10,
+            "system_id": "0011",
+            "speaker": "Bot",
+            "message": "It's a pretty cool piece of history! The Indus Valley people were known for their advanced urban planning and architecture, and their cities were surprisingly sophisticated for that time period."
+        },
+        {
+            "message_id": 11,
+            "user_id": "0021",
+            "speaker": "Human",
+            "message": "Where were they located?"
+        },
+        {
+            "message_id": 12,
+            "system_id": "0011",
+            "speaker": "Bot",
+            "message": "The Indus Valley Civilization was located in the northwestern part of the Indian subcontinent, which is now modern-day Pakistan and northwestern India."
+        },
+        {
+            "message_id": 13,
+            "user_id": "0021",
+            "speaker": "Human",
+            "message": "tell me another fact"
+        },
+        {
+            "message_id": 14,
+            "system_id": "0011",
+            "speaker": "Bot",
+            "message": "India is bounded by the Indian Ocean to the south, the Arabian Sea to the southwest, and the Bay of Bengal to the southeast, making it a country with a really long coastline!"
+        },
+        {
+            "message_id": 15,
+            "user_id": "0021",
+            "speaker": "Human",
+            "message": "Okay, what I find interesting about India is there rich mathematic history."
+        },
+        {
+            "message_id": 16,
+            "system_id": "0011",
+            "speaker": "Bot",
+            "message": "That's awesome! India has indeed made significant contributions to mathematics, and the concept of zero, which revolutionized math, originated in ancient India!"
+        },
+        {
+            "message_id": 17,
+            "user_id": "0021",
+            "speaker": "Human",
+            "message": "i wonder why zero was such a hidden idea before India came up with it."
+        },
+        {
+            "message_id": 18,
+            "system_id": "0011",
+            "speaker": "Bot",
+            "message": "Yeah, it's surprising that such a fundamental concept took so long to emerge, but I think it's because many ancient cultures used various symbols for \"nothing\" or \"void\", but the Indians were the first to give it a specific value and use it as a placeholder in their numeral system!"
+        },
+        {
+            "message_id": 19,
+            "user_id": "0021",
+            "speaker": "Human",
+            "message": "makes sense, they standardized the concept sort of speak"
+        },
+        {
+            "message_id": 20,
+            "system_id": "0011",
+            "speaker": "Bot",
+            "message": "The Indians formalized the concept of zero, making it a distinct number with its own properties, which was a game-changer for math and paved the way for many groundbreaking discoveries!"
+        }
+    ]
+}

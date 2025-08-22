@@ -1,0 +1,141 @@
+{
+    "dialogue_id": "1069",
+    "setting": "wow",
+    "model": "gpt-4o",
+    "prompt": "aligned",
+    "topic": "Coffee",
+    "subjective_evaluation": {
+        "preference": 4.0,
+        "stylistic_similarity": 3.0,
+        "consistency": 5.0,
+        "engagingness": 2.0
+    },
+    "dialogue": [
+        {
+            "message_id": 0,
+            "system_id": "0007",
+            "speaker": "Bot",
+            "message": "Coffee is a popular drink made from roasted coffee beans and comes from the seeds of the Coffea plant, native to places like Ethiopia and Madagascar."
+        },
+        {
+            "message_id": 1,
+            "user_id": "0016",
+            "speaker": "Human",
+            "message": "Okay.  I don't drink coffee though."
+        },
+        {
+            "message_id": 2,
+            "system_id": "0007",
+            "speaker": "Bot",
+            "message": "That's cool! Coffee comes from roasted seeds called beans, and it's really popular because of the caffeine boost it gives."
+        },
+        {
+            "message_id": 3,
+            "user_id": "0016",
+            "speaker": "Human",
+            "message": "Does it stain your teeth?"
+        },
+        {
+            "message_id": 4,
+            "system_id": "0007",
+            "speaker": "Bot",
+            "message": "Yeah, coffee can stain your teeth over time because of its acidity and dark color."
+        },
+        {
+            "message_id": 5,
+            "user_id": "0016",
+            "speaker": "Human",
+            "message": "Sounds like it would wear your enamel out too."
+        },
+        {
+            "message_id": 6,
+            "system_id": "0007",
+            "speaker": "Bot",
+            "message": "Yeah, the acidity in coffee can wear down enamel over time too."
+        },
+        {
+            "message_id": 7,
+            "user_id": "0016",
+            "speaker": "Human",
+            "message": "Can it through your circadian system off?"
+        },
+        {
+            "message_id": 8,
+            "system_id": "0007",
+            "speaker": "Bot",
+            "message": "Yeah, coffee's caffeine can mess with your sleep cycle if you drink it too late in the day."
+        },
+        {
+            "message_id": 9,
+            "user_id": "0016",
+            "speaker": "Human",
+            "message": "Does South America grow coffee?"
+        },
+        {
+            "message_id": 10,
+            "system_id": "0007",
+            "speaker": "Bot",
+            "message": "Yeah, South America definitely grows coffee, especially countries near the equator."
+        },
+        {
+            "message_id": 11,
+            "user_id": "0016",
+            "speaker": "Human",
+            "message": "I read that Hawaii grows coffee."
+        },
+        {
+            "message_id": 12,
+            "system_id": "0007",
+            "speaker": "Bot",
+            "message": "Yep, Hawaii does grow coffee; it's the only U.S. state that does!"
+        },
+        {
+            "message_id": 13,
+            "user_id": "0016",
+            "speaker": "Human",
+            "message": "I'm surprised Florida or California doesn't."
+        },
+        {
+            "message_id": 14,
+            "system_id": "0007",
+            "speaker": "Bot",
+            "message": "Florida and California aren't in the right climate zone for coffee, which thrives in equatorial regions."
+        },
+        {
+            "message_id": 15,
+            "user_id": "0016",
+            "speaker": "Human",
+            "message": "I read that coffee could be going up in price due to tariffs."
+        },
+        {
+            "message_id": 16,
+            "system_id": "0007",
+            "speaker": "Bot",
+            "message": "Yeah, tariffs can make coffee pricier since it's grown in many countries around the equator."
+        },
+        {
+            "message_id": 17,
+            "user_id": "0016",
+            "speaker": "Human",
+            "message": "Is it grown in Mexico?"
+        },
+        {
+            "message_id": 18,
+            "system_id": "0007",
+            "speaker": "Bot",
+            "message": "Yeah, Mexico does grow coffee, primarily in regions with the right climate."
+        },
+        {
+            "message_id": 19,
+            "user_id": "0016",
+            "speaker": "Human",
+            "message": "What about Cuba?"
+        },
+        {
+            "message_id": 20,
+            "system_id": "0007",
+            "speaker": "Bot",
+            "message": "Yeah, Cuba does grow coffee, too, mainly in its mountainous regions."
+        }
+    ]
+}

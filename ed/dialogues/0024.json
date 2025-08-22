@@ -1,0 +1,162 @@
+{
+    "dialogue_id": "0024",
+    "setting": "ed",
+    "model": "gpt-4o",
+    "prompt": "not_aligned",
+    "emotion": "Excited",
+    "episode": "I felt excited when I bought my first car way back when. It was a rewarding experience full of excitement.",
+    "objective_evaluation": {
+        "preference": 4.33,
+        "stylistic_similarity": 3.33,
+        "consistency": 5.0,
+        "empathy": 4.67,
+        "preference_scores": [
+            4.0,
+            4.0,
+            5.0
+        ],
+        "stylistic_similarity_scores": [
+            3.0,
+            3.0,
+            4.0
+        ],
+        "consistency_scores": [
+            5.0,
+            5.0,
+            5.0
+        ],
+        "empathy_scores": [
+            4.0,
+            5.0,
+            5.0
+        ]
+    },
+    "subjective_evaluation": {
+        "preference": 4.0,
+        "stylistic_similarity": 3.0,
+        "consistency": 3.0,
+        "empathy": 4.0
+    },
+    "dialogue": [
+        {
+            "message_id": 0,
+            "user_id": "0015",
+            "speaker": "Human",
+            "message": "I felt excited when I bought my first car way back when. It was a rewarding experience full of excitement. "
+        },
+        {
+            "message_id": 1,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "That's awesome! Buying your first car is a huge deal. How did it feel driving it for the first time?"
+        },
+        {
+            "message_id": 2,
+            "user_id": "0015",
+            "speaker": "Human",
+            "message": "It felt amazing! I was still in high school and remember feeling so grown up driving to school the next day. "
+        },
+        {
+            "message_id": 3,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "That sounds exhilarating! Must have been quite the confidence boost."
+        },
+        {
+            "message_id": 4,
+            "user_id": "0015",
+            "speaker": "Human",
+            "message": "It was as I felt I got more attention at school as well. "
+        },
+        {
+            "message_id": 5,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "Nice! Bet it felt like being in the spotlight."
+        },
+        {
+            "message_id": 6,
+            "user_id": "0015",
+            "speaker": "Human",
+            "message": "I just remember the excitement of having my own wheels and being able to drive anywhere I wanted. "
+        },
+        {
+            "message_id": 7,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "Independence is thrilling! Freedom on wheels!"
+        },
+        {
+            "message_id": 8,
+            "user_id": "0015",
+            "speaker": "Human",
+            "message": "Yeah, I also was excited to find a job considering I now had a car note to pay. "
+        },
+        {
+            "message_id": 9,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "Balancing freedom with responsibility, huh? Sounds challenging but rewarding!"
+        },
+        {
+            "message_id": 10,
+            "user_id": "0015",
+            "speaker": "Human",
+            "message": "It is very rewarding. It's an experience that helped me learn to be financially literate. "
+        },
+        {
+            "message_id": 11,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "That's valuable knowledge, indeed. A commendable journey."
+        },
+        {
+            "message_id": 12,
+            "user_id": "0015",
+            "speaker": "Human",
+            "message": "Yep! I learned virtues that I still hold now that really have helped me throughout my life. "
+        },
+        {
+            "message_id": 13,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "Indeed, a most enlightening journey. Such virtues endure, shaping one's path with wisdom and prudence."
+        },
+        {
+            "message_id": 14,
+            "user_id": "0015",
+            "speaker": "Human",
+            "message": "I must admit, I was also a tad nervous."
+        },
+        {
+            "message_id": 15,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "Totally understandable! New responsibilities can be nerve-wracking."
+        },
+        {
+            "message_id": 16,
+            "user_id": "0015",
+            "speaker": "Human",
+            "message": "I didn't want to get in car crashes."
+        },
+        {
+            "message_id": 17,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "Safety first! It's wise to be cautious."
+        },
+        {
+            "message_id": 18,
+            "user_id": "0015",
+            "speaker": "Human",
+            "message": "Yeah, there were a few close calls so I also learned to drive safe. "
+        },
+        {
+            "message_id": 19,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "Wise lessons indeed! Safe driving is key."
+        }
+    ]
+}

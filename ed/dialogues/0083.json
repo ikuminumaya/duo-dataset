@@ -1,0 +1,136 @@
+{
+    "dialogue_id": "0083",
+    "setting": "ed",
+    "model": "gpt-4o",
+    "prompt": "aligned",
+    "emotion": "Proud",
+    "episode": "I have a chronic illness that I have been dealing with for decades.  I recently went to the doctor who said that I was one of the best patients with this disease that she has seen.",
+    "subjective_evaluation": {
+        "preference": 4.0,
+        "stylistic_similarity": 3.0,
+        "consistency": 5.0,
+        "empathy": 4.0
+    },
+    "dialogue": [
+        {
+            "message_id": 0,
+            "user_id": "0007",
+            "speaker": "Human",
+            "message": "I have been dealing with a chronic illness for most of my life.  Type 1 Diabetes.  "
+        },
+        {
+            "message_id": 1,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "That sounds really tough. How have you been managing it lately?"
+        },
+        {
+            "message_id": 2,
+            "user_id": "0007",
+            "speaker": "Human",
+            "message": "It's tough, but I recently went to the doctor.  The doctor said that I was one of the most well-controlled Type 1 Diabetics that she has seen.  That helped to encourage me."
+        },
+        {
+            "message_id": 3,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "That's amazing! Sounds like you're doing a great job managing it. Keep it up!"
+        },
+        {
+            "message_id": 4,
+            "user_id": "0007",
+            "speaker": "Human",
+            "message": "Thank you!  It's really difficult.  There are no vacations.  But, little bits of inspiration have helped me to keep on pressing forward."
+        },
+        {
+            "message_id": 5,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "That's great to hear! Keep finding those bits of inspiration. You're doing amazing!"
+        },
+        {
+            "message_id": 6,
+            "user_id": "0007",
+            "speaker": "Human",
+            "message": "Sometimes, you have to just take one day at a time.  It can get overwhelming trying to balance everything."
+        },
+        {
+            "message_id": 7,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "Absolutely, just focus on today. You're doing great!"
+        },
+        {
+            "message_id": 8,
+            "user_id": "0007",
+            "speaker": "Human",
+            "message": "My doctor wanted to know what my routine was because I was doing so well with the disease."
+        },
+        {
+            "message_id": 9,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "That's so impressive! You should be proud."
+        },
+        {
+            "message_id": 10,
+            "user_id": "0007",
+            "speaker": "Human",
+            "message": "I am.  I am also fortunate because I stumbled upon certain strategies that helped me to control this illness."
+        },
+        {
+            "message_id": 11,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "That's awesome! Those strategies are clearly working for you."
+        },
+        {
+            "message_id": 12,
+            "user_id": "0007",
+            "speaker": "Human",
+            "message": "Thank you.  Technology advancements have also helped me along the way.  It has definitely made it easier.  "
+        },
+        {
+            "message_id": 13,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "That's great to hear! Technology can be such a game-changer."
+        },
+        {
+            "message_id": 14,
+            "user_id": "0007",
+            "speaker": "Human",
+            "message": "I wish I had some of this technology as a child.  It would have made my life and my parent's lives much more easier."
+        },
+        {
+            "message_id": 15,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "I can imagine. It's amazing how far tech has come!"
+        },
+        {
+            "message_id": 16,
+            "user_id": "0007",
+            "speaker": "Human",
+            "message": "It's truly amazing.  I think the technology combined with my mastery of the basics have allowed me to go far. "
+        },
+        {
+            "message_id": 17,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "That's fantastic! You're doing an incredible job."
+        },
+        {
+            "message_id": 18,
+            "user_id": "0007",
+            "speaker": "Human",
+            "message": "I hope I can help some other Type 1 Diabetics who may need some help along the way.  I want people to feel like they aren't alone."
+        },
+        {
+            "message_id": 19,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "That's a wonderful goal! You can make a real difference."
+        }
+    ]
+}

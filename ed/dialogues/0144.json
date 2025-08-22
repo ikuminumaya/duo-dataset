@@ -1,0 +1,136 @@
+{
+    "dialogue_id": "0144",
+    "setting": "ed",
+    "model": "Llama-3.1-70B-Instruct",
+    "prompt": "not_aligned",
+    "emotion": "Afraid",
+    "episode": "I went into labor 8 weeks early. I had to spend 3 weeks in the hospital.",
+    "subjective_evaluation": {
+        "preference": 4.0,
+        "stylistic_similarity": 5.0,
+        "consistency": 5.0,
+        "empathy": 5.0
+    },
+    "dialogue": [
+        {
+            "message_id": 0,
+            "user_id": "0033",
+            "speaker": "Human",
+            "message": "I went into labor 8 weeks early. I had to spend 3 weeks in the hospital."
+        },
+        {
+            "message_id": 1,
+            "system_id": "0005",
+            "speaker": "Bot",
+            "message": "That must have been incredibly stressful and scary for you."
+        },
+        {
+            "message_id": 2,
+            "user_id": "0033",
+            "speaker": "Human",
+            "message": "Yes, I was terrified for my baby."
+        },
+        {
+            "message_id": 3,
+            "system_id": "0005",
+            "speaker": "Bot",
+            "message": "I can imagine. Premature birth can be so worrying. How's the baby now?"
+        },
+        {
+            "message_id": 4,
+            "user_id": "0033",
+            "speaker": "Human",
+            "message": "He was born completely healthy and years later is doing great. Thank you for asking."
+        },
+        {
+            "message_id": 5,
+            "system_id": "0005",
+            "speaker": "Bot",
+            "message": "What a wonderful relief and blessing!"
+        },
+        {
+            "message_id": 6,
+            "user_id": "0033",
+            "speaker": "Human",
+            "message": "It sure is! I wish I had known at the time that everything would have been fine."
+        },
+        {
+            "message_id": 7,
+            "system_id": "0005",
+            "speaker": "Bot",
+            "message": "Hindsight is always easier, isn't it?"
+        },
+        {
+            "message_id": 8,
+            "user_id": "0033",
+            "speaker": "Human",
+            "message": "Absolutely"
+        },
+        {
+            "message_id": 9,
+            "system_id": "0005",
+            "speaker": "Bot",
+            "message": "It's great that you can look back on it with peace now."
+        },
+        {
+            "message_id": 10,
+            "user_id": "0033",
+            "speaker": "Human",
+            "message": "Yes, it seems like almost yesterday and also so long ago. The nice part of being in the hospital was having another set of eyes on my baby, so it was not all bad."
+        },
+        {
+            "message_id": 11,
+            "system_id": "0005",
+            "speaker": "Bot",
+            "message": "The extra care and attention must've been reassuring."
+        },
+        {
+            "message_id": 12,
+            "user_id": "0033",
+            "speaker": "Human",
+            "message": "For the most part. I do remember shortly after having him, not being able to hold him as a nurse was inserting a feeding tube and she was struggling and that, too, was scary. I worried it was causing damage. But he seemed fine. It was a very stressful and scary time."
+        },
+        {
+            "message_id": 13,
+            "system_id": "0005",
+            "speaker": "Bot",
+            "message": "Those moments can be really traumatic for a new mom."
+        },
+        {
+            "message_id": 14,
+            "user_id": "0033",
+            "speaker": "Human",
+            "message": "Yes, for sure. I camped out in the NICU but it was hard to sleep hundreds of feet away in my hospital room away from my new baby."
+        },
+        {
+            "message_id": 15,
+            "system_id": "0005",
+            "speaker": "Bot",
+            "message": "That must've been so hard, being separated from him like that."
+        },
+        {
+            "message_id": 16,
+            "user_id": "0033",
+            "speaker": "Human",
+            "message": "It was hard. It was confusing, because at home, I would be responsible for doing everything. But at the hospital a nurse told me to take off one feeding and get some sleep and she would handle it."
+        },
+        {
+            "message_id": 17,
+            "system_id": "0005",
+            "speaker": "Bot",
+            "message": "It's tough to let go and trust others with your baby's care."
+        },
+        {
+            "message_id": 18,
+            "user_id": "0033",
+            "speaker": "Human",
+            "message": "Oh for sure. We did not let anyone else hold our baby for months, except for grandparents, because we were so scared he would get sick. He had to have different formula for awhile that is safer."
+        },
+        {
+            "message_id": 19,
+            "system_id": "0005",
+            "speaker": "Bot",
+            "message": "That's completely understandable, given his premature birth."
+        }
+    ]
+}

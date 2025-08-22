@@ -1,0 +1,136 @@
+{
+    "dialogue_id": "0142",
+    "setting": "ed",
+    "model": "Llama-3.1-70B-Instruct",
+    "prompt": "not_aligned",
+    "emotion": "Annoyed",
+    "episode": "I found out my boyfriend is going on vacation without me.",
+    "subjective_evaluation": {
+        "preference": 3.0,
+        "stylistic_similarity": 3.0,
+        "consistency": 3.0,
+        "empathy": 5.0
+    },
+    "dialogue": [
+        {
+            "message_id": 0,
+            "user_id": "0032",
+            "speaker": "Human",
+            "message": "I found out that my boyfriend is going on vacation without me. "
+        },
+        {
+            "message_id": 1,
+            "system_id": "0005",
+            "speaker": "Bot",
+            "message": "That must be really hurtful and frustrating for you."
+        },
+        {
+            "message_id": 2,
+            "user_id": "0032",
+            "speaker": "Human",
+            "message": "It is so very "
+        },
+        {
+            "message_id": 3,
+            "system_id": "0005",
+            "speaker": "Bot",
+            "message": "It sounds like you're feeling pretty left out and upset."
+        },
+        {
+            "message_id": 4,
+            "user_id": "0032",
+            "speaker": "Human",
+            "message": "what do you recommend "
+        },
+        {
+            "message_id": 5,
+            "system_id": "0005",
+            "speaker": "Bot",
+            "message": "Talk to him about how you feel, maybe there's a reason you weren't included."
+        },
+        {
+            "message_id": 6,
+            "user_id": "0032",
+            "speaker": "Human",
+            "message": "I am very frustrated and feel left out. "
+        },
+        {
+            "message_id": 7,
+            "system_id": "0005",
+            "speaker": "Bot",
+            "message": "It's understandable, feels like he's prioritizing something else over you."
+        },
+        {
+            "message_id": 8,
+            "user_id": "0032",
+            "speaker": "Human",
+            "message": "are there ways I should bring this up that would be best?"
+        },
+        {
+            "message_id": 9,
+            "system_id": "0005",
+            "speaker": "Bot",
+            "message": "Choose a calm moment, use \"I\" statements, express feelings, avoid blaming him."
+        },
+        {
+            "message_id": 10,
+            "user_id": "0032",
+            "speaker": "Human",
+            "message": "what if it is because he wants to break up"
+        },
+        {
+            "message_id": 11,
+            "system_id": "0005",
+            "speaker": "Bot",
+            "message": "That's a tough possibility, be prepared for an honest conversation, but also take care of yourself."
+        },
+        {
+            "message_id": 12,
+            "user_id": "0032",
+            "speaker": "Human",
+            "message": "I am not ready to have the conversation, what should I do "
+        },
+        {
+            "message_id": 13,
+            "system_id": "0005",
+            "speaker": "Bot",
+            "message": "Take some time to process your emotions, reflect on what you want to say and how you feel."
+        },
+        {
+            "message_id": 14,
+            "user_id": "0032",
+            "speaker": "Human",
+            "message": "that might be a good idea, what about other ideas?"
+        },
+        {
+            "message_id": 15,
+            "system_id": "0005",
+            "speaker": "Bot",
+            "message": "Write down your thoughts, talk to a trusted friend or family member for support."
+        },
+        {
+            "message_id": 16,
+            "user_id": "0032",
+            "speaker": "Human",
+            "message": "I will think about that"
+        },
+        {
+            "message_id": 17,
+            "system_id": "0005",
+            "speaker": "Bot",
+            "message": "Take all the time you need, prioritize your own emotional well-being."
+        },
+        {
+            "message_id": 18,
+            "user_id": "0032",
+            "speaker": "Human",
+            "message": "thank you for helping me"
+        },
+        {
+            "message_id": 19,
+            "system_id": "0005",
+            "speaker": "Bot",
+            "message": "You're welcome, feel free to talk more if you need to."
+        }
+    ]
+}

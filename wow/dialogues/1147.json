@@ -1,0 +1,141 @@
+{
+    "dialogue_id": "1147",
+    "setting": "wow",
+    "model": "Llama-3.1-70B-Instruct",
+    "prompt": "not_aligned",
+    "topic": "Veganism",
+    "subjective_evaluation": {
+        "preference": 4.0,
+        "stylistic_similarity": 3.0,
+        "consistency": 5.0,
+        "engagingness": 4.0
+    },
+    "dialogue": [
+        {
+            "message_id": 0,
+            "system_id": "0011",
+            "speaker": "Bot",
+            "message": "Let's dive into veganism, shall we?"
+        },
+        {
+            "message_id": 1,
+            "user_id": "0008",
+            "speaker": "Human",
+            "message": "When did veganism first appear in texts?"
+        },
+        {
+            "message_id": 2,
+            "system_id": "0011",
+            "speaker": "Bot",
+            "message": "Veganism's roots trace back to ancient civilizations, but the term \"vegan\" was first coined in 1944 by Donald Watson, an English animal rights activist."
+        },
+        {
+            "message_id": 3,
+            "user_id": "0008",
+            "speaker": "Human",
+            "message": "What are some health benefits of veganism?"
+        },
+        {
+            "message_id": 4,
+            "system_id": "0011",
+            "speaker": "Bot",
+            "message": "A well-planned vegan diet can help reduce the risk of heart disease, among other chronic diseases."
+        },
+        {
+            "message_id": 5,
+            "user_id": "0008",
+            "speaker": "Human",
+            "message": "What diseases can veganism give you?"
+        },
+        {
+            "message_id": 6,
+            "system_id": "0011",
+            "speaker": "Bot",
+            "message": "Actually, a poorly planned vegan diet can lead to deficiencies, but a well-planned one is generally considered safe for all ages, except the German Society for Nutrition advises against it for kids, teens, and pregnant/breastfeeding women."
+        },
+        {
+            "message_id": 7,
+            "user_id": "0008",
+            "speaker": "Human",
+            "message": "What are the most common deficiencies?"
+        },
+        {
+            "message_id": 8,
+            "system_id": "0011",
+            "speaker": "Bot",
+            "message": "Vegans often need to watch out for vitamin B12, iron, and omega-3 deficiencies, but a balanced diet can easily avoid these issues."
+        },
+        {
+            "message_id": 9,
+            "user_id": "0008",
+            "speaker": "Human",
+            "message": "What foods are rich in those?"
+        },
+        {
+            "message_id": 10,
+            "system_id": "0011",
+            "speaker": "Bot",
+            "message": "Vegans can get vitamin B12 from fortified plant milk, iron from dark leafy greens and legumes, and omega-3s from algae oil and walnuts."
+        },
+        {
+            "message_id": 11,
+            "user_id": "0008",
+            "speaker": "Human",
+            "message": "What brands make fortified plant milk?"
+        },
+        {
+            "message_id": 12,
+            "system_id": "0011",
+            "speaker": "Bot",
+            "message": "Loads of brands offer fortified plant milk, like Silk, Almond Breeze, and So Delicious, among many others!"
+        },
+        {
+            "message_id": 13,
+            "user_id": "0008",
+            "speaker": "Human",
+            "message": "Who are some popular vegans?"
+        },
+        {
+            "message_id": 14,
+            "system_id": "0011",
+            "speaker": "Bot",
+            "message": "Folks like Moby, Ariana Grande, and David Haye are all well-known vegans, but I'm sure there are many more out there!"
+        },
+        {
+            "message_id": 15,
+            "user_id": "0008",
+            "speaker": "Human",
+            "message": "What year was plant milk first created?"
+        },
+        {
+            "message_id": 16,
+            "system_id": "0011",
+            "speaker": "Bot",
+            "message": "Plant milk has been around for ages, but modern versions started popping up in the 1990s, with soy milk being one of the pioneers!"
+        },
+        {
+            "message_id": 17,
+            "user_id": "0008",
+            "speaker": "Human",
+            "message": "What country was it made in?"
+        },
+        {
+            "message_id": 18,
+            "system_id": "0011",
+            "speaker": "Bot",
+            "message": "Soy milk originated in China, where it's been consumed for centuries, but the modern version was popularized in the West, particularly in the US!"
+        },
+        {
+            "message_id": 19,
+            "user_id": "0008",
+            "speaker": "Human",
+            "message": "What are some popular vegan meals?"
+        },
+        {
+            "message_id": 20,
+            "system_id": "0011",
+            "speaker": "Bot",
+            "message": "Vegans love dishes like veggie stir-fries, lentil curries, and vegan pizzas, but vegan mac 'n cheese is a total game-changer, if you ask me!"
+        }
+    ]
+}

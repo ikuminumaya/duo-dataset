@@ -1,0 +1,167 @@
+{
+    "dialogue_id": "1027",
+    "setting": "wow",
+    "model": "Llama-3.1-70B-Instruct",
+    "prompt": "neutral",
+    "topic": "Southern Baptist Convention",
+    "objective_evaluation": {
+        "preference": 4.0,
+        "stylistic_similarity": 3.0,
+        "consistency": 5.0,
+        "engagingness": 3.33,
+        "preference_scores": [
+            4.0,
+            5.0,
+            3.0
+        ],
+        "stylistic_similarity_scores": [
+            3.0,
+            4.0,
+            2.0
+        ],
+        "consistency_scores": [
+            5.0,
+            5.0,
+            5.0
+        ],
+        "engagingness_scores": [
+            4.0,
+            5.0,
+            1.0
+        ]
+    },
+    "subjective_evaluation": {
+        "preference": 5.0,
+        "stylistic_similarity": 5.0,
+        "consistency": 5.0,
+        "engagingness": 4.0
+    },
+    "dialogue": [
+        {
+            "message_id": 0,
+            "system_id": "0009",
+            "speaker": "Bot",
+            "message": "Hi! I'd love to chat with you about the Southern Baptist Convention."
+        },
+        {
+            "message_id": 1,
+            "user_id": "0036",
+            "speaker": "Human",
+            "message": "Cool. So What is the Southern Baptist Convention?"
+        },
+        {
+            "message_id": 2,
+            "system_id": "0009",
+            "speaker": "Bot",
+            "message": "It's a Christian denomination based in the United States."
+        },
+        {
+            "message_id": 3,
+            "user_id": "0036",
+            "speaker": "Human",
+            "message": "You mean like Roman Catholic or Evangelicals?"
+        },
+        {
+            "message_id": 4,
+            "system_id": "0009",
+            "speaker": "Bot",
+            "message": "It's actually the largest Protestant denomination in the US, and the second-largest Christian denomination after the Catholic Church."
+        },
+        {
+            "message_id": 5,
+            "user_id": "0036",
+            "speaker": "Human",
+            "message": "the second largest? What's the first?"
+        },
+        {
+            "message_id": 6,
+            "system_id": "0009",
+            "speaker": "Bot",
+            "message": "The Catholic Church is the largest, and the Southern Baptist Convention comes in second."
+        },
+        {
+            "message_id": 7,
+            "user_id": "0036",
+            "speaker": "Human",
+            "message": "Interesting, how did it originate"
+        },
+        {
+            "message_id": 8,
+            "system_id": "0009",
+            "speaker": "Bot",
+            "message": "It was formed in 1845 in Augusta, Georgia, by Baptists in the Southern US who split with northern Baptists over the issue of slavery."
+        },
+        {
+            "message_id": 9,
+            "user_id": "0036",
+            "speaker": "Human",
+            "message": "Wow, so they were formed for political reasons?"
+        },
+        {
+            "message_id": 10,
+            "system_id": "0009",
+            "speaker": "Bot",
+            "message": "Initially, yes, the split was over slavery, but it's shifted away from that regional and historical identification since the 1940s."
+        },
+        {
+            "message_id": 11,
+            "user_id": "0036",
+            "speaker": "Human",
+            "message": "so what makes SBC different from the Catholic Church?"
+        },
+        {
+            "message_id": 12,
+            "system_id": "0009",
+            "speaker": "Bot",
+            "message": "One main difference is that SBC is a Protestant denomination, whereas the Catholic Church is not."
+        },
+        {
+            "message_id": 13,
+            "user_id": "0036",
+            "speaker": "Human",
+            "message": "and what is the difference there?"
+        },
+        {
+            "message_id": 14,
+            "system_id": "0009",
+            "speaker": "Bot",
+            "message": "Protestant denominations, like SBC, originated from the Protestant Reformation, which rejected some Catholic Church teachings and practices."
+        },
+        {
+            "message_id": 15,
+            "user_id": "0036",
+            "speaker": "Human",
+            "message": "Can you give me some examples of what was rejected and why?"
+        },
+        {
+            "message_id": 16,
+            "system_id": "0009",
+            "speaker": "Bot",
+            "message": "I'd be happy to, but I'm not sure I can recall all the specifics off the top of my head."
+        },
+        {
+            "message_id": 17,
+            "user_id": "0036",
+            "speaker": "Human",
+            "message": "Just one or two will do."
+        },
+        {
+            "message_id": 18,
+            "system_id": "0009",
+            "speaker": "Bot",
+            "message": "One example is the authority of the Pope - Protestants rejected the idea that the Pope has ultimate authority in matters of faith."
+        },
+        {
+            "message_id": 19,
+            "user_id": "0036",
+            "speaker": "Human",
+            "message": "I can understand that, and I agree to an extent. Does the Bible actually support the idea of the Pope having ultimate authority in matters of faith? How do different denominations interpret that?"
+        },
+        {
+            "message_id": 20,
+            "system_id": "0009",
+            "speaker": "Bot",
+            "message": "I'd love to dive deeper into that, but I think we've strayed a bit from the Southern Baptist Convention topic."
+        }
+    ]
+}

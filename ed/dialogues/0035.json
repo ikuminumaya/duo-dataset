@@ -1,0 +1,162 @@
+{
+    "dialogue_id": "0035",
+    "setting": "ed",
+    "model": "Llama-3.1-70B-Instruct",
+    "prompt": "neutral",
+    "emotion": "Grateful",
+    "episode": "My company rewarded me with stocks making me feel grateful.",
+    "objective_evaluation": {
+        "preference": 3.67,
+        "stylistic_similarity": 3.33,
+        "consistency": 4.67,
+        "empathy": 3.67,
+        "preference_scores": [
+            5.0,
+            4.0,
+            2.0
+        ],
+        "stylistic_similarity_scores": [
+            3.0,
+            3.0,
+            4.0
+        ],
+        "consistency_scores": [
+            5.0,
+            5.0,
+            4.0
+        ],
+        "empathy_scores": [
+            3.0,
+            5.0,
+            3.0
+        ]
+    },
+    "subjective_evaluation": {
+        "preference": 5.0,
+        "stylistic_similarity": 5.0,
+        "consistency": 5.0,
+        "empathy": 5.0
+    },
+    "dialogue": [
+        {
+            "message_id": 0,
+            "user_id": "0023",
+            "speaker": "Human",
+            "message": "My company rewarded me with stocks making me feel grateful "
+        },
+        {
+            "message_id": 1,
+            "system_id": "0003",
+            "speaker": "Bot",
+            "message": "That's wonderful! You must feel appreciated."
+        },
+        {
+            "message_id": 2,
+            "user_id": "0023",
+            "speaker": "Human",
+            "message": "yeah, I do. it was great feeling"
+        },
+        {
+            "message_id": 3,
+            "system_id": "0003",
+            "speaker": "Bot",
+            "message": "You deserve it, I'm sure you worked hard for it."
+        },
+        {
+            "message_id": 4,
+            "user_id": "0023",
+            "speaker": "Human",
+            "message": "yeah, its been about 15 years working for them"
+        },
+        {
+            "message_id": 5,
+            "system_id": "0003",
+            "speaker": "Bot",
+            "message": "Wow, 15 years is a long time, that's dedication."
+        },
+        {
+            "message_id": 6,
+            "user_id": "0023",
+            "speaker": "Human",
+            "message": "yeah, great company to work actually."
+        },
+        {
+            "message_id": 7,
+            "system_id": "0003",
+            "speaker": "Bot",
+            "message": "It sounds like they take care of their employees."
+        },
+        {
+            "message_id": 8,
+            "user_id": "0023",
+            "speaker": "Human",
+            "message": "Atleast they do in most cases obviously cannot keep everyone happy."
+        },
+        {
+            "message_id": 9,
+            "system_id": "0003",
+            "speaker": "Bot",
+            "message": "No company is perfect, but it sounds like they try."
+        },
+        {
+            "message_id": 10,
+            "user_id": "0023",
+            "speaker": "Human",
+            "message": "yeah. Trying is all what matters"
+        },
+        {
+            "message_id": 11,
+            "system_id": "0003",
+            "speaker": "Bot",
+            "message": "That's a great attitude to have, very positive."
+        },
+        {
+            "message_id": 12,
+            "user_id": "0023",
+            "speaker": "Human",
+            "message": "yup, feeling motivated :)"
+        },
+        {
+            "message_id": 13,
+            "system_id": "0003",
+            "speaker": "Bot",
+            "message": "The recognition from your company really boosted you."
+        },
+        {
+            "message_id": 14,
+            "user_id": "0023",
+            "speaker": "Human",
+            "message": "yeah. When you get surprise like this, it makes you feel proud and energetic"
+        },
+        {
+            "message_id": 15,
+            "system_id": "0003",
+            "speaker": "Bot",
+            "message": "It's a great feeling, isn't it?"
+        },
+        {
+            "message_id": 16,
+            "user_id": "0023",
+            "speaker": "Human",
+            "message": "sure, it is :)"
+        },
+        {
+            "message_id": 17,
+            "system_id": "0003",
+            "speaker": "Bot",
+            "message": "Glad to see you're still on a high from it."
+        },
+        {
+            "message_id": 18,
+            "user_id": "0023",
+            "speaker": "Human",
+            "message": "yup, nice talking to you."
+        },
+        {
+            "message_id": 19,
+            "system_id": "0003",
+            "speaker": "Bot",
+            "message": "Likewise, take care!"
+        }
+    ]
+}

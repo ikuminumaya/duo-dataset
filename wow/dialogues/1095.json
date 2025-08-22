@@ -1,0 +1,141 @@
+{
+    "dialogue_id": "1095",
+    "setting": "wow",
+    "model": "gpt-4o",
+    "prompt": "not_aligned",
+    "topic": "Argentina",
+    "subjective_evaluation": {
+        "preference": 5.0,
+        "stylistic_similarity": 3.0,
+        "consistency": 4.0,
+        "engagingness": 5.0
+    },
+    "dialogue": [
+        {
+            "message_id": 0,
+            "system_id": "0008",
+            "speaker": "Bot",
+            "message": "Hey there! Did you know that Argentina is the largest Spanish-speaking country in the world and has a fascinating history dating back to the Paleolithic period?"
+        },
+        {
+            "message_id": 1,
+            "user_id": "0016",
+            "speaker": "Human",
+            "message": "I did not know that Argentina is the largest Spanish speaking country in the world!"
+        },
+        {
+            "message_id": 2,
+            "system_id": "0008",
+            "speaker": "Bot",
+            "message": "Yeah, it's a huge country, making it the largest Spanish-speaking one, and it's nestled in South America surrounded by countries like Chile and Brazil!"
+        },
+        {
+            "message_id": 3,
+            "user_id": "0016",
+            "speaker": "Human",
+            "message": "Is it the largest by area or by population?"
+        },
+        {
+            "message_id": 4,
+            "system_id": "0008",
+            "speaker": "Bot",
+            "message": "It's the largest by area, as it's the eighth-largest country in the world and the biggest Spanish-speaking nation!"
+        },
+        {
+            "message_id": 5,
+            "user_id": "0016",
+            "speaker": "Human",
+            "message": "Weird how next door Brazil speaks Portuguese."
+        },
+        {
+            "message_id": 6,
+            "system_id": "0008",
+            "speaker": "Bot",
+            "message": "Yeah, it's interesting! Brazil was colonized by Portugal, which is why they speak Portuguese, while Argentina was colonized by Spain, leading to Spanish being the main language there."
+        },
+        {
+            "message_id": 7,
+            "user_id": "0016",
+            "speaker": "Human",
+            "message": "I want to go to Iguazu Falls sometime."
+        },
+        {
+            "message_id": 8,
+            "system_id": "0008",
+            "speaker": "Bot",
+            "message": "That sounds amazing! Iguazu Falls is one of the largest and most stunning waterfalls in the world, located on the border between Argentina and Brazil."
+        },
+        {
+            "message_id": 9,
+            "user_id": "0016",
+            "speaker": "Human",
+            "message": "Yep, it looks like something right out of Jurassic Park."
+        },
+        {
+            "message_id": 10,
+            "system_id": "0008",
+            "speaker": "Bot",
+            "message": "Yeah, Iguazu Falls is a breathtaking spot right on the border of Argentina and Brazil, and it definitely has that epic, otherworldly vibe!"
+        },
+        {
+            "message_id": 11,
+            "user_id": "0016",
+            "speaker": "Human",
+            "message": "Is it easy for a tourist to cross back and forth on the border?"
+        },
+        {
+            "message_id": 12,
+            "system_id": "0008",
+            "speaker": "Bot",
+            "message": "Yes, it's usually pretty straightforward for tourists to cross the border between Argentina and Brazil at Iguazu Falls, just make sure you have the necessary travel documents!"
+        },
+        {
+            "message_id": 13,
+            "user_id": "0016",
+            "speaker": "Human",
+            "message": "Like a passport?"
+        },
+        {
+            "message_id": 14,
+            "system_id": "0008",
+            "speaker": "Bot",
+            "message": "Yes, you'll need a passport to cross the border, and it's always good to check if a visa is required for your nationality before your trip!"
+        },
+        {
+            "message_id": 15,
+            "user_id": "0016",
+            "speaker": "Human",
+            "message": "What is the difference between a visa and a passport?"
+        },
+        {
+            "message_id": 16,
+            "system_id": "0008",
+            "speaker": "Bot",
+            "message": "A passport is an official document issued by your government that certifies your identity and nationality, while a visa is a permission added to a passport allowing you to enter or stay in a foreign country."
+        },
+        {
+            "message_id": 17,
+            "user_id": "0016",
+            "speaker": "Human",
+            "message": "What about the famous glacier in Argentina?"
+        },
+        {
+            "message_id": 18,
+            "system_id": "0008",
+            "speaker": "Bot",
+            "message": "Ah, you're probably thinking of the Perito Moreno Glacier in Patagonia, which is a stunning and famous natural wonder in Argentina!"
+        },
+        {
+            "message_id": 19,
+            "user_id": "0016",
+            "speaker": "Human",
+            "message": "tell me more about it"
+        },
+        {
+            "message_id": 20,
+            "system_id": "0008",
+            "speaker": "Bot",
+            "message": "The Perito Moreno Glacier is a spectacular and dynamic glacier located in Patagonia, Argentina, known for its dramatic ice ruptures and stunning views."
+        }
+    ]
+}

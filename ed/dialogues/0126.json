@@ -1,0 +1,148 @@
+{
+    "dialogue_id": "0126",
+    "setting": "ed",
+    "model": "Llama-3.1-70B-Instruct",
+    "prompt": "aligned",
+    "emotion": "Disappointed",
+    "episode": "The neighbors who are very noisy and inconsiderate just bought a trampoline and placed it very close to our house.  I am disappointed thinking of all the noise I'm going to be hearing this summer.",
+    "subjective_evaluation": {
+        "preference": 4.0,
+        "stylistic_similarity": 4.0,
+        "consistency": 4.0,
+        "empathy": 5.0
+    },
+    "dialogue": [
+        {
+            "message_id": 0,
+            "user_id": "0004",
+            "speaker": "Human",
+            "message": "I have very noisy and inconsiderate neighbors.  They just bought a large trampoline and it is placed very close to my home.  I feel like it is going to be a very noisy summer."
+        },
+        {
+            "message_id": 1,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "Ugh, that sounds super frustrating."
+        },
+        {
+            "message_id": 2,
+            "user_id": "0004",
+            "speaker": "Human",
+            "message": "ready"
+        },
+        {
+            "message_id": 3,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "Still, it might be worth having a friendly chat with them, maybe they'll be willing to compromise."
+        },
+        {
+            "message_id": 4,
+            "user_id": "0004",
+            "speaker": "Human",
+            "message": "I have very loud and inconsiderate neighbors.  They just bought a large trampoline and it is placed very close to my home.  I feel like it is going to be a very noisy summer."
+        },
+        {
+            "message_id": 5,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "That makes it tougher. Maybe approach the convo calmly and focus on the trampoline's noise impact, not their behavior."
+        },
+        {
+            "message_id": 6,
+            "user_id": "0004",
+            "speaker": "Human",
+            "message": "It is.  I want to say something and politely ask them to move it further away, but it is on their property so I guess I cannot really say anything."
+        },
+        {
+            "message_id": 7,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "Late-night noise can be brutal. Maybe mention specific quiet hours or sleep schedule concerns to your neighbors."
+        },
+        {
+            "message_id": 8,
+            "user_id": "0004",
+            "speaker": "Human",
+            "message": "That might be a good idea.  I do not have a great relationship with them as it seems they go out of their way to make as much noise and be as disrespectful as possible."
+        },
+        {
+            "message_id": 9,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "Sounds like a never-ending noise nightmare. Have you considered earplugs or white noise to help you sleep?"
+        },
+        {
+            "message_id": 10,
+            "user_id": "0004",
+            "speaker": "Human",
+            "message": "That sounds like a good idea.  The problem is that all of the neighborhood kids will be playing on it and they seem to be up very late when I am trying to sleep."
+        },
+        {
+            "message_id": 11,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "Even with earplugs, loud noises can be tough to block out. Sorry you're dealing with this."
+        },
+        {
+            "message_id": 12,
+            "user_id": "0004",
+            "speaker": "Human",
+            "message": "Not a bad idea.  They have loud dogs who bark all night as well.  I was really hoping they would not live there long but it seems as though they are in it for the long haul."
+        },
+        {
+            "message_id": 13,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "It's like you're a magnet for noisy neighbors or something!"
+        },
+        {
+            "message_id": 14,
+            "user_id": "0004",
+            "speaker": "Human",
+            "message": "I have done both.  It has definitely helped with the barking at late hours of the night, but there are still times when it wakes me up."
+        },
+        {
+            "message_id": 15,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "Seems like you've had your fair share of challenging neighbors, huh?"
+        },
+        {
+            "message_id": 16,
+            "user_id": "0004",
+            "speaker": "Human",
+            "message": "I guess it is just part of having neighbors.  Unfortunately it seems as though I always get stuck with the worst ones possible."
+        },
+        {
+            "message_id": 17,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "Sadly, it's often the inconsiderate ones who make the most noise."
+        },
+        {
+            "message_id": 18,
+            "user_id": "0004",
+            "speaker": "Human",
+            "message": "Ha ha it really does!  This isn't the first time and I am certain it will not be the last."
+        },
+        {
+            "message_id": 19,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "I'm glad I could listen and offer some support. Hope things improve with your neighbors!"
+        },
+        {
+            "message_id": 20,
+            "user_id": "0004",
+            "speaker": "Human",
+            "message": "Yes I have.  I wish more people were quiet and respectful of others, but that just doesn't seem to be the case in life."
+        },
+        {
+            "message_id": 21,
+            "user_id": "0004",
+            "speaker": "Human",
+            "message": "Yes!  I will never understand some people.  Thank you for the help and understanding!\n"
+        }
+    ]
+}

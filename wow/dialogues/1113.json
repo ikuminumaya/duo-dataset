@@ -1,0 +1,141 @@
+{
+    "dialogue_id": "1113",
+    "setting": "wow",
+    "model": "Llama-3.1-70B-Instruct",
+    "prompt": "neutral",
+    "topic": "Kayaking",
+    "subjective_evaluation": {
+        "preference": 4.0,
+        "stylistic_similarity": 5.0,
+        "consistency": 5.0,
+        "engagingness": 2.0
+    },
+    "dialogue": [
+        {
+            "message_id": 0,
+            "system_id": "0009",
+            "speaker": "Bot",
+            "message": "Let's talk about kayaking!"
+        },
+        {
+            "message_id": 1,
+            "user_id": "0037",
+            "speaker": "Human",
+            "message": "Sounds like fun. "
+        },
+        {
+            "message_id": 2,
+            "system_id": "0009",
+            "speaker": "Bot",
+            "message": "It's a great way to explore the water."
+        },
+        {
+            "message_id": 3,
+            "user_id": "0037",
+            "speaker": "Human",
+            "message": "How much balance does it take?"
+        },
+        {
+            "message_id": 4,
+            "system_id": "0009",
+            "speaker": "Bot",
+            "message": "You need some, but kayaks are designed to be stable."
+        },
+        {
+            "message_id": 5,
+            "user_id": "0037",
+            "speaker": "Human",
+            "message": "Thats good. Where are the best places to Kayak?"
+        },
+        {
+            "message_id": 6,
+            "system_id": "0009",
+            "speaker": "Bot",
+            "message": "Everywhere, but rivers and calm lakes are ideal."
+        },
+        {
+            "message_id": 7,
+            "user_id": "0037",
+            "speaker": "Human",
+            "message": "Do you sit or stand in one?"
+        },
+        {
+            "message_id": 8,
+            "system_id": "0009",
+            "speaker": "Bot",
+            "message": "You sit facing forward with your legs in front."
+        },
+        {
+            "message_id": 9,
+            "user_id": "0037",
+            "speaker": "Human",
+            "message": "How fast can you go in one? "
+        },
+        {
+            "message_id": 10,
+            "system_id": "0009",
+            "speaker": "Bot",
+            "message": "It depends, but you can paddle quite quickly."
+        },
+        {
+            "message_id": 11,
+            "user_id": "0037",
+            "speaker": "Human",
+            "message": "Are the paddles connected to the kayak so that you can't lose one  by accident?"
+        },
+        {
+            "message_id": 12,
+            "system_id": "0009",
+            "speaker": "Bot",
+            "message": "No, paddles are separate, with two blades."
+        },
+        {
+            "message_id": 13,
+            "user_id": "0037",
+            "speaker": "Human",
+            "message": "Is it easy to paddle or does it take a lot of strength."
+        },
+        {
+            "message_id": 14,
+            "system_id": "0009",
+            "speaker": "Bot",
+            "message": "It takes some strength, but technique helps too."
+        },
+        {
+            "message_id": 15,
+            "user_id": "0037",
+            "speaker": "Human",
+            "message": "Where are the best places to go in Montana?"
+        },
+        {
+            "message_id": 16,
+            "system_id": "0009",
+            "speaker": "Bot",
+            "message": "Not sure, but calm lakes and rivers are best."
+        },
+        {
+            "message_id": 17,
+            "user_id": "0037",
+            "speaker": "Human",
+            "message": "How much does a middle of the road kayak cost?"
+        },
+        {
+            "message_id": 18,
+            "system_id": "0009",
+            "speaker": "Bot",
+            "message": "Prices vary, but they can be a few hundred dollars."
+        },
+        {
+            "message_id": 19,
+            "user_id": "0037",
+            "speaker": "Human",
+            "message": "How deep does the water have to be?"
+        },
+        {
+            "message_id": 20,
+            "system_id": "0009",
+            "speaker": "Bot",
+            "message": "Depends, but most kayaks can go in shallow water."
+        }
+    ]
+}

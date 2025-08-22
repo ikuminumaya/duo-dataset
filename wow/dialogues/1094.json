@@ -1,0 +1,141 @@
+{
+    "dialogue_id": "1094",
+    "setting": "wow",
+    "model": "gpt-4o",
+    "prompt": "not_aligned",
+    "topic": "Cat",
+    "subjective_evaluation": {
+        "preference": 4.0,
+        "stylistic_similarity": 3.0,
+        "consistency": 5.0,
+        "engagingness": 4.0
+    },
+    "dialogue": [
+        {
+            "message_id": 0,
+            "system_id": "0008",
+            "speaker": "Bot",
+            "message": "Ah, cats are fascinating little creatures known for their sharp reflexes and their ability to see in near darkness, aren't they?"
+        },
+        {
+            "message_id": 1,
+            "user_id": "0008",
+            "speaker": "Human",
+            "message": "How many different cat species are there?"
+        },
+        {
+            "message_id": 2,
+            "system_id": "0008",
+            "speaker": "Bot",
+            "message": "There are over seventy cat breeds recognized by various cat registries."
+        },
+        {
+            "message_id": 3,
+            "user_id": "0008",
+            "speaker": "Human",
+            "message": "What is the most common cat breed?"
+        },
+        {
+            "message_id": 4,
+            "system_id": "0008",
+            "speaker": "Bot",
+            "message": "The domestic shorthair is one of the most common cat breeds, especially in the United States."
+        },
+        {
+            "message_id": 5,
+            "user_id": "0008",
+            "speaker": "Human",
+            "message": "What makes people want them so much?"
+        },
+        {
+            "message_id": 6,
+            "system_id": "0008",
+            "speaker": "Bot",
+            "message": "People love domestic shorthairs for their companionship, their ability to hunt vermin, and their adaptable nature."
+        },
+        {
+            "message_id": 7,
+            "user_id": "0008",
+            "speaker": "Human",
+            "message": "When were they first discovered?"
+        },
+        {
+            "message_id": 8,
+            "system_id": "0008",
+            "speaker": "Bot",
+            "message": "Cats have been companions and hunters of vermin for centuries, valued for their unique abilities and adaptability."
+        },
+        {
+            "message_id": 9,
+            "user_id": "0008",
+            "speaker": "Human",
+            "message": "How many cat species have gone extinct?"
+        },
+        {
+            "message_id": 10,
+            "system_id": "0008",
+            "speaker": "Bot",
+            "message": "The number of extinct cat species isn't easily pinpointed, but numerous prehistoric species, like the saber-toothed cats, have gone extinct over time."
+        },
+        {
+            "message_id": 11,
+            "user_id": "0008",
+            "speaker": "Human",
+            "message": "What lead to them going extinct?"
+        },
+        {
+            "message_id": 12,
+            "system_id": "0008",
+            "speaker": "Bot",
+            "message": "Extinction often occurred due to changes in climate, habitat loss, and competition with other species."
+        },
+        {
+            "message_id": 13,
+            "user_id": "0008",
+            "speaker": "Human",
+            "message": "Are humans responsible for the loss of any cat species?"
+        },
+        {
+            "message_id": 14,
+            "system_id": "0008",
+            "speaker": "Bot",
+            "message": "Human activities like habitat destruction and hunting have contributed to the decline and extinction of some wild cat species."
+        },
+        {
+            "message_id": 15,
+            "user_id": "0008",
+            "speaker": "Human",
+            "message": "What foods can cats not eat?"
+        },
+        {
+            "message_id": 16,
+            "system_id": "0008",
+            "speaker": "Bot",
+            "message": "Cats should avoid foods like chocolate, onions, garlic, and caffeine, as these can be toxic to them."
+        },
+        {
+            "message_id": 17,
+            "user_id": "0008",
+            "speaker": "Human",
+            "message": "What would happen if they did eat them?"
+        },
+        {
+            "message_id": 18,
+            "system_id": "0008",
+            "speaker": "Bot",
+            "message": "If cats eat things like chocolate or onions, they can get really sick because those foods are toxic to them."
+        },
+        {
+            "message_id": 19,
+            "user_id": "0008",
+            "speaker": "Human",
+            "message": "What should I do if my cat accidentally eats them?"
+        },
+        {
+            "message_id": 20,
+            "system_id": "0008",
+            "speaker": "Bot",
+            "message": "If your cat accidentally eats something toxic, it's best to contact your veterinarian immediately for advice."
+        }
+    ]
+}

@@ -1,0 +1,141 @@
+{
+    "dialogue_id": "1066",
+    "setting": "wow",
+    "model": "gpt-4o",
+    "prompt": "aligned",
+    "topic": "Collie",
+    "subjective_evaluation": {
+        "preference": 5.0,
+        "stylistic_similarity": 5.0,
+        "consistency": 5.0,
+        "engagingness": 4.0
+    },
+    "dialogue": [
+        {
+            "message_id": 0,
+            "system_id": "0007",
+            "speaker": "Bot",
+            "message": "Collies are active and agile herding dogs originally from Scotland and Northern England, known for their strong herding instincts and diverse varieties."
+        },
+        {
+            "message_id": 1,
+            "user_id": "0021",
+            "speaker": "Human",
+            "message": "Collies are very beautiful dogs."
+        },
+        {
+            "message_id": 2,
+            "system_id": "0007",
+            "speaker": "Bot",
+            "message": "Absolutely, collies are not only beautiful but also known for their agility and strong herding instincts."
+        },
+        {
+            "message_id": 3,
+            "user_id": "0021",
+            "speaker": "Human",
+            "message": "Plus they are very smart"
+        },
+        {
+            "message_id": 4,
+            "system_id": "0007",
+            "speaker": "Bot",
+            "message": "Yes, collies are incredibly smart and trainable, which makes them great at herding and dog sports."
+        },
+        {
+            "message_id": 5,
+            "user_id": "0021",
+            "speaker": "Human",
+            "message": "Are their different kinds of Collies?"
+        },
+        {
+            "message_id": 6,
+            "system_id": "0007",
+            "speaker": "Bot",
+            "message": "Yes, there are different kinds of collies, including the Rough Collie, Border Collie, and many more, each with their own unique traits."
+        },
+        {
+            "message_id": 7,
+            "user_id": "0021",
+            "speaker": "Human",
+            "message": "What kind of collie is Lassie?"
+        },
+        {
+            "message_id": 8,
+            "system_id": "0007",
+            "speaker": "Bot",
+            "message": "Lassie is a Rough Collie, a breed that's well-loved for its elegant appearance and intelligence."
+        },
+        {
+            "message_id": 9,
+            "user_id": "0021",
+            "speaker": "Human",
+            "message": "Yes they are elegant but you do not see them as much anymore."
+        },
+        {
+            "message_id": 10,
+            "system_id": "0007",
+            "speaker": "Bot",
+            "message": "Yeah, they’re not as common as Border Collies in some areas, but they’re still cherished for their elegance and intelligence!"
+        },
+        {
+            "message_id": 11,
+            "user_id": "0021",
+            "speaker": "Human",
+            "message": "I heard Border Collies are one of the smartest dogs"
+        },
+        {
+            "message_id": 12,
+            "system_id": "0007",
+            "speaker": "Bot",
+            "message": "Yes, Border Collies are often considered one of the smartest dog breeds due to their incredible agility, stamina, and trainability."
+        },
+        {
+            "message_id": 13,
+            "user_id": "0021",
+            "speaker": "Human",
+            "message": "Is there a \"Lassie\" today?"
+        },
+        {
+            "message_id": 14,
+            "system_id": "0007",
+            "speaker": "Bot",
+            "message": "While there's no specific Lassie today, Rough Collies are still admired for their beauty and intelligence."
+        },
+        {
+            "message_id": 15,
+            "user_id": "0021",
+            "speaker": "Human",
+            "message": "Are Collies good with kids?"
+        },
+        {
+            "message_id": 16,
+            "system_id": "0007",
+            "speaker": "Bot",
+            "message": "Yes, collies are generally good with kids, especially when socialized properly, and their friendly nature makes them great family pets."
+        },
+        {
+            "message_id": 17,
+            "user_id": "0021",
+            "speaker": "Human",
+            "message": "I would like to have a border collie but I do not have the space for one."
+        },
+        {
+            "message_id": 18,
+            "system_id": "0007",
+            "speaker": "Bot",
+            "message": "Border Collies are very active and need plenty of space and exercise, which can be challenging without a large area."
+        },
+        {
+            "message_id": 19,
+            "user_id": "0021",
+            "speaker": "Human",
+            "message": "Yea it would be unfair to one not having a large space where they can run around"
+        },
+        {
+            "message_id": 20,
+            "system_id": "0007",
+            "speaker": "Bot",
+            "message": "Yeah, they really need space to run and play, as they're very active and agile."
+        }
+    ]
+}

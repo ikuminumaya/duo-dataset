@@ -1,0 +1,136 @@
+{
+    "dialogue_id": "0108",
+    "setting": "ed",
+    "model": "Llama-3.1-70B-Instruct",
+    "prompt": "neutral",
+    "emotion": "Terrified",
+    "episode": "I only see my baby grother (who is 65 years old) a few times a year, and I was looking forward to the two of us attending the state Libertarian Convention in Oklahoma City.  But a few days before, he told me he was in chemo and too fatigued for the trip.",
+    "subjective_evaluation": {
+        "preference": 3.0,
+        "stylistic_similarity": 2.0,
+        "consistency": 5.0,
+        "empathy": 5.0
+    },
+    "dialogue": [
+        {
+            "message_id": 0,
+            "user_id": "0013",
+            "speaker": "Human",
+            "message": "My brother is in chemo.  The doctors found a cancerous mole, and he has a lump on his esophagus."
+        },
+        {
+            "message_id": 1,
+            "system_id": "0003",
+            "speaker": "Bot",
+            "message": "I'm so sorry to hear that. That sounds really tough for him."
+        },
+        {
+            "message_id": 2,
+            "user_id": "0013",
+            "speaker": "Human",
+            "message": "They give him something for nausea, but he is fatigued all the time."
+        },
+        {
+            "message_id": 3,
+            "system_id": "0003",
+            "speaker": "Bot",
+            "message": "That must be really frustrating for him."
+        },
+        {
+            "message_id": 4,
+            "user_id": "0013",
+            "speaker": "Human",
+            "message": "It is.  He has people from church and other friends to check on him, nut he misses doing things."
+        },
+        {
+            "message_id": 5,
+            "system_id": "0003",
+            "speaker": "Bot",
+            "message": "It's hard to lose that sense of independence and normalcy."
+        },
+        {
+            "message_id": 6,
+            "user_id": "0013",
+            "speaker": "Human",
+            "message": "The two of us planned to attend the state LP convention in Oklahoma City, but he just isn't up for the trip."
+        },
+        {
+            "message_id": 7,
+            "system_id": "0003",
+            "speaker": "Bot",
+            "message": "That's really disappointing for both of you, I'm sure."
+        },
+        {
+            "message_id": 8,
+            "user_id": "0013",
+            "speaker": "Human",
+            "message": "Yes, we only see each other three or four times a year anyway, and this is one of them."
+        },
+        {
+            "message_id": 9,
+            "system_id": "0003",
+            "speaker": "Bot",
+            "message": "So it's a big miss for you both, especially since you don't get to see each other often."
+        },
+        {
+            "message_id": 10,
+            "user_id": "0013",
+            "speaker": "Human",
+            "message": "Exactly, that and I'm worried about him."
+        },
+        {
+            "message_id": 11,
+            "system_id": "0003",
+            "speaker": "Bot",
+            "message": "Of course, that's natural, he's your brother and you care about him."
+        },
+        {
+            "message_id": 12,
+            "user_id": "0013",
+            "speaker": "Human",
+            "message": "The docs say his prognosis is excellent, and he should be cancer free by summer."
+        },
+        {
+            "message_id": 13,
+            "system_id": "0003",
+            "speaker": "Bot",
+            "message": "That's great news, something to hold onto and look forward to."
+        },
+        {
+            "message_id": 14,
+            "user_id": "0013",
+            "speaker": "Human",
+            "message": "it would be, if I entirely believed it.  But docs have been wrong before."
+        },
+        {
+            "message_id": 15,
+            "system_id": "0003",
+            "speaker": "Bot",
+            "message": "That's a lot of uncertainty to deal with, it's hard to shake off the doubts."
+        },
+        {
+            "message_id": 16,
+            "user_id": "0013",
+            "speaker": "Human",
+            "message": "Yes.  I attended the convention, and everyone else is worried too."
+        },
+        {
+            "message_id": 17,
+            "system_id": "0003",
+            "speaker": "Bot",
+            "message": "It's good that you have a supportive community that cares about him too."
+        },
+        {
+            "message_id": 18,
+            "user_id": "0013",
+            "speaker": "Human",
+            "message": "Yes, everyone is sending him texts, telling him to hurry up and get better."
+        },
+        {
+            "message_id": 19,
+            "system_id": "0003",
+            "speaker": "Bot",
+            "message": "That's really sweet, I'm sure it means a lot to him."
+        }
+    ]
+}

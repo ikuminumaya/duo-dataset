@@ -1,0 +1,141 @@
+{
+    "dialogue_id": "1067",
+    "setting": "wow",
+    "model": "gpt-4o",
+    "prompt": "aligned",
+    "topic": "Brunch",
+    "subjective_evaluation": {
+        "preference": 2.0,
+        "stylistic_similarity": 4.0,
+        "consistency": 5.0,
+        "engagingness": 1.0
+    },
+    "dialogue": [
+        {
+            "message_id": 0,
+            "system_id": "0007",
+            "speaker": "Bot",
+            "message": "Brunch is a delightful meal that combines breakfast and lunch, often enjoyed with a cocktail, and it became popular in the U.S. in the 1930s."
+        },
+        {
+            "message_id": 1,
+            "user_id": "0020",
+            "speaker": "Human",
+            "message": "Seems a little early to start drinking."
+        },
+        {
+            "message_id": 2,
+            "system_id": "0007",
+            "speaker": "Bot",
+            "message": "Brunch often includes cocktails like mimosas or Bloody Marys, making it a social and leisurely meal."
+        },
+        {
+            "message_id": 3,
+            "user_id": "0020",
+            "speaker": "Human",
+            "message": "I guess that could be more of a weekend thing."
+        },
+        {
+            "message_id": 4,
+            "system_id": "0007",
+            "speaker": "Bot",
+            "message": "Yes, brunch is often a weekend affair, usually served from late morning to early afternoon, and it originated in England in the late 19th century."
+        },
+        {
+            "message_id": 5,
+            "user_id": "0020",
+            "speaker": "Human",
+            "message": "What are the most popular brunch foods?"
+        },
+        {
+            "message_id": 6,
+            "system_id": "0007",
+            "speaker": "Bot",
+            "message": "Popular brunch foods often include eggs, bacon, pancakes, waffles, and pastries."
+        },
+        {
+            "message_id": 7,
+            "user_id": "0020",
+            "speaker": "Human",
+            "message": "So the foods tend to be more breakfast oriented?"
+        },
+        {
+            "message_id": 8,
+            "system_id": "0007",
+            "speaker": "Bot",
+            "message": "Yeah, brunch often leans towards breakfast foods like eggs and pancakes, but it can also include lunch items too."
+        },
+        {
+            "message_id": 9,
+            "user_id": "0020",
+            "speaker": "Human",
+            "message": "What do they have for brunch in England?"
+        },
+        {
+            "message_id": 10,
+            "system_id": "0007",
+            "speaker": "Bot",
+            "message": "In England, brunch can include traditional breakfast items like eggs and bacon, often enjoyed as a leisurely Sunday meal."
+        },
+        {
+            "message_id": 11,
+            "user_id": "0020",
+            "speaker": "Human",
+            "message": "Is brunch popular in other countries as well?"
+        },
+        {
+            "message_id": 12,
+            "system_id": "0007",
+            "speaker": "Bot",
+            "message": "Yes, brunch is popular in many countries, including the U.S. and U.K., where it often features a variety of breakfast and lunch foods."
+        },
+        {
+            "message_id": 13,
+            "user_id": "0020",
+            "speaker": "Human",
+            "message": "I do love breakfast foods.  Eggs, bacon, waffles...  I don't think I could ever get tired of those."
+        },
+        {
+            "message_id": 14,
+            "system_id": "0007",
+            "speaker": "Bot",
+            "message": "Brunch is a mix of breakfast and lunch, and it often includes delicious foods like eggs, bacon, and waffles."
+        },
+        {
+            "message_id": 15,
+            "user_id": "0020",
+            "speaker": "Human",
+            "message": "Do they have brunch in Asian or African countries as well?"
+        },
+        {
+            "message_id": 16,
+            "system_id": "0007",
+            "speaker": "Bot",
+            "message": "Brunch has grown in popularity in various countries, and while it may not be as traditional in some Asian or African countries, you can still find it in certain cosmopolitan areas."
+        },
+        {
+            "message_id": 17,
+            "user_id": "0020",
+            "speaker": "Human",
+            "message": "Are there any brunch themed restaurants?"
+        },
+        {
+            "message_id": 18,
+            "system_id": "0007",
+            "speaker": "Bot",
+            "message": "Some brunch-themed restaurants offer serve-yourself buffets with a variety of breakfast and lunch foods."
+        },
+        {
+            "message_id": 19,
+            "user_id": "0020",
+            "speaker": "Human",
+            "message": "I would love to go to a brunch buffet.  I wonder if there are any around here?"
+        },
+        {
+            "message_id": 20,
+            "system_id": "0007",
+            "speaker": "Bot",
+            "message": "Brunch buffets are often found in hotels and some colleges, offering a delicious spread of breakfast and lunch favorites."
+        }
+    ]
+}

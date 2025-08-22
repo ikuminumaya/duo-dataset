@@ -1,0 +1,141 @@
+{
+    "dialogue_id": "1141",
+    "setting": "wow",
+    "model": "Llama-3.1-70B-Instruct",
+    "prompt": "not_aligned",
+    "topic": "Chocolate",
+    "subjective_evaluation": {
+        "preference": 5.0,
+        "stylistic_similarity": 5.0,
+        "consistency": 5.0,
+        "engagingness": 5.0
+    },
+    "dialogue": [
+        {
+            "message_id": 0,
+            "system_id": "0011",
+            "speaker": "Bot",
+            "message": "Hey, wanna talk about chocolate?"
+        },
+        {
+            "message_id": 1,
+            "user_id": "0027",
+            "speaker": "Human",
+            "message": "Sure. That sounds fun!"
+        },
+        {
+            "message_id": 2,
+            "system_id": "0011",
+            "speaker": "Bot",
+            "message": "Awesome, I just learned that chocolate's been around for over 3,000 years, can you believe it?"
+        },
+        {
+            "message_id": 3,
+            "user_id": "0027",
+            "speaker": "Human",
+            "message": "Well, I know that the Mayans liked it."
+        },
+        {
+            "message_id": 4,
+            "system_id": "0011",
+            "speaker": "Bot",
+            "message": "Yeah, and the Aztecs too, they even made a drink called 'xocolātl' which means 'bitter water' - weird name, huh?"
+        },
+        {
+            "message_id": 5,
+            "user_id": "0027",
+            "speaker": "Human",
+            "message": "it makes sense. dark chocolate and cocoa can seem bitter if you don't add sugar to it."
+        },
+        {
+            "message_id": 6,
+            "system_id": "0011",
+            "speaker": "Bot",
+            "message": "Totally, and that's because cacao seeds are naturally super bitter, they need to be fermented to bring out the flavor"
+        },
+        {
+            "message_id": 7,
+            "user_id": "0027",
+            "speaker": "Human",
+            "message": "Kind of like coffee?"
+        },
+        {
+            "message_id": 8,
+            "system_id": "0011",
+            "speaker": "Bot",
+            "message": "Exactly, coffee beans and cacao seeds both need processing to get that rich flavor we love"
+        },
+        {
+            "message_id": 9,
+            "user_id": "0027",
+            "speaker": "Human",
+            "message": "Is it healthy for you?"
+        },
+        {
+            "message_id": 10,
+            "system_id": "0011",
+            "speaker": "Bot",
+            "message": "Dark chocolate's actually got some health benefits, but let's be real, most chocolate we eat is loaded with sugar"
+        },
+        {
+            "message_id": 11,
+            "user_id": "0027",
+            "speaker": "Human",
+            "message": "I prefer dark chocolate over milk chocolate."
+        },
+        {
+            "message_id": 12,
+            "system_id": "0011",
+            "speaker": "Bot",
+            "message": "Same here, there's something about the richness of dark chocolate that's just more satisfying"
+        },
+        {
+            "message_id": 13,
+            "user_id": "0027",
+            "speaker": "Human",
+            "message": "I buy these dark chocolate sea salt caramels everytime that I go to Costco. They are so good!"
+        },
+        {
+            "message_id": 14,
+            "system_id": "0011",
+            "speaker": "Bot",
+            "message": "Mmm, sounds amazing! The combo of salty and sweet is perfect, I'll have to try those next time I'm at Costco"
+        },
+        {
+            "message_id": 15,
+            "user_id": "0027",
+            "speaker": "Human",
+            "message": "Where does chocolate come from? Do we grow it here in the US?"
+        },
+        {
+            "message_id": 16,
+            "system_id": "0011",
+            "speaker": "Bot",
+            "message": "Actually, chocolate comes from the cacao tree, which is native to Mesoamerica, so it's mostly grown near the equator, not really in the US"
+        },
+        {
+            "message_id": 17,
+            "user_id": "0027",
+            "speaker": "Human",
+            "message": "Where is the equator? Mexico?"
+        },
+        {
+            "message_id": 18,
+            "system_id": "0011",
+            "speaker": "Bot",
+            "message": "No, the equator is actually more like Ecuador, haha get it? But seriously, it's near countries like Ghana, Ecuador, and Indonesia"
+        },
+        {
+            "message_id": 19,
+            "user_id": "0027",
+            "speaker": "Human",
+            "message": "So they grow chocolate in Ghana?"
+        },
+        {
+            "message_id": 20,
+            "system_id": "0011",
+            "speaker": "Bot",
+            "message": "Yeah, Ghana's actually one of the world's largest producers of cacao, the main ingredient in chocolate"
+        }
+    ]
+}

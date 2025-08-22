@@ -1,0 +1,162 @@
+{
+    "dialogue_id": "0036",
+    "setting": "ed",
+    "model": "Llama-3.1-70B-Instruct",
+    "prompt": "neutral",
+    "emotion": "Ashamed",
+    "episode": "I lost my job during COVID-19 and struggled to provide for my family. It was a period of great shame for me.",
+    "objective_evaluation": {
+        "preference": 4.67,
+        "stylistic_similarity": 4.33,
+        "consistency": 4.67,
+        "empathy": 4.67,
+        "preference_scores": [
+            4.0,
+            5.0,
+            5.0
+        ],
+        "stylistic_similarity_scores": [
+            4.0,
+            5.0,
+            4.0
+        ],
+        "consistency_scores": [
+            4.0,
+            5.0,
+            5.0
+        ],
+        "empathy_scores": [
+            4.0,
+            5.0,
+            5.0
+        ]
+    },
+    "subjective_evaluation": {
+        "preference": 1.0,
+        "stylistic_similarity": 1.0,
+        "consistency": 2.0,
+        "empathy": 1.0
+    },
+    "dialogue": [
+        {
+            "message_id": 0,
+            "user_id": "0015",
+            "speaker": "Human",
+            "message": "I lost my job during COVID-19 and struggled to provide for my family. It was a period of great shame for me. "
+        },
+        {
+            "message_id": 1,
+            "system_id": "0003",
+            "speaker": "Bot",
+            "message": "That sounds incredibly tough."
+        },
+        {
+            "message_id": 2,
+            "user_id": "0015",
+            "speaker": "Human",
+            "message": "Yeah, it was a hard situation. Me being ashamed also added a layer of adversity in that it made me depressed. "
+        },
+        {
+            "message_id": 3,
+            "system_id": "0003",
+            "speaker": "Bot",
+            "message": "It's like the shame was feeding into the depression, making it even harder to cope."
+        },
+        {
+            "message_id": 4,
+            "user_id": "0015",
+            "speaker": "Human",
+            "message": "Exactly. It was a spiral so to speak. I remember lots of people enjoying the pandemic and being locked down. I was not one of those people. "
+        },
+        {
+            "message_id": 5,
+            "system_id": "0003",
+            "speaker": "Bot",
+            "message": "I can imagine. It's like you were stuck in a nightmare while others were having a staycation."
+        },
+        {
+            "message_id": 6,
+            "user_id": "0015",
+            "speaker": "Human",
+            "message": "Yeah, that's an apt description. The fact that the pandemic was going on didn't alleviate the feelings of shame I had for not being able to provide for my family. "
+        },
+        {
+            "message_id": 7,
+            "system_id": "0003",
+            "speaker": "Bot",
+            "message": "The external circumstances didn't excuse your feelings of failure, huh?"
+        },
+        {
+            "message_id": 8,
+            "user_id": "0015",
+            "speaker": "Human",
+            "message": "Yes. I hate feeling dependent on others. "
+        },
+        {
+            "message_id": 9,
+            "system_id": "0003",
+            "speaker": "Bot",
+            "message": "Loss of independence can be really tough on the ego."
+        },
+        {
+            "message_id": 10,
+            "user_id": "0015",
+            "speaker": "Human",
+            "message": "It is. I only stopped feeling ashamed when the lockdowns ended and I was able to work. It was truly liberating. "
+        },
+        {
+            "message_id": 11,
+            "system_id": "0003",
+            "speaker": "Bot",
+            "message": "I can imagine the relief. Like a weight was lifted off your shoulders."
+        },
+        {
+            "message_id": 12,
+            "user_id": "0015",
+            "speaker": "Human",
+            "message": "The relief was great. It was as if everyone was liberated and businesses were booming. "
+        },
+        {
+            "message_id": 13,
+            "system_id": "0003",
+            "speaker": "Bot",
+            "message": "A fresh start, not just for you, but for the whole community."
+        },
+        {
+            "message_id": 14,
+            "user_id": "0015",
+            "speaker": "Human",
+            "message": "Yep! I just put that turbulent period behind me and have never looked back. "
+        },
+        {
+            "message_id": 15,
+            "system_id": "0003",
+            "speaker": "Bot",
+            "message": " Closure and a new beginning, that's great to hear."
+        },
+        {
+            "message_id": 16,
+            "user_id": "0015",
+            "speaker": "Human",
+            "message": "It was a scary time that I'm glad we're done with. The feelings of shame are gone! "
+        },
+        {
+            "message_id": 17,
+            "system_id": "0003",
+            "speaker": "Bot",
+            "message": "What a huge accomplishment, overcoming that shame."
+        },
+        {
+            "message_id": 18,
+            "user_id": "0015",
+            "speaker": "Human",
+            "message": "Yes, I just put all those feelings into action."
+        },
+        {
+            "message_id": 19,
+            "system_id": "0003",
+            "speaker": "Bot",
+            "message": "You channeled them into a positive outcome."
+        }
+    ]
+}

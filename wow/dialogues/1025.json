@@ -1,0 +1,167 @@
+{
+    "dialogue_id": "1025",
+    "setting": "wow",
+    "model": "Llama-3.1-70B-Instruct",
+    "prompt": "neutral",
+    "topic": "Vanilla",
+    "objective_evaluation": {
+        "preference": 2.33,
+        "stylistic_similarity": 2.0,
+        "consistency": 3.67,
+        "engagingness": 2.67,
+        "preference_scores": [
+            2.0,
+            3.0,
+            2.0
+        ],
+        "stylistic_similarity_scores": [
+            1.0,
+            3.0,
+            2.0
+        ],
+        "consistency_scores": [
+            2.0,
+            4.0,
+            5.0
+        ],
+        "engagingness_scores": [
+            2.0,
+            3.0,
+            3.0
+        ]
+    },
+    "subjective_evaluation": {
+        "preference": 3.0,
+        "stylistic_similarity": 3.0,
+        "consistency": 4.0,
+        "engagingness": 3.0
+    },
+    "dialogue": [
+        {
+            "message_id": 0,
+            "system_id": "0009",
+            "speaker": "Bot",
+            "message": "Hi, I'm excited to talk about vanilla, a fascinating flavoring derived from orchids!"
+        },
+        {
+            "message_id": 1,
+            "user_id": "0028",
+            "speaker": "Human",
+            "message": "How do we even get vanilla?"
+        },
+        {
+            "message_id": 2,
+            "system_id": "0009",
+            "speaker": "Bot",
+            "message": "Vanilla is actually derived from the fruit of the vanilla orchid, which requires pollination to set."
+        },
+        {
+            "message_id": 3,
+            "user_id": "0028",
+            "speaker": "Human",
+            "message": "So what is the difference between real and fake vanilla?"
+        },
+        {
+            "message_id": 4,
+            "system_id": "0009",
+            "speaker": "Bot",
+            "message": "Real vanilla comes from the actual orchid fruit, while fake vanilla is often a synthetic imitation."
+        },
+        {
+            "message_id": 5,
+            "user_id": "0028",
+            "speaker": "Human",
+            "message": "But how is the fake vanilla made?"
+        },
+        {
+            "message_id": 6,
+            "system_id": "0009",
+            "speaker": "Bot",
+            "message": "I don't have that info, but I can tell you that real vanilla is hand-pollinated, which is a labor-intensive process."
+        },
+        {
+            "message_id": 7,
+            "user_id": "0028",
+            "speaker": "Human",
+            "message": "Why don't you have that info?"
+        },
+        {
+            "message_id": 8,
+            "system_id": "0009",
+            "speaker": "Bot",
+            "message": "I just don't have access to that specific information, but I do know that the Aztecs used to cultivate the vanilla orchid vine."
+        },
+        {
+            "message_id": 9,
+            "user_id": "0028",
+            "speaker": "Human",
+            "message": "Oh okay. What benefits does real vanilla have?"
+        },
+        {
+            "message_id": 10,
+            "system_id": "0009",
+            "speaker": "Bot",
+            "message": "I don't have specific info on benefits, but I can tell you that Hernán Cortés introduced vanilla to Europe in the 1520s, and it's been a prized flavoring ever since!"
+        },
+        {
+            "message_id": 11,
+            "user_id": "0028",
+            "speaker": "Human",
+            "message": "So tell me about the cultivation process"
+        },
+        {
+            "message_id": 12,
+            "system_id": "0009",
+            "speaker": "Bot",
+            "message": "It's quite interesting, hand-pollination is a crucial step, and it was actually discovered by a 12-year-old slave named Edmond Albius in 1841."
+        },
+        {
+            "message_id": 13,
+            "user_id": "0028",
+            "speaker": "Human",
+            "message": "But I want to know the actual process"
+        },
+        {
+            "message_id": 14,
+            "system_id": "0009",
+            "speaker": "Bot",
+            "message": "I can tell you that it involves manually transferring pollen, but I don't have the exact steps, sorry!"
+        },
+        {
+            "message_id": 15,
+            "user_id": "0028",
+            "speaker": "Human",
+            "message": "How would someone manually transfer pollen?"
+        },
+        {
+            "message_id": 16,
+            "system_id": "0009",
+            "speaker": "Bot",
+            "message": "Unfortunately, I don't have the details on the manual transfer process, but I can tell you that it's a labor-intensive process that allows for global cultivation of vanilla."
+        },
+        {
+            "message_id": 17,
+            "user_id": "0028",
+            "speaker": "Human",
+            "message": "What cool facts do you actually know about vanilla? Give me a detailed list please"
+        },
+        {
+            "message_id": 18,
+            "system_id": "0009",
+            "speaker": "Bot",
+            "message": "I can share some cool facts I know about vanilla:\n\n* Vanilla is a flavoring derived from orchids of the genus \"Vanilla\", primarily from the Mexican species, flat-leaved vanilla (\"V. planifolia\").\n* The word \"vanilla\" comes from the Spanish word \"vaina\", meaning \"little pod\".\n* Pre-Columbian Mesoamerican people cultivated the vine of the vanilla orchid, called \"tlilxochitl\" by the Aztecs.\n* Spanish conquistador Hernán Cortés introduced vanilla to Europe in the 1520s.\n* There are three major species of vanilla currently grown globally, all of which derive from a species originally found in Mesoamerica.\n* Edmond Albius, a 12-year-old slave, discovered the method of hand-pollinating the vanilla orchid in 1841.\n\nThat's about it, I'm afraid!"
+        },
+        {
+            "message_id": 19,
+            "user_id": "0028",
+            "speaker": "Human",
+            "message": "You don't know anything else besides that?"
+        },
+        {
+            "message_id": 20,
+            "system_id": "0009",
+            "speaker": "Bot",
+            "message": "I do know that Charles François Antoine Morren, a Belgian botanist, also discovered the need for pollination in 1837, but his method wasn't commercially viable. And I mentioned earlier that hand-pollination is a crucial step in cultivating vanilla. That's really all I have on the topic, sorry!"
+        }
+    ]
+}

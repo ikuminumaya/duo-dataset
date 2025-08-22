@@ -1,0 +1,136 @@
+{
+    "dialogue_id": "0081",
+    "setting": "ed",
+    "model": "gpt-4o",
+    "prompt": "aligned",
+    "emotion": "Ashamed",
+    "episode": "I was ashamed for a long time because I felt like I couldn't take care of myself during health issues that I ignored, and people treated me cruelly for it",
+    "subjective_evaluation": {
+        "preference": 5.0,
+        "stylistic_similarity": 5.0,
+        "consistency": 5.0,
+        "empathy": 4.0
+    },
+    "dialogue": [
+        {
+            "message_id": 0,
+            "user_id": "0009",
+            "speaker": "Human",
+            "message": "I was ashamed awhile back. Due to health issues which led to financial issues...I was strapped and had to go on benefits, bounce from couch to couch and constantly ask for money and people who called me a friend took advantage of me and I got a horrible dose of life for about 3 years"
+        },
+        {
+            "message_id": 1,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "That sounds really tough. I'm sorry you went through that. How are you doing now?"
+        },
+        {
+            "message_id": 2,
+            "user_id": "0009",
+            "speaker": "Human",
+            "message": "I'm much better. Looking back years later I feel better because I realize who I need in my life, and I'm not a failure just because I struggled."
+        },
+        {
+            "message_id": 3,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "I'm glad to hear you're in a better place now. It's great you learned who truly supports you."
+        },
+        {
+            "message_id": 4,
+            "user_id": "0009",
+            "speaker": "Human",
+            "message": "It's hard to know who is a friend because you really never know until times get tough. There were some that just avoided me and that hurt even when finances or money wasn't involved. I wasn't on drugs but I was severely depressed and I dealt with the end of an awful relationship that rolled into another bad one right after despite being broke."
+        },
+        {
+            "message_id": 5,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "I'm really sorry you went through all that. It's tough when people you thought were friends aren't there. I'm glad you're in a better place now."
+        },
+        {
+            "message_id": 6,
+            "user_id": "0009",
+            "speaker": "Human",
+            "message": "I've had adversity in my life and most people do even to a small extent at some point in their lives, but when I thing back...all my naysayers at the time lectured on and on about maturity, but would do awful things to others and each other even though most of us were in our early 30's back then"
+        },
+        {
+            "message_id": 7,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "Hypocrisy is frustrating, especially when you're trying to navigate tough times. It's good you see through that now."
+        },
+        {
+            "message_id": 8,
+            "user_id": "0009",
+            "speaker": "Human",
+            "message": "I think in a way you learn about yourself and the world when you deal with the good and the bad people in your life. We all strive for having good relationships with others that are lasting, but sometimes it takes awhile to know who people really are...and one challenge in a friendship is actually being a friend during rough times."
+        },
+        {
+            "message_id": 9,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "Absolutely, it takes time to see true colors. Being there during rough times is what counts."
+        },
+        {
+            "message_id": 10,
+            "user_id": "0009",
+            "speaker": "Human",
+            "message": "I was apologized to when the dust had settled by some, but there are others who are self righteous pieces of garbage who will never apologize or humble themselves. The only thing I can hope is life will humble them, because in the end it humbles us all good or bad"
+        },
+        {
+            "message_id": 11,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "Yeah, life's a great equalizer. Karma has a way of catching up."
+        },
+        {
+            "message_id": 12,
+            "user_id": "0009",
+            "speaker": "Human",
+            "message": "Karma is justice without the satisfaction, and I rarely believe in justice because it rarely happens. You just need to live the best you can despite challenges"
+        },
+        {
+            "message_id": 13,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "True, you just gotta keep pushing through, no matter what."
+        },
+        {
+            "message_id": 14,
+            "user_id": "0009",
+            "speaker": "Human",
+            "message": "I just wish the world was more hopefull and we worked harder to lift others (and by proxy...ourselves) to greater heights through cooperation instead of competition. "
+        },
+        {
+            "message_id": 15,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "Totally agree. Cooperation can make a huge difference."
+        },
+        {
+            "message_id": 16,
+            "user_id": "0009",
+            "speaker": "Human",
+            "message": "Nobody agrees anymore, and nobody wants to work together...but they all preach hypocrisy and most do nothing even for the causes they claim"
+        },
+        {
+            "message_id": 17,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "It's frustrating. People need to walk the talk."
+        },
+        {
+            "message_id": 18,
+            "user_id": "0009",
+            "speaker": "Human",
+            "message": "There is very few real people out there. It's a lonely world"
+        },
+        {
+            "message_id": 19,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "Yeah, it's tough finding genuine folks."
+        }
+    ]
+}

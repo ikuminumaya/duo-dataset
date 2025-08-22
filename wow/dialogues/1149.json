@@ -1,0 +1,141 @@
+{
+    "dialogue_id": "1149",
+    "setting": "wow",
+    "model": "Llama-3.1-70B-Instruct",
+    "prompt": "not_aligned",
+    "topic": "Acrophobia",
+    "subjective_evaluation": {
+        "preference": 4.0,
+        "stylistic_similarity": 5.0,
+        "consistency": 5.0,
+        "engagingness": 5.0
+    },
+    "dialogue": [
+        {
+            "message_id": 0,
+            "system_id": "0011",
+            "speaker": "Bot",
+            "message": "Let's talk about acrophobia - what do you know about fear of heights?"
+        },
+        {
+            "message_id": 1,
+            "user_id": "0004",
+            "speaker": "Human",
+            "message": "I know it is something a lot of people experience and something I feel like I experience to a degree somewhat."
+        },
+        {
+            "message_id": 2,
+            "system_id": "0011",
+            "speaker": "Bot",
+            "message": "It's pretty common, and some people are more prone to it than others, apparently around 2-5% of the population has it."
+        },
+        {
+            "message_id": 3,
+            "user_id": "0004",
+            "speaker": "Human",
+            "message": "I am surprised the percentage is that low.  I feel like most people I know do not like heights."
+        },
+        {
+            "message_id": 4,
+            "system_id": "0011",
+            "speaker": "Bot",
+            "message": "Yeah, it's one of those things where even if you don't have a full-blown phobia, a lot of people still get a natural fear response when they're in high places."
+        },
+        {
+            "message_id": 5,
+            "user_id": "0004",
+            "speaker": "Human",
+            "message": "So what qualifies as acrophobia?  Not being able to even go anywhere that may be high at all?  Maybe a paralyzing fear?"
+        },
+        {
+            "message_id": 6,
+            "system_id": "0011",
+            "speaker": "Bot",
+            "message": "From what I understand, it's not just about being uncomfortable with heights, but more about having an intense, irrational fear that can trigger panic attacks or make it hard to function in high places."
+        },
+        {
+            "message_id": 7,
+            "user_id": "0004",
+            "speaker": "Human",
+            "message": "I see.  I am sure you are right.  Most people have a natural fear response around heights but most of us are able to work through those fears."
+        },
+        {
+            "message_id": 8,
+            "system_id": "0011",
+            "speaker": "Bot",
+            "message": "Exactly! Most people can rationalize their fear and take steps to manage it, but for those with acrophobia, the fear is overwhelming and can be really debilitating."
+        },
+        {
+            "message_id": 9,
+            "user_id": "0004",
+            "speaker": "Human",
+            "message": "I see.  I definitely do not consider myself to have acrophobia then.  I dislike heights but can deal with them and see the beauty in seeing views from very high up."
+        },
+        {
+            "message_id": 10,
+            "system_id": "0011",
+            "speaker": "Bot",
+            "message": "It sounds like you have a healthy dose of caution around heights, but you're able to appreciate the views and experiences that come with being in high places."
+        },
+        {
+            "message_id": 11,
+            "user_id": "0004",
+            "speaker": "Human",
+            "message": "Definitely.  I have always had a fear of jumping into water from heights but I would guess that is somewhat normal as well."
+        },
+        {
+            "message_id": 12,
+            "system_id": "0011",
+            "speaker": "Bot",
+            "message": "That's a pretty common fear, and it's not necessarily related to acrophobia. It's more about the fear of the unknown, like not knowing how deep the water is or what's lurking beneath the surface."
+        },
+        {
+            "message_id": 13,
+            "user_id": "0004",
+            "speaker": "Human",
+            "message": "That is definitely fair.  How do people with acrophobia deal with it?"
+        },
+        {
+            "message_id": 14,
+            "system_id": "0011",
+            "speaker": "Bot",
+            "message": "From what I've learned, treatment for acrophobia often involves exposure therapy, where people are gradually exposed to heights in a controlled and safe environment, to help them become desensitized to their fear."
+        },
+        {
+            "message_id": 15,
+            "user_id": "0004",
+            "speaker": "Human",
+            "message": "That is very interesting.  I would like to see that in action.  I wonder if virtual reality is used at all to help."
+        },
+        {
+            "message_id": 16,
+            "system_id": "0011",
+            "speaker": "Bot",
+            "message": "Actually, virtual reality is being used more and more to help people with acrophobia. It's a great way to expose them to simulated heights in a completely safe and controlled environment, which can be really effective in reducing their fear."
+        },
+        {
+            "message_id": 17,
+            "user_id": "0004",
+            "speaker": "Human",
+            "message": "That makes a lot of sense.  I guess I should consider myself lucky that I do not have the affliction.  It would get in the way of a lot of things I enjoy doing in life."
+        },
+        {
+            "message_id": 18,
+            "system_id": "0011",
+            "speaker": "Bot",
+            "message": "Yeah, it's definitely a challenging condition to live with, but it's great that you can appreciate the things you enjoy without being held back by a fear of heights."
+        },
+        {
+            "message_id": 19,
+            "user_id": "0004",
+            "speaker": "Human",
+            "message": "Definitely.  I love hiking and climbing so it would make those things nearly impossible if not very difficult."
+        },
+        {
+            "message_id": 20,
+            "system_id": "0011",
+            "speaker": "Bot",
+            "message": "Having a fear of heights would definitely make it tough to enjoy activities like hiking and climbing, which often require being in high or exposed places. You're lucky to be able to experience the thrill of those activities without that added layer of anxiety."
+        }
+    ]
+}

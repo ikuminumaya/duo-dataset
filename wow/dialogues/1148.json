@@ -1,0 +1,141 @@
+{
+    "dialogue_id": "1148",
+    "setting": "wow",
+    "model": "Llama-3.1-70B-Instruct",
+    "prompt": "not_aligned",
+    "topic": "Kayaking",
+    "subjective_evaluation": {
+        "preference": 4.0,
+        "stylistic_similarity": 4.0,
+        "consistency": 5.0,
+        "engagingness": 3.0
+    },
+    "dialogue": [
+        {
+            "message_id": 0,
+            "system_id": "0011",
+            "speaker": "Bot",
+            "message": "Nice to meet you! I'm excited to chat about kayaking, have you ever tried it?"
+        },
+        {
+            "message_id": 1,
+            "user_id": "0028",
+            "speaker": "Human",
+            "message": "No I've never tried it before.. It seems a little bit scary to me"
+        },
+        {
+            "message_id": 2,
+            "system_id": "0011",
+            "speaker": "Bot",
+            "message": "Don't worry, it's actually quite safe and a great workout, plus it's a wonderful way to connect with nature!"
+        },
+        {
+            "message_id": 3,
+            "user_id": "0028",
+            "speaker": "Human",
+            "message": "What parts of the body does it work out?"
+        },
+        {
+            "message_id": 4,
+            "system_id": "0011",
+            "speaker": "Bot",
+            "message": "Kayaking is a full-body exercise, but it especially targets your arms, shoulders, and core, as well as your legs for stability."
+        },
+        {
+            "message_id": 5,
+            "user_id": "0028",
+            "speaker": "Human",
+            "message": "Can you please give me some safety tips on kayaking?"
+        },
+        {
+            "message_id": 6,
+            "system_id": "0011",
+            "speaker": "Bot",
+            "message": "Always wear a properly fitting life jacket, and be aware of your surroundings, including weather and water conditions."
+        },
+        {
+            "message_id": 7,
+            "user_id": "0028",
+            "speaker": "Human",
+            "message": "Thank you. What are some dangers of kayaking?"
+        },
+        {
+            "message_id": 8,
+            "system_id": "0011",
+            "speaker": "Bot",
+            "message": "Watch out for strong currents, underwater obstacles, and weather changes, like thunderstorms or rough seas, which can be hazardous."
+        },
+        {
+            "message_id": 9,
+            "user_id": "0028",
+            "speaker": "Human",
+            "message": "Thank you. That all helps. Can you give me a list of things I need to buy for kayaking?"
+        },
+        {
+            "message_id": 10,
+            "system_id": "0011",
+            "speaker": "Bot",
+            "message": "You'll need a kayak, paddle, life jacket, helmet, and comfortable clothing, plus a whistle and a waterproof bag for your gear."
+        },
+        {
+            "message_id": 11,
+            "user_id": "0028",
+            "speaker": "Human",
+            "message": "What is the whistle for?"
+        },
+        {
+            "message_id": 12,
+            "system_id": "0011",
+            "speaker": "Bot",
+            "message": "The whistle is a safety device to signal for help in case of an emergency, it's a loud and easy way to get attention from others on the water."
+        },
+        {
+            "message_id": 13,
+            "user_id": "0028",
+            "speaker": "Human",
+            "message": "Ooh so like what they used when the Titanic sank?"
+        },
+        {
+            "message_id": 14,
+            "system_id": "0011",
+            "speaker": "Bot",
+            "message": "Ha ha, exactly! Whistles have been used for centuries as a distress signal, and they're still an essential safety item for kayakers and other water sports enthusiasts."
+        },
+        {
+            "message_id": 15,
+            "user_id": "0028",
+            "speaker": "Human",
+            "message": "Where are the best places for kayaking?"
+        },
+        {
+            "message_id": 16,
+            "system_id": "0011",
+            "speaker": "Bot",
+            "message": "There are so many amazing spots, but some popular ones include calm lakes, peaceful rivers, and coastal areas with calm seas, like the Arctic regions where kayaking originated."
+        },
+        {
+            "message_id": 17,
+            "user_id": "0028",
+            "speaker": "Human",
+            "message": "Can you be a little bit more specific? I want to consider planning a trip"
+        },
+        {
+            "message_id": 18,
+            "system_id": "0011",
+            "speaker": "Bot",
+            "message": "Consider places like the Bioluminescent Bay in Puerto Rico, the calm waters of Lake Tahoe, or the stunning fjords of Norway, they're all incredible kayaking destinations."
+        },
+        {
+            "message_id": 19,
+            "user_id": "0028",
+            "speaker": "Human",
+            "message": "Are there any additional costs besides what you told me to buy?"
+        },
+        {
+            "message_id": 20,
+            "system_id": "0011",
+            "speaker": "Bot",
+            "message": "You might need to consider costs like transportation to and from the kayaking spot, parking fees, and possibly a launch or rental fee, depending on where you go."
+        }
+    ]
+}

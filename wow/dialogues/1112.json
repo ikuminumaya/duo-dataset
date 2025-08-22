@@ -1,0 +1,141 @@
+{
+    "dialogue_id": "1112",
+    "setting": "wow",
+    "model": "Llama-3.1-70B-Instruct",
+    "prompt": "neutral",
+    "topic": "Blue",
+    "subjective_evaluation": {
+        "preference": 5.0,
+        "stylistic_similarity": 4.0,
+        "consistency": 5.0,
+        "engagingness": 3.0
+    },
+    "dialogue": [
+        {
+            "message_id": 0,
+            "system_id": "0009",
+            "speaker": "Bot",
+            "message": "Hi, I love the colour blue, don't you?"
+        },
+        {
+            "message_id": 1,
+            "user_id": "0008",
+            "speaker": "Human",
+            "message": "Why is blue such a popular color?"
+        },
+        {
+            "message_id": 2,
+            "system_id": "0009",
+            "speaker": "Bot",
+            "message": "I think it's because blue is all around us, in the sky and the sea, and it's just so calming and beautiful."
+        },
+        {
+            "message_id": 3,
+            "user_id": "0008",
+            "speaker": "Human",
+            "message": "Why isn't yellow just as popular?"
+        },
+        {
+            "message_id": 4,
+            "system_id": "0009",
+            "speaker": "Bot",
+            "message": "Well, yellow is a great colour too, but I think blue has been used in art and decoration for thousands of years, even in ancient Egypt and China."
+        },
+        {
+            "message_id": 5,
+            "user_id": "0008",
+            "speaker": "Human",
+            "message": "Isn't yellow more calming?"
+        },
+        {
+            "message_id": 6,
+            "system_id": "0009",
+            "speaker": "Bot",
+            "message": "No, actually, studies show that blue is often associated with feelings of calmness, and it's even used in therapy to promote relaxation."
+        },
+        {
+            "message_id": 7,
+            "user_id": "0008",
+            "speaker": "Human",
+            "message": "How could i use blue to calm myself down?"
+        },
+        {
+            "message_id": 8,
+            "system_id": "0009",
+            "speaker": "Bot",
+            "message": "Looking at a blue sky or a picture of the ocean can be really calming, or you could try wearing blue clothing, some people even use blue eye masks to relax."
+        },
+        {
+            "message_id": 9,
+            "user_id": "0008",
+            "speaker": "Human",
+            "message": "Is blue considered feminine or masculine?"
+        },
+        {
+            "message_id": 10,
+            "system_id": "0009",
+            "speaker": "Bot",
+            "message": "In many cultures, blue is actually associated with masculinity, but it's also a colour that's often used in art and design in a very neutral way, so it doesn't have a strong gender connotation."
+        },
+        {
+            "message_id": 11,
+            "user_id": "0008",
+            "speaker": "Human",
+            "message": "How many  different varieties of blue are there?"
+        },
+        {
+            "message_id": 12,
+            "system_id": "0009",
+            "speaker": "Bot",
+            "message": "There are many, like azure, ultramarine, and cobalt blue, each with a slightly different shade and tone."
+        },
+        {
+            "message_id": 13,
+            "user_id": "0008",
+            "speaker": "Human",
+            "message": "What is the most common variety?"
+        },
+        {
+            "message_id": 14,
+            "system_id": "0009",
+            "speaker": "Bot",
+            "message": "I think ultramarine is one of the most well-known, it's been used in art for centuries and was actually the most expensive pigment at one point."
+        },
+        {
+            "message_id": 15,
+            "user_id": "0008",
+            "speaker": "Human",
+            "message": "When was the color blue discovered?"
+        },
+        {
+            "message_id": 16,
+            "system_id": "0009",
+            "speaker": "Bot",
+            "message": "Blue isn't really something that was 'discovered', it's a colour that's always been visible in nature, but I think the ancient Egyptians were one of the first to use it as a pigment, around 6,000 years ago."
+        },
+        {
+            "message_id": 17,
+            "user_id": "0008",
+            "speaker": "Human",
+            "message": "Are there paintings where Egyptians used blue?"
+        },
+        {
+            "message_id": 18,
+            "system_id": "0009",
+            "speaker": "Bot",
+            "message": "Yes, they used a blue pigment made from lapis lazuli in many of their artworks, including jewellery and decorative objects."
+        },
+        {
+            "message_id": 19,
+            "user_id": "0008",
+            "speaker": "Human",
+            "message": "Where is lapis lazuli found?"
+        },
+        {
+            "message_id": 20,
+            "system_id": "0009",
+            "speaker": "Bot",
+            "message": "Lapis lazuli is a semi-precious stone that was originally found in ancient Egypt, but it was also mined in other parts of the world, including Afghanistan."
+        }
+    ]
+}

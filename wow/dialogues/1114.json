@@ -1,0 +1,141 @@
+{
+    "dialogue_id": "1114",
+    "setting": "wow",
+    "model": "Llama-3.1-70B-Instruct",
+    "prompt": "neutral",
+    "topic": "Imagine Dragons",
+    "subjective_evaluation": {
+        "preference": 4.0,
+        "stylistic_similarity": 4.0,
+        "consistency": 4.0,
+        "engagingness": 4.0
+    },
+    "dialogue": [
+        {
+            "message_id": 0,
+            "system_id": "0009",
+            "speaker": "Bot",
+            "message": "Hi! I'm excited to talk about Imagine Dragons, have you heard of them?"
+        },
+        {
+            "message_id": 1,
+            "user_id": "0017",
+            "speaker": "Human",
+            "message": "I think so. A band, right?"
+        },
+        {
+            "message_id": 2,
+            "system_id": "0009",
+            "speaker": "Bot",
+            "message": "Yeah, a rock band from Las Vegas, Nevada!"
+        },
+        {
+            "message_id": 3,
+            "user_id": "0017",
+            "speaker": "Human",
+            "message": "I don't know any of their songs. What's the most popular called?"
+        },
+        {
+            "message_id": 4,
+            "system_id": "0009",
+            "speaker": "Bot",
+            "message": "One of their biggest hits is 'Radioactive'!"
+        },
+        {
+            "message_id": 5,
+            "user_id": "0017",
+            "speaker": "Human",
+            "message": "Never heard of it. What are some others?"
+        },
+        {
+            "message_id": 6,
+            "system_id": "0009",
+            "speaker": "Bot",
+            "message": "They also have 'Demons', 'Believer', and 'Thunder'!"
+        },
+        {
+            "message_id": 7,
+            "user_id": "0017",
+            "speaker": "Human",
+            "message": "Yeah, I have no idea. When did they start making music?"
+        },
+        {
+            "message_id": 8,
+            "system_id": "0009",
+            "speaker": "Bot",
+            "message": "They released their debut album 'Night Visions' in 2012."
+        },
+        {
+            "message_id": 9,
+            "user_id": "0017",
+            "speaker": "Human",
+            "message": "That's much later than I thought. I thought they were around in the early 2000s"
+        },
+        {
+            "message_id": 10,
+            "system_id": "0009",
+            "speaker": "Bot",
+            "message": "No, they're a relatively newer band, but they've gained a lot of popularity quickly!"
+        },
+        {
+            "message_id": 11,
+            "user_id": "0017",
+            "speaker": "Human",
+            "message": "How many members are in it?"
+        },
+        {
+            "message_id": 12,
+            "system_id": "0009",
+            "speaker": "Bot",
+            "message": "There are four members: Dan, Wayne, Ben, and Daniel."
+        },
+        {
+            "message_id": 13,
+            "user_id": "0017",
+            "speaker": "Human",
+            "message": "Have they won any Grammy's?"
+        },
+        {
+            "message_id": 14,
+            "system_id": "0009",
+            "speaker": "Bot",
+            "message": "Yes, they've won one Grammy Award!"
+        },
+        {
+            "message_id": 15,
+            "user_id": "0017",
+            "speaker": "Human",
+            "message": "For which category?"
+        },
+        {
+            "message_id": 16,
+            "system_id": "0009",
+            "speaker": "Bot",
+            "message": "Sorry, I don't recall the specific category!"
+        },
+        {
+            "message_id": 17,
+            "user_id": "0017",
+            "speaker": "Human",
+            "message": "I see. What's their best selling album called?"
+        },
+        {
+            "message_id": 18,
+            "system_id": "0009",
+            "speaker": "Bot",
+            "message": "'Night Visions' was a huge success, but I think all their albums have done well, including 'Smoke + Mirrors' and 'Evolve'."
+        },
+        {
+            "message_id": 19,
+            "user_id": "0017",
+            "speaker": "Human",
+            "message": "What's a band that is comparable to them?"
+        },
+        {
+            "message_id": 20,
+            "system_id": "0009",
+            "speaker": "Bot",
+            "message": "I'm not sure, but I think they're often mentioned alongside other alt-rock bands, like The Killers, also from Vegas!"
+        }
+    ]
+}

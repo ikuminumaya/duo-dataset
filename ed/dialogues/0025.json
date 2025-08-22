@@ -1,0 +1,162 @@
+{
+    "dialogue_id": "0025",
+    "setting": "ed",
+    "model": "gpt-4o",
+    "prompt": "not_aligned",
+    "emotion": "Prepared",
+    "episode": "I had to do train a new starter at work so prepared some sheets and diagrams to help explain the role / product as well as give me reminders on what to cover.",
+    "objective_evaluation": {
+        "preference": 4.0,
+        "stylistic_similarity": 3.33,
+        "consistency": 4.33,
+        "empathy": 4.0,
+        "preference_scores": [
+            3.0,
+            4.0,
+            5.0
+        ],
+        "stylistic_similarity_scores": [
+            3.0,
+            4.0,
+            3.0
+        ],
+        "consistency_scores": [
+            4.0,
+            4.0,
+            5.0
+        ],
+        "empathy_scores": [
+            3.0,
+            4.0,
+            5.0
+        ]
+    },
+    "subjective_evaluation": {
+        "preference": 4.0,
+        "stylistic_similarity": 4.0,
+        "consistency": 4.0,
+        "empathy": 4.0
+    },
+    "dialogue": [
+        {
+            "message_id": 0,
+            "user_id": "0006",
+            "speaker": "Human",
+            "message": "I had to train a new starter at work so prepared some sheets and diagrams to help explain the role / product as well as give me reminders on what to cover.  "
+        },
+        {
+            "message_id": 1,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "That sounds like a lot of effort! How did it go with the new starter?"
+        },
+        {
+            "message_id": 2,
+            "user_id": "0006",
+            "speaker": "Human",
+            "message": "It went very well.  I have been doing the job for 20 years so know the role but do sometimes get nervous when talking in front of a group.  This was a one one one so ok though."
+        },
+        {
+            "message_id": 3,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "That's awesome! Experience is key, and one-on-one sounds perfect for staying calm."
+        },
+        {
+            "message_id": 4,
+            "user_id": "0006",
+            "speaker": "Human",
+            "message": "Yes, I'm much better at that.  Can tailor the talk to the individual."
+        },
+        {
+            "message_id": 5,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "That's great! Individual focus is always effective."
+        },
+        {
+            "message_id": 6,
+            "user_id": "0006",
+            "speaker": "Human",
+            "message": "She was from a different industry so there was a lot of talk on the basics."
+        },
+        {
+            "message_id": 7,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "That's fantastic! Covering basics ensures a solid foundation."
+        },
+        {
+            "message_id": 8,
+            "user_id": "0006",
+            "speaker": "Human",
+            "message": "Afterwards she always came to me for an explanations.  I think partly it was because I do without jargon and we get on well too."
+        },
+        {
+            "message_id": 9,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "That's wonderful! Clear communication and rapport make a big difference."
+        },
+        {
+            "message_id": 10,
+            "user_id": "0006",
+            "speaker": "Human",
+            "message": "Ironically, while I don't like talking to a group, I am very good at one to one and maintaining good relations around the business."
+        },
+        {
+            "message_id": 11,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "Your individual skills shine, a boon to business ties!"
+        },
+        {
+            "message_id": 12,
+            "user_id": "0006",
+            "speaker": "Human",
+            "message": "Makes in easier to ask a favour of one another."
+        },
+        {
+            "message_id": 13,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "Reciprocity strengthens bonds indeed."
+        },
+        {
+            "message_id": 14,
+            "user_id": "0006",
+            "speaker": "Human",
+            "message": "Communication and relationships are key to the role, which I kept reminder her of."
+        },
+        {
+            "message_id": 15,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "Wise counsel! Relationships truly are the cornerstone of success."
+        },
+        {
+            "message_id": 16,
+            "user_id": "0006",
+            "speaker": "Human",
+            "message": "It seems to have sunk in, so I must have done something right!"
+        },
+        {
+            "message_id": 17,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "Sounds like you nailed it! Great job!"
+        },
+        {
+            "message_id": 18,
+            "user_id": "0006",
+            "speaker": "Human",
+            "message": "Thanks.  Like most businesses, I got asked to do this but no credit or reward was given for the extra work as training was not part of my role."
+        },
+        {
+            "message_id": 19,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "That's unfair. Recognizing effort is crucial."
+        }
+    ]
+}

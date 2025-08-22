@@ -1,0 +1,167 @@
+{
+    "dialogue_id": "1010",
+    "setting": "wow",
+    "model": "gpt-4o",
+    "prompt": "neutral",
+    "topic": "Electronic music",
+    "objective_evaluation": {
+        "preference": 3.33,
+        "stylistic_similarity": 2.67,
+        "consistency": 5.0,
+        "engagingness": 3.33,
+        "preference_scores": [
+            4.0,
+            4.0,
+            2.0
+        ],
+        "stylistic_similarity_scores": [
+            2.0,
+            4.0,
+            2.0
+        ],
+        "consistency_scores": [
+            5.0,
+            5.0,
+            5.0
+        ],
+        "engagingness_scores": [
+            4.0,
+            3.0,
+            3.0
+        ]
+    },
+    "subjective_evaluation": {
+        "preference": 2.0,
+        "stylistic_similarity": 5.0,
+        "consistency": 4.0,
+        "engagingness": 1.0
+    },
+    "dialogue": [
+        {
+            "message_id": 0,
+            "system_id": "0006",
+            "speaker": "Bot",
+            "message": "Electronic music employs electronic instruments and technology, with its roots tracing back to the late 19th century when devices like the theremin and synthesizer emerged."
+        },
+        {
+            "message_id": 1,
+            "user_id": "0010",
+            "speaker": "Human",
+            "message": "Theremin?"
+        },
+        {
+            "message_id": 2,
+            "system_id": "0006",
+            "speaker": "Bot",
+            "message": "The theremin is one of the earliest electronic instruments, known for its unique ability to produce sound without physical contact."
+        },
+        {
+            "message_id": 3,
+            "user_id": "0010",
+            "speaker": "Human",
+            "message": "First syntherizer called>?"
+        },
+        {
+            "message_id": 4,
+            "system_id": "0006",
+            "speaker": "Bot",
+            "message": "The first synthesizer was developed in the early 20th century alongside other pioneering electronic instruments."
+        },
+        {
+            "message_id": 5,
+            "user_id": "0010",
+            "speaker": "Human",
+            "message": "What was it's name?"
+        },
+        {
+            "message_id": 6,
+            "system_id": "0006",
+            "speaker": "Bot",
+            "message": "The first synthesizer-like electronic devices were developed in the early 20th century, but specific names aren't always recorded for those early prototypes."
+        },
+        {
+            "message_id": 7,
+            "user_id": "0010",
+            "speaker": "Human",
+            "message": "Ah, ok. Who was the first to use such a device?"
+        },
+        {
+            "message_id": 8,
+            "system_id": "0006",
+            "speaker": "Bot",
+            "message": "The first musicians to explore electronic devices for music were Italian futurists in the early 20th century."
+        },
+        {
+            "message_id": 9,
+            "user_id": "0010",
+            "speaker": "Human",
+            "message": "Do you have an example of one such object?"
+        },
+        {
+            "message_id": 10,
+            "system_id": "0006",
+            "speaker": "Bot",
+            "message": "One example of an early electronic device is the telharmonium, which was explored by Italian futurists for creating new musical sounds."
+        },
+        {
+            "message_id": 11,
+            "user_id": "0010",
+            "speaker": "Human",
+            "message": "So what kinds of electronic music is popular these days?"
+        },
+        {
+            "message_id": 12,
+            "system_id": "0006",
+            "speaker": "Bot",
+            "message": "Popular electronic music genres today include techno, house, dubstep, and EDM, among others."
+        },
+        {
+            "message_id": 13,
+            "user_id": "0010",
+            "speaker": "Human",
+            "message": "Any specific artists?"
+        },
+        {
+            "message_id": 14,
+            "system_id": "0006",
+            "speaker": "Bot",
+            "message": "Popular electronic music artists today include names like Calvin Harris, Daft Punk, and Skrillex."
+        },
+        {
+            "message_id": 15,
+            "user_id": "0010",
+            "speaker": "Human",
+            "message": "Ok, so going back to synthesizers, how big were they when they came out"
+        },
+        {
+            "message_id": 16,
+            "system_id": "0006",
+            "speaker": "Bot",
+            "message": "Early synthesizers were quite large, often taking up an entire room, like the massive telharmonium."
+        },
+        {
+            "message_id": 17,
+            "user_id": "0010",
+            "speaker": "Human",
+            "message": "And what specifically is the Telharmonium?"
+        },
+        {
+            "message_id": 18,
+            "system_id": "0006",
+            "speaker": "Bot",
+            "message": "The telharmonium is an early electromechanical instrument that used electric elements to produce sound and was quite large."
+        },
+        {
+            "message_id": 19,
+            "user_id": "0010",
+            "speaker": "Human",
+            "message": "Ok, do you have a picture I can look at?"
+        },
+        {
+            "message_id": 20,
+            "system_id": "0006",
+            "speaker": "Bot",
+            "message": "I can't provide images, but the telharmonium was a massive electromechanical instrument that required significant space to operate."
+        }
+    ]
+}

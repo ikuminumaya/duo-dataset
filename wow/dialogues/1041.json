@@ -1,0 +1,167 @@
+{
+    "dialogue_id": "1041",
+    "setting": "wow",
+    "model": "Llama-3.1-70B-Instruct",
+    "prompt": "not_aligned",
+    "topic": "Japan",
+    "objective_evaluation": {
+        "preference": 2.33,
+        "stylistic_similarity": 2.67,
+        "consistency": 3.0,
+        "engagingness": 2.67,
+        "preference_scores": [
+            5.0,
+            1.0,
+            1.0
+        ],
+        "stylistic_similarity_scores": [
+            5.0,
+            1.0,
+            2.0
+        ],
+        "consistency_scores": [
+            5.0,
+            2.0,
+            2.0
+        ],
+        "engagingness_scores": [
+            5.0,
+            1.0,
+            2.0
+        ]
+    },
+    "subjective_evaluation": {
+        "preference": 1.0,
+        "stylistic_similarity": 2.0,
+        "consistency": 2.0,
+        "engagingness": 2.0
+    },
+    "dialogue": [
+        {
+            "message_id": 0,
+            "system_id": "0011",
+            "speaker": "Bot",
+            "message": "Let's begin our conversation about Japan!"
+        },
+        {
+            "message_id": 1,
+            "user_id": "0005",
+            "speaker": "Human",
+            "message": "Have you ever been to Japan?"
+        },
+        {
+            "message_id": 2,
+            "system_id": "0011",
+            "speaker": "Bot",
+            "message": "No, I haven't, but I've heard it's a land of rising sun, pretty cool, huh?"
+        },
+        {
+            "message_id": 3,
+            "user_id": "0005",
+            "speaker": "Human",
+            "message": "Sure. Is anyone famous from Japan?"
+        },
+        {
+            "message_id": 4,
+            "system_id": "0011",
+            "speaker": "Bot",
+            "message": "Yeah, tons! But, gotta mention, the Japanese people themselves are pretty famous for being, like, 98.5% of the population, haha!"
+        },
+        {
+            "message_id": 5,
+            "user_id": "0005",
+            "speaker": "Human",
+            "message": "Ok"
+        },
+        {
+            "message_id": 6,
+            "system_id": "0011",
+            "speaker": "Bot",
+            "message": "So, you wanna know more about Japan or what?"
+        },
+        {
+            "message_id": 7,
+            "user_id": "0005",
+            "speaker": "Human",
+            "message": "Yes. Is anyone famous from Japan?"
+        },
+        {
+            "message_id": 8,
+            "system_id": "0011",
+            "speaker": "Bot",
+            "message": "Actually, I was just thinking, Japan's got a crazy long history, with people living there since the Upper Paleolithic period, that's like, a really long time ago!"
+        },
+        {
+            "message_id": 9,
+            "user_id": "0005",
+            "speaker": "Human",
+            "message": "Ok"
+        },
+        {
+            "message_id": 10,
+            "system_id": "0011",
+            "speaker": "Bot",
+            "message": "Want to hear about Tokyo?"
+        },
+        {
+            "message_id": 11,
+            "user_id": "0005",
+            "speaker": "Human",
+            "message": "Yes I do."
+        },
+        {
+            "message_id": 12,
+            "system_id": "0011",
+            "speaker": "Bot",
+            "message": "It's the capital, and about 9.1 million people call it home, pretty crazy, right?"
+        },
+        {
+            "message_id": 13,
+            "user_id": "0005",
+            "speaker": "Human",
+            "message": "Yes. What businesses are there?"
+        },
+        {
+            "message_id": 14,
+            "system_id": "0011",
+            "speaker": "Bot",
+            "message": "I'm not really sure about specific businesses, but I do know that Japan is made up of over 6,800 islands, isn't that wild?"
+        },
+        {
+            "message_id": 15,
+            "user_id": "0005",
+            "speaker": "Human",
+            "message": "Yes. What unique sea life is there?"
+        },
+        {
+            "message_id": 16,
+            "system_id": "0011",
+            "speaker": "Bot",
+            "message": "Japan's got some amazing seas, like the Sea of Okhotsk, but I don't know much about the sea life, sorry!"
+        },
+        {
+            "message_id": 17,
+            "user_id": "0005",
+            "speaker": "Human",
+            "message": "What other unique animals are in Japan?"
+        },
+        {
+            "message_id": 18,
+            "system_id": "0011",
+            "speaker": "Bot",
+            "message": "No idea, but I do know that Japan's got a bunch of active volcanoes, it's a stratovolcanic archipelago, pretty cool!"
+        },
+        {
+            "message_id": 19,
+            "user_id": "0005",
+            "speaker": "Human",
+            "message": "When did the last volcano erupt in Japan?"
+        },
+        {
+            "message_id": 20,
+            "system_id": "0011",
+            "speaker": "Bot",
+            "message": "No clue, but I do know that Japan's been inhabited for a looong time, like since the Upper Paleolithic period!"
+        }
+    ]
+}

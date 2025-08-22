@@ -1,0 +1,136 @@
+{
+    "dialogue_id": "0086",
+    "setting": "ed",
+    "model": "gpt-4o",
+    "prompt": "not_aligned",
+    "emotion": "Lonely",
+    "episode": "I spent Christmas alone for the first time in 2020 because of COVID.",
+    "subjective_evaluation": {
+        "preference": 3.0,
+        "stylistic_similarity": 4.0,
+        "consistency": 5.0,
+        "empathy": 4.0
+    },
+    "dialogue": [
+        {
+            "message_id": 0,
+            "user_id": "0005",
+            "speaker": "Human",
+            "message": "I remember feeling very lonely at Christmas in 2020 because of COVID quarantine."
+        },
+        {
+            "message_id": 1,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "I'm sorry to hear that. Quarantine made it tough for everyone. How are you feeling about this holiday season?"
+        },
+        {
+            "message_id": 2,
+            "user_id": "0005",
+            "speaker": "Human",
+            "message": "I am feeling better now and so glad that is behind us."
+        },
+        {
+            "message_id": 3,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "That's a relief! It must be nice to enjoy the holidays again."
+        },
+        {
+            "message_id": 4,
+            "user_id": "0005",
+            "speaker": "Human",
+            "message": "It is. I felt like I had to make the day special somehow in 2020 but I just couldn't being all alone."
+        },
+        {
+            "message_id": 5,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "That sounds really tough. Glad things are brighter now!"
+        },
+        {
+            "message_id": 6,
+            "user_id": "0005",
+            "speaker": "Human",
+            "message": "Yes, do you think we will go through anything like that again?"
+        },
+        {
+            "message_id": 7,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "It's hard to predict, but let's hope not."
+        },
+        {
+            "message_id": 8,
+            "user_id": "0005",
+            "speaker": "Human",
+            "message": "What did you do that year on Christmas?"
+        },
+        {
+            "message_id": 9,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "I spent it quietly with a book and some movies."
+        },
+        {
+            "message_id": 10,
+            "user_id": "0005",
+            "speaker": "Human",
+            "message": "Did you feel lonely?"
+        },
+        {
+            "message_id": 11,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "Not really, I enjoyed the solitude."
+        },
+        {
+            "message_id": 12,
+            "user_id": "0005",
+            "speaker": "Human",
+            "message": "I tried to but on Christmas Day it was hard because I missed seeing my kids."
+        },
+        {
+            "message_id": 13,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "I'm sorry. Family moments are special, especially on holidays."
+        },
+        {
+            "message_id": 14,
+            "user_id": "0005",
+            "speaker": "Human",
+            "message": "Yes, I do not take seeing them for granted."
+        },
+        {
+            "message_id": 15,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "Absolutely, cherish every moment with them!"
+        },
+        {
+            "message_id": 16,
+            "user_id": "0005",
+            "speaker": "Human",
+            "message": "We have to we never know what tomorrow may bring."
+        },
+        {
+            "message_id": 17,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "Indeed, life is unpredictable."
+        },
+        {
+            "message_id": 18,
+            "user_id": "0005",
+            "speaker": "Human",
+            "message": "What other ways do you find to enjoy solitude?"
+        },
+        {
+            "message_id": 19,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "Reading, nature walks, and some meditation."
+        }
+    ]
+}

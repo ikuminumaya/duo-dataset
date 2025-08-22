@@ -1,0 +1,167 @@
+{
+    "dialogue_id": "1034",
+    "setting": "wow",
+    "model": "Llama-3.1-70B-Instruct",
+    "prompt": "aligned",
+    "topic": "Photography",
+    "objective_evaluation": {
+        "preference": 3.67,
+        "stylistic_similarity": 4.0,
+        "consistency": 4.33,
+        "engagingness": 4.67,
+        "preference_scores": [
+            5.0,
+            3.0,
+            3.0
+        ],
+        "stylistic_similarity_scores": [
+            5.0,
+            3.0,
+            4.0
+        ],
+        "consistency_scores": [
+            5.0,
+            4.0,
+            4.0
+        ],
+        "engagingness_scores": [
+            5.0,
+            5.0,
+            4.0
+        ]
+    },
+    "subjective_evaluation": {
+        "preference": 2.0,
+        "stylistic_similarity": 2.0,
+        "consistency": 5.0,
+        "engagingness": 3.0
+    },
+    "dialogue": [
+        {
+            "message_id": 0,
+            "system_id": "0010",
+            "speaker": "Bot",
+            "message": "So, what's up with you, wanna talk about photography?"
+        },
+        {
+            "message_id": 1,
+            "user_id": "0025",
+            "speaker": "Human",
+            "message": "I do, but I honestly know very little about the subject. Maybe you can help me with that?"
+        },
+        {
+            "message_id": 2,
+            "system_id": "0010",
+            "speaker": "Bot",
+            "message": "I'd be happy to help you out - photography's basically capturing images using light and stuff, right?"
+        },
+        {
+            "message_id": 3,
+            "user_id": "0025",
+            "speaker": "Human",
+            "message": "I guess I've never broken it down like that. Tell me the story behind the first photograph ever taken."
+        },
+        {
+            "message_id": 4,
+            "system_id": "0010",
+            "speaker": "Bot",
+            "message": "I don't have that info off the top of my head, but I think it was taken by Joseph Nicephore Niepce, and it's pretty old, like from the 1800s or something."
+        },
+        {
+            "message_id": 5,
+            "user_id": "0025",
+            "speaker": "Human",
+            "message": "I wonder what he took a picture of."
+        },
+        {
+            "message_id": 6,
+            "system_id": "0010",
+            "speaker": "Bot",
+            "message": "I think it was a view from his window, but I'm not entirely sure, I'd have to check that out for you."
+        },
+        {
+            "message_id": 7,
+            "user_id": "0025",
+            "speaker": "Human",
+            "message": "That's okay that you don't know everything. I barely know anything about photography. I do love to look at nature photos though,"
+        },
+        {
+            "message_id": 8,
+            "system_id": "0010",
+            "speaker": "Bot",
+            "message": "Nature photos are the best, there's something about capturing the beauty of the world that's just amazing, you know?"
+        },
+        {
+            "message_id": 9,
+            "user_id": "0025",
+            "speaker": "Human",
+            "message": "It really is. I was obsessed with Ansel Adams when I was in high school. I had his posters on my wall. "
+        },
+        {
+            "message_id": 10,
+            "system_id": "0010",
+            "speaker": "Bot",
+            "message": "Ansel Adams is a legend, his black and whites of Yosemite are iconic, I can see why you'd be obsessed!"
+        },
+        {
+            "message_id": 11,
+            "user_id": "0025",
+            "speaker": "Human",
+            "message": "Yeah, the one I remember the most was of a waterfall, would you happen to have any idea what waterfall the image was of? I can't remember."
+        },
+        {
+            "message_id": 12,
+            "system_id": "0010",
+            "speaker": "Bot",
+            "message": "I think it might be Vernal Falls, but I'm not 100% sure, he took so many amazing shots of Yosemite!"
+        },
+        {
+            "message_id": 13,
+            "user_id": "0025",
+            "speaker": "Human",
+            "message": "You might be right. Did he live near Yosemite?"
+        },
+        {
+            "message_id": 14,
+            "system_id": "0010",
+            "speaker": "Bot",
+            "message": "I think he spent a lot of time in Yosemite, but I'm pretty sure he was from San Francisco, or at least lived there for a while."
+        },
+        {
+            "message_id": 15,
+            "user_id": "0025",
+            "speaker": "Human",
+            "message": "Here's a good trivia question that I'd like to learn the answer to. Who was the first US President to have his picture taken?"
+        },
+        {
+            "message_id": 16,
+            "system_id": "0010",
+            "speaker": "Bot",
+            "message": "That's a cool question, I think it was John Quincy Adams, but don't quote me on that, haha!"
+        },
+        {
+            "message_id": 17,
+            "user_id": "0025",
+            "speaker": "Human",
+            "message": "Okay, I won't tell anyone! I promise. What's better a film camera or a digital camera?"
+        },
+        {
+            "message_id": 18,
+            "system_id": "0010",
+            "speaker": "Bot",
+            "message": "Honestly, I think it's a matter of personal preference, some people love the feel of film, while others prefer the convenience of digital."
+        },
+        {
+            "message_id": 19,
+            "user_id": "0025",
+            "speaker": "Human",
+            "message": "That makes sense. When did the first digital cameras come out?"
+        },
+        {
+            "message_id": 20,
+            "system_id": "0010",
+            "speaker": "Bot",
+            "message": "I think it was back in the 70s, but they were super primitive and not really like the digital cameras we know today."
+        }
+    ]
+}

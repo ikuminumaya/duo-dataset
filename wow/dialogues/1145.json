@@ -1,0 +1,141 @@
+{
+    "dialogue_id": "1145",
+    "setting": "wow",
+    "model": "Llama-3.1-70B-Instruct",
+    "prompt": "not_aligned",
+    "topic": "Golden Retriever",
+    "subjective_evaluation": {
+        "preference": 4.0,
+        "stylistic_similarity": 4.0,
+        "consistency": 5.0,
+        "engagingness": 5.0
+    },
+    "dialogue": [
+        {
+            "message_id": 0,
+            "system_id": "0011",
+            "speaker": "Bot",
+            "message": "I'm stoked to chat with you, so what's up, wanna talk about Golden Retrievers?"
+        },
+        {
+            "message_id": 1,
+            "user_id": "0020",
+            "speaker": "Human",
+            "message": "Sure!  I love dogs.  And who doesn't love Golden retrievers?"
+        },
+        {
+            "message_id": 2,
+            "system_id": "0011",
+            "speaker": "Bot",
+            "message": "They're literally the best, right? I mean, they're bred to retrieve game, but they're also amazing family dogs!"
+        },
+        {
+            "message_id": 3,
+            "user_id": "0020",
+            "speaker": "Human",
+            "message": "They seem like the most gentle and friendly breed of dog.  I've never met one that didn't love being around people."
+        },
+        {
+            "message_id": 4,
+            "system_id": "0011",
+            "speaker": "Bot",
+            "message": "Totally! Their friendly tempers make 'em perfect for families and even as assistance dogs, like guide dogs for the blind!"
+        },
+        {
+            "message_id": 5,
+            "user_id": "0020",
+            "speaker": "Human",
+            "message": "Oh cool.  So they're pretty smart too, relative to other dogs?"
+        },
+        {
+            "message_id": 6,
+            "system_id": "0011",
+            "speaker": "Bot",
+            "message": "Yeah, they're super intelligent and easy to train, which is why they're often used as service dogs, search and rescue, and even hunting dogs!"
+        },
+        {
+            "message_id": 7,
+            "user_id": "0020",
+            "speaker": "Human",
+            "message": "That's cool.  I didn't know they were search and rescue dogs.  What other things can they be trained to do?"
+        },
+        {
+            "message_id": 8,
+            "system_id": "0011",
+            "speaker": "Bot",
+            "message": "They're also trained as detection dogs, like sniffing out stuff, and they even participate in conformation shows, showing off their good looks!"
+        },
+        {
+            "message_id": 9,
+            "user_id": "0020",
+            "speaker": "Human",
+            "message": "I assume they are one of the most popular dogs worldwide?"
+        },
+        {
+            "message_id": 10,
+            "system_id": "0011",
+            "speaker": "Bot",
+            "message": "They're super popular, like, in the top 10 most popular breeds in the US, UK, Australia, and Brazil, and they're often the third most popular family dog breed in the States!"
+        },
+        {
+            "message_id": 11,
+            "user_id": "0020",
+            "speaker": "Human",
+            "message": "Where were the first golden retrievers bred?"
+        },
+        {
+            "message_id": 12,
+            "system_id": "0011",
+            "speaker": "Bot",
+            "message": "The conversation history doesn't mention the origin of the Golden Retriever breed."
+        },
+        {
+            "message_id": 13,
+            "user_id": "0020",
+            "speaker": "Human",
+            "message": "Do they shed?"
+        },
+        {
+            "message_id": 14,
+            "system_id": "0011",
+            "speaker": "Bot",
+            "message": "Yeah, they shed a ton, especially during seasonal changes, so they need regular grooming!"
+        },
+        {
+            "message_id": 15,
+            "user_id": "0020",
+            "speaker": "Human",
+            "message": "I thought so.  Those coats seem pretty thick.  I bet they are nice and warm even in colder temperatures."
+        },
+        {
+            "message_id": 16,
+            "system_id": "0011",
+            "speaker": "Bot",
+            "message": "Their thick coats keep 'em warm and cozy, and the outer layer is even water-repellent, which is perfect for their love of water!"
+        },
+        {
+            "message_id": 17,
+            "user_id": "0020",
+            "speaker": "Human",
+            "message": "I didn't know that.  Is it common for dog fur to be water repellent?"
+        },
+        {
+            "message_id": 18,
+            "system_id": "0011",
+            "speaker": "Bot",
+            "message": "Nah, it's not super common, but Golden Retrievers have that special double coat that helps 'em shake off water and stay dry!"
+        },
+        {
+            "message_id": 19,
+            "user_id": "0020",
+            "speaker": "Human",
+            "message": "A double coat you say?  So they have a water repellent one on the outside and I assume a softer, warmer one on the inside?"
+        },
+        {
+            "message_id": 20,
+            "system_id": "0011",
+            "speaker": "Bot",
+            "message": "They've got a dense, soft undercoat that keeps 'em warm, and that water-repellent outer coat that lies flat against their body, pretty cool combo!"
+        }
+    ]
+}

@@ -1,0 +1,136 @@
+{
+    "dialogue_id": "0114",
+    "setting": "ed",
+    "model": "Llama-3.1-70B-Instruct",
+    "prompt": "neutral",
+    "emotion": "Hopeful",
+    "episode": "I felt really hopeful when I was out of work for some time. I had put out so many resumes and it finally payed off with me getting many job offers",
+    "subjective_evaluation": {
+        "preference": 5.0,
+        "stylistic_similarity": 3.0,
+        "consistency": 5.0,
+        "empathy": 4.0
+    },
+    "dialogue": [
+        {
+            "message_id": 0,
+            "user_id": "0009",
+            "speaker": "Human",
+            "message": "I was really hopeful after putting in many resumes and applying to many place in order to get a job after a lack of work for some time. I got offers for many jobs and I decided to be an independent contractor"
+        },
+        {
+            "message_id": 1,
+            "system_id": "0003",
+            "speaker": "Bot",
+            "message": "That sounds like a great opportunity. How's it working out for you?"
+        },
+        {
+            "message_id": 2,
+            "user_id": "0009",
+            "speaker": "Human",
+            "message": "Really great! The money is better than what I made in the past. The challenge is getting regular work so I have to constantly research and apply for work"
+        },
+        {
+            "message_id": 3,
+            "system_id": "0003",
+            "speaker": "Bot",
+            "message": "That can be stressful, but it's good that the pay is better."
+        },
+        {
+            "message_id": 4,
+            "user_id": "0009",
+            "speaker": "Human",
+            "message": "I needed something that was equal to my age. At 43 I'm not interested in making $15 an hour"
+        },
+        {
+            "message_id": 5,
+            "system_id": "0003",
+            "speaker": "Bot",
+            "message": "You deserve better pay at your experience level."
+        },
+        {
+            "message_id": 6,
+            "user_id": "0009",
+            "speaker": "Human",
+            "message": "Sometimes you have to work just to work and I'll do it in a pinch but there is way better options mostly and I jump from job to job"
+        },
+        {
+            "message_id": 7,
+            "system_id": "0003",
+            "speaker": "Bot",
+            "message": "Job hopping can be a good way to find the best fit."
+        },
+        {
+            "message_id": 8,
+            "user_id": "0009",
+            "speaker": "Human",
+            "message": "It's helped me from being bored because I'm always at a new location doing something new"
+        },
+        {
+            "message_id": 9,
+            "system_id": "0003",
+            "speaker": "Bot",
+            "message": "Variety can definitely keep things interesting."
+        },
+        {
+            "message_id": 10,
+            "user_id": "0009",
+            "speaker": "Human",
+            "message": "I can't stand being bored. I'm not a cubicle guy and when I was I hated it"
+        },
+        {
+            "message_id": 11,
+            "system_id": "0003",
+            "speaker": "Bot",
+            "message": "Office life can be stifling for some people."
+        },
+        {
+            "message_id": 12,
+            "user_id": "0009",
+            "speaker": "Human",
+            "message": "Mostly it's the politics that don't help. I made friends there but I have way more working entertainment"
+        },
+        {
+            "message_id": 13,
+            "system_id": "0003",
+            "speaker": "Bot",
+            "message": "Office politics can be draining."
+        },
+        {
+            "message_id": 14,
+            "user_id": "0009",
+            "speaker": "Human",
+            "message": "It can suck the soul out of you!"
+        },
+        {
+            "message_id": 15,
+            "system_id": "0003",
+            "speaker": "Bot",
+            "message": "That's a pretty vivid description!"
+        },
+        {
+            "message_id": 16,
+            "user_id": "0009",
+            "speaker": "Human",
+            "message": "I just always felt I there was no hope. Now there is hope for something better even if one contract job is a dud which does happen but not often"
+        },
+        {
+            "message_id": 17,
+            "system_id": "0003",
+            "speaker": "Bot",
+            "message": "That sense of hope is really liberating."
+        },
+        {
+            "message_id": 18,
+            "user_id": "0009",
+            "speaker": "Human",
+            "message": "It makes me feel free! I was tired of doing the same thing with seemingly no purpose or fun"
+        },
+        {
+            "message_id": 19,
+            "system_id": "0003",
+            "speaker": "Bot",
+            "message": "It sounds like you've broken free from a rut."
+        }
+    ]
+}

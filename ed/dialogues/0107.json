@@ -1,0 +1,136 @@
+{
+    "dialogue_id": "0107",
+    "setting": "ed",
+    "model": "Llama-3.1-70B-Instruct",
+    "prompt": "neutral",
+    "emotion": "Terrified",
+    "episode": "My car used to have a problem that would lead to the battery being drained extremely fast.  One time, the battery actually died while I was driving.  It was pretty scary and could have been a really bad situation if things went a little differently.",
+    "subjective_evaluation": {
+        "preference": 2.0,
+        "stylistic_similarity": 4.0,
+        "consistency": 5.0,
+        "empathy": 3.0
+    },
+    "dialogue": [
+        {
+            "message_id": 0,
+            "user_id": "0020",
+            "speaker": "Human",
+            "message": "I still remember that time my car battery died while I was driving.  It was pretty scary."
+        },
+        {
+            "message_id": 1,
+            "system_id": "0003",
+            "speaker": "Bot",
+            "message": "That sounds terrifying. What happened next?"
+        },
+        {
+            "message_id": 2,
+            "user_id": "0020",
+            "speaker": "Human",
+            "message": "I was just about to pull onto the freeway, so luckily I was able to just pull off onto the shoulder and park."
+        },
+        {
+            "message_id": 3,
+            "system_id": "0003",
+            "speaker": "Bot",
+            "message": "That was lucky. Were you able to get help quickly?"
+        },
+        {
+            "message_id": 4,
+            "user_id": "0020",
+            "speaker": "Human",
+            "message": "Fortunately I didn't need help.  I just waited a few minutes and my car started back up."
+        },
+        {
+            "message_id": 5,
+            "system_id": "0003",
+            "speaker": "Bot",
+            "message": "What a relief! Must have been a loose connection or something."
+        },
+        {
+            "message_id": 6,
+            "user_id": "0020",
+            "speaker": "Human",
+            "message": "I can't remember exactly what it was when the mechanic eventually figured it out, but something like that."
+        },
+        {
+            "message_id": 7,
+            "system_id": "0003",
+            "speaker": "Bot",
+            "message": "Glad it was an easy fix in the end."
+        },
+        {
+            "message_id": 8,
+            "user_id": "0020",
+            "speaker": "Human",
+            "message": "Easy but not quick.  I drove with my car acting like that for a few years I think."
+        },
+        {
+            "message_id": 9,
+            "system_id": "0003",
+            "speaker": "Bot",
+            "message": "You must have been worried it would happen again."
+        },
+        {
+            "message_id": 10,
+            "user_id": "0020",
+            "speaker": "Human",
+            "message": "Oh yeah.  In the back of my mind I was always a little afraid of it happening again."
+        },
+        {
+            "message_id": 11,
+            "system_id": "0003",
+            "speaker": "Bot",
+            "message": "That's understandable. Must have been stressful."
+        },
+        {
+            "message_id": 12,
+            "user_id": "0020",
+            "speaker": "Human",
+            "message": "It was.  Luckily, that was the only time it happened while driving, but on more than one occasion I would find my battery dead just for not driving for a day or two."
+        },
+        {
+            "message_id": 13,
+            "system_id": "0003",
+            "speaker": "Bot",
+            "message": "That's frustrating. Sounds like the problem was intermittent."
+        },
+        {
+            "message_id": 14,
+            "user_id": "0020",
+            "speaker": "Human",
+            "message": "Very.  Sometimes it was fine for a month, other times it would be dead even though I had just driven to the store or something.  It was frustrating."
+        },
+        {
+            "message_id": 15,
+            "system_id": "0003",
+            "speaker": "Bot",
+            "message": "I can imagine. Must have been annoying not knowing when it would happen again."
+        },
+        {
+            "message_id": 16,
+            "user_id": "0020",
+            "speaker": "Human",
+            "message": "Exactly.  It was very unpredictable so I had to always be prepared for it to happen again."
+        },
+        {
+            "message_id": 17,
+            "system_id": "0003",
+            "speaker": "Bot",
+            "message": "Always being on edge like that can be really draining."
+        },
+        {
+            "message_id": 18,
+            "user_id": "0020",
+            "speaker": "Human",
+            "message": "It really was.  I can't believe I put up with it for so long.  No one should have to deal with that."
+        },
+        {
+            "message_id": 19,
+            "system_id": "0003",
+            "speaker": "Bot",
+            "message": "It sounds like a huge relief that it's finally fixed."
+        }
+    ]
+}

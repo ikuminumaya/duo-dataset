@@ -1,0 +1,136 @@
+{
+    "dialogue_id": "0109",
+    "setting": "ed",
+    "model": "Llama-3.1-70B-Instruct",
+    "prompt": "neutral",
+    "emotion": "Sad",
+    "episode": "When my grandad died it was very sad even though we knew it was coming.",
+    "subjective_evaluation": {
+        "preference": 4.0,
+        "stylistic_similarity": 4.0,
+        "consistency": 5.0,
+        "empathy": 5.0
+    },
+    "dialogue": [
+        {
+            "message_id": 0,
+            "user_id": "0006",
+            "speaker": "Human",
+            "message": "When my grandad died it was very sad even though we knew it was coming."
+        },
+        {
+            "message_id": 1,
+            "system_id": "0003",
+            "speaker": "Bot",
+            "message": "Losing a loved one is never easy, even when expected."
+        },
+        {
+            "message_id": 2,
+            "user_id": "0006",
+            "speaker": "Human",
+            "message": "He had dementia which was very sad to see.  He had good days when he knew what was going on and would say that he wanted to die as he didn't like what was happening to him.  It was very sad to hear from a loved one."
+        },
+        {
+            "message_id": 3,
+            "system_id": "0003",
+            "speaker": "Bot",
+            "message": "That must have been heartbreaking to hear him express that."
+        },
+        {
+            "message_id": 4,
+            "user_id": "0006",
+            "speaker": "Human",
+            "message": "It was some good element though that he was now where he wanted to be."
+        },
+        {
+            "message_id": 5,
+            "system_id": "0003",
+            "speaker": "Bot",
+            "message": "At least he's at peace now, that's some comfort."
+        },
+        {
+            "message_id": 6,
+            "user_id": "0006",
+            "speaker": "Human",
+            "message": "Exactly.  It was awful to see what it was doing to him but there was still an element of my grandad in there on his good days."
+        },
+        {
+            "message_id": 7,
+            "system_id": "0003",
+            "speaker": "Bot",
+            "message": "It's like his spirit was still shining through."
+        },
+        {
+            "message_id": 8,
+            "user_id": "0006",
+            "speaker": "Human",
+            "message": "He lived to a ripe old age"
+        },
+        {
+            "message_id": 9,
+            "system_id": "0003",
+            "speaker": "Bot",
+            "message": "That's something to be grateful for, a long and full life."
+        },
+        {
+            "message_id": 10,
+            "user_id": "0006",
+            "speaker": "Human",
+            "message": "In his 90's."
+        },
+        {
+            "message_id": 11,
+            "system_id": "0003",
+            "speaker": "Bot",
+            "message": "He had a good long run, bless him."
+        },
+        {
+            "message_id": 12,
+            "user_id": "0006",
+            "speaker": "Human",
+            "message": "My grandma took a turn for the worse after he died and got full dementia with no good days.  She didn't even realise my grandad had died."
+        },
+        {
+            "message_id": 13,
+            "system_id": "0003",
+            "speaker": "Bot",
+            "message": "That's so sad, a double loss for you and your family."
+        },
+        {
+            "message_id": 14,
+            "user_id": "0006",
+            "speaker": "Human",
+            "message": "When she died, it was comfort that she wasn't suffering anymore."
+        },
+        {
+            "message_id": 15,
+            "system_id": "0003",
+            "speaker": "Bot",
+            "message": "At least she's finally at peace, no more pain."
+        },
+        {
+            "message_id": 16,
+            "user_id": "0006",
+            "speaker": "Human",
+            "message": "And with my grandad."
+        },
+        {
+            "message_id": 17,
+            "system_id": "0003",
+            "speaker": "Bot",
+            "message": "Reunited now, that's a nice thought."
+        },
+        {
+            "message_id": 18,
+            "user_id": "0006",
+            "speaker": "Human",
+            "message": "Both are burried in the same place."
+        },
+        {
+            "message_id": 19,
+            "system_id": "0003",
+            "speaker": "Bot",
+            "message": "Together in rest, that's comforting."
+        }
+    ]
+}

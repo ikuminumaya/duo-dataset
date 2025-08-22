@@ -1,0 +1,136 @@
+{
+    "dialogue_id": "0133",
+    "setting": "ed",
+    "model": "Llama-3.1-70B-Instruct",
+    "prompt": "aligned",
+    "emotion": "Excited",
+    "episode": "I recently bought a new car.  I have been holding onto my old one for years, but it started having issues.",
+    "subjective_evaluation": {
+        "preference": 5.0,
+        "stylistic_similarity": 3.0,
+        "consistency": 5.0,
+        "empathy": 5.0
+    },
+    "dialogue": [
+        {
+            "message_id": 0,
+            "user_id": "0007",
+            "speaker": "Human",
+            "message": "I recently got a new car.  I had been driving my old car for about 13 years."
+        },
+        {
+            "message_id": 1,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "That's a big change! Exciting but also a little sad to say goodbye to the old one, right?"
+        },
+        {
+            "message_id": 2,
+            "user_id": "0007",
+            "speaker": "Human",
+            "message": "I'm not sad at all.  It was time for it to go.  I'm excited to get the new technology that is in my new car."
+        },
+        {
+            "message_id": 3,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "That's great! New tech can be a lot of fun. What's your favorite feature so far?"
+        },
+        {
+            "message_id": 4,
+            "user_id": "0007",
+            "speaker": "Human",
+            "message": "I really like that my car has technology that will help to prevent me from rear ending someone.  I'm a very safe driver, but I just like to be extra safe."
+        },
+        {
+            "message_id": 5,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "Being extra safe is always a good thing! That feature must give you some extra peace of mind on the road."
+        },
+        {
+            "message_id": 6,
+            "user_id": "0007",
+            "speaker": "Human",
+            "message": "Yep.  I also like the rear view camera.  I hate driving blind. "
+        },
+        {
+            "message_id": 7,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "Rear view cameras are a game changer. So much easier to back up now!"
+        },
+        {
+            "message_id": 8,
+            "user_id": "0007",
+            "speaker": "Human",
+            "message": "Yes!  The camera also has a system that helps you to park.  It will alert you if you aren't parking in a space properly. "
+        },
+        {
+            "message_id": 9,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "That's awesome! Parallel parking just got a whole lot easier, huh?"
+        },
+        {
+            "message_id": 10,
+            "user_id": "0007",
+            "speaker": "Human",
+            "message": "It has!  I don't do much parallel parking, but I am itching to try out the parking system when I do."
+        },
+        {
+            "message_id": 11,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "Ha ha, sounds like you're looking forward to putting it to the test!"
+        },
+        {
+            "message_id": 12,
+            "user_id": "0007",
+            "speaker": "Human",
+            "message": "I am.  I'm happy that I was able to get a good price for this car.  I expect for the prices to shoot up in the future thanks to the tariff wars. "
+        },
+        {
+            "message_id": 13,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "Smart thinking! You timed your purchase well, it sounds like."
+        },
+        {
+            "message_id": 14,
+            "user_id": "0007",
+            "speaker": "Human",
+            "message": "I was very lucky.  If my old car failed a few more months down the road, I may have had to pay thousands of dollars more. "
+        },
+        {
+            "message_id": 15,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "What a relief! You dodged a potentially expensive bullet."
+        },
+        {
+            "message_id": 16,
+            "user_id": "0007",
+            "speaker": "Human",
+            "message": "I believe so.  Hopefully, this car can last me for another 10 years or so like my old car."
+        },
+        {
+            "message_id": 17,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "Fingers crossed! A decade's a great run for a car."
+        },
+        {
+            "message_id": 18,
+            "user_id": "0007",
+            "speaker": "Human",
+            "message": "It is.  It feels great to have a dependable car.  When your car is having issues, I feel anxious.  I depend on my car so much."
+        },
+        {
+            "message_id": 19,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "Having a reliable ride is a huge stress reducer."
+        }
+    ]
+}

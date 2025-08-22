@@ -1,0 +1,141 @@
+{
+    "dialogue_id": "1096",
+    "setting": "wow",
+    "model": "gpt-4o",
+    "prompt": "not_aligned",
+    "topic": "Back pain",
+    "subjective_evaluation": {
+        "preference": 5.0,
+        "stylistic_similarity": 5.0,
+        "consistency": 5.0,
+        "engagingness": 5.0
+    },
+    "dialogue": [
+        {
+            "message_id": 0,
+            "system_id": "0008",
+            "speaker": "Bot",
+            "message": "Back pain is super common and can range from a dull ache to a sharp pain, often affecting the lower back since it bears most of our body weight."
+        },
+        {
+            "message_id": 1,
+            "user_id": "0027",
+            "speaker": "Human",
+            "message": "Yeah. I have struggled with sciatica on and off since I was a teenager. "
+        },
+        {
+            "message_id": 2,
+            "system_id": "0008",
+            "speaker": "Bot",
+            "message": "Sciatica can be really challenging since it often involves pain that radiates down the legs, but you're definitely not alone in dealing with it."
+        },
+        {
+            "message_id": 3,
+            "user_id": "0027",
+            "speaker": "Human",
+            "message": "I think it's mainly because I sometimes sit on my ankle to alleviate my pain. I have bad arthritis in my ankle. I usually use a chiropractor when my back hurts. It's very efficient."
+        },
+        {
+            "message_id": 4,
+            "system_id": "0008",
+            "speaker": "Bot",
+            "message": "It's great that chiropractic care helps you, especially since back pain is so common and can come from various sources, like muscles or joints."
+        },
+        {
+            "message_id": 5,
+            "user_id": "0027",
+            "speaker": "Human",
+            "message": "Yeah. When he first saw my back he asked me about a million things that have always hurt me. He was kind of like a magician in the way that he knew so much just by looking at x-rays."
+        },
+        {
+            "message_id": 6,
+            "system_id": "0008",
+            "speaker": "Bot",
+            "message": "It's impressive how chiropractors can often pinpoint issues like back pain, which is extremely common, just from x-rays and assessments."
+        },
+        {
+            "message_id": 7,
+            "user_id": "0027",
+            "speaker": "Human",
+            "message": "Do you think chiropractors are better than surgeons?"
+        },
+        {
+            "message_id": 8,
+            "system_id": "0008",
+            "speaker": "Bot",
+            "message": "Chiropractors and surgeons both have their roles in treating back pain, with chiropractors often focusing on non-invasive methods and surgeons handling more severe cases."
+        },
+        {
+            "message_id": 9,
+            "user_id": "0027",
+            "speaker": "Human",
+            "message": "Mine were severe enough to see several surgeons but I think it's really drastic to drill holes in bones and stuff, you know?"
+        },
+        {
+            "message_id": 10,
+            "system_id": "0008",
+            "speaker": "Bot",
+            "message": "Back pain is incredibly common, with most adults experiencing it at some point, and it's understandable to be cautious about surgical interventions."
+        },
+        {
+            "message_id": 11,
+            "user_id": "0027",
+            "speaker": "Human",
+            "message": "What is the most common back ailment?"
+        },
+        {
+            "message_id": 12,
+            "system_id": "0008",
+            "speaker": "Bot",
+            "message": "Lower back pain is the most common because it supports much of the upper body's weight."
+        },
+        {
+            "message_id": 13,
+            "user_id": "0027",
+            "speaker": "Human",
+            "message": "What are the most effective things to do for back pain?"
+        },
+        {
+            "message_id": 14,
+            "system_id": "0008",
+            "speaker": "Bot",
+            "message": "There are several strategies like physical therapy, maintaining good posture, and regular exercise that can help manage and prevent back pain."
+        },
+        {
+            "message_id": 15,
+            "user_id": "0027",
+            "speaker": "Human",
+            "message": "Is physical therapy any better than just exercising regularly? I feel like it's for lazy people..."
+        },
+        {
+            "message_id": 16,
+            "system_id": "0008",
+            "speaker": "Bot",
+            "message": "Physical therapy can be really beneficial because it offers tailored exercises and guidance that address specific issues, which can complement regular exercise for better results."
+        },
+        {
+            "message_id": 17,
+            "user_id": "0027",
+            "speaker": "Human",
+            "message": "Are there any foods that can help with back pain?"
+        },
+        {
+            "message_id": 18,
+            "system_id": "0008",
+            "speaker": "Bot",
+            "message": "While specific foods aren't a cure, a diet rich in anti-inflammatory foods like fruits, vegetables, and omega-3 fatty acids can support overall back health."
+        },
+        {
+            "message_id": 19,
+            "user_id": "0027",
+            "speaker": "Human",
+            "message": "Where can I find omega 3s besides fish? I don't care for seafood."
+        },
+        {
+            "message_id": 20,
+            "system_id": "0008",
+            "speaker": "Bot",
+            "message": "You can find omega-3s in sources like flaxseeds, chia seeds, and walnuts if you're not into seafood."
+        }
+    ]
+}

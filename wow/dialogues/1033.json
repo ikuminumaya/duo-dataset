@@ -1,0 +1,167 @@
+{
+    "dialogue_id": "1033",
+    "setting": "wow",
+    "model": "Llama-3.1-70B-Instruct",
+    "prompt": "aligned",
+    "topic": "Smoking",
+    "objective_evaluation": {
+        "preference": 4.33,
+        "stylistic_similarity": 4.67,
+        "consistency": 4.67,
+        "engagingness": 4.33,
+        "preference_scores": [
+            5.0,
+            5.0,
+            3.0
+        ],
+        "stylistic_similarity_scores": [
+            5.0,
+            5.0,
+            4.0
+        ],
+        "consistency_scores": [
+            5.0,
+            5.0,
+            4.0
+        ],
+        "engagingness_scores": [
+            5.0,
+            5.0,
+            3.0
+        ]
+    },
+    "subjective_evaluation": {
+        "preference": 2.0,
+        "stylistic_similarity": 2.0,
+        "consistency": 5.0,
+        "engagingness": 3.0
+    },
+    "dialogue": [
+        {
+            "message_id": 0,
+            "system_id": "0010",
+            "speaker": "Bot",
+            "message": "So, what's the haps on smoking, do you smoke?"
+        },
+        {
+            "message_id": 1,
+            "user_id": "0013",
+            "speaker": "Human",
+            "message": "An occasional cigar.  I quit cigarettes years ago."
+        },
+        {
+            "message_id": 2,
+            "system_id": "0010",
+            "speaker": "Bot",
+            "message": "Congrats on quitting cigs, that's a huge feat! What made you keep cigars, just special occasions or?"
+        },
+        {
+            "message_id": 3,
+            "user_id": "0013",
+            "speaker": "Human",
+            "message": "Isave the expensive ones for special occasions.  I usually have one or two Quorums every day."
+        },
+        {
+            "message_id": 4,
+            "system_id": "0010",
+            "speaker": "Bot",
+            "message": "Quorums are pretty affordable, huh? So, do you think you'll ever quit cigars for good, or is it something you're okay with keeping as a daily habit?"
+        },
+        {
+            "message_id": 5,
+            "user_id": "0013",
+            "speaker": "Human",
+            "message": "I really have no plans to quit.  That could change in the future, but even doctors I know are happy with cigars."
+        },
+        {
+            "message_id": 6,
+            "system_id": "0010",
+            "speaker": "Bot",
+            "message": "Some docs say cigars are a safer bet than cigarettes, since you don't inhale, right?"
+        },
+        {
+            "message_id": 7,
+            "user_id": "0013",
+            "speaker": "Human",
+            "message": "Exactly.  I suppose vaping is cheaper, but not as much enjoyable."
+        },
+        {
+            "message_id": 8,
+            "system_id": "0010",
+            "speaker": "Bot",
+            "message": "Vaping's just not the same as a good cigar, is it? There's something about the ritual and taste that's hard to replicate."
+        },
+        {
+            "message_id": 9,
+            "user_id": "0013",
+            "speaker": "Human",
+            "message": "Yep, and it's a god break during the day.  An hour with a good cigar is a great way to relax."
+        },
+        {
+            "message_id": 10,
+            "system_id": "0010",
+            "speaker": "Bot",
+            "message": "That sounds like a lovely way to unwind! An hour to yourself, just chillin' with a good cigar... do you find it helps clear your head at all?"
+        },
+        {
+            "message_id": 11,
+            "user_id": "0013",
+            "speaker": "Human",
+            "message": "yes, if gives me time to think about things or, fairly often, do some birdwatching while smoking one."
+        },
+        {
+            "message_id": 12,
+            "system_id": "0010",
+            "speaker": "Bot",
+            "message": "Birdwatching and cigars, that's a great combo! Nature and nicotine, haha, sounds like a nice way to slow down and appreciate the little things."
+        },
+        {
+            "message_id": 13,
+            "user_id": "0013",
+            "speaker": "Human",
+            "message": "I think it sort of focuses the mind, I'm not sure why."
+        },
+        {
+            "message_id": 14,
+            "system_id": "0010",
+            "speaker": "Bot",
+            "message": "Maybe it's the ritual of smoking that helps calm your mind and focus your thoughts, like a little meditation session with a cigar."
+        },
+        {
+            "message_id": 15,
+            "user_id": "0013",
+            "speaker": "Human",
+            "message": "I think so.  Whatever, it works for me."
+        },
+        {
+            "message_id": 16,
+            "system_id": "0010",
+            "speaker": "Bot",
+            "message": "That's all that matters, right? If it works for you, then that's all the justification you need!"
+        },
+        {
+            "message_id": 17,
+            "user_id": "0013",
+            "speaker": "Human",
+            "message": "Exactly, it beats spending it watching the TV."
+        },
+        {
+            "message_id": 18,
+            "system_id": "0010",
+            "speaker": "Bot",
+            "message": "TV can be such a mindless activity, whereas smoking a cigar and watching birds is actually engaging and enjoyable."
+        },
+        {
+            "message_id": 19,
+            "user_id": "0013",
+            "speaker": "Human",
+            "message": "Yes, it is."
+        },
+        {
+            "message_id": 20,
+            "system_id": "0010",
+            "speaker": "Bot",
+            "message": "It's great that you've found something that brings you joy and helps you unwind."
+        }
+    ]
+}

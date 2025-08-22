@@ -1,0 +1,162 @@
+{
+    "dialogue_id": "0014",
+    "setting": "ed",
+    "model": "gpt-4o",
+    "prompt": "aligned",
+    "emotion": "Surprised",
+    "episode": "I was surprised when my husband gave me a surprise birthday party to celebrate my 50th birthday.",
+    "objective_evaluation": {
+        "preference": 3.33,
+        "stylistic_similarity": 2.67,
+        "consistency": 4.67,
+        "empathy": 4.33,
+        "preference_scores": [
+            3.0,
+            3.0,
+            4.0
+        ],
+        "stylistic_similarity_scores": [
+            2.0,
+            2.0,
+            4.0
+        ],
+        "consistency_scores": [
+            4.0,
+            5.0,
+            5.0
+        ],
+        "empathy_scores": [
+            4.0,
+            5.0,
+            4.0
+        ]
+    },
+    "subjective_evaluation": {
+        "preference": 5.0,
+        "stylistic_similarity": 5.0,
+        "consistency": 5.0,
+        "empathy": 5.0
+    },
+    "dialogue": [
+        {
+            "message_id": 0,
+            "user_id": "0014",
+            "speaker": "Human",
+            "message": "I was surprised when my husband gave me a surprise birthday party to celebrate my 50th birthday."
+        },
+        {
+            "message_id": 1,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "Wow, that sounds amazing! It must have been a wonderful surprise to celebrate such a special milestone."
+        },
+        {
+            "message_id": 2,
+            "user_id": "0014",
+            "speaker": "Human",
+            "message": "Yes, I had no idea he had been planning this surprise for me and I was truly surprised!"
+        },
+        {
+            "message_id": 3,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "That's awesome! He must really know how to make you feel special."
+        },
+        {
+            "message_id": 4,
+            "user_id": "0014",
+            "speaker": "Human",
+            "message": "Yes, I feel blessed to have my husband and he is truly my soulmate.  I felt so surprised that he planned this special party for me."
+        },
+        {
+            "message_id": 5,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "That's so sweet! You're lucky to have each other."
+        },
+        {
+            "message_id": 6,
+            "user_id": "0014",
+            "speaker": "Human",
+            "message": "Yes, we are very blessed to have one another.  I felt special during the party and enjoyed this surprise birthday party with family and friends."
+        },
+        {
+            "message_id": 7,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "That's wonderful! Sounds like a perfect celebration."
+        },
+        {
+            "message_id": 8,
+            "user_id": "0014",
+            "speaker": "Human",
+            "message": "It was a fun party!"
+        },
+        {
+            "message_id": 9,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "That's awesome! I'm so glad you had a great time."
+        },
+        {
+            "message_id": 10,
+            "user_id": "0014",
+            "speaker": "Human",
+            "message": "I was so surprised that everyone did a great job keeping this surprise party a secret from me."
+        },
+        {
+            "message_id": 11,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "That's impressive! They must be great at keeping secrets."
+        },
+        {
+            "message_id": 12,
+            "user_id": "0014",
+            "speaker": "Human",
+            "message": "So true!  I was impressed at the surprise party being planned secretly."
+        },
+        {
+            "message_id": 13,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "Absolutely, it sounds like they pulled off an amazing surprise!"
+        },
+        {
+            "message_id": 14,
+            "user_id": "0014",
+            "speaker": "Human",
+            "message": "I have video footage of how surprised I was and it is fun to watch now to remember this special party."
+        },
+        {
+            "message_id": 15,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "That's awesome! It's great to have those memories to look back on."
+        },
+        {
+            "message_id": 16,
+            "user_id": "0014",
+            "speaker": "Human",
+            "message": "I still talk about this special birthday party with my husband, family, and friends."
+        },
+        {
+            "message_id": 17,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "That's fantastic! It must have been a truly unforgettable celebration."
+        },
+        {
+            "message_id": 18,
+            "user_id": "0014",
+            "speaker": "Human",
+            "message": "It was such a special surprise party to celebrate my birthday!"
+        },
+        {
+            "message_id": 19,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "So glad it was special for you!"
+        }
+    ]
+}

@@ -1,0 +1,141 @@
+{
+    "dialogue_id": "1093",
+    "setting": "wow",
+    "model": "gpt-4o",
+    "prompt": "not_aligned",
+    "topic": "Sushi",
+    "subjective_evaluation": {
+        "preference": 5.0,
+        "stylistic_similarity": 4.0,
+        "consistency": 5.0,
+        "engagingness": 5.0
+    },
+    "dialogue": [
+        {
+            "message_id": 0,
+            "system_id": "0008",
+            "speaker": "Bot",
+            "message": "Sushi, which means \"sour-tasting,\" originally involved fermented rice and fish, but now it's a delightful mix of flavors with options like raw seafood or vegetarian styles."
+        },
+        {
+            "message_id": 1,
+            "user_id": "0005",
+            "speaker": "Human",
+            "message": "What is the most popular sushi order?"
+        },
+        {
+            "message_id": 2,
+            "system_id": "0008",
+            "speaker": "Bot",
+            "message": "The classic nigiri sushi, with its simple combination of rice and raw fish, is often a top pick for sushi lovers."
+        },
+        {
+            "message_id": 3,
+            "user_id": "0005",
+            "speaker": "Human",
+            "message": "What is most popular with vegetarians?"
+        },
+        {
+            "message_id": 4,
+            "system_id": "0008",
+            "speaker": "Bot",
+            "message": "Vegetarian sushi lovers often go for rolls filled with avocado, cucumber, and sometimes pickled daikon radish."
+        },
+        {
+            "message_id": 5,
+            "user_id": "0005",
+            "speaker": "Human",
+            "message": "What kind of sauces are available?"
+        },
+        {
+            "message_id": 6,
+            "system_id": "0008",
+            "speaker": "Bot",
+            "message": "You can enjoy sushi with sauces like soy sauce, wasabi, and sometimes pickled ginger."
+        },
+        {
+            "message_id": 7,
+            "user_id": "0005",
+            "speaker": "Human",
+            "message": "If I go to a business lunch and haven't ordered sushi before what should I get?"
+        },
+        {
+            "message_id": 8,
+            "system_id": "0008",
+            "speaker": "Bot",
+            "message": "For a business lunch, you might want to try a classic nigiri or a simple roll with cooked ingredients to ease into the sushi experience."
+        },
+        {
+            "message_id": 9,
+            "user_id": "0005",
+            "speaker": "Human",
+            "message": "Do you use chopsticks or what?"
+        },
+        {
+            "message_id": 10,
+            "system_id": "0008",
+            "speaker": "Bot",
+            "message": "Using chopsticks is traditional, but it's also perfectly fine to use your hands when eating sushi."
+        },
+        {
+            "message_id": 11,
+            "user_id": "0005",
+            "speaker": "Human",
+            "message": "So the rolls are all bite sized?"
+        },
+        {
+            "message_id": 12,
+            "system_id": "0008",
+            "speaker": "Bot",
+            "message": "Most sushi rolls are designed to be bite-sized, making them easy to eat with chopsticks or your hands."
+        },
+        {
+            "message_id": 13,
+            "user_id": "0005",
+            "speaker": "Human",
+            "message": "Do I dip them or what?"
+        },
+        {
+            "message_id": 14,
+            "system_id": "0008",
+            "speaker": "Bot",
+            "message": "You can dip your sushi rolls lightly in soy sauce for added flavor; just be careful not to overpower the delicate taste."
+        },
+        {
+            "message_id": 15,
+            "user_id": "0005",
+            "speaker": "Human",
+            "message": "Does everyone use dip? It sounds messy for a business lunch."
+        },
+        {
+            "message_id": 16,
+            "system_id": "0008",
+            "speaker": "Bot",
+            "message": "It's perfectly fine to skip the dip if it feels messy; sushi is often served with soy sauce on the side, but it's optional."
+        },
+        {
+            "message_id": 17,
+            "user_id": "0005",
+            "speaker": "Human",
+            "message": "Is there dessert?"
+        },
+        {
+            "message_id": 18,
+            "system_id": "0008",
+            "speaker": "Bot",
+            "message": "Desserts aren't typically part of a sushi meal, but you might find sweet options like mochi or green tea ice cream."
+        },
+        {
+            "message_id": 19,
+            "user_id": "0005",
+            "speaker": "Human",
+            "message": "I hope so. What else is sweet?"
+        },
+        {
+            "message_id": 20,
+            "system_id": "0008",
+            "speaker": "Bot",
+            "message": "You might also find sweet treats like pickled ginger, which offers a mild sweetness alongside its tangy flavor."
+        }
+    ]
+}

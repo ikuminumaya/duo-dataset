@@ -1,0 +1,136 @@
+{
+    "dialogue_id": "0124",
+    "setting": "ed",
+    "model": "Llama-3.1-70B-Instruct",
+    "prompt": "aligned",
+    "emotion": "Grateful",
+    "episode": "I was stuck at the airport and a friend of mine forgot to pick me up, stranding me. So I called a family member and they took time off from their work to come and pick me up, I was extremely grateful for their sacrifice.",
+    "subjective_evaluation": {
+        "preference": 4.0,
+        "stylistic_similarity": 3.0,
+        "consistency": 4.0,
+        "empathy": 4.0
+    },
+    "dialogue": [
+        {
+            "message_id": 0,
+            "user_id": "0022",
+            "speaker": "Human",
+            "message": "I was stuck at the airport for several hours as my friend that I had told weeks in advance to pick me up, had bailed and forgotten to pick me up."
+        },
+        {
+            "message_id": 1,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "That's so frustrating! What a terrible friend."
+        },
+        {
+            "message_id": 2,
+            "user_id": "0022",
+            "speaker": "Human",
+            "message": "Yes, they are no longer a close friend of mine and I was very upset with them for forgetting about me."
+        },
+        {
+            "message_id": 3,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "I don't blame you, that's a pretty big betrayal of trust."
+        },
+        {
+            "message_id": 4,
+            "user_id": "0022",
+            "speaker": "Human",
+            "message": "However, I called a family member of mine in the area and they were willing to take the day off from their important work meeting to come and pick me up."
+        },
+        {
+            "message_id": 5,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "That's amazing, so sweet of them!"
+        },
+        {
+            "message_id": 6,
+            "user_id": "0022",
+            "speaker": "Human",
+            "message": "It was sweet, and I was extremely grateful for their sacrifice as I had known they were not initially available to come pick me up, due to their work responsibilities on that day."
+        },
+        {
+            "message_id": 7,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "They really came through for you, that's wonderful!"
+        },
+        {
+            "message_id": 8,
+            "user_id": "0022",
+            "speaker": "Human",
+            "message": "I felt a little bad making them come pick me up, but I wouldn't have asked if I wasn't in such a hurry."
+        },
+        {
+            "message_id": 9,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "I'm sure they didn't mind, they wanted to help."
+        },
+        {
+            "message_id": 10,
+            "user_id": "0022",
+            "speaker": "Human",
+            "message": "I missed an important meeting as well, so I felt infuriated with my friend. But I at least was able to get a ride from my sibling to get to my work eventually."
+        },
+        {
+            "message_id": 11,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "Glad your sibling saved the day, but yeah, missing that meeting must've been infuriating!"
+        },
+        {
+            "message_id": 12,
+            "user_id": "0022",
+            "speaker": "Human",
+            "message": "Yes, it all ended in a mess for everyone, but my sibling proved how much they cared for me and we now laugh at it looking back."
+        },
+        {
+            "message_id": 13,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "Nice that you can laugh about it now, and it brought you closer to your sibling!"
+        },
+        {
+            "message_id": 14,
+            "user_id": "0022",
+            "speaker": "Human",
+            "message": "My \"friend\" however let me down big time and I no longer consider them as close as I used to. They couldn't have let me down more for such a simple task."
+        },
+        {
+            "message_id": 15,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "Yeah, that's a tough one to forgive, especially when it was such a simple thing to follow through on."
+        },
+        {
+            "message_id": 16,
+            "user_id": "0022",
+            "speaker": "Human",
+            "message": "But while it was stressful at the time, I am now grateful for my sibling's empathy and accommodation."
+        },
+        {
+            "message_id": 17,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "That's the silver lining, your sibling's kindness really shone through."
+        },
+        {
+            "message_id": 18,
+            "user_id": "0022",
+            "speaker": "Human",
+            "message": "Well, that sums up why I was so grateful, thank you for listening and for the positive feedback."
+        },
+        {
+            "message_id": 19,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "You're welcome, glad I could listen and help you reflect on the good that came out of it."
+        }
+    ]
+}

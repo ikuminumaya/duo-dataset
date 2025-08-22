@@ -1,0 +1,167 @@
+{
+    "dialogue_id": "1039",
+    "setting": "wow",
+    "model": "Llama-3.1-70B-Instruct",
+    "prompt": "aligned",
+    "topic": "Ice hockey",
+    "objective_evaluation": {
+        "preference": 4.0,
+        "stylistic_similarity": 4.33,
+        "consistency": 5.0,
+        "engagingness": 3.67,
+        "preference_scores": [
+            4.0,
+            5.0,
+            3.0
+        ],
+        "stylistic_similarity_scores": [
+            5.0,
+            4.0,
+            4.0
+        ],
+        "consistency_scores": [
+            5.0,
+            5.0,
+            5.0
+        ],
+        "engagingness_scores": [
+            4.0,
+            5.0,
+            2.0
+        ]
+    },
+    "subjective_evaluation": {
+        "preference": 5.0,
+        "stylistic_similarity": 5.0,
+        "consistency": 5.0,
+        "engagingness": 4.0
+    },
+    "dialogue": [
+        {
+            "message_id": 0,
+            "system_id": "0010",
+            "speaker": "Bot",
+            "message": "Hey, wanna talk about ice hockey?"
+        },
+        {
+            "message_id": 1,
+            "user_id": "0019",
+            "speaker": "Human",
+            "message": "Sure! I don't know too much about it, but I'm open to learning about it!"
+        },
+        {
+            "message_id": 2,
+            "system_id": "0010",
+            "speaker": "Bot",
+            "message": "It's a super fast-paced sport, basically two teams try to hit a puck into the other's net using sticks!"
+        },
+        {
+            "message_id": 3,
+            "user_id": "0019",
+            "speaker": "Human",
+            "message": "It seems like it's dangerous because the players get into fights a lot!"
+        },
+        {
+            "message_id": 4,
+            "system_id": "0010",
+            "speaker": "Bot",
+            "message": "Yeah, it can get pretty physical, but that's part of the game, right?"
+        },
+        {
+            "message_id": 5,
+            "user_id": "0019",
+            "speaker": "Human",
+            "message": "I guess, but do these players ever get seriously hurt?"
+        },
+        {
+            "message_id": 6,
+            "system_id": "0010",
+            "speaker": "Bot",
+            "message": "Sadly, yeah, injuries are pretty common, concussions and broken bones are no rarity"
+        },
+        {
+            "message_id": 7,
+            "user_id": "0019",
+            "speaker": "Human",
+            "message": "I guess it's pretty fast paced and exciting, right?"
+        },
+        {
+            "message_id": 8,
+            "system_id": "0010",
+            "speaker": "Bot",
+            "message": "Totally! It's one of the fastest team sports out there, super intense!"
+        },
+        {
+            "message_id": 9,
+            "user_id": "0019",
+            "speaker": "Human",
+            "message": "How many players are on each team?"
+        },
+        {
+            "message_id": 10,
+            "system_id": "0010",
+            "speaker": "Bot",
+            "message": "Each team's got 6 players on the ice at a time!"
+        },
+        {
+            "message_id": 11,
+            "user_id": "0019",
+            "speaker": "Human",
+            "message": "Does that include the goalie?"
+        },
+        {
+            "message_id": 12,
+            "system_id": "0010",
+            "speaker": "Bot",
+            "message": "The goalie's one of the 6, plus 5 other skaters!"
+        },
+        {
+            "message_id": 13,
+            "user_id": "0019",
+            "speaker": "Human",
+            "message": "They all seem to skate so flawlessly!  It must become second nature to them."
+        },
+        {
+            "message_id": 14,
+            "system_id": "0010",
+            "speaker": "Bot",
+            "message": "Yeah, they're super skilled, skating's like walking to them!"
+        },
+        {
+            "message_id": 15,
+            "user_id": "0019",
+            "speaker": "Human",
+            "message": "Do ice hockey players typically start playing at a young age?"
+        },
+        {
+            "message_id": 16,
+            "system_id": "0010",
+            "speaker": "Bot",
+            "message": "Most pros start skating and playing hockey when they're just kids!"
+        },
+        {
+            "message_id": 17,
+            "user_id": "0019",
+            "speaker": "Human",
+            "message": "I figured they must, since they're so good at it!"
+        },
+        {
+            "message_id": 18,
+            "system_id": "0010",
+            "speaker": "Bot",
+            "message": "It's crazy how good they get with all that practice and training from a young age!"
+        },
+        {
+            "message_id": 19,
+            "user_id": "0019",
+            "speaker": "Human",
+            "message": "Is it a popular sport in college?"
+        },
+        {
+            "message_id": 20,
+            "system_id": "0010",
+            "speaker": "Bot",
+            "message": "Yeah, it's pretty big in colleges, especially in the US and Canada!"
+        }
+    ]
+}

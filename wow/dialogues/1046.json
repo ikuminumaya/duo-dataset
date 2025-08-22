@@ -1,0 +1,141 @@
+{
+    "dialogue_id": "1046",
+    "setting": "wow",
+    "model": "gpt-4o",
+    "prompt": "neutral",
+    "topic": "New York-style pizza",
+    "subjective_evaluation": {
+        "preference": 2.0,
+        "stylistic_similarity": 4.0,
+        "consistency": 3.0,
+        "engagingness": 3.0
+    },
+    "dialogue": [
+        {
+            "message_id": 0,
+            "system_id": "0006",
+            "speaker": "Bot",
+            "message": "New York-style pizza is known for its large, thin crust that's crisp on the edges and soft in the middle, making it easy to fold and eat on the go."
+        },
+        {
+            "message_id": 1,
+            "user_id": "0001",
+            "speaker": "Human",
+            "message": "Isn't that the default pizza these days as they're all soft in the middle with crispy crust?"
+        },
+        {
+            "message_id": 2,
+            "system_id": "0006",
+            "speaker": "Bot",
+            "message": "While many pizzas have a soft middle and crispy crust, New York-style pizza is distinct for its large, foldable slices and thin, hand-tossed crust."
+        },
+        {
+            "message_id": 3,
+            "user_id": "0001",
+            "speaker": "Human",
+            "message": "When was this pizza first made?"
+        },
+        {
+            "message_id": 4,
+            "system_id": "0006",
+            "speaker": "Bot",
+            "message": "New York-style pizza originated in the early 1900s in New York City, with the first pizzeria opened by Gennaro Lombardi in 1905."
+        },
+        {
+            "message_id": 5,
+            "user_id": "0001",
+            "speaker": "Human",
+            "message": "What are all the toppings that go with this particular pizza?"
+        },
+        {
+            "message_id": 6,
+            "system_id": "0006",
+            "speaker": "Bot",
+            "message": "Traditional toppings for New York-style pizza are simply tomato sauce and shredded mozzarella cheese."
+        },
+        {
+            "message_id": 7,
+            "user_id": "0001",
+            "speaker": "Human",
+            "message": "Really? That is it?"
+        },
+        {
+            "message_id": 8,
+            "system_id": "0006",
+            "speaker": "Bot",
+            "message": "Yes, traditionally it's just tomato sauce and mozzarella, but you can find a variety of toppings today as regional variations have evolved."
+        },
+        {
+            "message_id": 9,
+            "user_id": "0001",
+            "speaker": "Human",
+            "message": "Can you be more specific about the variety of toppings today?"
+        },
+        {
+            "message_id": 10,
+            "system_id": "0006",
+            "speaker": "Bot",
+            "message": "Today, New York-style pizza can come with a variety of toppings like pepperoni, sausage, mushrooms, onions, and more, in addition to the traditional tomato sauce and mozzarella cheese."
+        },
+        {
+            "message_id": 11,
+            "user_id": "0001",
+            "speaker": "Human",
+            "message": "Can you tell me about different types of pizzas to compare with the New York-style pizza?"
+        },
+        {
+            "message_id": 12,
+            "system_id": "0006",
+            "speaker": "Bot",
+            "message": "Other types of pizza include Chicago deep-dish, which has a thick crust and layers of toppings, and Neapolitan pizza, known for its thin, soft crust and simple toppings like fresh tomatoes, mozzarella, and basil."
+        },
+        {
+            "message_id": 13,
+            "user_id": "0001",
+            "speaker": "Human",
+            "message": "Out of all these types of pizzas, I really do believe the New York type is most common. "
+        },
+        {
+            "message_id": 14,
+            "system_id": "0006",
+            "speaker": "Bot",
+            "message": "Yes, New York-style pizza is indeed very popular, especially in the New York Metropolitan Area and has become widespread across the United States."
+        },
+        {
+            "message_id": 15,
+            "user_id": "0001",
+            "speaker": "Human",
+            "message": "Can you provide a ranking list by popularity?"
+        },
+        {
+            "message_id": 16,
+            "system_id": "0006",
+            "speaker": "Bot",
+            "message": "While I don't have an exact ranking, New York-style pizza is widely considered one of the most popular, especially in the New York Metropolitan Area and across the U.S."
+        },
+        {
+            "message_id": 17,
+            "user_id": "0001",
+            "speaker": "Human",
+            "message": "Do you know the average calories for New York-style pizza?"
+        },
+        {
+            "message_id": 18,
+            "system_id": "0006",
+            "speaker": "Bot",
+            "message": "The calorie count for a slice of New York-style pizza can vary, but it typically ranges from about 250 to 400 calories per slice, depending on the toppings."
+        },
+        {
+            "message_id": 19,
+            "user_id": "0001",
+            "speaker": "Human",
+            "message": "What about the whole pizza and not just per slice?"
+        },
+        {
+            "message_id": 20,
+            "system_id": "0006",
+            "speaker": "Bot",
+            "message": "A whole New York-style pizza can vary in calories, but it typically ranges from about 2,000 to 3,000 calories, depending on the size and toppings."
+        }
+    ]
+}

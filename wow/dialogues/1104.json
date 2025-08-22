@@ -1,0 +1,141 @@
+{
+    "dialogue_id": "1104",
+    "setting": "wow",
+    "model": "Llama-3.1-70B-Instruct",
+    "prompt": "neutral",
+    "topic": "Clubbing (subculture)",
+    "subjective_evaluation": {
+        "preference": 4.0,
+        "stylistic_similarity": 4.0,
+        "consistency": 4.0,
+        "engagingness": 4.0
+    },
+    "dialogue": [
+        {
+            "message_id": 0,
+            "system_id": "0009",
+            "speaker": "Bot",
+            "message": "Hey, have you ever been to a nightclub?"
+        },
+        {
+            "message_id": 1,
+            "user_id": "0005",
+            "speaker": "Human",
+            "message": "Not really, not like the ones I see on TV."
+        },
+        {
+            "message_id": 2,
+            "system_id": "0009",
+            "speaker": "Bot",
+            "message": "It's a different world, people go to socialize, dance and listen to music, especially electronic dance music."
+        },
+        {
+            "message_id": 3,
+            "user_id": "0005",
+            "speaker": "Human",
+            "message": "Like a rave?"
+        },
+        {
+            "message_id": 4,
+            "system_id": "0009",
+            "speaker": "Bot",
+            "message": "Yeah, similar, but not always underground or unlicensed, some are organized events in clubs and festivals."
+        },
+        {
+            "message_id": 5,
+            "user_id": "0005",
+            "speaker": "Human",
+            "message": "Are they safe or regulated? Like maximum occupancy and stuff?"
+        },
+        {
+            "message_id": 6,
+            "system_id": "0009",
+            "speaker": "Bot",
+            "message": "Most clubs are regulated, they have to follow safety rules, like maximum capacity, to ensure a safe environment for people to have fun."
+        },
+        {
+            "message_id": 7,
+            "user_id": "0005",
+            "speaker": "Human",
+            "message": "Haven't there been fires in nightclubs?"
+        },
+        {
+            "message_id": 8,
+            "system_id": "0009",
+            "speaker": "Bot",
+            "message": "Yes, unfortunately, there have been cases of fires and accidents, but most clubs now have strict safety measures and emergency exits in place."
+        },
+        {
+            "message_id": 9,
+            "user_id": "0005",
+            "speaker": "Human",
+            "message": "How do you find a safe nightclub?"
+        },
+        {
+            "message_id": 10,
+            "system_id": "0009",
+            "speaker": "Bot",
+            "message": "Look for clubs that are licensed, have a good reputation, and follow local safety guidelines, you can also check online reviews and ask friends for recommendations."
+        },
+        {
+            "message_id": 11,
+            "user_id": "0005",
+            "speaker": "Human",
+            "message": "Should I expect to pay a cover charge?"
+        },
+        {
+            "message_id": 12,
+            "system_id": "0009",
+            "speaker": "Bot",
+            "message": "Sometimes, yes, many clubs charge a cover fee, especially on weekends or for special events, but it can vary depending on the club and the night."
+        },
+        {
+            "message_id": 13,
+            "user_id": "0005",
+            "speaker": "Human",
+            "message": "What is the coolest nightclub in the US?"
+        },
+        {
+            "message_id": 14,
+            "system_id": "0009",
+            "speaker": "Bot",
+            "message": "Ha! That's subjective, but some popular ones include Omnia in Vegas, LIV in Miami, and Output in Brooklyn, each has its own unique vibe and scene."
+        },
+        {
+            "message_id": 15,
+            "user_id": "0005",
+            "speaker": "Human",
+            "message": "How are they different?"
+        },
+        {
+            "message_id": 16,
+            "system_id": "0009",
+            "speaker": "Bot",
+            "message": "Omnia is known for its lavish decor and big-name DJs, LIV is a high-energy spot with a focus on hip-hop, and Output is more underground, with a focus on techno and house music."
+        },
+        {
+            "message_id": 17,
+            "user_id": "0005",
+            "speaker": "Human",
+            "message": "Do nightclub DJ's make a lot of money?"
+        },
+        {
+            "message_id": 18,
+            "system_id": "0009",
+            "speaker": "Bot",
+            "message": "Some top DJs can earn a lot, especially if they're touring and playing big festivals, but most club DJs make a decent living, and some even make a name for themselves."
+        },
+        {
+            "message_id": 19,
+            "user_id": "0005",
+            "speaker": "Human",
+            "message": "Do they make more than bands?"
+        },
+        {
+            "message_id": 20,
+            "system_id": "0009",
+            "speaker": "Bot",
+            "message": "Actually, some top DJs can earn more than bands, especially if they're headlining festivals or playing high-end clubs, but it really depends on the individual and their level of success."
+        }
+    ]
+}

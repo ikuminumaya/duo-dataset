@@ -1,0 +1,141 @@
+{
+    "dialogue_id": "1136",
+    "setting": "wow",
+    "model": "Llama-3.1-70B-Instruct",
+    "prompt": "aligned",
+    "topic": "Law firm",
+    "subjective_evaluation": {
+        "preference": 4.0,
+        "stylistic_similarity": 5.0,
+        "consistency": 5.0,
+        "engagingness": 3.0
+    },
+    "dialogue": [
+        {
+            "message_id": 0,
+            "system_id": "0010",
+            "speaker": "Bot",
+            "message": "So you wanna know about law firms?"
+        },
+        {
+            "message_id": 1,
+            "user_id": "0021",
+            "speaker": "Human",
+            "message": "I need to hire a lawyer"
+        },
+        {
+            "message_id": 2,
+            "system_id": "0010",
+            "speaker": "Bot",
+            "message": "Law firms are like businesses that help people with legal stuff, they can advise and represent you in court."
+        },
+        {
+            "message_id": 3,
+            "user_id": "0021",
+            "speaker": "Human",
+            "message": "what about civil law firms?"
+        },
+        {
+            "message_id": 4,
+            "system_id": "0010",
+            "speaker": "Bot",
+            "message": "They handle non-criminal cases, like disputes over money or property, and business deals."
+        },
+        {
+            "message_id": 5,
+            "user_id": "0021",
+            "speaker": "Human",
+            "message": "I need a property lawyer."
+        },
+        {
+            "message_id": 6,
+            "system_id": "0010",
+            "speaker": "Bot",
+            "message": "A law firm with a real estate practice can hook you up with a good property lawyer."
+        },
+        {
+            "message_id": 7,
+            "user_id": "0021",
+            "speaker": "Human",
+            "message": "The problem about lawyers they cost too much."
+        },
+        {
+            "message_id": 8,
+            "system_id": "0010",
+            "speaker": "Bot",
+            "message": "Law firms can be pricey, but some offer free initial consults or flexible payment plans, might be worth shopping around!"
+        },
+        {
+            "message_id": 9,
+            "user_id": "0021",
+            "speaker": "Human",
+            "message": "So how does that work?"
+        },
+        {
+            "message_id": 10,
+            "system_id": "0010",
+            "speaker": "Bot",
+            "message": "Some law firms let you pay in installments or take a percentage of the settlement, instead of hourly rates."
+        },
+        {
+            "message_id": 11,
+            "user_id": "0021",
+            "speaker": "Human",
+            "message": "What is a retainer?"
+        },
+        {
+            "message_id": 12,
+            "system_id": "0010",
+            "speaker": "Bot",
+            "message": "A retainer is like a prepaid fee that you pay to a law firm, and they use it to cover their services."
+        },
+        {
+            "message_id": 13,
+            "user_id": "0021",
+            "speaker": "Human",
+            "message": "Can you be charged more a retainer without you knowing it?"
+        },
+        {
+            "message_id": 14,
+            "system_id": "0010",
+            "speaker": "Bot",
+            "message": "Some law firms might charge extra fees beyond the retainer, so it's good to ask about their billing practices upfront."
+        },
+        {
+            "message_id": 15,
+            "user_id": "0021",
+            "speaker": "Human",
+            "message": "Will a lawyer help me set up a trust for a piece of property?"
+        },
+        {
+            "message_id": 16,
+            "system_id": "0010",
+            "speaker": "Bot",
+            "message": "A law firm with an estate planning practice can help you set up a trust for your property, yeah!"
+        },
+        {
+            "message_id": 17,
+            "user_id": "0021",
+            "speaker": "Human",
+            "message": "can i use a regular lawyer for that or I have to use a property lawyer?"
+        },
+        {
+            "message_id": 18,
+            "system_id": "0010",
+            "speaker": "Bot",
+            "message": "You'll probably wanna use a lawyer who specializes in estate planning or property law, they'll know the specifics."
+        },
+        {
+            "message_id": 19,
+            "user_id": "0021",
+            "speaker": "Human",
+            "message": "yea, that sounds more idea"
+        },
+        {
+            "message_id": 20,
+            "system_id": "0010",
+            "speaker": "Bot",
+            "message": "Yeah, they'll be more familiar with the laws and procedures for setting up a trust, so it'll go smoother."
+        }
+    ]
+}

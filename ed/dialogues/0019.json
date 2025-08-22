@@ -1,0 +1,162 @@
+{
+    "dialogue_id": "0019",
+    "setting": "ed",
+    "model": "gpt-4o",
+    "prompt": "aligned",
+    "emotion": "Confident",
+    "episode": "I am confident about my dog medical treatment will give positive result",
+    "objective_evaluation": {
+        "preference": 3.0,
+        "stylistic_similarity": 3.0,
+        "consistency": 4.33,
+        "empathy": 3.67,
+        "preference_scores": [
+            3.0,
+            3.0,
+            3.0
+        ],
+        "stylistic_similarity_scores": [
+            3.0,
+            4.0,
+            2.0
+        ],
+        "consistency_scores": [
+            4.0,
+            4.0,
+            5.0
+        ],
+        "empathy_scores": [
+            3.0,
+            4.0,
+            4.0
+        ]
+    },
+    "subjective_evaluation": {
+        "preference": 5.0,
+        "stylistic_similarity": 4.0,
+        "consistency": 5.0,
+        "empathy": 4.0
+    },
+    "dialogue": [
+        {
+            "message_id": 0,
+            "user_id": "0018",
+            "speaker": "Human",
+            "message": "I am confident about my dog medical treatment will give positive result"
+        },
+        {
+            "message_id": 1,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "That's great to hear! Hoping for the best outcome for your dog."
+        },
+        {
+            "message_id": 2,
+            "user_id": "0018",
+            "speaker": "Human",
+            "message": "Thankyou for your hope. I am now more confident about my dog health"
+        },
+        {
+            "message_id": 3,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "You're welcome! I'm glad to hear that."
+        },
+        {
+            "message_id": 4,
+            "user_id": "0018",
+            "speaker": "Human",
+            "message": "Actually my dog has been suffered from food poison"
+        },
+        {
+            "message_id": 5,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "Oh no, poor pup! I'm sure the treatment will help them feel better soon."
+        },
+        {
+            "message_id": 6,
+            "user_id": "0018",
+            "speaker": "Human",
+            "message": "Yes I brought up him to veterinary hospital and they give treatment to dog"
+        },
+        {
+            "message_id": 7,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "Glad you took him to the vet. Wishing him a speedy recovery!"
+        },
+        {
+            "message_id": 8,
+            "user_id": "0018",
+            "speaker": "Human",
+            "message": "As like you said now, he started to eat food a little"
+        },
+        {
+            "message_id": 9,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "That's awesome! Keep it up, buddy!"
+        },
+        {
+            "message_id": 10,
+            "user_id": "0018",
+            "speaker": "Human",
+            "message": "Thankyou. My confident on doctors is not fail"
+        },
+        {
+            "message_id": 11,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "I'm glad to hear that! Stay positive!"
+        },
+        {
+            "message_id": 12,
+            "user_id": "0018",
+            "speaker": "Human",
+            "message": "Sure. Being confident in critical situation give positive and right way"
+        },
+        {
+            "message_id": 13,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "Absolutely, a positive mindset can make a big difference!"
+        },
+        {
+            "message_id": 14,
+            "user_id": "0018",
+            "speaker": "Human",
+            "message": "Yeah not only treatment and my confident also support a little to my dog"
+        },
+        {
+            "message_id": 15,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "Exactly, your support means a lot!"
+        },
+        {
+            "message_id": 16,
+            "user_id": "0018",
+            "speaker": "Human",
+            "message": "Here after I will take care him more"
+        },
+        {
+            "message_id": 17,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "That's great to hear!"
+        },
+        {
+            "message_id": 18,
+            "user_id": "0018",
+            "speaker": "Human",
+            "message": "Also I should say thanks to my doctors who does not break my confident"
+        },
+        {
+            "message_id": 19,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "Absolutely, they deserve a big thanks!"
+        }
+    ]
+}

@@ -1,0 +1,136 @@
+{
+    "dialogue_id": "0059",
+    "setting": "ed",
+    "model": "gpt-4o",
+    "prompt": "neutral",
+    "emotion": "Guilty",
+    "episode": "I caused a car accident involving multiple parties due to carelessness. I felt very guilty about it.",
+    "subjective_evaluation": {
+        "preference": 2.0,
+        "stylistic_similarity": 1.0,
+        "consistency": 2.0,
+        "empathy": 2.0
+    },
+    "dialogue": [
+        {
+            "message_id": 0,
+            "user_id": "0015",
+            "speaker": "Human",
+            "message": "I caused a car accident involving multiple parties due to carelessness. I felt very guilty about it. The other parties involved were so forgiving which honestly didn't make me feel less guilty. "
+        },
+        {
+            "message_id": 1,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "It's understandable to feel guilty, but their forgiveness shows great kindness. Have you tried forgiving yourself?"
+        },
+        {
+            "message_id": 2,
+            "user_id": "0015",
+            "speaker": "Human",
+            "message": "I have tried but I still feel guilty thinking about the whole situation. What are some things I can do to alleviate this guilt?"
+        },
+        {
+            "message_id": 3,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "Consider talking to someone about it or doing something positive for others."
+        },
+        {
+            "message_id": 4,
+            "user_id": "0015",
+            "speaker": "Human",
+            "message": "I've actually done quite a bit of both. My wife has been very supportive. "
+        },
+        {
+            "message_id": 5,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "That's wonderful to hear. Keep leaning on her support."
+        },
+        {
+            "message_id": 6,
+            "user_id": "0015",
+            "speaker": "Human",
+            "message": "She can only do so much though! "
+        },
+        {
+            "message_id": 7,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "I understand. Maybe professional help could assist you further?"
+        },
+        {
+            "message_id": 8,
+            "user_id": "0015",
+            "speaker": "Human",
+            "message": "I think that could do me some good. I feel some guilt for the financial consequences of the crash. My family was affected. "
+        },
+        {
+            "message_id": 9,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "It's tough when family is impacted. Seeking help could ease the burden."
+        },
+        {
+            "message_id": 10,
+            "user_id": "0015",
+            "speaker": "Human",
+            "message": "Could you provide some help? "
+        },
+        {
+            "message_id": 11,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "I can listen and support you."
+        },
+        {
+            "message_id": 12,
+            "user_id": "0015",
+            "speaker": "Human",
+            "message": "That's comforting. It has been one whole year since the crash. I was just not paying attention. Would you like to hear about the crash?"
+        },
+        {
+            "message_id": 13,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "I'm here to listen if you want to share."
+        },
+        {
+            "message_id": 14,
+            "user_id": "0015",
+            "speaker": "Human",
+            "message": "I rear ended someone while I was distracted and it caused a chain reaction. "
+        },
+        {
+            "message_id": 15,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "That sounds really overwhelming."
+        },
+        {
+            "message_id": 16,
+            "user_id": "0015",
+            "speaker": "Human",
+            "message": "It was but honestly I'm grateful no one was seriously injured. "
+        },
+        {
+            "message_id": 17,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "That's a relief."
+        },
+        {
+            "message_id": 18,
+            "user_id": "0015",
+            "speaker": "Human",
+            "message": "Yeah and the people I hit couldn't have been nicer. "
+        },
+        {
+            "message_id": 19,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "That's really kind of them."
+        }
+    ]
+}

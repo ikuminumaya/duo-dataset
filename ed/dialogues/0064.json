@@ -1,0 +1,136 @@
+{
+    "dialogue_id": "0064",
+    "setting": "ed",
+    "model": "gpt-4o",
+    "prompt": "neutral",
+    "emotion": "Angry",
+    "episode": "I feel like I'm the only one that does anything around the house to try to keep it tidy.",
+    "subjective_evaluation": {
+        "preference": 2.0,
+        "stylistic_similarity": 3.0,
+        "consistency": 4.0,
+        "empathy": 3.0
+    },
+    "dialogue": [
+        {
+            "message_id": 0,
+            "user_id": "0030",
+            "speaker": "Human",
+            "message": "I'm so upset, I feel like I'm the only person in the house that actually picks up after myself and that tries to keep the house somewhat tidy."
+        },
+        {
+            "message_id": 1,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "That sounds really frustrating. It's tough when you feel like the responsibility falls all on you."
+        },
+        {
+            "message_id": 2,
+            "user_id": "0030",
+            "speaker": "Human",
+            "message": "It's not just a feeling, it's knowledge that it falls on me.  Someone can leave a wrapper on the counter from a food package and if I didn't pick it up it would sit there for a week.  It's like I'm the only one that can't ignore mess."
+        },
+        {
+            "message_id": 3,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "That must be so overwhelming for you."
+        },
+        {
+            "message_id": 4,
+            "user_id": "0030",
+            "speaker": "Human",
+            "message": "It is highly overwhelming. I already struggle with feeling like I can't accomplish things and then when I take the time to think I realize I spend more time than I should picking up after others."
+        },
+        {
+            "message_id": 5,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "I'm sorry you're dealing with this. It's not fair."
+        },
+        {
+            "message_id": 6,
+            "user_id": "0030",
+            "speaker": "Human",
+            "message": "No it's not.  I wish I knew what I could do to get others to help.  Reasoning hasn't worked, yelling doesn't work.  Showing my anger doesn't work either.  Even joking about it hasn't netted any help."
+        },
+        {
+            "message_id": 7,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "That's really tough. Maybe a family meeting could help?"
+        },
+        {
+            "message_id": 8,
+            "user_id": "0030",
+            "speaker": "Human",
+            "message": "Tried that.  I get promises that things will be better but literally within 24 hours it's back to where it was and I wasted my breath and energy on it that I could have spent just doing it."
+        },
+        {
+            "message_id": 9,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "I'm so sorry you're going through this."
+        },
+        {
+            "message_id": 10,
+            "user_id": "0030",
+            "speaker": "Human",
+            "message": "Thanks"
+        },
+        {
+            "message_id": 11,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "Anytime."
+        },
+        {
+            "message_id": 12,
+            "user_id": "0030",
+            "speaker": "Human",
+            "message": "Don't suppose you have any other suggestions aside from attempting to ignore the mess?"
+        },
+        {
+            "message_id": 13,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "Maybe setting specific chores for everyone?"
+        },
+        {
+            "message_id": 14,
+            "user_id": "0030",
+            "speaker": "Human",
+            "message": "Ha! Yeah that doesn't work either.  Duties get shirked fast "
+        },
+        {
+            "message_id": 15,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "That sounds exhausting."
+        },
+        {
+            "message_id": 16,
+            "user_id": "0030",
+            "speaker": "Human",
+            "message": "Very very exhausting."
+        },
+        {
+            "message_id": 17,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "I'm sorry you're feeling this way."
+        },
+        {
+            "message_id": 18,
+            "user_id": "0030",
+            "speaker": "Human",
+            "message": "Thank you."
+        },
+        {
+            "message_id": 19,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "You're welcome."
+        }
+    ]
+}

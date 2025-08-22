@@ -1,0 +1,162 @@
+{
+    "dialogue_id": "0043",
+    "setting": "ed",
+    "model": "Llama-3.1-70B-Instruct",
+    "prompt": "not_aligned",
+    "emotion": "Disgusted",
+    "episode": "I just watched one of those hoarding shows on TV. It was disgusting. How do people live like that?",
+    "objective_evaluation": {
+        "preference": 4.67,
+        "stylistic_similarity": 4.0,
+        "consistency": 5.0,
+        "empathy": 4.67,
+        "preference_scores": [
+            5.0,
+            5.0,
+            4.0
+        ],
+        "stylistic_similarity_scores": [
+            4.0,
+            4.0,
+            4.0
+        ],
+        "consistency_scores": [
+            5.0,
+            5.0,
+            5.0
+        ],
+        "empathy_scores": [
+            5.0,
+            4.0,
+            5.0
+        ]
+    },
+    "subjective_evaluation": {
+        "preference": 5.0,
+        "stylistic_similarity": 4.0,
+        "consistency": 5.0,
+        "empathy": 5.0
+    },
+    "dialogue": [
+        {
+            "message_id": 0,
+            "user_id": "0025",
+            "speaker": "Human",
+            "message": "Are you familiar with the hoarding shows they have on TV? I just watched one and it was so gross. "
+        },
+        {
+            "message_id": 1,
+            "system_id": "0005",
+            "speaker": "Bot",
+            "message": "Ugh, those shows are cringeworthy."
+        },
+        {
+            "message_id": 2,
+            "user_id": "0025",
+            "speaker": "Human",
+            "message": "I know. I feel bad for the people, but how can anyone live in a place infested by insects and rats? "
+        },
+        {
+            "message_id": 3,
+            "system_id": "0005",
+            "speaker": "Bot",
+            "message": "It's sad, they're often struggling with mental health issues."
+        },
+        {
+            "message_id": 4,
+            "user_id": "0025",
+            "speaker": "Human",
+            "message": "Is that what it is? The person they showed talked normally, but they never cleaned anything. Every surface in the kitchen was covered with dirty dishes and gross food. "
+        },
+        {
+            "message_id": 5,
+            "system_id": "0005",
+            "speaker": "Bot",
+            "message": "Yeah, it's often a symptom of deeper issues, like depression or anxiety."
+        },
+        {
+            "message_id": 6,
+            "user_id": "0025",
+            "speaker": "Human",
+            "message": "That makes sense. But still, how can they not just pick up things and throw them in the trash?"
+        },
+        {
+            "message_id": 7,
+            "system_id": "0005",
+            "speaker": "Bot",
+            "message": "It's hard to understand, but for them, it's not that simple."
+        },
+        {
+            "message_id": 8,
+            "user_id": "0025",
+            "speaker": "Human",
+            "message": "At one point, the camera showed a rat run across the countertop and then a cockroach scurrying right behind it! It was like they were friends!"
+        },
+        {
+            "message_id": 9,
+            "system_id": "0005",
+            "speaker": "Bot",
+            "message": "Ew, that's disgusting!"
+        },
+        {
+            "message_id": 10,
+            "user_id": "0025",
+            "speaker": "Human",
+            "message": "I know, I gagged just watching it on TV. "
+        },
+        {
+            "message_id": 11,
+            "system_id": "0005",
+            "speaker": "Bot",
+            "message": "I can imagine, it's nauseating just thinking about it."
+        },
+        {
+            "message_id": 12,
+            "user_id": "0025",
+            "speaker": "Human",
+            "message": "Yep! I wanted to jump in the shower after seeing it!"
+        },
+        {
+            "message_id": 13,
+            "system_id": "0005",
+            "speaker": "Bot",
+            "message": "Me too, just hearing about it is making me shudder!"
+        },
+        {
+            "message_id": 14,
+            "user_id": "0025",
+            "speaker": "Human",
+            "message": "Exactly, I physically shuddered while watching it. I also  started thinking about her neighbors. She lived in an attached condo. "
+        },
+        {
+            "message_id": 15,
+            "system_id": "0005",
+            "speaker": "Bot",
+            "message": "Poor neighbors, they must be dealing with the aftermath."
+        },
+        {
+            "message_id": 16,
+            "user_id": "0025",
+            "speaker": "Human",
+            "message": "Right. If she's got rats and cockroaches, the neighbors must too!"
+        },
+        {
+            "message_id": 17,
+            "system_id": "0005",
+            "speaker": "Bot",
+            "message": "That's a nightmare for them, infestations can spread so easily."
+        },
+        {
+            "message_id": 18,
+            "user_id": "0025",
+            "speaker": "Human",
+            "message": "I live in Florida and about once every couple of years I'll see a cockroach and freak out."
+        },
+        {
+            "message_id": 19,
+            "system_id": "0005",
+            "speaker": "Bot",
+            "message": "Florida's notorious for roaches, I'm surprised you don't see them more often!"
+        }
+    ]
+}

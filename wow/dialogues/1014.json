@@ -1,0 +1,167 @@
+{
+    "dialogue_id": "1014",
+    "setting": "wow",
+    "model": "gpt-4o",
+    "prompt": "aligned",
+    "topic": "Journalist",
+    "objective_evaluation": {
+        "preference": 3.0,
+        "stylistic_similarity": 3.0,
+        "consistency": 4.67,
+        "engagingness": 3.0,
+        "preference_scores": [
+            3.0,
+            4.0,
+            2.0
+        ],
+        "stylistic_similarity_scores": [
+            3.0,
+            4.0,
+            2.0
+        ],
+        "consistency_scores": [
+            4.0,
+            5.0,
+            5.0
+        ],
+        "engagingness_scores": [
+            3.0,
+            4.0,
+            2.0
+        ]
+    },
+    "subjective_evaluation": {
+        "preference": 5.0,
+        "stylistic_similarity": 5.0,
+        "consistency": 5.0,
+        "engagingness": 5.0
+    },
+    "dialogue": [
+        {
+            "message_id": 0,
+            "system_id": "0007",
+            "speaker": "Bot",
+            "message": "A journalist is someone who gathers, writes, and shares news or information, often specializing in certain topics like sports or politics."
+        },
+        {
+            "message_id": 1,
+            "user_id": "0018",
+            "speaker": "Human",
+            "message": "How a journalist do earn money by their job?"
+        },
+        {
+            "message_id": 2,
+            "system_id": "0007",
+            "speaker": "Bot",
+            "message": "Journalists earn money by working for media outlets like newspapers, TV stations, or online platforms, where they are paid for researching, writing, and reporting news stories."
+        },
+        {
+            "message_id": 3,
+            "user_id": "0018",
+            "speaker": "Human",
+            "message": "Ok. What is the minimum education qualification to work as a journalist?"
+        },
+        {
+            "message_id": 4,
+            "system_id": "0007",
+            "speaker": "Bot",
+            "message": "Most journalists have at least a bachelor's degree in journalism or a related field."
+        },
+        {
+            "message_id": 5,
+            "user_id": "0018",
+            "speaker": "Human",
+            "message": "Ok. Can journalist work as a government employee?"
+        },
+        {
+            "message_id": 6,
+            "system_id": "0007",
+            "speaker": "Bot",
+            "message": "Yes, some journalists can work as government employees, often in roles like press secretaries or public information officers."
+        },
+        {
+            "message_id": 7,
+            "user_id": "0018",
+            "speaker": "Human",
+            "message": "That's great to work for government. Does a journalist wear any uniform in their duty?"
+        },
+        {
+            "message_id": 8,
+            "system_id": "0007",
+            "speaker": "Bot",
+            "message": "No, journalists don't typically wear uniforms; they usually dress according to the situation they're reporting on."
+        },
+        {
+            "message_id": 9,
+            "user_id": "0018",
+            "speaker": "Human",
+            "message": "Yes, they can do well in ununiform because they can mingle with public and can gather more info."
+        },
+        {
+            "message_id": 10,
+            "system_id": "0007",
+            "speaker": "Bot",
+            "message": "Exactly, blending in with the public helps journalists gather more authentic information."
+        },
+        {
+            "message_id": 11,
+            "user_id": "0018",
+            "speaker": "Human",
+            "message": "Absolutely. What type of struggles does a journalist faces in a single day?"
+        },
+        {
+            "message_id": 12,
+            "system_id": "0007",
+            "speaker": "Bot",
+            "message": "Journalists often face struggles like tight deadlines, verifying information, and handling unpredictable situations while reporting."
+        },
+        {
+            "message_id": 13,
+            "user_id": "0018",
+            "speaker": "Human",
+            "message": "I think this job is very tough one"
+        },
+        {
+            "message_id": 14,
+            "system_id": "0007",
+            "speaker": "Bot",
+            "message": "Yeah, it can be tough since journalists have to juggle gathering information, meeting deadlines, and sometimes even dealing with risky situations."
+        },
+        {
+            "message_id": 15,
+            "user_id": "0018",
+            "speaker": "Human",
+            "message": "Can journalist receive award for their work?"
+        },
+        {
+            "message_id": 16,
+            "system_id": "0007",
+            "speaker": "Bot",
+            "message": "Yes, journalists can receive awards like the Pulitzer Prize for outstanding work in journalism."
+        },
+        {
+            "message_id": 17,
+            "user_id": "0018",
+            "speaker": "Human",
+            "message": "I hope this can be a great appreciation for their work"
+        },
+        {
+            "message_id": 18,
+            "system_id": "0007",
+            "speaker": "Bot",
+            "message": "Absolutely, awards like the Pulitzer Prize really show appreciation for journalists' hard work and dedication."
+        },
+        {
+            "message_id": 19,
+            "user_id": "0018",
+            "speaker": "Human",
+            "message": "You are right. They might receive those awards for their dedication"
+        },
+        {
+            "message_id": 20,
+            "system_id": "0007",
+            "speaker": "Bot",
+            "message": "Definitely, their dedication can lead to receiving prestigious awards for their impactful journalism."
+        }
+    ]
+}

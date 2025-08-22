@@ -1,0 +1,136 @@
+{
+    "dialogue_id": "0131",
+    "setting": "ed",
+    "model": "Llama-3.1-70B-Instruct",
+    "prompt": "aligned",
+    "emotion": "Sentimental",
+    "episode": "I was sentimental when I looked at family pictures recently. It made me realize how lucky I am and was a as kid",
+    "subjective_evaluation": {
+        "preference": 5.0,
+        "stylistic_similarity": 5.0,
+        "consistency": 5.0,
+        "empathy": 5.0
+    },
+    "dialogue": [
+        {
+            "message_id": 0,
+            "user_id": "0009",
+            "speaker": "Human",
+            "message": "I was really sentimental recently when I looked at some old photos. It made me think greatly of the past, the present, and what the future might be"
+        },
+        {
+            "message_id": 1,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "What made you dig out the old photos?"
+        },
+        {
+            "message_id": 2,
+            "user_id": "0009",
+            "speaker": "Human",
+            "message": "I miss my family. I don't get to see them often and I plan to see them soon. Some are not in the best of health and/or are elderly and I don't want to miss too  many moments where there are none left"
+        },
+        {
+            "message_id": 3,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "It's great you're making an effort to spend time with them while you can."
+        },
+        {
+            "message_id": 4,
+            "user_id": "0009",
+            "speaker": "Human",
+            "message": "Well I will spend time with them soon. I'm working hard and I need to get some more money to do so but time in general is too short for me to make excuses. The pictures reminded me of that"
+        },
+        {
+            "message_id": 5,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "It's good you're prioritizing family time, it's really precious."
+        },
+        {
+            "message_id": 6,
+            "user_id": "0009",
+            "speaker": "Human",
+            "message": "They are everything to me. I feel like a failure at times, and I wish or happier times or better times when we had it good when I was growing up. Everything good seems to fade away and get duller instead of brighter like I hoped adulthood for me to be."
+        },
+        {
+            "message_id": 7,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "It sounds like you're carrying a lot of weight on your shoulders."
+        },
+        {
+            "message_id": 8,
+            "user_id": "0009",
+            "speaker": "Human",
+            "message": "When you are young society tries to portray that if you work hard, everything works out and you can live your dreams. Believe me...so many of my dreams didn't just die...they were slaughtered. "
+        },
+        {
+            "message_id": 9,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "That's really tough. It's like reality slapped you with a harsh wake-up call."
+        },
+        {
+            "message_id": 10,
+            "user_id": "0009",
+            "speaker": "Human",
+            "message": "More than once I was disillusioned in life. I imagine most people are but I saw some many good friends and family pass away in terrible ways and while my life is mediocre, I hope for it to actually be what I always hoped"
+        },
+        {
+            "message_id": 11,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "It's like life's been a series of disappointments, but you're still holding onto hope."
+        },
+        {
+            "message_id": 12,
+            "user_id": "0009",
+            "speaker": "Human",
+            "message": "I guess because I knew what it was like for a good life. Life isn't perfect but when it's good...it's great"
+        },
+        {
+            "message_id": 13,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "You've had a taste of the good life, and that's what keeps you holding on."
+        },
+        {
+            "message_id": 14,
+            "user_id": "0009",
+            "speaker": "Human",
+            "message": "I just wish that for my family and friends. We seem to live in dark times, and while nostalgia is good...maybe we always did but we just persevered in a more positive way in the past and had a lot more control seemingly"
+        },
+        {
+            "message_id": 15,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "It's like you're longing for a sense of security and optimism that feels lost now."
+        },
+        {
+            "message_id": 16,
+            "user_id": "0009",
+            "speaker": "Human",
+            "message": "It feels like everything is some sort of weird sick joke and it's hard to have a conversation with anyone"
+        },
+        {
+            "message_id": 17,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "It's like the world's gone mad and nobody's making sense anymore."
+        },
+        {
+            "message_id": 18,
+            "user_id": "0009",
+            "speaker": "Human",
+            "message": "I just don't ascribe to anger except in self defense"
+        },
+        {
+            "message_id": 19,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "You're more of a peaceful soul, trying to rise above the chaos."
+        }
+    ]
+}

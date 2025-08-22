@@ -1,0 +1,141 @@
+{
+    "dialogue_id": "1097",
+    "setting": "wow",
+    "model": "gpt-4o",
+    "prompt": "not_aligned",
+    "topic": "Jim Carrey",
+    "subjective_evaluation": {
+        "preference": 5.0,
+        "stylistic_similarity": 5.0,
+        "consistency": 5.0,
+        "engagingness": 5.0
+    },
+    "dialogue": [
+        {
+            "message_id": 0,
+            "system_id": "0008",
+            "speaker": "Bot",
+            "message": "Jim Carrey, born in 1962, is a Canadian-American actor renowned for his energetic slapstick performances and has starred in hits like \"The Mask\" and \"The Truman Show.\""
+        },
+        {
+            "message_id": 1,
+            "user_id": "0018",
+            "speaker": "Human",
+            "message": "What role did jim carry played in \"the mask\"?"
+        },
+        {
+            "message_id": 2,
+            "system_id": "0008",
+            "speaker": "Bot",
+            "message": "Jim Carrey played the character Stanley Ipkiss, a bank clerk who transforms into a mischievous, green-faced alter ego in \"The Mask.\""
+        },
+        {
+            "message_id": 3,
+            "user_id": "0018",
+            "speaker": "Human",
+            "message": "Did this film bring any appreciation to him for this critic role?"
+        },
+        {
+            "message_id": 4,
+            "system_id": "0008",
+            "speaker": "Bot",
+            "message": "Jim Carrey's performance in \"The Mask\" really put him in the spotlight and helped cement his reputation as an energetic comedic actor."
+        },
+        {
+            "message_id": 5,
+            "user_id": "0018",
+            "speaker": "Human",
+            "message": "Very great to hear that he received best result from audience for his work. Isn't it?"
+        },
+        {
+            "message_id": 6,
+            "system_id": "0008",
+            "speaker": "Bot",
+            "message": "Absolutely, \"The Mask\" was a major hit and helped solidify Carrey's status as a beloved actor, especially for his comedic talents."
+        },
+        {
+            "message_id": 7,
+            "user_id": "0018",
+            "speaker": "Human",
+            "message": "Yeah he is known for comedy also"
+        },
+        {
+            "message_id": 8,
+            "system_id": "0008",
+            "speaker": "Bot",
+            "message": "Yeah, Jim Carrey's knack for comedy really shone through in movies like \"Dumb and Dumber\" and \"The Mask,\" which helped launch his career in a big way!"
+        },
+        {
+            "message_id": 9,
+            "user_id": "0018",
+            "speaker": "Human",
+            "message": "Cool. Is he acting now a days?"
+        },
+        {
+            "message_id": 10,
+            "system_id": "0008",
+            "speaker": "Bot",
+            "message": "Yeah, Jim Carrey is still active, with one of his recent roles being in the \"Sonic the Hedgehog\" movies."
+        },
+        {
+            "message_id": 11,
+            "user_id": "0018",
+            "speaker": "Human",
+            "message": "Super. What role did he played?"
+        },
+        {
+            "message_id": 12,
+            "system_id": "0008",
+            "speaker": "Bot",
+            "message": "He played the villainous Dr. Robotnik in the \"Sonic the Hedgehog\" movies—totally nailed that role!"
+        },
+        {
+            "message_id": 13,
+            "user_id": "0018",
+            "speaker": "Human",
+            "message": "Really, that so nice. Which movie is the biggest block buster in his career ever he did?"
+        },
+        {
+            "message_id": 14,
+            "system_id": "0008",
+            "speaker": "Bot",
+            "message": "One of Jim Carrey's biggest blockbusters is \"Bruce Almighty,\" which was a huge hit when it came out in 2003!"
+        },
+        {
+            "message_id": 15,
+            "user_id": "0018",
+            "speaker": "Human",
+            "message": "ok. Is he more popular after bruce almight movie?"
+        },
+        {
+            "message_id": 16,
+            "system_id": "0008",
+            "speaker": "Bot",
+            "message": "Yeah, \"Bruce Almighty\" added to his popularity, but he was already pretty big thanks to earlier hits like \"The Mask\" and \"Liar Liar.\""
+        },
+        {
+            "message_id": 17,
+            "user_id": "0018",
+            "speaker": "Human",
+            "message": "I hope people still loving him"
+        },
+        {
+            "message_id": 18,
+            "system_id": "0008",
+            "speaker": "Bot",
+            "message": "Oh, totally—people still love him, especially with classics like \"The Truman Show\" and his unique roles in films like \"Eternal Sunshine of the Spotless Mind\"!"
+        },
+        {
+            "message_id": 19,
+            "user_id": "0018",
+            "speaker": "Human",
+            "message": "Oh i too love classic films and I really like jim"
+        },
+        {
+            "message_id": 20,
+            "system_id": "0008",
+            "speaker": "Bot",
+            "message": "Yeah, Jim Carrey's been in loads of classics, and fans still dig his work from \"The Mask\" to \"Eternal Sunshine of the Spotless Mind.\""
+        }
+    ]
+}

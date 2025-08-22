@@ -1,0 +1,162 @@
+{
+    "dialogue_id": "0032",
+    "setting": "ed",
+    "model": "Llama-3.1-70B-Instruct",
+    "prompt": "neutral",
+    "emotion": "Hopeful",
+    "episode": "I went to the psychiatrist to finally get help with my emotional issues. I feel hopeful that I'll finally be cured.",
+    "objective_evaluation": {
+        "preference": 3.67,
+        "stylistic_similarity": 3.33,
+        "consistency": 5.0,
+        "empathy": 4.67,
+        "preference_scores": [
+            5.0,
+            4.0,
+            2.0
+        ],
+        "stylistic_similarity_scores": [
+            4.0,
+            4.0,
+            2.0
+        ],
+        "consistency_scores": [
+            5.0,
+            5.0,
+            5.0
+        ],
+        "empathy_scores": [
+            5.0,
+            4.0,
+            5.0
+        ]
+    },
+    "subjective_evaluation": {
+        "preference": 4.0,
+        "stylistic_similarity": 4.0,
+        "consistency": 4.0,
+        "empathy": 4.0
+    },
+    "dialogue": [
+        {
+            "message_id": 0,
+            "user_id": "0017",
+            "speaker": "Human",
+            "message": "After 15 years, I went to the psychiatrist to get some help. I feel hopeful about the future now."
+        },
+        {
+            "message_id": 1,
+            "system_id": "0003",
+            "speaker": "Bot",
+            "message": "That's a huge step, what made you decide to go now?"
+        },
+        {
+            "message_id": 2,
+            "user_id": "0017",
+            "speaker": "Human",
+            "message": "I realized I am 30 and have never made any progress, which was pathetic."
+        },
+        {
+            "message_id": 3,
+            "system_id": "0003",
+            "speaker": "Bot",
+            "message": "Don't be too hard on yourself, seeking help takes courage."
+        },
+        {
+            "message_id": 4,
+            "user_id": "0017",
+            "speaker": "Human",
+            "message": "Yeah, but it took me so long due to fear. Not very courageous of me."
+        },
+        {
+            "message_id": 5,
+            "system_id": "0003",
+            "speaker": "Bot",
+            "message": "Fear is a big obstacle, facing it takes courage, though."
+        },
+        {
+            "message_id": 6,
+            "user_id": "0017",
+            "speaker": "Human",
+            "message": "I guess. I just hope the medicine she gave me works. "
+        },
+        {
+            "message_id": 7,
+            "system_id": "0003",
+            "speaker": "Bot",
+            "message": "Fingers crossed, keep a positive attitude, okay?"
+        },
+        {
+            "message_id": 8,
+            "user_id": "0017",
+            "speaker": "Human",
+            "message": "I'll try to. I think I'll be able to turn my life around now."
+        },
+        {
+            "message_id": 9,
+            "system_id": "0003",
+            "speaker": "Bot",
+            "message": "That's the right mindset, stay optimistic, you got this."
+        },
+        {
+            "message_id": 10,
+            "user_id": "0017",
+            "speaker": "Human",
+            "message": "What else should I do to make sure this becomes a reality?"
+        },
+        {
+            "message_id": 11,
+            "system_id": "0003",
+            "speaker": "Bot",
+            "message": "Set small, achievable goals, and take it one step at a time."
+        },
+        {
+            "message_id": 12,
+            "user_id": "0017",
+            "speaker": "Human",
+            "message": "Well my main issues is social anxiety. What are some small steps I could take?"
+        },
+        {
+            "message_id": 13,
+            "system_id": "0003",
+            "speaker": "Bot",
+            "message": "Start small, like striking up a conversation with a cashier or saying hello to a neighbor."
+        },
+        {
+            "message_id": 14,
+            "user_id": "0017",
+            "speaker": "Human",
+            "message": "That sounds so easy, but in reality its not. That's why I hope the meds change my brain chemistry so I can do simple stuff like that."
+        },
+        {
+            "message_id": 15,
+            "system_id": "0003",
+            "speaker": "Bot",
+            "message": "The meds can help, but also be patient with yourself, tiny steps are still progress."
+        },
+        {
+            "message_id": 16,
+            "user_id": "0017",
+            "speaker": "Human",
+            "message": "True. I think I'm getting too ahead of myself right now."
+        },
+        {
+            "message_id": 17,
+            "system_id": "0003",
+            "speaker": "Bot",
+            "message": "Take a deep breath, focus on today, and let progress unfold gradually."
+        },
+        {
+            "message_id": 18,
+            "user_id": "0017",
+            "speaker": "Human",
+            "message": "I will. Feels good to be hopeful for once."
+        },
+        {
+            "message_id": 19,
+            "system_id": "0003",
+            "speaker": "Bot",
+            "message": "That's wonderful, hold onto that feeling, it's a great start."
+        }
+    ]
+}

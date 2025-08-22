@@ -1,0 +1,167 @@
+{
+    "dialogue_id": "1044",
+    "setting": "wow",
+    "model": "Llama-3.1-70B-Instruct",
+    "prompt": "not_aligned",
+    "topic": "Ice hockey",
+    "objective_evaluation": {
+        "preference": 3.67,
+        "stylistic_similarity": 3.67,
+        "consistency": 4.33,
+        "engagingness": 3.67,
+        "preference_scores": [
+            3.0,
+            5.0,
+            3.0
+        ],
+        "stylistic_similarity_scores": [
+            4.0,
+            5.0,
+            2.0
+        ],
+        "consistency_scores": [
+            4.0,
+            4.0,
+            5.0
+        ],
+        "engagingness_scores": [
+            3.0,
+            5.0,
+            3.0
+        ]
+    },
+    "subjective_evaluation": {
+        "preference": 4.0,
+        "stylistic_similarity": 4.0,
+        "consistency": 3.0,
+        "engagingness": 3.0
+    },
+    "dialogue": [
+        {
+            "message_id": 0,
+            "system_id": "0011",
+            "speaker": "Bot",
+            "message": "Let's talk about ice hockey, it's a super fast-paced and physical team sport!"
+        },
+        {
+            "message_id": 1,
+            "user_id": "0023",
+            "speaker": "Human",
+            "message": "Thats interesting topic to talk. Isn't NHL league for ice hockey?"
+        },
+        {
+            "message_id": 2,
+            "system_id": "0011",
+            "speaker": "Bot",
+            "message": "Yeah, the NHL is the top league for men's ice hockey in North America, and actually, it's considered the strongest pro league in the world!"
+        },
+        {
+            "message_id": 3,
+            "user_id": "0023",
+            "speaker": "Human",
+            "message": "which country team is strongest? I think Canada would be somewhere on top?"
+        },
+        {
+            "message_id": 4,
+            "system_id": "0011",
+            "speaker": "Bot",
+            "message": "Canada's a huge deal in ice hockey, it's actually their official national winter sport, and they're usually one of the top contenders in international competitions!"
+        },
+        {
+            "message_id": 5,
+            "user_id": "0023",
+            "speaker": "Human",
+            "message": "Do we have world cup between teams like we have in Football?"
+        },
+        {
+            "message_id": 6,
+            "system_id": "0011",
+            "speaker": "Bot",
+            "message": "We've got the IIHF World Championship, which is kinda like the World Cup for ice hockey, where national teams compete against each other!"
+        },
+        {
+            "message_id": 7,
+            "user_id": "0023",
+            "speaker": "Human",
+            "message": "who did win last championship?"
+        },
+        {
+            "message_id": 8,
+            "system_id": "0011",
+            "speaker": "Bot",
+            "message": "I don't have the most up-to-date info, but I can tell you that the IIHF World Championship is held annually, and the winners vary from year to year"
+        },
+        {
+            "message_id": 9,
+            "user_id": "0023",
+            "speaker": "Human",
+            "message": "which team is best right now in the world?"
+        },
+        {
+            "message_id": 10,
+            "system_id": "0011",
+            "speaker": "Bot",
+            "message": "The IIHF World Ranking is the way to go, but I don't have the latest ranking, it's usually a mix of top teams like Canada, Russia, Sweden, and the US, though!"
+        },
+        {
+            "message_id": 11,
+            "user_id": "0023",
+            "speaker": "Human",
+            "message": "What is top team in NHL like which team won most seasons?"
+        },
+        {
+            "message_id": 12,
+            "system_id": "0011",
+            "speaker": "Bot",
+            "message": "The Montreal Canadiens are the most successful team in NHL history, with a record 24 Stanley Cup wins!"
+        },
+        {
+            "message_id": 13,
+            "user_id": "0023",
+            "speaker": "Human",
+            "message": "wow 24 cups are amazing record.. how does Toronto maple leaf team fair in NHL?"
+        },
+        {
+            "message_id": 14,
+            "system_id": "0011",
+            "speaker": "Bot",
+            "message": "The Toronto Maple Leafs have a rich history too, but they've had a bit of a drought, their last Stanley Cup win was in 1967, despite being one of the \"Original Six\" teams!"
+        },
+        {
+            "message_id": 15,
+            "user_id": "0023",
+            "speaker": "Human",
+            "message": "thats long time. BTW who won last NHL season?"
+        },
+        {
+            "message_id": 16,
+            "system_id": "0011",
+            "speaker": "Bot",
+            "message": "I don't have the most recent info, but I can tell you that the NHL season is a long one, and the Stanley Cup winner is usually decided in the playoffs, but I don't have the latest winner"
+        },
+        {
+            "message_id": 17,
+            "user_id": "0023",
+            "speaker": "Human",
+            "message": "Florida Panther won it in 2024 if I am right"
+        },
+        {
+            "message_id": 18,
+            "system_id": "0011",
+            "speaker": "Bot",
+            "message": "I'm not aware of any info about the 2024 NHL season, my knowledge only goes up to a certain point, so I wouldn't know if the Florida Panthers won or not"
+        },
+        {
+            "message_id": 19,
+            "user_id": "0023",
+            "speaker": "Human",
+            "message": "Can you name a legend in ice hockey?"
+        },
+        {
+            "message_id": 20,
+            "system_id": "0011",
+            "speaker": "Bot",
+            "message": "Wayne Gretzky is a huge legend in ice hockey, often called \"The Great One\"!"
+        }
+    ]
+}

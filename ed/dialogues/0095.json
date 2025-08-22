@@ -1,0 +1,136 @@
+{
+    "dialogue_id": "0095",
+    "setting": "ed",
+    "model": "gpt-4o",
+    "prompt": "not_aligned",
+    "emotion": "Surprised",
+    "episode": "My brother surprised me with tickets to a show.",
+    "subjective_evaluation": {
+        "preference": 3.0,
+        "stylistic_similarity": 4.0,
+        "consistency": 4.0,
+        "empathy": 4.0
+    },
+    "dialogue": [
+        {
+            "message_id": 0,
+            "user_id": "0029",
+            "speaker": "Human",
+            "message": "My brother surprised me with tickets to a show."
+        },
+        {
+            "message_id": 1,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "What an awesome surprise! Which show are you going to see?"
+        },
+        {
+            "message_id": 2,
+            "user_id": "0029",
+            "speaker": "Human",
+            "message": "It was broadway musical. MJ. I was not expecting it"
+        },
+        {
+            "message_id": 3,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "How wonderful! Broadway is such a treat!"
+        },
+        {
+            "message_id": 4,
+            "user_id": "0029",
+            "speaker": "Human",
+            "message": "It is. He got the tickets super last minute"
+        },
+        {
+            "message_id": 5,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "That's impressive! Your brother's quite thoughtful."
+        },
+        {
+            "message_id": 6,
+            "user_id": "0029",
+            "speaker": "Human",
+            "message": "I was not expecting it"
+        },
+        {
+            "message_id": 7,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "A delightful surprise indeed!"
+        },
+        {
+            "message_id": 8,
+            "user_id": "0029",
+            "speaker": "Human",
+            "message": "It was surprising. It wasn't even a special occassion"
+        },
+        {
+            "message_id": 9,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "That's a nice gesture!"
+        },
+        {
+            "message_id": 10,
+            "user_id": "0029",
+            "speaker": "Human",
+            "message": "But it was a welcome surprise after a hard week"
+        },
+        {
+            "message_id": 11,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "Delighted to hear that!"
+        },
+        {
+            "message_id": 12,
+            "user_id": "0029",
+            "speaker": "Human",
+            "message": "It was very thoughtful"
+        },
+        {
+            "message_id": 13,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "Indeed, a generous and considerate act!"
+        },
+        {
+            "message_id": 14,
+            "user_id": "0029",
+            "speaker": "Human",
+            "message": "It was surprising that he got tickets"
+        },
+        {
+            "message_id": 15,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "A remarkable feat, for sure!"
+        },
+        {
+            "message_id": 16,
+            "user_id": "0029",
+            "speaker": "Human",
+            "message": "It was a great feat and a great treat"
+        },
+        {
+            "message_id": 17,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "What a fantastic gesture!"
+        },
+        {
+            "message_id": 18,
+            "user_id": "0029",
+            "speaker": "Human",
+            "message": "It was. I really am lucky"
+        },
+        {
+            "message_id": 19,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "You truly are!"
+        }
+    ]
+}

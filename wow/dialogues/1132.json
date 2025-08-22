@@ -1,0 +1,141 @@
+{
+    "dialogue_id": "1132",
+    "setting": "wow",
+    "model": "Llama-3.1-70B-Instruct",
+    "prompt": "aligned",
+    "topic": "Federal judiciary of the United States",
+    "subjective_evaluation": {
+        "preference": 4.0,
+        "stylistic_similarity": 3.0,
+        "consistency": 4.0,
+        "engagingness": 4.0
+    },
+    "dialogue": [
+        {
+            "message_id": 0,
+            "system_id": "0010",
+            "speaker": "Bot",
+            "message": "I'm stoked to chat with you, what do you know about the US federal judiciary system?"
+        },
+        {
+            "message_id": 1,
+            "user_id": "0016",
+            "speaker": "Human",
+            "message": "I know that they are part of the judicial branch appointed by the President."
+        },
+        {
+            "message_id": 2,
+            "system_id": "0010",
+            "speaker": "Bot",
+            "message": "That's a great start! Yeah, the President appoints them, but they also need Senate approval, pretty cool, right?"
+        },
+        {
+            "message_id": 3,
+            "user_id": "0016",
+            "speaker": "Human",
+            "message": "It worked for about 225 years or so, not so much now."
+        },
+        {
+            "message_id": 4,
+            "system_id": "0010",
+            "speaker": "Bot",
+            "message": "Politics can get pretty messy, huh?"
+        },
+        {
+            "message_id": 5,
+            "user_id": "0016",
+            "speaker": "Human",
+            "message": "Yes, I also know that they are lifetime appointments."
+        },
+        {
+            "message_id": 6,
+            "system_id": "0010",
+            "speaker": "Bot",
+            "message": "Crazy, right? They serve until they resign, retire, or pass away, talk about a long-term gig!"
+        },
+        {
+            "message_id": 7,
+            "user_id": "0016",
+            "speaker": "Human",
+            "message": "That is ridiculous.  90 year old people who have no understanding about modern tech should be making rulings on it."
+        },
+        {
+            "message_id": 8,
+            "system_id": "0010",
+            "speaker": "Bot",
+            "message": "That's a valid concern, feels like they should be more in touch with the times, you know?"
+        },
+        {
+            "message_id": 9,
+            "user_id": "0016",
+            "speaker": "Human",
+            "message": "Yes, there should be age limits."
+        },
+        {
+            "message_id": 10,
+            "system_id": "0010",
+            "speaker": "Bot",
+            "message": "Totally agree, maybe 70 or 75 and they're out, keeps things fresh and relevant!"
+        },
+        {
+            "message_id": 11,
+            "user_id": "0016",
+            "speaker": "Human",
+            "message": "I know that there is the Supreme Court, the appletiates courts and then the district courts"
+        },
+        {
+            "message_id": 12,
+            "system_id": "0010",
+            "speaker": "Bot",
+            "message": "You're on a roll! That's the basic hierarchy, Supreme Court at the top, then the Courts of Appeals, and the District Courts at the bottom, nice job!"
+        },
+        {
+            "message_id": 13,
+            "user_id": "0016",
+            "speaker": "Human",
+            "message": "Thanks, I follow politics closely."
+        },
+        {
+            "message_id": 14,
+            "system_id": "0010",
+            "speaker": "Bot",
+            "message": "You're a politics buff, huh? That's awesome, stay informed, stay engaged!"
+        },
+        {
+            "message_id": 15,
+            "user_id": "0016",
+            "speaker": "Human",
+            "message": "I also know that there is no \"enforcement mechanism\" for the Supreme Court."
+        },
+        {
+            "message_id": 16,
+            "system_id": "0010",
+            "speaker": "Bot",
+            "message": "Mind blown, right? They rely on the other branches to enforce their decisions, kinda weird for the highest court in the land!"
+        },
+        {
+            "message_id": 17,
+            "user_id": "0016",
+            "speaker": "Human",
+            "message": "Pretty soon starts will just start ignoring them."
+        },
+        {
+            "message_id": 18,
+            "system_id": "0010",
+            "speaker": "Bot",
+            "message": "Scary thought, if that happens, the whole system could start to unravel, pretty alarming!"
+        },
+        {
+            "message_id": 19,
+            "user_id": "0016",
+            "speaker": "Human",
+            "message": "They can't enforce it."
+        },
+        {
+            "message_id": 20,
+            "system_id": "0010",
+            "speaker": "Bot",
+            "message": "Exactly, they can't make anyone do anything, just depends on everyone playing nice and respecting the rule of law!"
+        }
+    ]
+}

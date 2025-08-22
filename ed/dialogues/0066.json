@@ -1,0 +1,136 @@
+{
+    "dialogue_id": "0066",
+    "setting": "ed",
+    "model": "gpt-4o",
+    "prompt": "neutral",
+    "emotion": "Confident",
+    "episode": "A recent time in which I felt confident was when I took my cousin to the gym for the first time to teach him how to engage in strength training.",
+    "subjective_evaluation": {
+        "preference": 2.0,
+        "stylistic_similarity": 2.0,
+        "consistency": 4.0,
+        "empathy": 3.0
+    },
+    "dialogue": [
+        {
+            "message_id": 0,
+            "user_id": "0031",
+            "speaker": "Human",
+            "message": "A time in which I felt confident was when I went to the gym with my cousin to teach him how to engage in strength training."
+        },
+        {
+            "message_id": 1,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "That's awesome! It must have felt great to share your knowledge and skills."
+        },
+        {
+            "message_id": 2,
+            "user_id": "0031",
+            "speaker": "Human",
+            "message": "Yes it did. It felt that I was helping someone else take the first steps to improve their life and physical health"
+        },
+        {
+            "message_id": 3,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "That's a wonderful feeling. You're making a positive impact!"
+        },
+        {
+            "message_id": 4,
+            "user_id": "0031",
+            "speaker": "Human",
+            "message": "Thank you. What ways do you think I could make sure they stay committed to it and not get easily discouraged?"
+        },
+        {
+            "message_id": 5,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "Encourage setting small goals and celebrate progress."
+        },
+        {
+            "message_id": 6,
+            "user_id": "0031",
+            "speaker": "Human",
+            "message": "Good idea. Do you recommend that I give them physical gifts for reaching goals and milestones or just verbal praise?"
+        },
+        {
+            "message_id": 7,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "Both can be effective!"
+        },
+        {
+            "message_id": 8,
+            "user_id": "0031",
+            "speaker": "Human",
+            "message": "Thanks. I really hope he sticks with it as he told me how he wants to become stronger and get healthier to lose weight"
+        },
+        {
+            "message_id": 9,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "That's great motivation!"
+        },
+        {
+            "message_id": 10,
+            "user_id": "0031",
+            "speaker": "Human",
+            "message": "I wonder how many people start to work out and then stop due to lack of motivation and confidence?"
+        },
+        {
+            "message_id": 11,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "It happens often, but support can make a big difference."
+        },
+        {
+            "message_id": 12,
+            "user_id": "0031",
+            "speaker": "Human",
+            "message": "I agree. This is what allows me to be confident is my 3 or 4 years of training on a consistent basis."
+        },
+        {
+            "message_id": 13,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "That's impressive dedication!"
+        },
+        {
+            "message_id": 14,
+            "user_id": "0031",
+            "speaker": "Human",
+            "message": "It feels good to share what you have learned with others and allow themselves to grow and see something inside of themselves they didn't know they had."
+        },
+        {
+            "message_id": 15,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "Absolutely, it's rewarding!"
+        },
+        {
+            "message_id": 16,
+            "user_id": "0031",
+            "speaker": "Human",
+            "message": "What do you believe builds confidence in areas of activities over time?"
+        },
+        {
+            "message_id": 17,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "Practice and positive reinforcement."
+        },
+        {
+            "message_id": 18,
+            "user_id": "0031",
+            "speaker": "Human",
+            "message": "Do you feel that without that it is not possible to build confidence or it would just take longer?"
+        },
+        {
+            "message_id": 19,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "It would likely take longer."
+        }
+    ]
+}

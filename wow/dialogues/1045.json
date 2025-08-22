@@ -1,0 +1,167 @@
+{
+    "dialogue_id": "1045",
+    "setting": "wow",
+    "model": "Llama-3.1-70B-Instruct",
+    "prompt": "not_aligned",
+    "topic": "Betta",
+    "objective_evaluation": {
+        "preference": 4.67,
+        "stylistic_similarity": 3.67,
+        "consistency": 5.0,
+        "engagingness": 4.67,
+        "preference_scores": [
+            5.0,
+            5.0,
+            4.0
+        ],
+        "stylistic_similarity_scores": [
+            4.0,
+            4.0,
+            3.0
+        ],
+        "consistency_scores": [
+            5.0,
+            5.0,
+            5.0
+        ],
+        "engagingness_scores": [
+            5.0,
+            5.0,
+            4.0
+        ]
+    },
+    "subjective_evaluation": {
+        "preference": 3.0,
+        "stylistic_similarity": 3.0,
+        "consistency": 3.0,
+        "engagingness": 2.0
+    },
+    "dialogue": [
+        {
+            "message_id": 0,
+            "system_id": "0011",
+            "speaker": "Bot",
+            "message": "I'm stoked to chat with you about betta fish - they're pretty cool, right?"
+        },
+        {
+            "message_id": 1,
+            "user_id": "0009",
+            "speaker": "Human",
+            "message": "tell me about betta fish"
+        },
+        {
+            "message_id": 2,
+            "system_id": "0011",
+            "speaker": "Bot",
+            "message": "So, betta fish are actually part of a big genus with many species, but the most well-known one is the Siamese fighting fish!"
+        },
+        {
+            "message_id": 3,
+            "user_id": "0009",
+            "speaker": "Human",
+            "message": "what other varieties are there?"
+        },
+        {
+            "message_id": 4,
+            "system_id": "0011",
+            "speaker": "Bot",
+            "message": "There's a bunch! Some are super tiny, like under 1 inch, while others can grow up to 5 inches, like the Akar betta!"
+        },
+        {
+            "message_id": 5,
+            "user_id": "0009",
+            "speaker": "Human",
+            "message": "what makes betta fish unique?"
+        },
+        {
+            "message_id": 6,
+            "system_id": "0011",
+            "speaker": "Bot",
+            "message": "They have this crazy-cool labyrinth organ that lets 'em breathe air from the surface, so they can thrive in low-oxygen water!"
+        },
+        {
+            "message_id": 7,
+            "user_id": "0009",
+            "speaker": "Human",
+            "message": "what oceans do betta fish reside in?"
+        },
+        {
+            "message_id": 8,
+            "system_id": "0011",
+            "speaker": "Bot",
+            "message": "Actually, betta fish are freshwater fish, so they live in slow-moving streams, rice paddies, and puddles, not oceans!"
+        },
+        {
+            "message_id": 9,
+            "user_id": "0009",
+            "speaker": "Human",
+            "message": "i didn't know they were not in oceans. how do they thrive there?"
+        },
+        {
+            "message_id": 10,
+            "system_id": "0011",
+            "speaker": "Bot",
+            "message": "Yeah, they're adapted to live in low-oxygen waters, like rice paddies and puddles, 'cause of that special labyrinth organ that lets 'em breathe air!"
+        },
+        {
+            "message_id": 11,
+            "user_id": "0009",
+            "speaker": "Human",
+            "message": "what do they consume for food?"
+        },
+        {
+            "message_id": 12,
+            "system_id": "0011",
+            "speaker": "Bot",
+            "message": "I didn't mention that earlier, but according to Wikipedia, it doesn't specify what they eat, but in general, betta fish are carnivores and eat insects, plankton, and small crustaceans in the wild!"
+        },
+        {
+            "message_id": 13,
+            "user_id": "0009",
+            "speaker": "Human",
+            "message": "I never knew fish could be carnivores"
+        },
+        {
+            "message_id": 14,
+            "system_id": "0011",
+            "speaker": "Bot",
+            "message": "Yeah, some fish are total meat-lovers! Bettas, in particular, have pretty sharp teeth and are meant to chow down on tiny critters!"
+        },
+        {
+            "message_id": 15,
+            "user_id": "0009",
+            "speaker": "Human",
+            "message": "what other varieties are there than the ones you mentioned already?"
+        },
+        {
+            "message_id": 16,
+            "system_id": "0011",
+            "speaker": "Bot",
+            "message": "There's the mouthbrooding species, like the \"B. picta\", which are sometimes called \"pseudo bettas\" - they're pretty interesting, too!"
+        },
+        {
+            "message_id": 17,
+            "user_id": "0009",
+            "speaker": "Human",
+            "message": "what is interesting about the B. picta"
+        },
+        {
+            "message_id": 18,
+            "system_id": "0011",
+            "speaker": "Bot",
+            "message": "They're mouthbrooders, which means the males carry eggs in their mouths until they hatch, instead of building bubble nests like some other betta species!"
+        },
+        {
+            "message_id": 19,
+            "user_id": "0009",
+            "speaker": "Human",
+            "message": "what is a bubble nest?"
+        },
+        {
+            "message_id": 20,
+            "system_id": "0011",
+            "speaker": "Bot",
+            "message": "It's like a little floating castle made of bubbles that some betta species, like the Siamese fighting fish, build to hold their eggs!"
+        }
+    ]
+}

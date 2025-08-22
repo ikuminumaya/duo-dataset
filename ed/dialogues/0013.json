@@ -1,0 +1,162 @@
+{
+    "dialogue_id": "0013",
+    "setting": "ed",
+    "model": "gpt-4o",
+    "prompt": "neutral",
+    "emotion": "Proud",
+    "episode": "I submitted a Resolution tho the Oklahoma Libertarain state convention.  I spoke about it briefly and answered questions.  The resolution was adopted unanimously.",
+    "objective_evaluation": {
+        "preference": 3.0,
+        "stylistic_similarity": 2.67,
+        "consistency": 4.0,
+        "empathy": 3.67,
+        "preference_scores": [
+            2.0,
+            3.0,
+            4.0
+        ],
+        "stylistic_similarity_scores": [
+            2.0,
+            3.0,
+            3.0
+        ],
+        "consistency_scores": [
+            4.0,
+            4.0,
+            4.0
+        ],
+        "empathy_scores": [
+            4.0,
+            3.0,
+            4.0
+        ]
+    },
+    "subjective_evaluation": {
+        "preference": 2.0,
+        "stylistic_similarity": 1.0,
+        "consistency": 4.0,
+        "empathy": 5.0
+    },
+    "dialogue": [
+        {
+            "message_id": 0,
+            "user_id": "0013",
+            "speaker": "Human",
+            "message": "I submitted a resolution to back an amendment to the Oklahoma Anatomical Gifts Act, to legalize the purchase and sale of human organs and tissues for transplant."
+        },
+        {
+            "message_id": 1,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "That sounds like a significant step. How do you feel about it?"
+        },
+        {
+            "message_id": 2,
+            "user_id": "0013",
+            "speaker": "Human",
+            "message": "It was adopted unanimously.  I was quite surprised, and gratified."
+        },
+        {
+            "message_id": 3,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "That's amazing! Congratulations!"
+        },
+        {
+            "message_id": 4,
+            "user_id": "0013",
+            "speaker": "Human",
+            "message": "Thank you, I had some doubts it would pass."
+        },
+        {
+            "message_id": 5,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "Understandable, but you did it!"
+        },
+        {
+            "message_id": 6,
+            "user_id": "0013",
+            "speaker": "Human",
+            "message": "I wish it were that easy to get lawmakers her ein Oklahoma to adopt it."
+        },
+        {
+            "message_id": 7,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "I hope it gains traction there too."
+        },
+        {
+            "message_id": 8,
+            "user_id": "0013",
+            "speaker": "Human",
+            "message": "it seems unlikely soon.  It's considered \"controversial.\""
+        },
+        {
+            "message_id": 9,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "I understand, it's challenging."
+        },
+        {
+            "message_id": 10,
+            "user_id": "0013",
+            "speaker": "Human",
+            "message": "Yes, lawmakers don't like controversial issues.  They're more concerned about getting reelected than saving lives."
+        },
+        {
+            "message_id": 11,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "That must be frustrating."
+        },
+        {
+            "message_id": 12,
+            "user_id": "0013",
+            "speaker": "Human",
+            "message": "yes, to get anywhere, we need to get healthcare insurance companies on board with ths."
+        },
+        {
+            "message_id": 13,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "That's a crucial step."
+        },
+        {
+            "message_id": 14,
+            "user_id": "0013",
+            "speaker": "Human",
+            "message": "Yes, but they're already heavily regulated, and they don't want to rock the boat."
+        },
+        {
+            "message_id": 15,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "I get that. It's tough to navigate."
+        },
+        {
+            "message_id": 16,
+            "user_id": "0013",
+            "speaker": "Human",
+            "message": "I'm sort of toying with the idea of running for Insurance Commissioner.  I'm very unlikely to win, but it will give me a chance to educate people about the issue."
+        },
+        {
+            "message_id": 17,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "That's a brave idea!"
+        },
+        {
+            "message_id": 18,
+            "user_id": "0013",
+            "speaker": "Human",
+            "message": "i don't know if I will yet. I don't even have to file paperwork until April next year."
+        },
+        {
+            "message_id": 19,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "Take your time to decide."
+        }
+    ]
+}

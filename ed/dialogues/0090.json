@@ -1,0 +1,136 @@
+{
+    "dialogue_id": "0090",
+    "setting": "ed",
+    "model": "gpt-4o",
+    "prompt": "not_aligned",
+    "emotion": "Embarrassed",
+    "episode": "I was singled out in a team meeting which seemed completely unnecessary.",
+    "subjective_evaluation": {
+        "preference": 5.0,
+        "stylistic_similarity": 4.0,
+        "consistency": 4.0,
+        "empathy": 5.0
+    },
+    "dialogue": [
+        {
+            "message_id": 0,
+            "user_id": "0006",
+            "speaker": "Human",
+            "message": "I was singled out in a team meeting which seemed completely unnecessary.  Others agreed but could never complain about it as they were always correct."
+        },
+        {
+            "message_id": 1,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "I'm sorry to hear that. It must be frustrating to feel singled out. It sounds like a tough situation."
+        },
+        {
+            "message_id": 2,
+            "user_id": "0006",
+            "speaker": "Human",
+            "message": "It was an online meeting where we just had to listen.  We were very busy so I was working whilst listening - something others always do, including management."
+        },
+        {
+            "message_id": 3,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "That's really unfair. Multitasking is common, especially when everyone's busy."
+        },
+        {
+            "message_id": 4,
+            "user_id": "0006",
+            "speaker": "Human",
+            "message": "Fortunately I don't work there anymore but this was just one instance which makes me not miss the role."
+        },
+        {
+            "message_id": 5,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "It sounds like leaving was the right move. Good riddance!"
+        },
+        {
+            "message_id": 6,
+            "user_id": "0006",
+            "speaker": "Human",
+            "message": "Exactly.  They forced people out and this was one instance where they were making it difficult to continue working there."
+        },
+        {
+            "message_id": 7,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "I'm really sorry to hear that. That sounds like a very tough environment."
+        },
+        {
+            "message_id": 8,
+            "user_id": "0006",
+            "speaker": "Human",
+            "message": "It was.  A difficult year before I left.  I still talk to many there and it hasn't improved."
+        },
+        {
+            "message_id": 9,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "I'm glad you moved on. Sounds like a wise choice."
+        },
+        {
+            "message_id": 10,
+            "user_id": "0006",
+            "speaker": "Human",
+            "message": "People skills were not great by the management there."
+        },
+        {
+            "message_id": 11,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "That's unfortunate. Strong leadership is key."
+        },
+        {
+            "message_id": 12,
+            "user_id": "0006",
+            "speaker": "Human",
+            "message": "Looking down on others and not willing to discuss cases in a sensible, adult fashion."
+        },
+        {
+            "message_id": 13,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "That's really disheartening. Everyone deserves respect and open communication."
+        },
+        {
+            "message_id": 14,
+            "user_id": "0006",
+            "speaker": "Human",
+            "message": "I 100% agree.  I work much more on my own in my new job and don't have the same corporate nonsense."
+        },
+        {
+            "message_id": 15,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "That sounds like a refreshing change. Glad it’s better now!"
+        },
+        {
+            "message_id": 16,
+            "user_id": "0006",
+            "speaker": "Human",
+            "message": "Others do say I look happier now so there must be something in it."
+        },
+        {
+            "message_id": 17,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "That's wonderful! New job suits you well."
+        },
+        {
+            "message_id": 18,
+            "user_id": "0006",
+            "speaker": "Human",
+            "message": "Pay is not as good unfortunately."
+        },
+        {
+            "message_id": 19,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "Finding happiness is priceless!"
+        }
+    ]
+}

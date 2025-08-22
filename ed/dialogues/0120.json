@@ -1,0 +1,136 @@
+{
+    "dialogue_id": "0120",
+    "setting": "ed",
+    "model": "Llama-3.1-70B-Instruct",
+    "prompt": "aligned",
+    "emotion": "Nostalgic",
+    "episode": "Whenever I crossed a school student my childhood nostalgic feelings get started to run on my mind.",
+    "subjective_evaluation": {
+        "preference": 5.0,
+        "stylistic_similarity": 5.0,
+        "consistency": 5.0,
+        "empathy": 5.0
+    },
+    "dialogue": [
+        {
+            "message_id": 0,
+            "user_id": "0018",
+            "speaker": "Human",
+            "message": "Whenever I crossed a school student my childhood nostalgic feelings get started to run on my mind"
+        },
+        {
+            "message_id": 1,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "That's so sweet! What's the most nostalgic memory that comes to mind?"
+        },
+        {
+            "message_id": 2,
+            "user_id": "0018",
+            "speaker": "Human",
+            "message": "I started to think about my parents and friends"
+        },
+        {
+            "message_id": 3,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "It sounds like you're missing them a bit, huh?"
+        },
+        {
+            "message_id": 4,
+            "user_id": "0018",
+            "speaker": "Human",
+            "message": "Yes I miss them a lot especially my father who is no more"
+        },
+        {
+            "message_id": 5,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "I'm so sorry to hear that. Losing a parent is tough."
+        },
+        {
+            "message_id": 6,
+            "user_id": "0018",
+            "speaker": "Human",
+            "message": "Absolutely my father grow up me with many dreams and he wanted to look me in graduation costume"
+        },
+        {
+            "message_id": 7,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "That must be really tough for you, not being able to fulfill his dream"
+        },
+        {
+            "message_id": 8,
+            "user_id": "0018",
+            "speaker": "Human",
+            "message": "Yes i need to fulfill that dream without him on my graduation day"
+        },
+        {
+            "message_id": 9,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "I'm sure he'd be proud of you no matter what, and that you'll make him proud even if he's not there physically"
+        },
+        {
+            "message_id": 10,
+            "user_id": "0018",
+            "speaker": "Human",
+            "message": "Yes only his words are still sounds in my heart"
+        },
+        {
+            "message_id": 11,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "It's like his memory is still with you, guiding you."
+        },
+        {
+            "message_id": 12,
+            "user_id": "0018",
+            "speaker": "Human",
+            "message": "yes those days are ever happy days of my life"
+        },
+        {
+            "message_id": 13,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "Those memories will always be precious to you, I'm sure."
+        },
+        {
+            "message_id": 14,
+            "user_id": "0018",
+            "speaker": "Human",
+            "message": "Absolutely it is ever precious in my life."
+        },
+        {
+            "message_id": 15,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "It's beautiful that you cherish them so much."
+        },
+        {
+            "message_id": 16,
+            "user_id": "0018",
+            "speaker": "Human",
+            "message": "Thankyou and like you said i am happy for fulfilling their dreams"
+        },
+        {
+            "message_id": 17,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "That's the best way to honor his memory, by living your dreams."
+        },
+        {
+            "message_id": 18,
+            "user_id": "0018",
+            "speaker": "Human",
+            "message": "Yes I still follow his words and feels nostalgic for my childhood happy days"
+        },
+        {
+            "message_id": 19,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "It's lovely that you hold onto those memories and his words."
+        }
+    ]
+}

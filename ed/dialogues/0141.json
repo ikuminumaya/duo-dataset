@@ -1,0 +1,136 @@
+{
+    "dialogue_id": "0141",
+    "setting": "ed",
+    "model": "Llama-3.1-70B-Instruct",
+    "prompt": "not_aligned",
+    "emotion": "Embarrassed",
+    "episode": "I fell in front of many people while walking in street.",
+    "subjective_evaluation": {
+        "preference": 5.0,
+        "stylistic_similarity": 5.0,
+        "consistency": 5.0,
+        "empathy": 5.0
+    },
+    "dialogue": [
+        {
+            "message_id": 0,
+            "user_id": "0023",
+            "speaker": "Human",
+            "message": "I fell while walking in street in front of many people."
+        },
+        {
+            "message_id": 1,
+            "system_id": "0005",
+            "speaker": "Bot",
+            "message": "How embarrassing! Are you okay?"
+        },
+        {
+            "message_id": 2,
+            "user_id": "0023",
+            "speaker": "Human",
+            "message": "yeah all good.. really embarrassing situation though"
+        },
+        {
+            "message_id": 3,
+            "system_id": "0005",
+            "speaker": "Bot",
+            "message": "That can be really humiliating."
+        },
+        {
+            "message_id": 4,
+            "user_id": "0023",
+            "speaker": "Human",
+            "message": "kind of, not sure why falling makes you feel bad"
+        },
+        {
+            "message_id": 5,
+            "system_id": "0005",
+            "speaker": "Bot",
+            "message": "Loss of dignity, I guess."
+        },
+        {
+            "message_id": 6,
+            "user_id": "0023",
+            "speaker": "Human",
+            "message": "yeah but why is that. Like we can fall due to unforseen reasons and shouldn't be feeling bad. "
+        },
+        {
+            "message_id": 7,
+            "system_id": "0005",
+            "speaker": "Bot",
+            "message": "Society's expectations, I suppose."
+        },
+        {
+            "message_id": 8,
+            "user_id": "0023",
+            "speaker": "Human",
+            "message": "Yeah. I think so. People expectation adds lots of unnecessary pressure"
+        },
+        {
+            "message_id": 9,
+            "system_id": "0005",
+            "speaker": "Bot",
+            "message": "And fear of judgment."
+        },
+        {
+            "message_id": 10,
+            "user_id": "0023",
+            "speaker": "Human",
+            "message": "thats true. did you ever fall?"
+        },
+        {
+            "message_id": 11,
+            "system_id": "0005",
+            "speaker": "Bot",
+            "message": "Yeah, who hasn't, right?"
+        },
+        {
+            "message_id": 12,
+            "user_id": "0023",
+            "speaker": "Human",
+            "message": "haha.. true. falling and getting up to fall again"
+        },
+        {
+            "message_id": 13,
+            "system_id": "0005",
+            "speaker": "Bot",
+            "message": "Life's like that, isn't it?"
+        },
+        {
+            "message_id": 14,
+            "user_id": "0023",
+            "speaker": "Human",
+            "message": "yeah. Thats what we call life..keep getting up"
+        },
+        {
+            "message_id": 15,
+            "system_id": "0005",
+            "speaker": "Bot",
+            "message": "Resilience is key."
+        },
+        {
+            "message_id": 16,
+            "user_id": "0023",
+            "speaker": "Human",
+            "message": "yes, It is. :)"
+        },
+        {
+            "message_id": 17,
+            "system_id": "0005",
+            "speaker": "Bot",
+            "message": ":) Indeed."
+        },
+        {
+            "message_id": 18,
+            "user_id": "0023",
+            "speaker": "Human",
+            "message": "Good to talk and share feelings."
+        },
+        {
+            "message_id": 19,
+            "system_id": "0005",
+            "speaker": "Bot",
+            "message": "Always helps to vent out."
+        }
+    ]
+}

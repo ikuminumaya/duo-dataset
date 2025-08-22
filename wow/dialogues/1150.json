@@ -1,0 +1,141 @@
+{
+    "dialogue_id": "1150",
+    "setting": "wow",
+    "model": "Llama-3.1-70B-Instruct",
+    "prompt": "not_aligned",
+    "topic": "Game show",
+    "subjective_evaluation": {
+        "preference": 5.0,
+        "stylistic_similarity": 4.0,
+        "consistency": 5.0,
+        "engagingness": 5.0
+    },
+    "dialogue": [
+        {
+            "message_id": 0,
+            "system_id": "0011",
+            "speaker": "Bot",
+            "message": "Let's chat about game shows, shall we?"
+        },
+        {
+            "message_id": 1,
+            "user_id": "0015",
+            "speaker": "Human",
+            "message": "Sure! I actually participated in a taping of the Price is Right."
+        },
+        {
+            "message_id": 2,
+            "system_id": "0011",
+            "speaker": "Bot",
+            "message": "That's awesome, did you win anything exciting?"
+        },
+        {
+            "message_id": 3,
+            "user_id": "0015",
+            "speaker": "Human",
+            "message": "The studio is very small! It looks a lot larger on television. Also, the process for getting in the building/studio is horrible. "
+        },
+        {
+            "message_id": 4,
+            "system_id": "0011",
+            "speaker": "Bot",
+            "message": "Yeah, I've heard the taping process can be a real hassle, but it's all worth it for the excitement of being on the show, right?"
+        },
+        {
+            "message_id": 5,
+            "user_id": "0015",
+            "speaker": "Human",
+            "message": "It would have been more exciting had I gotten picked! "
+        },
+        {
+            "message_id": 6,
+            "system_id": "0011",
+            "speaker": "Bot",
+            "message": "Being a contestant must be a thrill, I'm sure you'll get another chance, maybe next time you'll \"come on down\"!"
+        },
+        {
+            "message_id": 7,
+            "user_id": "0015",
+            "speaker": "Human",
+            "message": "The process of being interviewed was clunky. You really don't have a chance to show how entertaining you can be without being in their face!"
+        },
+        {
+            "message_id": 8,
+            "system_id": "0011",
+            "speaker": "Bot",
+            "message": "It sounds like they're looking for that over-the-top energy, you gotta be bold and charismatic to stand out, huh?"
+        },
+        {
+            "message_id": 9,
+            "user_id": "0015",
+            "speaker": "Human",
+            "message": "Yeah but x100. The woman who got picked made a total fool out of herself but she ended up winning the whole thing. "
+        },
+        {
+            "message_id": 10,
+            "system_id": "0011",
+            "speaker": "Bot",
+            "message": "I guess being a little outrageous can pay off, even if it's not exactly the most dignified approach, haha!"
+        },
+        {
+            "message_id": 11,
+            "user_id": "0015",
+            "speaker": "Human",
+            "message": "It's something I'd never do again honestly. It was cool to see Drew Carey, he's a nice man."
+        },
+        {
+            "message_id": 12,
+            "system_id": "0011",
+            "speaker": "Bot",
+            "message": "That's awesome, at least you got to meet Drew Carey, he seems like a great guy, right?"
+        },
+        {
+            "message_id": 13,
+            "user_id": "0015",
+            "speaker": "Human",
+            "message": "Yeah, he stayed very engaged with the audience and seemed genuinely interested in the show."
+        },
+        {
+            "message_id": 14,
+            "system_id": "0011",
+            "speaker": "Bot",
+            "message": "He's definitely got that charismatic host vibe going on, makes the show more enjoyable to watch, I'm sure."
+        },
+        {
+            "message_id": 15,
+            "user_id": "0015",
+            "speaker": "Human",
+            "message": "What are some modern game shows?"
+        },
+        {
+            "message_id": 16,
+            "system_id": "0011",
+            "speaker": "Bot",
+            "message": "There's a bunch, but some popular ones that come to mind are \"Minute to Win It\", \"The Chase\", and \"Ellen's Game of Games\" - have you seen any of those?"
+        },
+        {
+            "message_id": 17,
+            "user_id": "0015",
+            "speaker": "Human",
+            "message": "I haven't. What is Ellen's Game of Games?"
+        },
+        {
+            "message_id": 18,
+            "system_id": "0011",
+            "speaker": "Bot",
+            "message": "It's a fun one! Ellen DeGeneres hosts it, and contestants play silly, often hilarious games to win cash and prizes, lots of laughter and good vibes!"
+        },
+        {
+            "message_id": 19,
+            "user_id": "0015",
+            "speaker": "Human",
+            "message": "I wonder if the process of getting on the show is the same as the Price is Right"
+        },
+        {
+            "message_id": 20,
+            "system_id": "0011",
+            "speaker": "Bot",
+            "message": "I think it might be a bit more selective, Ellen's show tends to have a more curated feel, but I'm sure there's still some auditioning and screening process involved, wanna find out?"
+        }
+    ]
+}

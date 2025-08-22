@@ -1,0 +1,136 @@
+{
+    "dialogue_id": "0075",
+    "setting": "ed",
+    "model": "gpt-4o",
+    "prompt": "aligned",
+    "emotion": "Lonely",
+    "episode": "After I got divorced, I took a job relocation to start anew. But, it's hard to meet people at my age in a new place where I don't know anyone.",
+    "subjective_evaluation": {
+        "preference": 3.0,
+        "stylistic_similarity": 3.0,
+        "consistency": 5.0,
+        "empathy": 5.0
+    },
+    "dialogue": [
+        {
+            "message_id": 0,
+            "user_id": "0025",
+            "speaker": "Human",
+            "message": "I moved and know almost no when in my new location. I've been spending most of my time at home alone at night. "
+        },
+        {
+            "message_id": 1,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "That sounds tough. Have you thought about joining local groups or activities to meet new people?"
+        },
+        {
+            "message_id": 2,
+            "user_id": "0025",
+            "speaker": "Human",
+            "message": "I'd like to do that, but I don't even know where to start. "
+        },
+        {
+            "message_id": 3,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "Maybe check out local events online or apps like Meetup? It's a good start!"
+        },
+        {
+            "message_id": 4,
+            "user_id": "0025",
+            "speaker": "Human",
+            "message": "I've never heard of Meetup. What is it?"
+        },
+        {
+            "message_id": 5,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "It's an app where you can find local groups and events based on your interests."
+        },
+        {
+            "message_id": 6,
+            "user_id": "0025",
+            "speaker": "Human",
+            "message": "Okay, I'll check it out. I'm pretty shy though. I've never been great at making a lot of friends. "
+        },
+        {
+            "message_id": 7,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "That's okay! Start small and take it one step at a time. You got this!"
+        },
+        {
+            "message_id": 8,
+            "user_id": "0025",
+            "speaker": "Human",
+            "message": "I hope so. I'm so sick of doing everything alone...eating, watching TV, and everything else. "
+        },
+        {
+            "message_id": 9,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "I get that. It can be really tough. Keep trying, it'll get better!"
+        },
+        {
+            "message_id": 10,
+            "user_id": "0025",
+            "speaker": "Human",
+            "message": "Thanks for the encouragement. I'm going to try to be more outgoing, but I always feel weird like I'm being overly friendly and desperate. "
+        },
+        {
+            "message_id": 11,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "No worries, just be yourself. People will appreciate your genuine vibe!"
+        },
+        {
+            "message_id": 12,
+            "user_id": "0025",
+            "speaker": "Human",
+            "message": "Sometimes, I think most people already have their group of friends and, while they are nice and polite, they're not looking to make new friendships. "
+        },
+        {
+            "message_id": 13,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "I get that. Some folks are always open though. Keep trying!"
+        },
+        {
+            "message_id": 14,
+            "user_id": "0025",
+            "speaker": "Human",
+            "message": "Maybe I made a mistake moving to a new city. I miss my old friends. The worst part is that I don't even talk to my old friends that often anymore. "
+        },
+        {
+            "message_id": 15,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "I hear you. It's tough, but you're strong. Keep reaching out to them when you can!"
+        },
+        {
+            "message_id": 16,
+            "user_id": "0025",
+            "speaker": "Human",
+            "message": "I do, but it's a bit of the \"out of sight, out of mind\" thing going on. They kind of just forget about me it seems like. "
+        },
+        {
+            "message_id": 17,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "That sucks. Maybe plan a visit or call? It could help reconnect."
+        },
+        {
+            "message_id": 18,
+            "user_id": "0025",
+            "speaker": "Human",
+            "message": "I'd like to plan a visit, but I think it might be weird. I wish they'd ask me to visit, I don't want to invite myself. "
+        },
+        {
+            "message_id": 19,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "I get it. Maybe drop hints? Or just ask—could be worth it!"
+        }
+    ]
+}

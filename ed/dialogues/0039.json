@@ -1,0 +1,162 @@
+{
+    "dialogue_id": "0039",
+    "setting": "ed",
+    "model": "Llama-3.1-70B-Instruct",
+    "prompt": "aligned",
+    "emotion": "Excited",
+    "episode": "When my daughter and I went to Las Vegas.",
+    "objective_evaluation": {
+        "preference": 3.67,
+        "stylistic_similarity": 3.67,
+        "consistency": 4.33,
+        "empathy": 4.33,
+        "preference_scores": [
+            4.0,
+            4.0,
+            3.0
+        ],
+        "stylistic_similarity_scores": [
+            4.0,
+            4.0,
+            3.0
+        ],
+        "consistency_scores": [
+            4.0,
+            4.0,
+            5.0
+        ],
+        "empathy_scores": [
+            4.0,
+            4.0,
+            5.0
+        ]
+    },
+    "subjective_evaluation": {
+        "preference": 4.0,
+        "stylistic_similarity": 4.0,
+        "consistency": 4.0,
+        "empathy": 4.0
+    },
+    "dialogue": [
+        {
+            "message_id": 0,
+            "user_id": "0024",
+            "speaker": "Human",
+            "message": "I was excited when my daughter and I visited Las Vegas in September."
+        },
+        {
+            "message_id": 1,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "That sounds like a blast! What did you guys do there?"
+        },
+        {
+            "message_id": 2,
+            "user_id": "0024",
+            "speaker": "Human",
+            "message": "We seen the Sphere."
+        },
+        {
+            "message_id": 3,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "How was it? Was it as cool as you expected?"
+        },
+        {
+            "message_id": 4,
+            "user_id": "0024",
+            "speaker": "Human",
+            "message": "It was very cool. It has the most detailed high definition image I have ever seen."
+        },
+        {
+            "message_id": 5,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "Wow, that sounds amazing!"
+        },
+        {
+            "message_id": 6,
+            "user_id": "0024",
+            "speaker": "Human",
+            "message": "We also went to a Cirque du Soleil show."
+        },
+        {
+            "message_id": 7,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "Awesome! Which one did you see?"
+        },
+        {
+            "message_id": 8,
+            "user_id": "0024",
+            "speaker": "Human",
+            "message": "It was called New York New York."
+        },
+        {
+            "message_id": 9,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "That's a great one! Did your daughter love it?"
+        },
+        {
+            "message_id": 10,
+            "user_id": "0024",
+            "speaker": "Human",
+            "message": "She did. We had seats in the front row."
+        },
+        {
+            "message_id": 11,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "That's awesome! You must've felt like you were part of the show!"
+        },
+        {
+            "message_id": 12,
+            "user_id": "0024",
+            "speaker": "Human",
+            "message": "We were a part of the show. I had to make a basket into a basketball hoop during the show since we were right there."
+        },
+        {
+            "message_id": 13,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "That's hilarious! What was that like?"
+        },
+        {
+            "message_id": 14,
+            "user_id": "0024",
+            "speaker": "Human",
+            "message": "It was very cool. We also visited Hoover Dam while we were there."
+        },
+        {
+            "message_id": 15,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "Classic Vegas trip! How was the dam tour?"
+        },
+        {
+            "message_id": 16,
+            "user_id": "0024",
+            "speaker": "Human",
+            "message": "It was fine, but it's just a big dam. We could have also went to the Grand Canyon but The time on a bus was too long."
+        },
+        {
+            "message_id": 17,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "Yeah, the bus ride to the Grand Canyon can be a long haul."
+        },
+        {
+            "message_id": 18,
+            "user_id": "0024",
+            "speaker": "Human",
+            "message": "I think they said we would be on a bus for 12 or more hours. "
+        },
+        {
+            "message_id": 19,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "That's a whole day! No wonder you passed on it."
+        }
+    ]
+}

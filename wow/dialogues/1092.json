@@ -1,0 +1,141 @@
+{
+    "dialogue_id": "1092",
+    "setting": "wow",
+    "model": "gpt-4o",
+    "prompt": "not_aligned",
+    "topic": "Tomato",
+    "subjective_evaluation": {
+        "preference": 5.0,
+        "stylistic_similarity": 4.0,
+        "consistency": 5.0,
+        "engagingness": 5.0
+    },
+    "dialogue": [
+        {
+            "message_id": 0,
+            "system_id": "0008",
+            "speaker": "Bot",
+            "message": "Did you know tomatoes are actually fruits, but they're commonly used as vegetables in cooking?"
+        },
+        {
+            "message_id": 1,
+            "user_id": "0022",
+            "speaker": "Human",
+            "message": "I have heard that before, but why is a tomato considered a fruit and not a vegetable?"
+        },
+        {
+            "message_id": 2,
+            "system_id": "0008",
+            "speaker": "Bot",
+            "message": "Botanically speaking, tomatoes are classified as fruits because they develop from the flower of the plant and contain seeds."
+        },
+        {
+            "message_id": 3,
+            "user_id": "0022",
+            "speaker": "Human",
+            "message": "So it is because the tomato has seeds that it is a fruit huh. So do tomatoes blossom from flowers standing up?"
+        },
+        {
+            "message_id": 4,
+            "system_id": "0008",
+            "speaker": "Bot",
+            "message": "Tomato plants typically have weak stems and can sprawl, so they don't stand upright like some other flowering plants."
+        },
+        {
+            "message_id": 5,
+            "user_id": "0022",
+            "speaker": "Human",
+            "message": "How does a tomato plant grow? Does it require some sort of pole to hang on to?"
+        },
+        {
+            "message_id": 6,
+            "system_id": "0008",
+            "speaker": "Bot",
+            "message": "Tomato plants have weak stems and often need support, like a pole or cage, to help them grow upright."
+        },
+        {
+            "message_id": 7,
+            "user_id": "0022",
+            "speaker": "Human",
+            "message": "Ah ok, and how long does a tomato plant take to grow to maturity to eat?"
+        },
+        {
+            "message_id": 8,
+            "system_id": "0008",
+            "speaker": "Bot",
+            "message": "Tomato plants usually take about 60 to 80 days to reach maturity and produce ripe fruit."
+        },
+        {
+            "message_id": 9,
+            "user_id": "0022",
+            "speaker": "Human",
+            "message": "That takes quite a long time, where are tomatoes generally grown? Like what part of the country?"
+        },
+        {
+            "message_id": 10,
+            "system_id": "0008",
+            "speaker": "Bot",
+            "message": "Tomatoes originated in South America, but nowadays they're grown in temperate climates worldwide, often with the help of greenhouses for year-round production."
+        },
+        {
+            "message_id": 11,
+            "user_id": "0022",
+            "speaker": "Human",
+            "message": "Greenhouses seem best suited for most plants, does a tomato require any pesticides to grow properly?"
+        },
+        {
+            "message_id": 12,
+            "system_id": "0008",
+            "speaker": "Bot",
+            "message": "Tomato plants are part of the nightshade family, and while they can be prone to pests, careful cultivation in greenhouses can often reduce the need for pesticides."
+        },
+        {
+            "message_id": 13,
+            "user_id": "0022",
+            "speaker": "Human",
+            "message": "Fascinating, I do enjoy a nice fresh, ripe tomato. They are so juicy and tasty. Do tomatoes have nutritional benefits?"
+        },
+        {
+            "message_id": 14,
+            "system_id": "0008",
+            "speaker": "Bot",
+            "message": "Tomatoes are quite nutritious, providing vitamins C and K, potassium, and antioxidants like lycopene."
+        },
+        {
+            "message_id": 15,
+            "user_id": "0022",
+            "speaker": "Human",
+            "message": "I always knew they were healthy, so I guess that is a good reason to keep eating them. I assume ketchup has quite a bit of tomatoes in it right?"
+        },
+        {
+            "message_id": 16,
+            "system_id": "0008",
+            "speaker": "Bot",
+            "message": "Yep, ketchup is made primarily from tomatoes, giving it that rich flavor we all know and love."
+        },
+        {
+            "message_id": 17,
+            "user_id": "0022",
+            "speaker": "Human",
+            "message": "Do you recommend any special uses for tomatoes, besides ketchup or on a hamburger?"
+        },
+        {
+            "message_id": 18,
+            "system_id": "0008",
+            "speaker": "Bot",
+            "message": "Try using tomatoes in salads, sauces, or even drinks for a fresh and healthy twist!"
+        },
+        {
+            "message_id": 19,
+            "user_id": "0022",
+            "speaker": "Human",
+            "message": "What is a drink that you could use tomatoes in?"
+        },
+        {
+            "message_id": 20,
+            "system_id": "0008",
+            "speaker": "Bot",
+            "message": "You could try a Bloody Mary, a classic cocktail made with tomato juice, vodka, and various spices and flavorings."
+        }
+    ]
+}

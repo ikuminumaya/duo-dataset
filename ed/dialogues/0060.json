@@ -1,0 +1,136 @@
+{
+    "dialogue_id": "0060",
+    "setting": "ed",
+    "model": "gpt-4o",
+    "prompt": "neutral",
+    "emotion": "Caring",
+    "episode": "My mom broke her wrist, so she's coming to stay with us for a few weeks while she gets better. I worry about her a lot as she's gotten older and more frail.",
+    "subjective_evaluation": {
+        "preference": 2.0,
+        "stylistic_similarity": 2.0,
+        "consistency": 5.0,
+        "empathy": 4.0
+    },
+    "dialogue": [
+        {
+            "message_id": 0,
+            "user_id": "0025",
+            "speaker": "Human",
+            "message": "My mom is staying with us for a few weeks because she broke her wrist. "
+        },
+        {
+            "message_id": 1,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "That sounds challenging. How are you managing with her there?"
+        },
+        {
+            "message_id": 2,
+            "user_id": "0025",
+            "speaker": "Human",
+            "message": "I love having her here actually. I just hope she heals well, she's not as young as she used to be!"
+        },
+        {
+            "message_id": 3,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "That's sweet. I hope she recovers quickly!"
+        },
+        {
+            "message_id": 4,
+            "user_id": "0025",
+            "speaker": "Human",
+            "message": "Me too, sometimes I think it might be best to have her move in with us full time in a few years. "
+        },
+        {
+            "message_id": 5,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "That sounds like a thoughtful plan."
+        },
+        {
+            "message_id": 6,
+            "user_id": "0025",
+            "speaker": "Human",
+            "message": "Yeah, she lives all alone right now, and she's pretty social. But, that can change quickly and I don't want her to get lonely."
+        },
+        {
+            "message_id": 7,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "That's very considerate of you."
+        },
+        {
+            "message_id": 8,
+            "user_id": "0025",
+            "speaker": "Human",
+            "message": "Thanks for that. It seems like multi-generational homes are becoming more common nowadays. "
+        },
+        {
+            "message_id": 9,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "Absolutely, they are!"
+        },
+        {
+            "message_id": 10,
+            "user_id": "0025",
+            "speaker": "Human",
+            "message": "Do you have any ideas on things I can do to make her stay with us more enjoyable?"
+        },
+        {
+            "message_id": 11,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "Maybe plan some activities you both enjoy or cook her favorite meals."
+        },
+        {
+            "message_id": 12,
+            "user_id": "0025",
+            "speaker": "Human",
+            "message": "That's a great idea. One of her favorite dishes is Shrimp Scampi! I can make that for her."
+        },
+        {
+            "message_id": 13,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "She'll love that!"
+        },
+        {
+            "message_id": 14,
+            "user_id": "0025",
+            "speaker": "Human",
+            "message": "I hope so. I'm not the best cook in the world, but I can follow a recipe pretty well. "
+        },
+        {
+            "message_id": 15,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "I'm sure it'll turn out great!"
+        },
+        {
+            "message_id": 16,
+            "user_id": "0025",
+            "speaker": "Human",
+            "message": "Let's hope so. How about a great idea for desert? Something Italian would be nice."
+        },
+        {
+            "message_id": 17,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "Tiramisu is a classic choice!"
+        },
+        {
+            "message_id": 18,
+            "user_id": "0025",
+            "speaker": "Human",
+            "message": "That's the dessert with ladyfingers and coffee, right? "
+        },
+        {
+            "message_id": 19,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "Yes, exactly!"
+        }
+    ]
+}

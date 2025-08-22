@@ -1,0 +1,141 @@
+{
+    "dialogue_id": "1102",
+    "setting": "wow",
+    "model": "gpt-4o",
+    "prompt": "not_aligned",
+    "topic": "Stamp collecting",
+    "subjective_evaluation": {
+        "preference": 5.0,
+        "stylistic_similarity": 5.0,
+        "consistency": 5.0,
+        "engagingness": 5.0
+    },
+    "dialogue": [
+        {
+            "message_id": 0,
+            "system_id": "0008",
+            "speaker": "Bot",
+            "message": "Stamp collecting is a fascinating hobby that's been around since the late 19th century, offering endless new stamps as countries showcase their uniqueness."
+        },
+        {
+            "message_id": 1,
+            "user_id": "0004",
+            "speaker": "Human",
+            "message": "I collect sports cards personally, so I definitely see the appeal of collecting stamps as well."
+        },
+        {
+            "message_id": 2,
+            "system_id": "0008",
+            "speaker": "Bot",
+            "message": "Stamp collecting, like sports cards, offers endless excitement as each new stamp reflects the uniqueness of its country, making it a beloved hobby for many since the 19th century!"
+        },
+        {
+            "message_id": 3,
+            "user_id": "0004",
+            "speaker": "Human",
+            "message": "I can imagine so!  How do most stamp collectors go about protecting their collections?"
+        },
+        {
+            "message_id": 4,
+            "system_id": "0008",
+            "speaker": "Bot",
+            "message": "To protect their collections, many stamp collectors use albums with special mounts or hinges to keep stamps safe and organized."
+        },
+        {
+            "message_id": 5,
+            "user_id": "0004",
+            "speaker": "Human",
+            "message": "Are the stamps worth more if they have not been previously used?  "
+        },
+        {
+            "message_id": 6,
+            "system_id": "0008",
+            "speaker": "Bot",
+            "message": "Yes, unused stamps, also known as \"mint\" stamps, are often more valuable to collectors due to their pristine condition."
+        },
+        {
+            "message_id": 7,
+            "user_id": "0004",
+            "speaker": "Human",
+            "message": "I see.  But I can also see the appeal of a stamp that is very old that was actually used and is not longer mint!"
+        },
+        {
+            "message_id": 8,
+            "system_id": "0008",
+            "speaker": "Bot",
+            "message": "Absolutely, used stamps, with their historical significance and stories of their journeys, hold a special charm for many collectors!"
+        },
+        {
+            "message_id": 9,
+            "user_id": "0004",
+            "speaker": "Human",
+            "message": "Definitely.  What is the most valuable stamp to date in the history of stamp collecting?"
+        },
+        {
+            "message_id": 10,
+            "system_id": "0008",
+            "speaker": "Bot",
+            "message": "The most valuable stamp is the British Guiana 1c magenta, which has fetched millions at auction!"
+        },
+        {
+            "message_id": 11,
+            "user_id": "0004",
+            "speaker": "Human",
+            "message": "Wow!  What makes this particular stamp so valuable and rare?"
+        },
+        {
+            "message_id": 12,
+            "system_id": "0008",
+            "speaker": "Bot",
+            "message": "The British Guiana 1c magenta is uniquely valuable due to its rarity, with only one known copy!"
+        },
+        {
+            "message_id": 13,
+            "user_id": "0004",
+            "speaker": "Human",
+            "message": "That is amazing.  I am sure the history of stamp collecting is very interesting."
+        },
+        {
+            "message_id": 14,
+            "system_id": "0008",
+            "speaker": "Bot",
+            "message": "Stamp collecting, a key part of philately, has been a beloved hobby since the 19th century, with stamps offering historical and geographical insights."
+        },
+        {
+            "message_id": 15,
+            "user_id": "0004",
+            "speaker": "Human",
+            "message": "Are there any newer stamps that are also quite valuable?"
+        },
+        {
+            "message_id": 16,
+            "system_id": "0008",
+            "speaker": "Bot",
+            "message": "Newer stamps can still become valuable, especially if they feature unique designs or limited editions that attract collectors' interest."
+        },
+        {
+            "message_id": 17,
+            "user_id": "0004",
+            "speaker": "Human",
+            "message": "Would you say stamp collecting is as popular as coin collecting?"
+        },
+        {
+            "message_id": 18,
+            "system_id": "0008",
+            "speaker": "Bot",
+            "message": "Stamp collecting has been a popular hobby since the late 19th century, much like coin collecting, each offering unique historical insights."
+        },
+        {
+            "message_id": 19,
+            "user_id": "0004",
+            "speaker": "Human",
+            "message": "Definitely  I would love to go to a stamp collecting museum if such a place exists!"
+        },
+        {
+            "message_id": 20,
+            "system_id": "0008",
+            "speaker": "Bot",
+            "message": "Visiting a stamp museum would be a fascinating experience, as it combines the joy of collecting with the rich history and study of stamps, known as philately!"
+        }
+    ]
+}

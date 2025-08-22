@@ -1,0 +1,136 @@
+{
+    "dialogue_id": "0119",
+    "setting": "ed",
+    "model": "Llama-3.1-70B-Instruct",
+    "prompt": "aligned",
+    "emotion": "Sad",
+    "episode": "My best friend is on hospice.",
+    "subjective_evaluation": {
+        "preference": 4.0,
+        "stylistic_similarity": 4.0,
+        "consistency": 5.0,
+        "empathy": 5.0
+    },
+    "dialogue": [
+        {
+            "message_id": 0,
+            "user_id": "0027",
+            "speaker": "Human",
+            "message": "I'm having a really bad day. My best friend just got put on hospice."
+        },
+        {
+            "message_id": 1,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "I'm so sorry to hear that. That's really tough."
+        },
+        {
+            "message_id": 2,
+            "user_id": "0027",
+            "speaker": "Human",
+            "message": "Yes. She didn't want to do chemo so the doctors said she only has a couple of weeks at most."
+        },
+        {
+            "message_id": 3,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "That must be devastating for you. Are you spending time with her?"
+        },
+        {
+            "message_id": 4,
+            "user_id": "0027",
+            "speaker": "Human",
+            "message": "As much as I can. I'm trying to get leave from work approved. I'm not really good for anything right now."
+        },
+        {
+            "message_id": 5,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "Take care of yourself too, okay?"
+        },
+        {
+            "message_id": 6,
+            "user_id": "0027",
+            "speaker": "Human",
+            "message": "I'm trying. I can't stop crying though. And I know it's not good to let her see me cry so much. She doesn't need that."
+        },
+        {
+            "message_id": 7,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "It's hard to stay strong for her when you're hurting too."
+        },
+        {
+            "message_id": 8,
+            "user_id": "0027",
+            "speaker": "Human",
+            "message": "I'm devastated. She is my only close chick friend. We do everything together."
+        },
+        {
+            "message_id": 9,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "It sounds like you two are more like sisters."
+        },
+        {
+            "message_id": 10,
+            "user_id": "0027",
+            "speaker": "Human",
+            "message": "Yes. She's twenty years older than me but we act just like twins."
+        },
+        {
+            "message_id": 11,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "That's really special. Age didn't matter to your friendship."
+        },
+        {
+            "message_id": 12,
+            "user_id": "0027",
+            "speaker": "Human",
+            "message": "Not at all. She always includes me in all her family events."
+        },
+        {
+            "message_id": 13,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "She must consider you family, not just a friend."
+        },
+        {
+            "message_id": 14,
+            "user_id": "0027",
+            "speaker": "Human",
+            "message": "Yes. I am so scared and sad right now. I don't know what I'm gonna do."
+        },
+        {
+            "message_id": 15,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "I can feel your pain. It's okay to be scared and sad."
+        },
+        {
+            "message_id": 16,
+            "user_id": "0027",
+            "speaker": "Human",
+            "message": "Death is never easy for me. I usually go into a deep depression when these things happen. It's only gotten worse as I get older..."
+        },
+        {
+            "message_id": 17,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "It's like the losses pile up and get harder to bear."
+        },
+        {
+            "message_id": 18,
+            "user_id": "0027",
+            "speaker": "Human",
+            "message": "Yes. It also reminds you that nearly everything in life causes cancer."
+        },
+        {
+            "message_id": 19,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "It's scary how many things can trigger it."
+        }
+    ]
+}

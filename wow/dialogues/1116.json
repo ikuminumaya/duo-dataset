@@ -1,0 +1,141 @@
+{
+    "dialogue_id": "1116",
+    "setting": "wow",
+    "model": "Llama-3.1-70B-Instruct",
+    "prompt": "neutral",
+    "topic": "Washington Wizards",
+    "subjective_evaluation": {
+        "preference": 2.0,
+        "stylistic_similarity": 4.0,
+        "consistency": 3.0,
+        "engagingness": 2.0
+    },
+    "dialogue": [
+        {
+            "message_id": 0,
+            "system_id": "0009",
+            "speaker": "Bot",
+            "message": "I'm excited to chat with you about the Washington Wizards!"
+        },
+        {
+            "message_id": 1,
+            "user_id": "0020",
+            "speaker": "Human",
+            "message": "Cool!  I follow the NBA a bit.  What can you tell me about the Wizards?"
+        },
+        {
+            "message_id": 2,
+            "system_id": "0009",
+            "speaker": "Bot",
+            "message": "They're based in Washington, D.C. and play at the Capital One Arena."
+        },
+        {
+            "message_id": 3,
+            "user_id": "0020",
+            "speaker": "Human",
+            "message": "Nice.  Who is their best player this year now that they've traded Deni Avdija to my favorite team?"
+        },
+        {
+            "message_id": 4,
+            "system_id": "0009",
+            "speaker": "Bot",
+            "message": "I'm not sure about current players, but historically, Wes Unseld is a notable player who won MVP and Finals MVP awards."
+        },
+        {
+            "message_id": 5,
+            "user_id": "0020",
+            "speaker": "Human",
+            "message": "Ahh Wes Unseld.  Who are some other famous players from the Wizards?"
+        },
+        {
+            "message_id": 6,
+            "system_id": "0009",
+            "speaker": "Bot",
+            "message": "The Wizards have had some great players, but I'd have to look that up, I only know about Wes Unseld from their history."
+        },
+        {
+            "message_id": 7,
+            "user_id": "0020",
+            "speaker": "Human",
+            "message": "So they used to be called the Bullets right?"
+        },
+        {
+            "message_id": 8,
+            "system_id": "0009",
+            "speaker": "Bot",
+            "message": "They were previously known as the Baltimore Bullets and later the Washington Bullets before changing their name to the Wizards in 1997."
+        },
+        {
+            "message_id": 9,
+            "user_id": "0020",
+            "speaker": "Human",
+            "message": "Why did they change their name?"
+        },
+        {
+            "message_id": 10,
+            "system_id": "0009",
+            "speaker": "Bot",
+            "message": "They rebranded themselves as the Wizards in 1997, but I don't have the specific reason for the name change."
+        },
+        {
+            "message_id": 11,
+            "user_id": "0020",
+            "speaker": "Human",
+            "message": "What year was the team established?"
+        },
+        {
+            "message_id": 12,
+            "system_id": "0009",
+            "speaker": "Bot",
+            "message": "The team was established in 1961 as the Chicago Packers."
+        },
+        {
+            "message_id": 13,
+            "user_id": "0020",
+            "speaker": "Human",
+            "message": "Oh, I did not know that.  Did they move to Baltimore after Chicago?"
+        },
+        {
+            "message_id": 14,
+            "system_id": "0009",
+            "speaker": "Bot",
+            "message": "They relocated to Baltimore in 1963 and became the Baltimore Bullets."
+        },
+        {
+            "message_id": 15,
+            "user_id": "0020",
+            "speaker": "Human",
+            "message": "How many championships have they won?"
+        },
+        {
+            "message_id": 16,
+            "system_id": "0009",
+            "speaker": "Bot",
+            "message": "They've won one NBA championship, which was in 1978."
+        },
+        {
+            "message_id": 17,
+            "user_id": "0020",
+            "speaker": "Human",
+            "message": "Have they made it to the finals but lost?"
+        },
+        {
+            "message_id": 18,
+            "system_id": "0009",
+            "speaker": "Bot",
+            "message": "They've appeared in four NBA Finals, but only won the one in 1978."
+        },
+        {
+            "message_id": 19,
+            "user_id": "0020",
+            "speaker": "Human",
+            "message": "When was their most recent finals appearance?"
+        },
+        {
+            "message_id": 20,
+            "system_id": "0009",
+            "speaker": "Bot",
+            "message": "I don't have that information, but I can tell you they've appeared in a total of four NBA Finals."
+        }
+    ]
+}

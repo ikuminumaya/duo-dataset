@@ -1,0 +1,162 @@
+{
+    "dialogue_id": "0017",
+    "setting": "ed",
+    "model": "gpt-4o",
+    "prompt": "aligned",
+    "emotion": "Disappointed",
+    "episode": "I  contacted a state senator about an issue I've been pushing, to amend the Oklahoma Anatomical Gifts Act to allow for a free market in human organs and tissues for transplant.  He agreed it would save lives and money, but that it would be impossible to pass in the current legislature and, since he can only submit a limited number of bills, he declined to do anything about it.",
+    "objective_evaluation": {
+        "preference": 4.67,
+        "stylistic_similarity": 4.33,
+        "consistency": 5.0,
+        "empathy": 4.67,
+        "preference_scores": [
+            5.0,
+            4.0,
+            5.0
+        ],
+        "stylistic_similarity_scores": [
+            4.0,
+            4.0,
+            5.0
+        ],
+        "consistency_scores": [
+            5.0,
+            5.0,
+            5.0
+        ],
+        "empathy_scores": [
+            5.0,
+            4.0,
+            5.0
+        ]
+    },
+    "subjective_evaluation": {
+        "preference": 3.0,
+        "stylistic_similarity": 2.0,
+        "consistency": 5.0,
+        "empathy": 5.0
+    },
+    "dialogue": [
+        {
+            "message_id": 0,
+            "user_id": "0013",
+            "speaker": "Human",
+            "message": "I contacted a state senator, asking him to sponsor a bill to amednt the Oklahoma Anatomical Gifts Act.  He saidit would be unlikely to pass through the legislature, and declined to sponsor it."
+        },
+        {
+            "message_id": 1,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "I'm sorry to hear that. It must be frustrating, but don't give up hope. Maybe there's another way to push for change."
+        },
+        {
+            "message_id": 2,
+            "user_id": "0013",
+            "speaker": "Human",
+            "message": "There is, but nothing easy to do."
+        },
+        {
+            "message_id": 3,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "I understand, it can be tough. Keep pushing, your efforts matter."
+        },
+        {
+            "message_id": 4,
+            "user_id": "0013",
+            "speaker": "Human",
+            "message": "I need to get the insurance companies on board, they would save money with the bill."
+        },
+        {
+            "message_id": 5,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "That's a smart move. If you can show them the benefits, they might support you."
+        },
+        {
+            "message_id": 6,
+            "user_id": "0013",
+            "speaker": "Human",
+            "message": "But that's unlikely too.  The healthcare insurance industry is highly regulated, and they don't want to get into controversial issues."
+        },
+        {
+            "message_id": 7,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "That's tough. Maybe try finding a different angle or ally?"
+        },
+        {
+            "message_id": 8,
+            "user_id": "0013",
+            "speaker": "Human",
+            "message": "So far, my main ally is the Oklahoma Libertarian Party, which doesn't have a lot of influence yet."
+        },
+        {
+            "message_id": 9,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "Keep working with them. Every bit of support counts."
+        },
+        {
+            "message_id": 10,
+            "user_id": "0013",
+            "speaker": "Human",
+            "message": "Yes, I'm considering running for Oklahoma Insurance Commissioner.  Even if I lose - which I will - it will give us an opportunity to further explain and push for this issue."
+        },
+        {
+            "message_id": 11,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "That's a bold move! It could really raise awareness."
+        },
+        {
+            "message_id": 12,
+            "user_id": "0013",
+            "speaker": "Human",
+            "message": "yes.  it would also be quite expensive."
+        },
+        {
+            "message_id": 13,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "True. Maybe explore fundraising or sponsorships?"
+        },
+        {
+            "message_id": 14,
+            "user_id": "0013",
+            "speaker": "Human",
+            "message": "That's what I'll be doing the next few months, see if I can get any support."
+        },
+        {
+            "message_id": 15,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "Good plan. Hope it goes well!"
+        },
+        {
+            "message_id": 16,
+            "user_id": "0013",
+            "speaker": "Human",
+            "message": "Even if I lose, if I can get 5% of the vote in the race, I will get ballot access for the Libertarian Party for two more years."
+        },
+        {
+            "message_id": 17,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "That's a great goal! Good luck!"
+        },
+        {
+            "message_id": 18,
+            "user_id": "0013",
+            "speaker": "Human",
+            "message": "Thanks, I will certainly need it, and a few bucks as well."
+        },
+        {
+            "message_id": 19,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "Absolutely! Every bit helps."
+        }
+    ]
+}

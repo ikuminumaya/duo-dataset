@@ -1,0 +1,147 @@
+{
+    "dialogue_id": "1082",
+    "setting": "wow",
+    "model": "gpt-4o",
+    "prompt": "aligned",
+    "topic": "Ice cream",
+    "subjective_evaluation": {
+        "preference": 4.0,
+        "stylistic_similarity": 3.0,
+        "consistency": 5.0,
+        "engagingness": 5.0
+    },
+    "dialogue": [
+        {
+            "message_id": 0,
+            "system_id": "0007",
+            "speaker": "Bot",
+            "message": "Ice cream is a sweet, frozen treat made from dairy products like milk and cream, often with added flavors and fruits."
+        },
+        {
+            "message_id": 1,
+            "user_id": "0009",
+            "speaker": "Human",
+            "message": "Hello what do you want to talk about?"
+        },
+        {
+            "message_id": 2,
+            "system_id": "0007",
+            "speaker": "Bot",
+            "message": "Chocolate and candy mix-ins make ice cream even more delicious, turning it into a sweet, frozen masterpiece!"
+        },
+        {
+            "message_id": 3,
+            "user_id": "0009",
+            "speaker": "Human",
+            "message": "I'm obsessed with ice cream. I love anything with chocolate and candy in it"
+        },
+        {
+            "message_id": 4,
+            "system_id": "0007",
+            "speaker": "Bot",
+            "message": "Ben & Jerry's is known for their creative flavors and mix-ins, like chocolate, candy, and caramel, making their ice cream an irresistible treat!"
+        },
+        {
+            "message_id": 5,
+            "user_id": "0009",
+            "speaker": "Human",
+            "message": "Caramel goes well with it too. I like Ben & Jerry's"
+        },
+        {
+            "message_id": 6,
+            "system_id": "0007",
+            "speaker": "Bot",
+            "message": "Blue Ribbon also makes some tasty ice cream with great flavors and mix-ins."
+        },
+        {
+            "message_id": 7,
+            "user_id": "0009",
+            "speaker": "Human",
+            "message": "It's so good. blue ribbon is really good too"
+        },
+        {
+            "message_id": 8,
+            "system_id": "0007",
+            "speaker": "Bot",
+            "message": "Haagen-Dazs is definitely a premium choice with its rich flavors, but the price and availability can be a bummer sometimes!"
+        },
+        {
+            "message_id": 9,
+            "user_id": "0009",
+            "speaker": "Human",
+            "message": "I like Hagen Daas I just wish it wasn't so expensive and I almost never find the flavors I like from them"
+        },
+        {
+            "message_id": 10,
+            "system_id": "0007",
+            "speaker": "Bot",
+            "message": "Milkshakes are a great way to enjoy the creamy goodness of ice cream in a delicious, drinkable form!"
+        },
+        {
+            "message_id": 11,
+            "user_id": "0009",
+            "speaker": "Human",
+            "message": "You know what I like about ice cream probably the most? Milkshakes!"
+        },
+        {
+            "message_id": 12,
+            "system_id": "0007",
+            "speaker": "Bot",
+            "message": "Those flavors sound amazing in milkshake form, blending the creamy goodness of ice cream with delicious mix-ins!"
+        },
+        {
+            "message_id": 13,
+            "user_id": "0009",
+            "speaker": "Human",
+            "message": "Whenever I'm at parlor I usually get a blueberry shake or a cookie dough shake if either are options"
+        },
+        {
+            "message_id": 14,
+            "system_id": "0007",
+            "speaker": "Bot",
+            "message": "Wow, those sound like some fun and unique shake flavors to try, especially the egg nog one during the holidays!"
+        },
+        {
+            "message_id": 15,
+            "user_id": "0009",
+            "speaker": "Human",
+            "message": "I lived near a McDonald's that used our location as a test market for their shakes. They had a blueberry shake that was out of control good for about a year. Later they had a rassberry shake that was pretty good too, and an egg nog shake during two holiday seasons"
+        },
+        {
+            "message_id": 16,
+            "system_id": "0007",
+            "speaker": "Bot",
+            "message": "Egg nog and ice cream are a perfect combo for a festive and creamy treat during the holidays!"
+        },
+        {
+            "message_id": 17,
+            "user_id": "0009",
+            "speaker": "Human",
+            "message": "I usually make my own egg nog shake during the holidays! I love egg nog and it goes well with ice cream"
+        },
+        {
+            "message_id": 18,
+            "system_id": "0007",
+            "speaker": "Bot",
+            "message": "Making your own egg nog shake with vanilla ice cream and egg nog sounds like a delicious way to enjoy a festive treat!"
+        },
+        {
+            "message_id": 19,
+            "user_id": "0009",
+            "speaker": "Human",
+            "message": "When I see egg nog ice cream I usually buy it...but I do like making my own with either freezing vanilla ice cream with egg nog and freezing it...or making a shake out of the two"
+        },
+        {
+            "message_id": 20,
+            "system_id": "0007",
+            "speaker": "Bot",
+            "message": "Ice cream is indeed hard to resist, with its sweet, creamy texture and endless varieties of flavors and mix-ins!"
+        },
+        {
+            "message_id": 21,
+            "user_id": "0009",
+            "speaker": "Human",
+            "message": "I mean how can one not like ice cream? It's so delicious"
+        }
+    ]
+}

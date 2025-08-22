@@ -1,0 +1,136 @@
+{
+    "dialogue_id": "0056",
+    "setting": "ed",
+    "model": "gpt-4o",
+    "prompt": "neutral",
+    "emotion": "Afraid",
+    "episode": "Trump imposing tariffs on many countries is worry-some as it may make things expensive and affect jobs.",
+    "subjective_evaluation": {
+        "preference": 3.0,
+        "stylistic_similarity": 4.0,
+        "consistency": 3.0,
+        "empathy": 2.0
+    },
+    "dialogue": [
+        {
+            "message_id": 0,
+            "user_id": "0023",
+            "speaker": "Human",
+            "message": "Trump imposing tariffs on many countries is worry-some as it may make things expensive and affect jobs including mine."
+        },
+        {
+            "message_id": 1,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "I understand your concern. It’s tough not knowing how it might impact your job."
+        },
+        {
+            "message_id": 2,
+            "user_id": "0023",
+            "speaker": "Human",
+            "message": "yeah, how does tariff works?"
+        },
+        {
+            "message_id": 3,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "Tariffs are taxes on imports, making foreign goods more expensive."
+        },
+        {
+            "message_id": 4,
+            "user_id": "0023",
+            "speaker": "Human",
+            "message": "so that impacts both like seller and buyer?"
+        },
+        {
+            "message_id": 5,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "Yes, it affects both."
+        },
+        {
+            "message_id": 6,
+            "user_id": "0023",
+            "speaker": "Human",
+            "message": "so people cannot buy things, won't that impact economy of USA?"
+        },
+        {
+            "message_id": 7,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "Yes, it can slow spending."
+        },
+        {
+            "message_id": 8,
+            "user_id": "0023",
+            "speaker": "Human",
+            "message": "and that is concerning?"
+        },
+        {
+            "message_id": 9,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "Yes, it is."
+        },
+        {
+            "message_id": 10,
+            "user_id": "0023",
+            "speaker": "Human",
+            "message": "how?"
+        },
+        {
+            "message_id": 11,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "Reduced spending affects jobs."
+        },
+        {
+            "message_id": 12,
+            "user_id": "0023",
+            "speaker": "Human",
+            "message": "so that brings recession?"
+        },
+        {
+            "message_id": 13,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "It can contribute to one."
+        },
+        {
+            "message_id": 14,
+            "user_id": "0023",
+            "speaker": "Human",
+            "message": "do you think USA is heading towards recession?"
+        },
+        {
+            "message_id": 15,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "It's uncertain, but people are concerned."
+        },
+        {
+            "message_id": 16,
+            "user_id": "0023",
+            "speaker": "Human",
+            "message": "that would be bad as people are gonna lose their jobs"
+        },
+        {
+            "message_id": 17,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "Yes, it would be tough."
+        },
+        {
+            "message_id": 18,
+            "user_id": "0023",
+            "speaker": "Human",
+            "message": "why impose tarrif then ?"
+        },
+        {
+            "message_id": 19,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "To protect local industries."
+        }
+    ]
+}

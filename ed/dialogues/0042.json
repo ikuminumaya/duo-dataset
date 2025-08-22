@@ -1,0 +1,162 @@
+{
+    "dialogue_id": "0042",
+    "setting": "ed",
+    "model": "Llama-3.1-70B-Instruct",
+    "prompt": "not_aligned",
+    "emotion": "Annoyed",
+    "episode": "Sometimes I become annoyed with myself, due to the fact that I live alone and can't find a way to get out more. I mean I have all the freedom in the world, but I just find things to keep be occupied at home.",
+    "objective_evaluation": {
+        "preference": 4.33,
+        "stylistic_similarity": 3.33,
+        "consistency": 4.33,
+        "empathy": 4.0,
+        "preference_scores": [
+            4.0,
+            4.0,
+            5.0
+        ],
+        "stylistic_similarity_scores": [
+            3.0,
+            3.0,
+            4.0
+        ],
+        "consistency_scores": [
+            3.0,
+            5.0,
+            5.0
+        ],
+        "empathy_scores": [
+            3.0,
+            5.0,
+            4.0
+        ]
+    },
+    "subjective_evaluation": {
+        "preference": 4.0,
+        "stylistic_similarity": 5.0,
+        "consistency": 5.0,
+        "empathy": 5.0
+    },
+    "dialogue": [
+        {
+            "message_id": 0,
+            "user_id": "0011",
+            "speaker": "Human",
+            "message": "I become annoyed with myself because I have the feeling I am become sedate in my lifestyle."
+        },
+        {
+            "message_id": 1,
+            "system_id": "0005",
+            "speaker": "Bot",
+            "message": "That's a pretty introspective concern, what makes you feel that way?"
+        },
+        {
+            "message_id": 2,
+            "user_id": "0011",
+            "speaker": "Human",
+            "message": "I find things to do at home, that I care about, but just feel I should get out more. But I have tons of excuses not to do so."
+        },
+        {
+            "message_id": 3,
+            "system_id": "0005",
+            "speaker": "Bot",
+            "message": "Excuses can be tough to overcome, what's the main thing holding you back?"
+        },
+        {
+            "message_id": 4,
+            "user_id": "0011",
+            "speaker": "Human",
+            "message": "Well, these surveys for one. I am on a fixed income and need the miniscule earnings to supplement my fixed income. I work about 5 hours a day, every day, at them."
+        },
+        {
+            "message_id": 5,
+            "system_id": "0005",
+            "speaker": "Bot",
+            "message": "It sounds like they're a necessary but time-consuming part of making ends meet."
+        },
+        {
+            "message_id": 6,
+            "user_id": "0011",
+            "speaker": "Human",
+            "message": "That is true, but there are times when they are very few, so I do get out and walk, or run errands."
+        },
+        {
+            "message_id": 7,
+            "system_id": "0005",
+            "speaker": "Bot",
+            "message": "So you do make an effort to get out when you can, that's a good start!"
+        },
+        {
+            "message_id": 8,
+            "user_id": "0011",
+            "speaker": "Human",
+            "message": "Yes, but just feel sometimes, it's not enough."
+        },
+        {
+            "message_id": 9,
+            "system_id": "0005",
+            "speaker": "Bot",
+            "message": "It's like you're craving a bit more freedom and spontaneity in your life."
+        },
+        {
+            "message_id": 10,
+            "user_id": "0011",
+            "speaker": "Human",
+            "message": "I suppose spontaneity is a good way to describe it."
+        },
+        {
+            "message_id": 11,
+            "system_id": "0005",
+            "speaker": "Bot",
+            "message": "It's nice to have some unexpected adventures and break the routine."
+        },
+        {
+            "message_id": 12,
+            "user_id": "0011",
+            "speaker": "Human",
+            "message": "But I always fall back to the earnings part, kind of think that's my priority."
+        },
+        {
+            "message_id": 13,
+            "system_id": "0005",
+            "speaker": "Bot",
+            "message": "Financial security can be a heavy weight, hard to shake off."
+        },
+        {
+            "message_id": 14,
+            "user_id": "0011",
+            "speaker": "Human",
+            "message": "True and the need to interact with other individuals."
+        },
+        {
+            "message_id": 15,
+            "system_id": "0005",
+            "speaker": "Bot",
+            "message": "Human connection is important, don't want to feel isolated."
+        },
+        {
+            "message_id": 16,
+            "user_id": "0011",
+            "speaker": "Human",
+            "message": "Sometimes I think about going up to where all the elderly go, but not sure what I'd do there."
+        },
+        {
+            "message_id": 17,
+            "system_id": "0005",
+            "speaker": "Bot",
+            "message": "You're thinking of a senior center or community?"
+        },
+        {
+            "message_id": 18,
+            "user_id": "0011",
+            "speaker": "Human",
+            "message": "Yes, that's it, did volunteer there years ago, then at the local hospital."
+        },
+        {
+            "message_id": 19,
+            "system_id": "0005",
+            "speaker": "Bot",
+            "message": "Nostalgic memories, maybe volunteering again could bring new purpose."
+        }
+    ]
+}

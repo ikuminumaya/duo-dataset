@@ -1,0 +1,141 @@
+{
+    "dialogue_id": "1133",
+    "setting": "wow",
+    "model": "Llama-3.1-70B-Instruct",
+    "prompt": "aligned",
+    "topic": "Piano",
+    "subjective_evaluation": {
+        "preference": 5.0,
+        "stylistic_similarity": 5.0,
+        "consistency": 5.0,
+        "engagingness": 4.0
+    },
+    "dialogue": [
+        {
+            "message_id": 0,
+            "system_id": "0010",
+            "speaker": "Bot",
+            "message": "Hey, wanna talk about pianos?"
+        },
+        {
+            "message_id": 1,
+            "user_id": "0008",
+            "speaker": "Human",
+            "message": "Are keyboards considered pianos?"
+        },
+        {
+            "message_id": 2,
+            "system_id": "0010",
+            "speaker": "Bot",
+            "message": "Nope, keyboards are electronic, pianos are acoustic, with strings and hammers."
+        },
+        {
+            "message_id": 3,
+            "user_id": "0008",
+            "speaker": "Human",
+            "message": "What is the most common type of piano?"
+        },
+        {
+            "message_id": 4,
+            "system_id": "0010",
+            "speaker": "Bot",
+            "message": "Acoustic pianos are the classic ones, but I'd say upright pianos are the most common type, ya know, the ones that stand against a wall?"
+        },
+        {
+            "message_id": 5,
+            "user_id": "0008",
+            "speaker": "Human",
+            "message": "What are some other types?"
+        },
+        {
+            "message_id": 6,
+            "system_id": "0010",
+            "speaker": "Bot",
+            "message": "There's also grand pianos, the fancy ones that are horizontal, and then there's baby grands, which are smaller versions of those!"
+        },
+        {
+            "message_id": 7,
+            "user_id": "0008",
+            "speaker": "Human",
+            "message": "Which is the cheapest version?"
+        },
+        {
+            "message_id": 8,
+            "system_id": "0010",
+            "speaker": "Bot",
+            "message": "Baby grands are usually the most affordable of the acoustic pianos!"
+        },
+        {
+            "message_id": 9,
+            "user_id": "0008",
+            "speaker": "Human",
+            "message": "Why wouldn't you recommend a baby grand?"
+        },
+        {
+            "message_id": 10,
+            "system_id": "0010",
+            "speaker": "Bot",
+            "message": "Honestly, baby grands can have a quieter sound and smaller dynamic range, so if you're looking for a bigger sound, might wanna look elsewhere!"
+        },
+        {
+            "message_id": 11,
+            "user_id": "0008",
+            "speaker": "Human",
+            "message": "Is the grand piano the most expensive version?"
+        },
+        {
+            "message_id": 12,
+            "system_id": "0010",
+            "speaker": "Bot",
+            "message": "Yup, grand pianos are usually the priciest, but they're also the most iconic and have the best sound quality, so it's worth it for some people!"
+        },
+        {
+            "message_id": 13,
+            "user_id": "0008",
+            "speaker": "Human",
+            "message": "How much does the average grand piano cost"
+        },
+        {
+            "message_id": 14,
+            "system_id": "0010",
+            "speaker": "Bot",
+            "message": "Grand pianos can range from like 5k to 100k+, it really depends on the brand, quality, and size!"
+        },
+        {
+            "message_id": 15,
+            "user_id": "0008",
+            "speaker": "Human",
+            "message": "What brands are known for making the best pianos?"
+        },
+        {
+            "message_id": 16,
+            "system_id": "0010",
+            "speaker": "Bot",
+            "message": "Some top brands are Steinway, Bösendorfer, and Yamaha - they're super well-known for making amazing pianos!"
+        },
+        {
+            "message_id": 17,
+            "user_id": "0008",
+            "speaker": "Human",
+            "message": "Can you order them online?"
+        },
+        {
+            "message_id": 18,
+            "system_id": "0010",
+            "speaker": "Bot",
+            "message": "Yeah, you can order pianos online, but it's kinda tricky, 'cause you gotta hear 'em in person to really know what you're gettin'!"
+        },
+        {
+            "message_id": 19,
+            "user_id": "0008",
+            "speaker": "Human",
+            "message": "who created the first piano?"
+        },
+        {
+            "message_id": 20,
+            "system_id": "0010",
+            "speaker": "Bot",
+            "message": "Bartolomeo Cristofori, an Italian dude, invented the first piano back in the 1700s!"
+        }
+    ]
+}

@@ -1,0 +1,141 @@
+{
+    "dialogue_id": "1071",
+    "setting": "wow",
+    "model": "gpt-4o",
+    "prompt": "aligned",
+    "topic": "New York City",
+    "subjective_evaluation": {
+        "preference": 5.0,
+        "stylistic_similarity": 5.0,
+        "consistency": 5.0,
+        "engagingness": 5.0
+    },
+    "dialogue": [
+        {
+            "message_id": 0,
+            "system_id": "0007",
+            "speaker": "Bot",
+            "message": "New York City is a bustling global hub with a vibrant mix of culture, finance, and entertainment, and it's made up of five unique boroughs."
+        },
+        {
+            "message_id": 1,
+            "user_id": "0037",
+            "speaker": "Human",
+            "message": "What are the five boroughs?"
+        },
+        {
+            "message_id": 2,
+            "system_id": "0007",
+            "speaker": "Bot",
+            "message": "The five boroughs of New York City are Brooklyn, Queens, Manhattan, The Bronx, and Staten Island."
+        },
+        {
+            "message_id": 3,
+            "user_id": "0037",
+            "speaker": "Human",
+            "message": "Which one is the best borough for shopping?"
+        },
+        {
+            "message_id": 4,
+            "system_id": "0007",
+            "speaker": "Bot",
+            "message": "Manhattan is often considered the best borough for shopping, with famous areas like Fifth Avenue and SoHo."
+        },
+        {
+            "message_id": 5,
+            "user_id": "0037",
+            "speaker": "Human",
+            "message": "Which one has more outdoorsy things to do?"
+        },
+        {
+            "message_id": 6,
+            "system_id": "0007",
+            "speaker": "Bot",
+            "message": "For outdoorsy activities, The Bronx with its parks and the New York Botanical Garden, or Staten Island with its green spaces and the Staten Island Greenbelt, are great choices."
+        },
+        {
+            "message_id": 7,
+            "user_id": "0037",
+            "speaker": "Human",
+            "message": "What is the best way to travel if you want to visit all five?"
+        },
+        {
+            "message_id": 8,
+            "system_id": "0007",
+            "speaker": "Bot",
+            "message": "The subway is the best way to travel between all five boroughs, as it connects most areas efficiently."
+        },
+        {
+            "message_id": 9,
+            "user_id": "0037",
+            "speaker": "Human",
+            "message": "Where should you go if you are interested in the night life?"
+        },
+        {
+            "message_id": 10,
+            "system_id": "0007",
+            "speaker": "Bot",
+            "message": "For nightlife, Manhattan is the place to be, with its lively bars, clubs, and entertainment venues."
+        },
+        {
+            "message_id": 11,
+            "user_id": "0037",
+            "speaker": "Human",
+            "message": "What is the average price of a 4 star hotel in manhattan?"
+        },
+        {
+            "message_id": 12,
+            "system_id": "0007",
+            "speaker": "Bot",
+            "message": "The average price of a 4-star hotel in Manhattan can vary, but it's generally quite high due to its popularity and location."
+        },
+        {
+            "message_id": 13,
+            "user_id": "0037",
+            "speaker": "Human",
+            "message": "What would you reccomend seeing if you had five days to do it?"
+        },
+        {
+            "message_id": 14,
+            "system_id": "0007",
+            "speaker": "Bot",
+            "message": "With five days, I'd recommend seeing iconic spots like Central Park, Times Square, the Statue of Liberty, the Metropolitan Museum of Art, and catching a Broadway show."
+        },
+        {
+            "message_id": 15,
+            "user_id": "0037",
+            "speaker": "Human",
+            "message": "Do you have to pay to go to the statue of liberty?"
+        },
+        {
+            "message_id": 16,
+            "system_id": "0007",
+            "speaker": "Bot",
+            "message": "Yes, you need to pay for a ferry ticket to visit the Statue of Liberty, which also often includes access to Ellis Island."
+        },
+        {
+            "message_id": 17,
+            "user_id": "0037",
+            "speaker": "Human",
+            "message": "How often do the ferries run and how late?"
+        },
+        {
+            "message_id": 18,
+            "system_id": "0007",
+            "speaker": "Bot",
+            "message": "Ferries to the Statue of Liberty typically run frequently throughout the day, but schedules can vary, so it's best to check in advance for the latest times."
+        },
+        {
+            "message_id": 19,
+            "user_id": "0037",
+            "speaker": "Human",
+            "message": "Is there food venders in central park?"
+        },
+        {
+            "message_id": 20,
+            "system_id": "0007",
+            "speaker": "Bot",
+            "message": "Yes, you can find food vendors throughout Central Park."
+        }
+    ]
+}

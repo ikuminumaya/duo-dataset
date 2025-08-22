@@ -1,0 +1,136 @@
+{
+    "dialogue_id": "0121",
+    "setting": "ed",
+    "model": "Llama-3.1-70B-Instruct",
+    "prompt": "aligned",
+    "emotion": "Devastated",
+    "episode": "There was a point in time, long ago, when I was devastated by an action my wife took. To be more specific she just got up and walked out on me. I really was devastated because she would never allow me to contact her by phone or text.",
+    "subjective_evaluation": {
+        "preference": 4.0,
+        "stylistic_similarity": 2.0,
+        "consistency": 4.0,
+        "empathy": 5.0
+    },
+    "dialogue": [
+        {
+            "message_id": 0,
+            "user_id": "0011",
+            "speaker": "Human",
+            "message": "I was devastated because my wife, who I loved dearly, got up and walked out on me."
+        },
+        {
+            "message_id": 1,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "That must have been really tough for you."
+        },
+        {
+            "message_id": 2,
+            "user_id": "0011",
+            "speaker": "Human",
+            "message": "It was, it was very emotional. She even would not allow me to contact her by phone or text."
+        },
+        {
+            "message_id": 3,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "That's really harsh, it sounds like she needed space, but it's still hurtful."
+        },
+        {
+            "message_id": 4,
+            "user_id": "0011",
+            "speaker": "Human",
+            "message": "That's true, the only think that really saved me was constant proayer."
+        },
+        {
+            "message_id": 5,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "That's beautiful, prayer can be a great source of comfort during tough times."
+        },
+        {
+            "message_id": 6,
+            "user_id": "0011",
+            "speaker": "Human",
+            "message": "After praing and being alone for a few months, I volunteered for meals on wheels to move on."
+        },
+        {
+            "message_id": 7,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "Helping others can be a great way to heal and find purpose again."
+        },
+        {
+            "message_id": 8,
+            "user_id": "0011",
+            "speaker": "Human",
+            "message": "That lasted for a couple of months, then I volunteered at the local hospital."
+        },
+        {
+            "message_id": 9,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "It sounds like you were really trying to stay busy and focus on giving back."
+        },
+        {
+            "message_id": 10,
+            "user_id": "0011",
+            "speaker": "Human",
+            "message": "Yes, my mind had to be occupied."
+        },
+        {
+            "message_id": 11,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "Keeping your mind occupied can help take the edge off the pain."
+        },
+        {
+            "message_id": 12,
+            "user_id": "0011",
+            "speaker": "Human",
+            "message": "I didn't hear from her for two years, then I had a call from her after she had an accident."
+        },
+        {
+            "message_id": 13,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "That must have been a shock, especially after two years of silence."
+        },
+        {
+            "message_id": 14,
+            "user_id": "0011",
+            "speaker": "Human",
+            "message": "Yes, but I still had deep feelings for her."
+        },
+        {
+            "message_id": 15,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "It's clear you still cared about her deeply, even after all that time."
+        },
+        {
+            "message_id": 16,
+            "user_id": "0011",
+            "speaker": "Human",
+            "message": "After her accident she needed to heal after a major operation so I welcomed her back into my home."
+        },
+        {
+            "message_id": 17,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "That's incredibly kind of you, taking her back in after everything she'd put you through."
+        },
+        {
+            "message_id": 18,
+            "user_id": "0011",
+            "speaker": "Human",
+            "message": "Well I figured she had her reasons and like you said, maybe she just needed space."
+        },
+        {
+            "message_id": 19,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "You're a very forgiving person, it sounds like you still loved her deeply."
+        }
+    ]
+}

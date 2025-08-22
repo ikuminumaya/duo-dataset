@@ -1,0 +1,162 @@
+{
+    "dialogue_id": "0015",
+    "setting": "ed",
+    "model": "gpt-4o",
+    "prompt": "aligned",
+    "emotion": "Jealous",
+    "episode": "My most recent past experience where I felt jealous was when my friend and his family went on a European vacation this past December.",
+    "objective_evaluation": {
+        "preference": 3.67,
+        "stylistic_similarity": 4.0,
+        "consistency": 4.67,
+        "empathy": 4.33,
+        "preference_scores": [
+            3.0,
+            4.0,
+            4.0
+        ],
+        "stylistic_similarity_scores": [
+            4.0,
+            4.0,
+            4.0
+        ],
+        "consistency_scores": [
+            4.0,
+            5.0,
+            5.0
+        ],
+        "empathy_scores": [
+            3.0,
+            5.0,
+            5.0
+        ]
+    },
+    "subjective_evaluation": {
+        "preference": 1.0,
+        "stylistic_similarity": 1.0,
+        "consistency": 2.0,
+        "empathy": 1.0
+    },
+    "dialogue": [
+        {
+            "message_id": 0,
+            "user_id": "0015",
+            "speaker": "Human",
+            "message": "My friend and his family went on a European vacation this past December for Christmas. I couldn't help but feel jealous. "
+        },
+        {
+            "message_id": 1,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "I get that, it sounds like an amazing trip. Maybe you can plan your own adventure soon!"
+        },
+        {
+            "message_id": 2,
+            "user_id": "0015",
+            "speaker": "Human",
+            "message": "I thought about that, but travel expenses are pretty high right now. "
+        },
+        {
+            "message_id": 3,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "Yeah, it's tough. Maybe a local getaway could be fun?"
+        },
+        {
+            "message_id": 4,
+            "user_id": "0015",
+            "speaker": "Human",
+            "message": "Yeah, that could be fun. I just never thought I'd find myself jealous of a friend. "
+        },
+        {
+            "message_id": 5,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "It's normal to feel that way sometimes."
+        },
+        {
+            "message_id": 6,
+            "user_id": "0015",
+            "speaker": "Human",
+            "message": "Really? Can you elaborate? "
+        },
+        {
+            "message_id": 7,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "Sure! It happens to everyone. We all want nice things."
+        },
+        {
+            "message_id": 8,
+            "user_id": "0015",
+            "speaker": "Human",
+            "message": "Shouldn't I be happy for my friend instead of jealous? "
+        },
+        {
+            "message_id": 9,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "It's okay to feel both!"
+        },
+        {
+            "message_id": 10,
+            "user_id": "0015",
+            "speaker": "Human",
+            "message": "I suppose. The jealous feelings are making me feel ashamed to be honest. "
+        },
+        {
+            "message_id": 11,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "Don't be too hard on yourself."
+        },
+        {
+            "message_id": 12,
+            "user_id": "0015",
+            "speaker": "Human",
+            "message": "Yeah, you're right. Maybe I should look into taking my own Eurotrip. "
+        },
+        {
+            "message_id": 13,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "Great idea! Start planning and saving up."
+        },
+        {
+            "message_id": 14,
+            "user_id": "0015",
+            "speaker": "Human",
+            "message": "What are some cheap options? "
+        },
+        {
+            "message_id": 15,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "Look for budget airlines and hostels."
+        },
+        {
+            "message_id": 16,
+            "user_id": "0015",
+            "speaker": "Human",
+            "message": "What about geographical areas? Are certain places in Europe cheaper than others? "
+        },
+        {
+            "message_id": 17,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "Eastern Europe can be cheaper."
+        },
+        {
+            "message_id": 18,
+            "user_id": "0015",
+            "speaker": "Human",
+            "message": "What is the most touristy part of Eastern Europe? "
+        },
+        {
+            "message_id": 19,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "Prague and Budapest are popular spots!"
+        }
+    ]
+}

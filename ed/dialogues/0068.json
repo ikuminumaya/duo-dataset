@@ -1,0 +1,136 @@
+{
+    "dialogue_id": "0068",
+    "setting": "ed",
+    "model": "gpt-4o",
+    "prompt": "aligned",
+    "emotion": "Excited",
+    "episode": "I booked a trip to Canada for the Fall. I am excited.",
+    "subjective_evaluation": {
+        "preference": 3.0,
+        "stylistic_similarity": 4.0,
+        "consistency": 4.0,
+        "empathy": 3.0
+    },
+    "dialogue": [
+        {
+            "message_id": 0,
+            "user_id": "0029",
+            "speaker": "Human",
+            "message": "I booked a trip to Canada for October. I am excited."
+        },
+        {
+            "message_id": 1,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "That's awesome! I bet you'll have a great time!"
+        },
+        {
+            "message_id": 2,
+            "user_id": "0029",
+            "speaker": "Human",
+            "message": "I am looking forward to it."
+        },
+        {
+            "message_id": 3,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "That's great! Canada in October will be beautiful."
+        },
+        {
+            "message_id": 4,
+            "user_id": "0029",
+            "speaker": "Human",
+            "message": "I enjoy the Fall weather and I want to be able to enjoy the city without worrying about excessive heat"
+        },
+        {
+            "message_id": 5,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "Sounds perfect! You're going to have a blast."
+        },
+        {
+            "message_id": 6,
+            "user_id": "0029",
+            "speaker": "Human",
+            "message": "I hope so! I have not been to Toronto"
+        },
+        {
+            "message_id": 7,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "Toronto is amazing! You're gonna love it!"
+        },
+        {
+            "message_id": 8,
+            "user_id": "0029",
+            "speaker": "Human",
+            "message": "Thanks. It is a city that I hope lives up to my expectations"
+        },
+        {
+            "message_id": 9,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "I'm sure it will!"
+        },
+        {
+            "message_id": 10,
+            "user_id": "0029",
+            "speaker": "Human",
+            "message": "It will be fun to enjoy the city with friends"
+        },
+        {
+            "message_id": 11,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "That's the best way to explore!"
+        },
+        {
+            "message_id": 12,
+            "user_id": "0029",
+            "speaker": "Human",
+            "message": "It isn't a long vacation but it will be long enough to relax"
+        },
+        {
+            "message_id": 13,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "Sounds perfect for a quick getaway!"
+        },
+        {
+            "message_id": 14,
+            "user_id": "0029",
+            "speaker": "Human",
+            "message": "I hope that I can eat some good food"
+        },
+        {
+            "message_id": 15,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "You'll find amazing food there!"
+        },
+        {
+            "message_id": 16,
+            "user_id": "0029",
+            "speaker": "Human",
+            "message": "I hope to visit the museums"
+        },
+        {
+            "message_id": 17,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "Museums there are awesome!"
+        },
+        {
+            "message_id": 18,
+            "user_id": "0029",
+            "speaker": "Human",
+            "message": "I hope to enjoy the night life"
+        },
+        {
+            "message_id": 19,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "You'll have a blast!"
+        }
+    ]
+}

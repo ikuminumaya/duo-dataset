@@ -1,0 +1,136 @@
+{
+    "dialogue_id": "0051",
+    "setting": "ed",
+    "model": "gpt-4o",
+    "prompt": "neutral",
+    "emotion": "Excited",
+    "episode": "I was excited when my husband and I went to Busch Gardens in Williamsburg, Virginia for their Christmas Celebration.",
+    "subjective_evaluation": {
+        "preference": 5.0,
+        "stylistic_similarity": 5.0,
+        "consistency": 5.0,
+        "empathy": 5.0
+    },
+    "dialogue": [
+        {
+            "message_id": 0,
+            "user_id": "0014",
+            "speaker": "Human",
+            "message": "I was excited when my husband and I went to Busch Gardens in Williamsburg, Virginia for their Christmas Celebration."
+        },
+        {
+            "message_id": 1,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "That sounds like a wonderful experience! How did it go?"
+        },
+        {
+            "message_id": 2,
+            "user_id": "0014",
+            "speaker": "Human",
+            "message": "It was such a fun trip together.  The Busch Gardens Amusement Park had millions of Christmas lights and it was so beautiful."
+        },
+        {
+            "message_id": 3,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "That sounds magical! I'm glad you both enjoyed it."
+        },
+        {
+            "message_id": 4,
+            "user_id": "0014",
+            "speaker": "Human",
+            "message": "It was a very enjoyable day and we spent this day enjoying each other's company."
+        },
+        {
+            "message_id": 5,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "That's lovely to hear."
+        },
+        {
+            "message_id": 6,
+            "user_id": "0014",
+            "speaker": "Human",
+            "message": "Thank you.  I felt blessed that my husband and I got to spend time together and enjoying the beautiful lights in Busch Gardens."
+        },
+        {
+            "message_id": 7,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "That's wonderful!"
+        },
+        {
+            "message_id": 8,
+            "user_id": "0014",
+            "speaker": "Human",
+            "message": "I enjoyed the lights in the park and it made the park look surreal because there were millions of lights to see."
+        },
+        {
+            "message_id": 9,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "It sounds enchanting!"
+        },
+        {
+            "message_id": 10,
+            "user_id": "0014",
+            "speaker": "Human",
+            "message": "It truly was enchanting and I am glad my husband and I got to enjoy it together."
+        },
+        {
+            "message_id": 11,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "That's great!"
+        },
+        {
+            "message_id": 12,
+            "user_id": "0014",
+            "speaker": "Human",
+            "message": "I hope that in the future we will be able to visit the park again at Christmas to enjoy the lights again."
+        },
+        {
+            "message_id": 13,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "I hope so too!"
+        },
+        {
+            "message_id": 14,
+            "user_id": "0014",
+            "speaker": "Human",
+            "message": "Thank you.  I enjoy spending time with my husband creating special memories together."
+        },
+        {
+            "message_id": 15,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "That's wonderful!"
+        },
+        {
+            "message_id": 16,
+            "user_id": "0014",
+            "speaker": "Human",
+            "message": "Thank you.  I feel such a connection with my husband when we enjoy being together doing special activities with one another."
+        },
+        {
+            "message_id": 17,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "That's beautiful!"
+        },
+        {
+            "message_id": 18,
+            "user_id": "0014",
+            "speaker": "Human",
+            "message": "I enjoyed this special trip to Busch Gardens at Christmas and will always have special memories from this trip with my husband."
+        },
+        {
+            "message_id": 19,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "That's heartwarming!"
+        }
+    ]
+}

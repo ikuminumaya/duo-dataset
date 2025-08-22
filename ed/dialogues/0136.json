@@ -1,0 +1,136 @@
+{
+    "dialogue_id": "0136",
+    "setting": "ed",
+    "model": "Llama-3.1-70B-Instruct",
+    "prompt": "aligned",
+    "emotion": "Terrified",
+    "episode": "I live out in the boonies where it's very dark and neighbors are very far away. A friend of mine left after telling me about shapeshifters and things that Go bump in the night and if they could look like my boyfriend and I thought it wasn't scared. After she left though the lights wouldn't come on and then I heard a bump on the roof and someone calling my name and I was terrified.",
+    "subjective_evaluation": {
+        "preference": 5.0,
+        "stylistic_similarity": 3.0,
+        "consistency": 5.0,
+        "empathy": 4.0
+    },
+    "dialogue": [
+        {
+            "message_id": 0,
+            "user_id": "0026",
+            "speaker": "Human",
+            "message": "My friend got me spooked and then the lights wouldn't come on and I live out in the boonies where it's very dark and the neighbors are far away."
+        },
+        {
+            "message_id": 1,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "That sounds super creepy."
+        },
+        {
+            "message_id": 2,
+            "user_id": "0026",
+            "speaker": "Human",
+            "message": "She got me spooked and I was alone in the dark. She had mentioned they could even take the shape of my boyfriend and would try to lure me to my death. Then I hear something on the roof and my name and suddenly my boyfriend who is supposed to be at work is standing there or is it my boyfriend?"
+        },
+        {
+            "message_id": 3,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "Whoa, that's freaky!"
+        },
+        {
+            "message_id": 4,
+            "user_id": "0026",
+            "speaker": "Human",
+            "message": "I was more scared than I can remember being in years terrified even. I asked why he was on the roof and he said he was checking why there were no lights."
+        },
+        {
+            "message_id": 5,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "What a relief that it was really him!"
+        },
+        {
+            "message_id": 6,
+            "user_id": "0026",
+            "speaker": "Human",
+            "message": "Well I still was not sure my friend seemed pretty convinced she had seen shape shifters and how could I be sure it was really him?"
+        },
+        {
+            "message_id": 7,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "That's a pretty convincing scare, I'd still be doubting too."
+        },
+        {
+            "message_id": 8,
+            "user_id": "0026",
+            "speaker": "Human",
+            "message": "Luckily we have a phrase we use if one of us sends someone for something from the other one and he knew the phrase so I was relieved."
+        },
+        {
+            "message_id": 9,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "Nice, a secret code saved the day!"
+        },
+        {
+            "message_id": 10,
+            "user_id": "0026",
+            "speaker": "Human",
+            "message": "Yes  I grabbed him and hugged him and explained why I was so scared and doubtful about him being him."
+        },
+        {
+            "message_id": 11,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "Aww, sweet reunion!"
+        },
+        {
+            "message_id": 12,
+            "user_id": "0026",
+            "speaker": "Human",
+            "message": "The next day I told my friend and we all had a good laugh but while I was scared the terror was real."
+        },
+        {
+            "message_id": 13,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "Glad you could laugh about it later!"
+        },
+        {
+            "message_id": 14,
+            "user_id": "0026",
+            "speaker": "Human",
+            "message": "I told my friend I would appreciate her not sharing anymore of her scary experiences."
+        },
+        {
+            "message_id": 15,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "Fair enough, no more spooky stories!"
+        },
+        {
+            "message_id": 16,
+            "user_id": "0026",
+            "speaker": "Human",
+            "message": "Yes especially not when I am home alone at night "
+        },
+        {
+            "message_id": 17,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "Definitely don't need that kind of stress alone at night!"
+        },
+        {
+            "message_id": 18,
+            "user_id": "0026",
+            "speaker": "Human",
+            "message": "If the lights would have worked I think I would have been fine."
+        },
+        {
+            "message_id": 19,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "Darkness makes everything scarier!"
+        }
+    ]
+}

@@ -1,0 +1,141 @@
+{
+    "dialogue_id": "1142",
+    "setting": "wow",
+    "model": "Llama-3.1-70B-Instruct",
+    "prompt": "not_aligned",
+    "topic": "Appalachian Trail",
+    "subjective_evaluation": {
+        "preference": 4.0,
+        "stylistic_similarity": 4.0,
+        "consistency": 4.0,
+        "engagingness": 4.0
+    },
+    "dialogue": [
+        {
+            "message_id": 0,
+            "system_id": "0011",
+            "speaker": "Bot",
+            "message": "Hey, wanna talk about the Appalachian Trail?"
+        },
+        {
+            "message_id": 1,
+            "user_id": "0017",
+            "speaker": "Human",
+            "message": "Sure! I don't know much about it"
+        },
+        {
+            "message_id": 2,
+            "system_id": "0011",
+            "speaker": "Bot",
+            "message": "It's this iconic 2,200-mile hiking trail stretching from Georgia to Maine."
+        },
+        {
+            "message_id": 3,
+            "user_id": "0017",
+            "speaker": "Human",
+            "message": "Does it go through PA? That's where I lvie"
+        },
+        {
+            "message_id": 4,
+            "system_id": "0011",
+            "speaker": "Bot",
+            "message": "Yeah, it does! The trail passes through Pennsylvania, among 13 other states."
+        },
+        {
+            "message_id": 5,
+            "user_id": "0017",
+            "speaker": "Human",
+            "message": "Is it dangerous at all"
+        },
+        {
+            "message_id": 6,
+            "system_id": "0011",
+            "speaker": "Bot",
+            "message": "Nah, generally safe, but you gotta watch out for wildlife, like bears, and tricky terrain."
+        },
+        {
+            "message_id": 7,
+            "user_id": "0017",
+            "speaker": "Human",
+            "message": "Okay, that's scary then. I heard its full of poor people as well?"
+        },
+        {
+            "message_id": 8,
+            "system_id": "0011",
+            "speaker": "Bot",
+            "message": "Not really, it's actually pretty popular among all kinds of people, over 2 million hikers use it every year!"
+        },
+        {
+            "message_id": 9,
+            "user_id": "0017",
+            "speaker": "Human",
+            "message": "Well, what all is there to do there? just hike?"
+        },
+        {
+            "message_id": 10,
+            "system_id": "0011",
+            "speaker": "Bot",
+            "message": "No way, you can camp, explore towns, farms, and wild lands, it's a total adventure!"
+        },
+        {
+            "message_id": 11,
+            "user_id": "0017",
+            "speaker": "Human",
+            "message": "Do you have to pay?"
+        },
+        {
+            "message_id": 12,
+            "system_id": "0011",
+            "speaker": "Bot",
+            "message": "Nah, it's free to hike, but some campsites and stuff might have a small fee."
+        },
+        {
+            "message_id": 13,
+            "user_id": "0017",
+            "speaker": "Human",
+            "message": "Sounds fun. When's the best time of year to go?"
+        },
+        {
+            "message_id": 14,
+            "system_id": "0011",
+            "speaker": "Bot",
+            "message": "Spring to fall's best, weather's mild, but summer's peak season, so expect crowds!"
+        },
+        {
+            "message_id": 15,
+            "user_id": "0017",
+            "speaker": "Human",
+            "message": "Any poisonous snakes?"
+        },
+        {
+            "message_id": 16,
+            "system_id": "0011",
+            "speaker": "Bot",
+            "message": "Yeah, copperheads and rattlesnakes, but they're not super common, just watch your step!"
+        },
+        {
+            "message_id": 17,
+            "user_id": "0017",
+            "speaker": "Human",
+            "message": "I might have to try it out someday."
+        },
+        {
+            "message_id": 18,
+            "system_id": "0011",
+            "speaker": "Bot",
+            "message": "Definitely do! It's a bucket-list kinda thing, and the views are supposed to be amazing!"
+        },
+        {
+            "message_id": 19,
+            "user_id": "0017",
+            "speaker": "Human",
+            "message": "What else should I be aware of?"
+        },
+        {
+            "message_id": 20,
+            "system_id": "0011",
+            "speaker": "Bot",
+            "message": "Resupplying food and water can be tricky, and some sections have limited cell service, so plan ahead!"
+        }
+    ]
+}

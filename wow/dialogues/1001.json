@@ -1,0 +1,167 @@
+{
+    "dialogue_id": "1001",
+    "setting": "wow",
+    "model": "gpt-4o",
+    "prompt": "neutral",
+    "topic": "Vermont",
+    "objective_evaluation": {
+        "preference": 4.0,
+        "stylistic_similarity": 3.0,
+        "consistency": 4.67,
+        "engagingness": 3.67,
+        "preference_scores": [
+            4.0,
+            4.0,
+            4.0
+        ],
+        "stylistic_similarity_scores": [
+            3.0,
+            3.0,
+            3.0
+        ],
+        "consistency_scores": [
+            5.0,
+            4.0,
+            5.0
+        ],
+        "engagingness_scores": [
+            4.0,
+            5.0,
+            2.0
+        ]
+    },
+    "subjective_evaluation": {
+        "preference": 4.0,
+        "stylistic_similarity": 4.0,
+        "consistency": 5.0,
+        "engagingness": 4.0
+    },
+    "dialogue": [
+        {
+            "message_id": 0,
+            "system_id": "0006",
+            "speaker": "Bot",
+            "message": "Vermont, a state in the New England region, is known for its picturesque Green Mountains and its leading production of maple syrup in the United States."
+        },
+        {
+            "message_id": 1,
+            "user_id": "0024",
+            "speaker": "Human",
+            "message": "That's interesting. I thought maple syrup came from Canada."
+        },
+        {
+            "message_id": 2,
+            "system_id": "0006",
+            "speaker": "Bot",
+            "message": "While Canada is famous for its maple syrup, Vermont is actually the leading producer of maple syrup in the United States."
+        },
+        {
+            "message_id": 3,
+            "user_id": "0024",
+            "speaker": "Human",
+            "message": "How is the syrup manufactured?"
+        },
+        {
+            "message_id": 4,
+            "system_id": "0006",
+            "speaker": "Bot",
+            "message": "Maple syrup is made by tapping sugar maple trees to collect sap, which is then boiled down to produce the syrup."
+        },
+        {
+            "message_id": 5,
+            "user_id": "0024",
+            "speaker": "Human",
+            "message": "When did Vermont become a state?"
+        },
+        {
+            "message_id": 6,
+            "system_id": "0006",
+            "speaker": "Bot",
+            "message": "Vermont became the 14th state of the United States on March 4, 1791."
+        },
+        {
+            "message_id": 7,
+            "user_id": "0024",
+            "speaker": "Human",
+            "message": "What is the population of Vermont?"
+        },
+        {
+            "message_id": 8,
+            "system_id": "0006",
+            "speaker": "Bot",
+            "message": "Vermont is the second smallest state by population in the United States."
+        },
+        {
+            "message_id": 9,
+            "user_id": "0024",
+            "speaker": "Human",
+            "message": "Is that behind Alaska?"
+        },
+        {
+            "message_id": 10,
+            "system_id": "0006",
+            "speaker": "Bot",
+            "message": "No, Vermont is the second smallest by population, with Wyoming being the least populous state."
+        },
+        {
+            "message_id": 11,
+            "user_id": "0024",
+            "speaker": "Human",
+            "message": "If I were to go on vacation in Vermont, what are the things to see there?"
+        },
+        {
+            "message_id": 12,
+            "system_id": "0006",
+            "speaker": "Bot",
+            "message": "In Vermont, you can explore the beautiful Green Mountains, visit Lake Champlain, and enjoy the charming small towns like the state capital, Montpelier."
+        },
+        {
+            "message_id": 13,
+            "user_id": "0024",
+            "speaker": "Human",
+            "message": "Are there amusement parks in Vermont?"
+        },
+        {
+            "message_id": 14,
+            "system_id": "0006",
+            "speaker": "Bot",
+            "message": "While Vermont isn't known for large amusement parks, it offers beautiful natural attractions and outdoor activities."
+        },
+        {
+            "message_id": 15,
+            "user_id": "0024",
+            "speaker": "Human",
+            "message": "What would be a good 7 day itinerary if I went on vacation in Vermont to fit all the good things in?"
+        },
+        {
+            "message_id": 16,
+            "system_id": "0006",
+            "speaker": "Bot",
+            "message": "For a 7-day itinerary in Vermont, you could explore the Green Mountains, visit Burlington and Montpelier, enjoy Lake Champlain, and discover local history and culture, including its indigenous heritage."
+        },
+        {
+            "message_id": 17,
+            "user_id": "0024",
+            "speaker": "Human",
+            "message": "How long is to drive across the widest part of the state?"
+        },
+        {
+            "message_id": 18,
+            "system_id": "0006",
+            "speaker": "Bot",
+            "message": "Driving across the widest part of Vermont, from east to west, typically takes around 2 to 3 hours."
+        },
+        {
+            "message_id": 19,
+            "user_id": "0024",
+            "speaker": "Human",
+            "message": "What about north to south?"
+        },
+        {
+            "message_id": 20,
+            "system_id": "0006",
+            "speaker": "Bot",
+            "message": "Driving from north to south through Vermont, which is traversed by the Green Mountains, usually takes about 4 to 5 hours."
+        }
+    ]
+}

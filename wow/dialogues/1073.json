@@ -1,0 +1,141 @@
+{
+    "dialogue_id": "1073",
+    "setting": "wow",
+    "model": "gpt-4o",
+    "prompt": "aligned",
+    "topic": "Sunday school",
+    "subjective_evaluation": {
+        "preference": 3.0,
+        "stylistic_similarity": 3.0,
+        "consistency": 4.0,
+        "engagingness": 3.0
+    },
+    "dialogue": [
+        {
+            "message_id": 0,
+            "system_id": "0007",
+            "speaker": "Bot",
+            "message": "Sunday schools, which started in the 1780s in England, were created to provide education to working children, teaching them reading, writing, arithmetic, and Bible knowledge."
+        },
+        {
+            "message_id": 1,
+            "user_id": "0032",
+            "speaker": "Human",
+            "message": "everything but the Bible sounds good"
+        },
+        {
+            "message_id": 2,
+            "system_id": "0007",
+            "speaker": "Bot",
+            "message": "Sunday schools started in the 1780s in England, mainly to teach kids reading, writing, and arithmetic, alongside Bible knowledge."
+        },
+        {
+            "message_id": 3,
+            "user_id": "0032",
+            "speaker": "Human",
+            "message": "sounds like they want to teach and control you "
+        },
+        {
+            "message_id": 4,
+            "system_id": "0007",
+            "speaker": "Bot",
+            "message": "Sunday schools did aim to educate kids not just in academics but also in religious teachings, which was a big part of their mission."
+        },
+        {
+            "message_id": 5,
+            "user_id": "0032",
+            "speaker": "Human",
+            "message": "I think they should not have forced their beliefs "
+        },
+        {
+            "message_id": 6,
+            "system_id": "0007",
+            "speaker": "Bot",
+            "message": "Yeah, it definitely seems like Sunday schools were focused on teaching religious beliefs along with basic education, which could feel pretty controlling."
+        },
+        {
+            "message_id": 7,
+            "user_id": "0032",
+            "speaker": "Human",
+            "message": "teaching the basics is good "
+        },
+        {
+            "message_id": 8,
+            "system_id": "0007",
+            "speaker": "Bot",
+            "message": "Sunday schools started off in England in the 1780s to teach kids basic skills like reading, writing, and arithmetic, alongside Bible knowledge."
+        },
+        {
+            "message_id": 9,
+            "user_id": "0032",
+            "speaker": "Human",
+            "message": "wonder why they couldn't go to school"
+        },
+        {
+            "message_id": 10,
+            "system_id": "0007",
+            "speaker": "Bot",
+            "message": "In the 1780s, Sunday schools in England were set up for working children who couldn't attend regular school, aiming to teach basics like reading and writing."
+        },
+        {
+            "message_id": 11,
+            "user_id": "0032",
+            "speaker": "Human",
+            "message": "seems like a shame "
+        },
+        {
+            "message_id": 12,
+            "system_id": "0007",
+            "speaker": "Bot",
+            "message": "A lot of these kids worked during the week and didn't have regular school, so Sunday schools were a way to get them some education."
+        },
+        {
+            "message_id": 13,
+            "user_id": "0032",
+            "speaker": "Human",
+            "message": "feels like we have come a long way"
+        },
+        {
+            "message_id": 14,
+            "system_id": "0007",
+            "speaker": "Bot",
+            "message": "Yeah, Sunday schools were a big deal back then, with 250,000 kids attending by 1785, so we've come a long way in making education more accessible now."
+        },
+        {
+            "message_id": 15,
+            "user_id": "0032",
+            "speaker": "Human",
+            "message": "at least schools and churches are separate now"
+        },
+        {
+            "message_id": 16,
+            "system_id": "0007",
+            "speaker": "Bot",
+            "message": "Yeah, nowadays, schools and churches are mostly separate, which gives kids a more rounded education without the focus on religious teachings."
+        },
+        {
+            "message_id": 17,
+            "user_id": "0032",
+            "speaker": "Human",
+            "message": "yes it does "
+        },
+        {
+            "message_id": 18,
+            "system_id": "0007",
+            "speaker": "Bot",
+            "message": "Yeah, it's good that schools and churches are mostly separate now, letting kids have a more balanced education without a heavy focus on religious teachings."
+        },
+        {
+            "message_id": 19,
+            "user_id": "0032",
+            "speaker": "Human",
+            "message": "thank you for the information "
+        },
+        {
+            "message_id": 20,
+            "system_id": "0007",
+            "speaker": "Bot",
+            "message": "You're welcome! It's interesting how Sunday schools started in the 1780s to give kids basic education, especially since they couldn't go to regular school."
+        }
+    ]
+}

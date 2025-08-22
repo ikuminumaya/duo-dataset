@@ -1,0 +1,136 @@
+{
+    "dialogue_id": "0054",
+    "setting": "ed",
+    "model": "gpt-4o",
+    "prompt": "neutral",
+    "emotion": "Prepared",
+    "episode": "I had a big test at school that I had to retake after failing. This time, I passed with a 95",
+    "subjective_evaluation": {
+        "preference": 3.0,
+        "stylistic_similarity": 3.0,
+        "consistency": 3.0,
+        "empathy": 3.0
+    },
+    "dialogue": [
+        {
+            "message_id": 0,
+            "user_id": "0017",
+            "speaker": "Human",
+            "message": "I failed a test in college and then retook it this semester and passed with a 95! All it took was actually preparing."
+        },
+        {
+            "message_id": 1,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "That's amazing! Your hard work paid off!"
+        },
+        {
+            "message_id": 2,
+            "user_id": "0017",
+            "speaker": "Human",
+            "message": "Yes, I studied every day. I can't believe I failed last time"
+        },
+        {
+            "message_id": 3,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "It's great you didn't give up!"
+        },
+        {
+            "message_id": 4,
+            "user_id": "0017",
+            "speaker": "Human",
+            "message": "It was just pure laziness the firs time."
+        },
+        {
+            "message_id": 5,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "We all have those moments."
+        },
+        {
+            "message_id": 6,
+            "user_id": "0017",
+            "speaker": "Human",
+            "message": "Yeah. But now I'm almost done with college and graduating with honors."
+        },
+        {
+            "message_id": 7,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "That's fantastic! Congratulations!"
+        },
+        {
+            "message_id": 8,
+            "user_id": "0017",
+            "speaker": "Human",
+            "message": "Thanks. Better late than never."
+        },
+        {
+            "message_id": 9,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "Absolutely!"
+        },
+        {
+            "message_id": 10,
+            "user_id": "0017",
+            "speaker": "Human",
+            "message": "How do I make sure to continue this way of thinking with other aspects of my life?"
+        },
+        {
+            "message_id": 11,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "Set goals and stay disciplined."
+        },
+        {
+            "message_id": 12,
+            "user_id": "0017",
+            "speaker": "Human",
+            "message": "That's hard, though. I'm naturally lazy."
+        },
+        {
+            "message_id": 13,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "Start small and build habits."
+        },
+        {
+            "message_id": 14,
+            "user_id": "0017",
+            "speaker": "Human",
+            "message": "Like what? How do I stay prepared for things like work and general life?"
+        },
+        {
+            "message_id": 15,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "Use planners or reminders to stay organized."
+        },
+        {
+            "message_id": 16,
+            "user_id": "0017",
+            "speaker": "Human",
+            "message": "I guess so. Sounds old fashioned."
+        },
+        {
+            "message_id": 17,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "Or try apps for a digital approach."
+        },
+        {
+            "message_id": 18,
+            "user_id": "0017",
+            "speaker": "Human",
+            "message": "Yeah. I think its more mental, though."
+        },
+        {
+            "message_id": 19,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "Practice mindfulness."
+        }
+    ]
+}

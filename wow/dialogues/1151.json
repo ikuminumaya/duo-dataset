@@ -1,0 +1,141 @@
+{
+    "dialogue_id": "1151",
+    "setting": "wow",
+    "model": "Llama-3.1-70B-Instruct",
+    "prompt": "not_aligned",
+    "topic": "Anime",
+    "subjective_evaluation": {
+        "preference": 5.0,
+        "stylistic_similarity": 4.0,
+        "consistency": 5.0,
+        "engagingness": 5.0
+    },
+    "dialogue": [
+        {
+            "message_id": 0,
+            "system_id": "0011",
+            "speaker": "Bot",
+            "message": "Let's dive into anime, I'm excited to share its rich history with you!"
+        },
+        {
+            "message_id": 1,
+            "user_id": "0030",
+            "speaker": "Human",
+            "message": "Oh I am interested to know a little more, it's one of my husband's favorite genres"
+        },
+        {
+            "message_id": 2,
+            "system_id": "0011",
+            "speaker": "Bot",
+            "message": "That's awesome! Anime has been around since 1917, and its unique art style really took off in the 60s with Osamu Tezuka's works."
+        },
+        {
+            "message_id": 3,
+            "user_id": "0030",
+            "speaker": "Human",
+            "message": "Wow, I didn't realize it was that old.  I thought it was more like the 1970's or 1980's when it started."
+        },
+        {
+            "message_id": 4,
+            "system_id": "0011",
+            "speaker": "Bot",
+            "message": "Yeah, it's had a long evolution, but the 60s were a pivotal time, and Osamu Tezuka is often called the \"God of Manga\" for his influence on the style."
+        },
+        {
+            "message_id": 5,
+            "user_id": "0030",
+            "speaker": "Human",
+            "message": "Are there any original works still in circulation from 1917"
+        },
+        {
+            "message_id": 6,
+            "system_id": "0011",
+            "speaker": "Bot",
+            "message": "Sadly, many early anime works have been lost over time, but some fragments and short films from the 1910s and 1920s have survived and are preserved in archives and museums in Japan."
+        },
+        {
+            "message_id": 7,
+            "user_id": "0030",
+            "speaker": "Human",
+            "message": "I'm glad they have been able to find a way to preserve what they could"
+        },
+        {
+            "message_id": 8,
+            "system_id": "0011",
+            "speaker": "Bot",
+            "message": "Me too! It's wonderful that efforts have been made to save these pieces of history, and now they can be studied and appreciated by new generations of anime fans."
+        },
+        {
+            "message_id": 9,
+            "user_id": "0030",
+            "speaker": "Human",
+            "message": "I'm sure anime is very different now than it was even during the pivot time"
+        },
+        {
+            "message_id": 10,
+            "system_id": "0011",
+            "speaker": "Bot",
+            "message": "Totally! The style, themes, and technology have all evolved significantly since the 60s, and modern anime often incorporates computer-generated imagery and diverse storytelling."
+        },
+        {
+            "message_id": 11,
+            "user_id": "0030",
+            "speaker": "Human",
+            "message": "Tell me more about Osamu Tezuka"
+        },
+        {
+            "message_id": 12,
+            "system_id": "0011",
+            "speaker": "Bot",
+            "message": "Osamu Tezuka is a legend! He's often credited with creating the modern manga and anime style, and his works, like Astro Boy and Kimba the White Lion, are still beloved today."
+        },
+        {
+            "message_id": 13,
+            "user_id": "0030",
+            "speaker": "Human",
+            "message": "Oh, I didn't know Astro Boy was originally an anime?!"
+        },
+        {
+            "message_id": 14,
+            "system_id": "0011",
+            "speaker": "Bot",
+            "message": "Astro Boy was actually one of Tezuka's earliest and most influential works, first published as a manga in 1952 and later adapted into an anime series in 1963."
+        },
+        {
+            "message_id": 15,
+            "user_id": "0030",
+            "speaker": "Human",
+            "message": "Wow.  I'm completely mind blown at the moment!  I assume there's still original mangas somewhere in circulation?"
+        },
+        {
+            "message_id": 16,
+            "system_id": "0011",
+            "speaker": "Bot",
+            "message": "Tezuka's original manga artworks and manuscripts are indeed preserved and showcased in museums and exhibitions in Japan, including the Osamu Tezuka Museum in Takarazuka."
+        },
+        {
+            "message_id": 17,
+            "user_id": "0030",
+            "speaker": "Human",
+            "message": "It's too bad you have to travel all the way to Japan to experience that bit of history."
+        },
+        {
+            "message_id": 18,
+            "system_id": "0011",
+            "speaker": "Bot",
+            "message": "Although, some of Tezuka's works have been translated and published internationally, so you can still experience his artistry and storytelling through books and online archives."
+        },
+        {
+            "message_id": 19,
+            "user_id": "0030",
+            "speaker": "Human",
+            "message": "When was the first anime film?"
+        },
+        {
+            "message_id": 20,
+            "system_id": "0011",
+            "speaker": "Bot",
+            "message": "The first anime film is a bit disputed, but the oldest surviving anime film is \"Namakura-gatana\" (The Dull Sword), a short film from 1917, which is also considered one of the earliest anime works."
+        }
+    ]
+}

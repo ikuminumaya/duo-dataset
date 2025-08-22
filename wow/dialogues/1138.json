@@ -1,0 +1,141 @@
+{
+    "dialogue_id": "1138",
+    "setting": "wow",
+    "model": "Llama-3.1-70B-Instruct",
+    "prompt": "aligned",
+    "topic": "BBC",
+    "subjective_evaluation": {
+        "preference": 5.0,
+        "stylistic_similarity": 5.0,
+        "consistency": 5.0,
+        "engagingness": 5.0
+    },
+    "dialogue": [
+        {
+            "message_id": 0,
+            "system_id": "0010",
+            "speaker": "Bot",
+            "message": "Hey, wanna chat about the BBC?"
+        },
+        {
+            "message_id": 1,
+            "user_id": "0004",
+            "speaker": "Human",
+            "message": "Sure!  I do not know a great deal about the channel but would definitely love to learn more!"
+        },
+        {
+            "message_id": 2,
+            "system_id": "0010",
+            "speaker": "Bot",
+            "message": "No worries, it's a UK thing! So, the BBC is actually the world's oldest national broadcasting organisation, pretty cool right?"
+        },
+        {
+            "message_id": 3,
+            "user_id": "0004",
+            "speaker": "Human",
+            "message": "Oh wow I did not realize it was the oldest.  That is very interesting.  What year did it debut in?"
+        },
+        {
+            "message_id": 4,
+            "system_id": "0010",
+            "speaker": "Bot",
+            "message": "Don't worry, I didn't know the exact year either! But I can tell you it's been around since 1922, can you believe it?"
+        },
+        {
+            "message_id": 5,
+            "user_id": "0004",
+            "speaker": "Human",
+            "message": "Wow that's very surprising.  And it is still going strong today I take it?"
+        },
+        {
+            "message_id": 6,
+            "system_id": "0010",
+            "speaker": "Bot",
+            "message": "Yeah, it's still one of the biggest broadcasters in the world, with over 20,000 staff members, and it's still funded by a TV licence fee paid by households in the UK!"
+        },
+        {
+            "message_id": 7,
+            "user_id": "0004",
+            "speaker": "Human",
+            "message": "That is great.  Would you say the organization tends to lean more to the right or to the left?"
+        },
+        {
+            "message_id": 8,
+            "system_id": "0010",
+            "speaker": "Bot",
+            "message": "Honestly, the BBC's supposed to be impartial, but there's always some debate about that! Officially, it's meant to be neutral, but some people think it leans a bit left, while others think it's too right-wing."
+        },
+        {
+            "message_id": 9,
+            "user_id": "0004",
+            "speaker": "Human",
+            "message": "I see.  I think it is referenced in a song done by Mike Meyers in the Austin Powers series if I am not mistaken."
+        },
+        {
+            "message_id": 10,
+            "system_id": "0010",
+            "speaker": "Bot",
+            "message": "Yeah, that's right! Mike Myers does a funny sketch as a BBC news anchor in one of the Austin Powers movies, it's a classic!"
+        },
+        {
+            "message_id": 11,
+            "user_id": "0004",
+            "speaker": "Human",
+            "message": "Now if I recall in a song he sings he references BBC1 and BBC2 and perhaps some more.  What is this reference regarding?"
+        },
+        {
+            "message_id": 12,
+            "system_id": "0010",
+            "speaker": "Bot",
+            "message": "You're thinking of the song \"Soul Bossa Nova\"! Mike Myers sings about watching BBC1 and BBC2, which are actually two of the BBC's main TV channels in the UK!"
+        },
+        {
+            "message_id": 13,
+            "user_id": "0004",
+            "speaker": "Human",
+            "message": "Ok so there are more than one channel.  Interesting.  Silly song and silly that this is where the conversation has gone!"
+        },
+        {
+            "message_id": 14,
+            "system_id": "0010",
+            "speaker": "Bot",
+            "message": "I know, right? Who knew a conversation about the BBC would end up in Austin Powers territory? But hey, it's been a fun detour!"
+        },
+        {
+            "message_id": 15,
+            "user_id": "0004",
+            "speaker": "Human",
+            "message": "It definitely is.  Would you say there is someone who is the \"face\" of BBC?"
+        },
+        {
+            "message_id": 16,
+            "system_id": "0010",
+            "speaker": "Bot",
+            "message": "You know, the BBC has had a lot of iconic presenters over the years, but one person who's often considered the \"face\" of the BBC is Sir David Attenborough! He's a legendary naturalist and broadcaster who's been with the BBC for decades, and he's still going strong!"
+        },
+        {
+            "message_id": 17,
+            "user_id": "0004",
+            "speaker": "Human",
+            "message": "I have heard of him.  Is it possible to watch BBC here in the United States?"
+        },
+        {
+            "message_id": 18,
+            "system_id": "0010",
+            "speaker": "Bot",
+            "message": "Yeah, you can definitely watch BBC in the US! They have a bunch of shows that air on PBS, and you can also stream BBC content on services like Netflix, Hulu, and Amazon Prime. Plus, they have their own streaming service, BritBox, that's specifically for British TV shows!"
+        },
+        {
+            "message_id": 19,
+            "user_id": "0004",
+            "speaker": "Human",
+            "message": "I am definitely going to have to check it out!"
+        },
+        {
+            "message_id": 20,
+            "system_id": "0010",
+            "speaker": "Bot",
+            "message": "You should! They have some amazing shows, like Doctor Who, Sherlock, and Downton Abbey. And if you're interested in news, they have BBC News America that's available in the US too!"
+        }
+    ]
+}

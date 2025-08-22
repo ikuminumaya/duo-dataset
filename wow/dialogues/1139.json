@@ -1,0 +1,141 @@
+{
+    "dialogue_id": "1139",
+    "setting": "wow",
+    "model": "Llama-3.1-70B-Instruct",
+    "prompt": "not_aligned",
+    "topic": "Nevada",
+    "subjective_evaluation": {
+        "preference": 5.0,
+        "stylistic_similarity": 5.0,
+        "consistency": 5.0,
+        "engagingness": 5.0
+    },
+    "dialogue": [
+        {
+            "message_id": 0,
+            "system_id": "0011",
+            "speaker": "Bot",
+            "message": "Hey, have you ever been to Nevada, the Silver State?"
+        },
+        {
+            "message_id": 1,
+            "user_id": "0018",
+            "speaker": "Human",
+            "message": "No I didn't get a chance to stay there"
+        },
+        {
+            "message_id": 2,
+            "system_id": "0011",
+            "speaker": "Bot",
+            "message": "No worries, it's a beautiful place, mostly desert and semi-arid, but pretty cool!"
+        },
+        {
+            "message_id": 3,
+            "user_id": "0018",
+            "speaker": "Human",
+            "message": "Is it nevada mostly a desert place"
+        },
+        {
+            "message_id": 4,
+            "system_id": "0011",
+            "speaker": "Bot",
+            "message": "Yeah, about 86% of the land is managed by the federal government, and a lot of it's within the Great Basin, so desert and semi-arid terrain dominate the landscape"
+        },
+        {
+            "message_id": 5,
+            "user_id": "0018",
+            "speaker": "Human",
+            "message": "You have shared great news about it. Because I am mad crazy of desert."
+        },
+        {
+            "message_id": 6,
+            "system_id": "0011",
+            "speaker": "Bot",
+            "message": "Haha, well, you'd love Nevada then! The Mojave Desert and the Great Basin are definitely worth exploring"
+        },
+        {
+            "message_id": 7,
+            "user_id": "0018",
+            "speaker": "Human",
+            "message": "Super bro! Definitely now I included that state in to my future trip"
+        },
+        {
+            "message_id": 8,
+            "system_id": "0011",
+            "speaker": "Bot",
+            "message": "Awesome, dude! You won't regret it! And don't miss out on Las Vegas, it's a whole different vibe"
+        },
+        {
+            "message_id": 9,
+            "user_id": "0018",
+            "speaker": "Human",
+            "message": "Absolutely"
+        },
+        {
+            "message_id": 10,
+            "system_id": "0011",
+            "speaker": "Bot",
+            "message": "Las Vegas is crazy, but the state's capital, Carson City, is pretty chill too, you should check it out"
+        },
+        {
+            "message_id": 11,
+            "user_id": "0018",
+            "speaker": "Human",
+            "message": "Sure bro. What is the other special of carson city dude?"
+        },
+        {
+            "message_id": 12,
+            "system_id": "0011",
+            "speaker": "Bot",
+            "message": "It's also known as the 'Battle Born State' due to its history, pretty cool, right?"
+        },
+        {
+            "message_id": 13,
+            "user_id": "0018",
+            "speaker": "Human",
+            "message": "definitely"
+        },
+        {
+            "message_id": 14,
+            "system_id": "0011",
+            "speaker": "Bot",
+            "message": "And, fun fact, the words 'Battle Born' are even on the state flag, shows how proud Nevadans are of their history"
+        },
+        {
+            "message_id": 15,
+            "user_id": "0018",
+            "speaker": "Human",
+            "message": "Yes we should never forget our Ancient history and we should kept on precious place like flag"
+        },
+        {
+            "message_id": 16,
+            "system_id": "0011",
+            "speaker": "Bot",
+            "message": "Totally agree, bro! Respecting heritage is key, and Nevada's got a rich one, from the Silver State to the Sagebrush State"
+        },
+        {
+            "message_id": 17,
+            "user_id": "0018",
+            "speaker": "Human",
+            "message": "What kind of food they provide in their hotels bro?"
+        },
+        {
+            "message_id": 18,
+            "system_id": "0011",
+            "speaker": "Bot",
+            "message": "Dude, you'll find all kinds of cuisine in Vegas hotels, from celebrity-chef restaurants to all-you-can-eat buffets, and some even serve classic American comfort food"
+        },
+        {
+            "message_id": 19,
+            "user_id": "0018",
+            "speaker": "Human",
+            "message": "I am sure that i will like entire things from nevada!"
+        },
+        {
+            "message_id": 20,
+            "system_id": "0011",
+            "speaker": "Bot",
+            "message": "Haha, I'm sure you will, bro! Nevada's got something for everyone, and I'm stoked I could share some of its awesomeness with you"
+        }
+    ]
+}

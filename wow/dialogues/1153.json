@@ -1,0 +1,141 @@
+{
+    "dialogue_id": "1153",
+    "setting": "wow",
+    "model": "Llama-3.1-70B-Instruct",
+    "prompt": "not_aligned",
+    "topic": "YouTube",
+    "subjective_evaluation": {
+        "preference": 5.0,
+        "stylistic_similarity": 3.0,
+        "consistency": 5.0,
+        "engagingness": 4.0
+    },
+    "dialogue": [
+        {
+            "message_id": 0,
+            "system_id": "0011",
+            "speaker": "Bot",
+            "message": "Hey, so you wanna talk about YouTube?"
+        },
+        {
+            "message_id": 1,
+            "user_id": "0031",
+            "speaker": "Human",
+            "message": "Sure, what would like to talk about?"
+        },
+        {
+            "message_id": 2,
+            "system_id": "0011",
+            "speaker": "Bot",
+            "message": "How about its origins? Did you know it was founded by 3 ex-PayPal employees in 2005?"
+        },
+        {
+            "message_id": 3,
+            "user_id": "0031",
+            "speaker": "Human",
+            "message": "No, I did not know that. Very interesting that they would come for a pay site such as Pay-Pal"
+        },
+        {
+            "message_id": 4,
+            "system_id": "0011",
+            "speaker": "Bot",
+            "message": "Yeah, and then Google bought YouTube just a year later for $1.65 billion - crazy, right?"
+        },
+        {
+            "message_id": 5,
+            "user_id": "0031",
+            "speaker": "Human",
+            "message": "Wow! so those 3 ex employees were able to sell for that much money just between the 3 of them?"
+        },
+        {
+            "message_id": 6,
+            "system_id": "0011",
+            "speaker": "Bot",
+            "message": "Yep, it was a massive deal! They must've done something right to attract Google's attention so quickly"
+        },
+        {
+            "message_id": 7,
+            "user_id": "0031",
+            "speaker": "Human",
+            "message": "How much is Pay-Pal worth today compared to when it was sold for 1.65 billion?"
+        },
+        {
+            "message_id": 8,
+            "system_id": "0011",
+            "speaker": "Bot",
+            "message": "Actually, PayPal was sold to eBay in 2002, not YouTube's founders. And today, PayPal's worth over $250 billion"
+        },
+        {
+            "message_id": 9,
+            "user_id": "0031",
+            "speaker": "Human",
+            "message": "Wow! what a huge increase in profit since then. I wonder if the original 3 owners wish they would of held out to sell later for more money"
+        },
+        {
+            "message_id": 10,
+            "system_id": "0011",
+            "speaker": "Bot",
+            "message": "Ha! I'm sure they do! But who knows, maybe they were just happy to cash out and move on to their next project... like YouTube"
+        },
+        {
+            "message_id": 11,
+            "user_id": "0031",
+            "speaker": "Human",
+            "message": "What was the original year that YouTube was created?"
+        },
+        {
+            "message_id": 12,
+            "system_id": "0011",
+            "speaker": "Bot",
+            "message": "February 2005, that's when Chad Hurley, Steve Chen, and Jawed Karim launched YouTube"
+        },
+        {
+            "message_id": 13,
+            "user_id": "0031",
+            "speaker": "Human",
+            "message": "What was the original view for what they wanted YouTube to be?"
+        },
+        {
+            "message_id": 14,
+            "system_id": "0011",
+            "speaker": "Bot",
+            "message": "Initially, YouTube was meant for people to share their personal videos with others, but it quickly evolved into a platform for all sorts of content"
+        },
+        {
+            "message_id": 15,
+            "user_id": "0031",
+            "speaker": "Human",
+            "message": "Yes, YouTube has evolved quite a bit since its original creation. Now it has live streaming, shorts, and even ads and paid premiums to access additional features."
+        },
+        {
+            "message_id": 16,
+            "system_id": "0011",
+            "speaker": "Bot",
+            "message": "Exactly! And now it's not just user-generated content, but also TV shows, movies, music videos, and even educational content from big media corporations"
+        },
+        {
+            "message_id": 17,
+            "user_id": "0031",
+            "speaker": "Human",
+            "message": "I wonder where the next 20 years will take YouTube as an overall platform and media entertainment"
+        },
+        {
+            "message_id": 18,
+            "system_id": "0011",
+            "speaker": "Bot",
+            "message": "Who knows, maybe it'll become even more immersive with VR and AR, or maybe it'll shift towards more interactive content... the possibilities are endless!"
+        },
+        {
+            "message_id": 19,
+            "user_id": "0031",
+            "speaker": "Human",
+            "message": "I would like to see VR content on YouTube as it would be a perfect fit with all of the current videos and media."
+        },
+        {
+            "message_id": 20,
+            "system_id": "0011",
+            "speaker": "Bot",
+            "message": "Totally agree! YouTube's already dipped its toes in 360-degree videos, so VR seems like a natural next step - can you imagine watching a concert or a vlog in VR?"
+        }
+    ]
+}

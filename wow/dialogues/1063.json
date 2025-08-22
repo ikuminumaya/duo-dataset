@@ -1,0 +1,141 @@
+{
+    "dialogue_id": "1063",
+    "setting": "wow",
+    "model": "gpt-4o",
+    "prompt": "aligned",
+    "topic": "Pizza",
+    "subjective_evaluation": {
+        "preference": 5.0,
+        "stylistic_similarity": 5.0,
+        "consistency": 5.0,
+        "engagingness": 3.0
+    },
+    "dialogue": [
+        {
+            "message_id": 0,
+            "system_id": "0007",
+            "speaker": "Bot",
+            "message": "Pizza is a delicious Italian dish that typically features a yeasted flatbread topped with tomato sauce, cheese, and various toppings, and it became popular worldwide after originating in Naples."
+        },
+        {
+            "message_id": 1,
+            "user_id": "0003",
+            "speaker": "Human",
+            "message": "When did pizza originate in Naples?"
+        },
+        {
+            "message_id": 2,
+            "system_id": "0007",
+            "speaker": "Bot",
+            "message": "Modern pizza originated in Naples, Italy, and the term \"pizza\" was first recorded in the 10th century."
+        },
+        {
+            "message_id": 3,
+            "user_id": "0003",
+            "speaker": "Human",
+            "message": "What was it called before \"pizza\"?"
+        },
+        {
+            "message_id": 4,
+            "system_id": "0007",
+            "speaker": "Bot",
+            "message": "Before being called \"pizza,\" it was simply referred to as a flatbread."
+        },
+        {
+            "message_id": 5,
+            "user_id": "0003",
+            "speaker": "Human",
+            "message": "When did pizza start being made and consumer in the United States?"
+        },
+        {
+            "message_id": 6,
+            "system_id": "0007",
+            "speaker": "Bot",
+            "message": "Pizza started gaining popularity in the United States in the late 19th century with Italian immigrants."
+        },
+        {
+            "message_id": 7,
+            "user_id": "0003",
+            "speaker": "Human",
+            "message": "What are the most popular toppings for pizza worldwide?"
+        },
+        {
+            "message_id": 8,
+            "system_id": "0007",
+            "speaker": "Bot",
+            "message": "Popular toppings for pizza worldwide include cheese, tomato sauce, meats like pepperoni, and various vegetables."
+        },
+        {
+            "message_id": 9,
+            "user_id": "0003",
+            "speaker": "Human",
+            "message": "In how many countries can pizza be found?"
+        },
+        {
+            "message_id": 10,
+            "system_id": "0007",
+            "speaker": "Bot",
+            "message": "Pizza can be found in many countries worldwide and is especially popular in Europe and North America."
+        },
+        {
+            "message_id": 11,
+            "user_id": "0003",
+            "speaker": "Human",
+            "message": "Is pizza popular in Japan?"
+        },
+        {
+            "message_id": 12,
+            "system_id": "0007",
+            "speaker": "Bot",
+            "message": "Yes, pizza is quite popular in Japan, where it has been adapted with unique local toppings."
+        },
+        {
+            "message_id": 13,
+            "user_id": "0003",
+            "speaker": "Human",
+            "message": "What are some examples of unique toppings in Japan?"
+        },
+        {
+            "message_id": 14,
+            "system_id": "0007",
+            "speaker": "Bot",
+            "message": "In Japan, you might find unique pizza toppings like squid, mayonnaise, and even corn."
+        },
+        {
+            "message_id": 15,
+            "user_id": "0003",
+            "speaker": "Human",
+            "message": "What country consumes the most pizza per capita?"
+        },
+        {
+            "message_id": 16,
+            "system_id": "0007",
+            "speaker": "Bot",
+            "message": "The United States consumes the most pizza per capita."
+        },
+        {
+            "message_id": 17,
+            "user_id": "0003",
+            "speaker": "Human",
+            "message": "What's the difference between New York style pizza and Chicago style pizza?"
+        },
+        {
+            "message_id": 18,
+            "system_id": "0007",
+            "speaker": "Bot",
+            "message": "New York style pizza has a thin, foldable crust, while Chicago style pizza is known for its deep-dish, thick crust."
+        },
+        {
+            "message_id": 19,
+            "user_id": "0003",
+            "speaker": "Human",
+            "message": "Are there other official types of pizza in the US?"
+        },
+        {
+            "message_id": 20,
+            "system_id": "0007",
+            "speaker": "Bot",
+            "message": "Yes, there are other styles like California and Detroit style pizza, each with its unique characteristics."
+        }
+    ]
+}

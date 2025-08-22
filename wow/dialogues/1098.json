@@ -1,0 +1,141 @@
+{
+    "dialogue_id": "1098",
+    "setting": "wow",
+    "model": "gpt-4o",
+    "prompt": "not_aligned",
+    "topic": "Welsh Corgi",
+    "subjective_evaluation": {
+        "preference": 4.0,
+        "stylistic_similarity": 4.0,
+        "consistency": 4.0,
+        "engagingness": 4.0
+    },
+    "dialogue": [
+        {
+            "message_id": 0,
+            "system_id": "0008",
+            "speaker": "Bot",
+            "message": "Ah, Corgis are delightful little herding dogs from Wales, and they come in two breeds: Pembroke and Cardigan, each with their own unique history and features!"
+        },
+        {
+            "message_id": 1,
+            "user_id": "0017",
+            "speaker": "Human",
+            "message": "My uncle had one. It died at like 8 years old. Is that normal for them"
+        },
+        {
+            "message_id": 2,
+            "system_id": "0008",
+            "speaker": "Bot",
+            "message": "Corgis usually live around 12 to 15 years, so passing at 8 is a bit earlier than average for them."
+        },
+        {
+            "message_id": 3,
+            "user_id": "0017",
+            "speaker": "Human",
+            "message": "I see. Are they an expensive breed? I want one"
+        },
+        {
+            "message_id": 4,
+            "system_id": "0008",
+            "speaker": "Bot",
+            "message": "Corgis can be a bit pricey, especially the Pembroke, which is more popular than the Cardigan."
+        },
+        {
+            "message_id": 5,
+            "user_id": "0017",
+            "speaker": "Human",
+            "message": "Why are they more popular?"
+        },
+        {
+            "message_id": 6,
+            "system_id": "0008",
+            "speaker": "Bot",
+            "message": "The Pembroke is more popular partly because it's associated with historical figures like Queen Elizabeth II, who has had several throughout her life."
+        },
+        {
+            "message_id": 7,
+            "user_id": "0017",
+            "speaker": "Human",
+            "message": "What are the differences?"
+        },
+        {
+            "message_id": 8,
+            "system_id": "0008",
+            "speaker": "Bot",
+            "message": "The Pembroke is typically smaller and more popular, while the Cardigan is a bit larger and appears on the list of Vulnerable Native Breeds."
+        },
+        {
+            "message_id": 9,
+            "user_id": "0017",
+            "speaker": "Human",
+            "message": "What does Vulnerable Native Breed mean?"
+        },
+        {
+            "message_id": 10,
+            "system_id": "0008",
+            "speaker": "Bot",
+            "message": "The Kennel Club lists the Cardigan Welsh Corgi as a Vulnerable Native Breed, meaning its numbers are quite low and need preservation efforts."
+        },
+        {
+            "message_id": 11,
+            "user_id": "0017",
+            "speaker": "Human",
+            "message": "So, its like endangered?"
+        },
+        {
+            "message_id": 12,
+            "system_id": "0008",
+            "speaker": "Bot",
+            "message": "Yes, it's a bit like being endangered, as their numbers are quite low and need conservation efforts."
+        },
+        {
+            "message_id": 13,
+            "user_id": "0017",
+            "speaker": "Human",
+            "message": "Why don't people just breed them then? Its not like they're wild animals and hard to catch"
+        },
+        {
+            "message_id": 14,
+            "system_id": "0008",
+            "speaker": "Bot",
+            "message": "The Cardigan Welsh Corgi isn't bred as frequently, partly due to its lower popularity compared to the Pembroke."
+        },
+        {
+            "message_id": 15,
+            "user_id": "0017",
+            "speaker": "Human",
+            "message": "I think I'll buy a couple and have them make babies."
+        },
+        {
+            "message_id": 16,
+            "system_id": "0008",
+            "speaker": "Bot",
+            "message": "That sounds like a fun plan, just remember it's important to ensure both dogs are healthy and well-suited for breeding!"
+        },
+        {
+            "message_id": 17,
+            "user_id": "0017",
+            "speaker": "Human",
+            "message": "How do I check>"
+        },
+        {
+            "message_id": 18,
+            "system_id": "0008",
+            "speaker": "Bot",
+            "message": "To ensure they're healthy for breeding, it's wise to get a full vet check-up and consider genetic testing for common breed-specific issues."
+        },
+        {
+            "message_id": 19,
+            "user_id": "0017",
+            "speaker": "Human",
+            "message": "I see. Sounds expensive. But then I can sell the babies and become rich."
+        },
+        {
+            "message_id": 20,
+            "system_id": "0008",
+            "speaker": "Bot",
+            "message": "Breeding can be rewarding, but remember it does come with expenses and responsibilities, including health checks and potential complications."
+        }
+    ]
+}

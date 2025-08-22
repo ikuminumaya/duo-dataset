@@ -1,0 +1,136 @@
+{
+    "dialogue_id": "0149",
+    "setting": "ed",
+    "model": "Llama-3.1-70B-Instruct",
+    "prompt": "not_aligned",
+    "emotion": "Confident",
+    "episode": "I received an award at work for my production and I am extremely proud and becoming more and more confident in my skills at my new job.",
+    "subjective_evaluation": {
+        "preference": 4.0,
+        "stylistic_similarity": 4.0,
+        "consistency": 4.0,
+        "empathy": 5.0
+    },
+    "dialogue": [
+        {
+            "message_id": 0,
+            "user_id": "0004",
+            "speaker": "Human",
+            "message": "I received an award at work for my production and I am extremely proud and becoming more and more confident in my skills at my new job."
+        },
+        {
+            "message_id": 1,
+            "system_id": "0005",
+            "speaker": "Bot",
+            "message": "That's fantastic! Your hard work is paying off."
+        },
+        {
+            "message_id": 2,
+            "user_id": "0004",
+            "speaker": "Human",
+            "message": "It really is.  I was so unsure of myself when I started because this is a brand new job and something I have never done before so it is awesome to see my hard work paying off and receiving some praise."
+        },
+        {
+            "message_id": 3,
+            "system_id": "0005",
+            "speaker": "Bot",
+            "message": "Well-deserved recognition can be a huge boost, isn't it?"
+        },
+        {
+            "message_id": 4,
+            "user_id": "0004",
+            "speaker": "Human",
+            "message": "It really can be!  I find that it fuels me and motivates me to keep working hard and working to reach my full potential."
+        },
+        {
+            "message_id": 5,
+            "system_id": "0005",
+            "speaker": "Bot",
+            "message": "That's the perfect mindset! Keep shining!"
+        },
+        {
+            "message_id": 6,
+            "user_id": "0004",
+            "speaker": "Human",
+            "message": "It makes me really feel that I can achieve whatever I put my mind to because I was so unsure of myself and lacked a lot of confidence when I started."
+        },
+        {
+            "message_id": 7,
+            "system_id": "0005",
+            "speaker": "Bot",
+            "message": "What a wonderful transformation!"
+        },
+        {
+            "message_id": 8,
+            "user_id": "0004",
+            "speaker": "Human",
+            "message": "It really has been.  I have received a lot of positivity and support along the way and am really glad I accepted this position because I was very undecided when I did."
+        },
+        {
+            "message_id": 9,
+            "system_id": "0005",
+            "speaker": "Bot",
+            "message": "Glad you took the leap of faith!"
+        },
+        {
+            "message_id": 10,
+            "user_id": "0004",
+            "speaker": "Human",
+            "message": "I am too.  I do not want to get complacent though.  Any suggestions for me to make sure that does not happen?"
+        },
+        {
+            "message_id": 11,
+            "system_id": "0005",
+            "speaker": "Bot",
+            "message": "Set new goals and keep pushing yourself!"
+        },
+        {
+            "message_id": 12,
+            "user_id": "0004",
+            "speaker": "Human",
+            "message": "That is a good idea.  I do need to set some new goals.  I tend to set goals and do a good job of working towards them until they are met."
+        },
+        {
+            "message_id": 13,
+            "system_id": "0005",
+            "speaker": "Bot",
+            "message": "You're a goal-achiever! Keep raising the bar!"
+        },
+        {
+            "message_id": 14,
+            "user_id": "0004",
+            "speaker": "Human",
+            "message": "Very good idea.  I would definitely welcome new challenges and new levels of responsibility at work."
+        },
+        {
+            "message_id": 15,
+            "system_id": "0005",
+            "speaker": "Bot",
+            "message": "Ambition is a great quality to have!"
+        },
+        {
+            "message_id": 16,
+            "user_id": "0004",
+            "speaker": "Human",
+            "message": "It is something I struggled with when I was younger but I find that I am doing a much better job with it now."
+        },
+        {
+            "message_id": 17,
+            "system_id": "0005",
+            "speaker": "Bot",
+            "message": "Personal growth is amazing, isn't it?"
+        },
+        {
+            "message_id": 18,
+            "user_id": "0004",
+            "speaker": "Human",
+            "message": "It really is. Definitely makes me want to continue pushing.  Thank you for the kind words and the motivation!"
+        },
+        {
+            "message_id": 19,
+            "system_id": "0005",
+            "speaker": "Bot",
+            "message": "Keep soaring!"
+        }
+    ]
+}
