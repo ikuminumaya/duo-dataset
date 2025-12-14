@@ -1,0 +1,141 @@
+{
+    "dialogue_id": 3068,
+    "setting": "wow",
+    "model": "gpt-4o",
+    "prompt": "nonent",
+    "topic": "リトル・マーメイド",
+    "subjective_evaluation": {
+        "preference": 4.0,
+        "stylistic_similarity": 4.0,
+        "consistency": 5.0,
+        "engagingness": 4.0
+    },
+    "dialogue": [
+        {
+            "message_id": 0,
+            "system_id": "0005",
+            "speaker": "Bot",
+            "message": "「リトル・マーメイド」は、ディズニーのアニメーション映画の一つとして、1989年に公開され、ディズニー・ルネサンスという新たな黄金時代の幕開けを象徴した作品です。"
+        },
+        {
+            "message_id": 1,
+            "user_id": "0006",
+            "speaker": "Human",
+            "message": "主人公は誰ですか"
+        },
+        {
+            "message_id": 2,
+            "system_id": "0005",
+            "speaker": "Bot",
+            "message": "主人公は、美しい人魚の王女アリエルです。"
+        },
+        {
+            "message_id": 3,
+            "user_id": "0006",
+            "speaker": "Human",
+            "message": "アリエルは人間ではないのですか"
+        },
+        {
+            "message_id": 4,
+            "system_id": "0005",
+            "speaker": "Bot",
+            "message": "はい、アリエルは人魚であり、物語の中で人間になることを夢見ているキャラクターです。"
+        },
+        {
+            "message_id": 5,
+            "user_id": "0006",
+            "speaker": "Human",
+            "message": "アリエルは人間になれたのですか"
+        },
+        {
+            "message_id": 6,
+            "system_id": "0005",
+            "speaker": "Bot",
+            "message": "はい、アリエルは最終的に人間になることができました。"
+        },
+        {
+            "message_id": 7,
+            "user_id": "0006",
+            "speaker": "Human",
+            "message": "どうやって人間になったのですか"
+        },
+        {
+            "message_id": 8,
+            "system_id": "0005",
+            "speaker": "Bot",
+            "message": "アリエルは、海の魔女アースラとの取引によって一時的に人間の姿を手に入れ、最終的には真実の愛と父親の助けで永遠に人間になることができました。"
+        },
+        {
+            "message_id": 9,
+            "user_id": "0006",
+            "speaker": "Human",
+            "message": "取引とはどのような内容でしたか"
+        },
+        {
+            "message_id": 10,
+            "system_id": "0005",
+            "speaker": "Bot",
+            "message": "アリエルは、声と引き換えに人間の脚を手に入れるという取引を海の魔女アースラと交わしました。"
+        },
+        {
+            "message_id": 11,
+            "user_id": "0006",
+            "speaker": "Human",
+            "message": "声が出なくなってしまったんですね。かわいそう"
+        },
+        {
+            "message_id": 12,
+            "system_id": "0005",
+            "speaker": "Bot",
+            "message": "アリエルは声を失う代わりに人間の脚を得るという、かなり厳しい選択を強いられましたね。"
+        },
+        {
+            "message_id": 13,
+            "user_id": "0006",
+            "speaker": "Human",
+            "message": "アリエルは幸せなんですかね"
+        },
+        {
+            "message_id": 14,
+            "system_id": "0005",
+            "speaker": "Bot",
+            "message": "アリエルは、最終的に愛するエリック王子と結ばれたことで幸せを見つけることができました。"
+        },
+        {
+            "message_id": 15,
+            "user_id": "0006",
+            "speaker": "Human",
+            "message": "王子は素敵な人ですね"
+        },
+        {
+            "message_id": 16,
+            "system_id": "0005",
+            "speaker": "Bot",
+            "message": "エリック王子は、アリエルの純粋な心と勇気を理解し、彼女を支える素晴らしい人物として描かれていますね。"
+        },
+        {
+            "message_id": 17,
+            "user_id": "0006",
+            "speaker": "Human",
+            "message": "アリエルが幸せになれて良かったですね"
+        },
+        {
+            "message_id": 18,
+            "system_id": "0005",
+            "speaker": "Bot",
+            "message": "そうですね、アリエルが幸せを見つけたのは本当に良かったことです。ディズニーの「リトル・マーメイド」は、彼女の夢が叶う過程を感動的に描いています。"
+        },
+        {
+            "message_id": 19,
+            "user_id": "0006",
+            "speaker": "Human",
+            "message": "素敵な映画ですね。興行収入もすごかったんですか"
+        },
+        {
+            "message_id": 20,
+            "system_id": "0005",
+            "speaker": "Bot",
+            "message": "「リトル・マーメイド」は1989年の公開時に全世界で約2億1,100万ドルの興行収入を達成し、ディズニーのアニメーション映画に新たな活気をもたらしました。"
+        }
+    ]
+}

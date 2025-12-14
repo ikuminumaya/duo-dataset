@@ -1,0 +1,136 @@
+{
+    "dialogue_id": 2032,
+    "setting": "ed",
+    "model": "gpt-4o",
+    "prompt": "ent",
+    "emotion": "Ashamed",
+    "episode": "車の運転は最近やや怖い。自分の不注意であわや事故という経験をして、恥じる思いです。",
+    "subjective_evaluation": {
+        "preference": 4.0,
+        "stylistic_similarity": 4.0,
+        "consistency": 4.0,
+        "empathy": 4.0
+    },
+    "dialogue": [
+        {
+            "message_id": 0,
+            "user_id": "0032",
+            "speaker": "Human",
+            "message": "大雨で車の運転に難儀しました。"
+        },
+        {
+            "message_id": 1,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "大雨だと視界も悪くなるし、本当に運転大変だよね。無事に帰れた？"
+        },
+        {
+            "message_id": 2,
+            "user_id": "0032",
+            "speaker": "Human",
+            "message": "何とか帰宅しました。"
+        },
+        {
+            "message_id": 3,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "それは良かったです。雨の日は本当に気をつけないといけませんね。"
+        },
+        {
+            "message_id": 4,
+            "user_id": "0032",
+            "speaker": "Human",
+            "message": "先日、前方不注意であわや衝突してました。"
+        },
+        {
+            "message_id": 5,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "それは危なかったね。気をつけないといけないよね。"
+        },
+        {
+            "message_id": 6,
+            "user_id": "0032",
+            "speaker": "Human",
+            "message": "完全に私が悪いと、後で思いました。"
+        },
+        {
+            "message_id": 7,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "そうだったんだね。次は気をつけてね。"
+        },
+        {
+            "message_id": 8,
+            "user_id": "0032",
+            "speaker": "Human",
+            "message": "今日は、それを踏まえて安全運転できました。"
+        },
+        {
+            "message_id": 9,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "それは良かったね。これからも安全運転を心がけてね。"
+        },
+        {
+            "message_id": 10,
+            "user_id": "0032",
+            "speaker": "Human",
+            "message": "気を緩めるといい加減になりがち。"
+        },
+        {
+            "message_id": 11,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "それ、わかる！でも今日みたいに意識していけば大丈夫だよ。"
+        },
+        {
+            "message_id": 12,
+            "user_id": "0032",
+            "speaker": "Human",
+            "message": "雨だったので、いつもより慎重でした。"
+        },
+        {
+            "message_id": 13,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "それは賢明だったね。安全第一で！"
+        },
+        {
+            "message_id": 14,
+            "user_id": "0032",
+            "speaker": "Human",
+            "message": "でも先日の光景が頭から離れない。"
+        },
+        {
+            "message_id": 15,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "それは辛いね。でもその経験が次に役立つはずだよ。"
+        },
+        {
+            "message_id": 16,
+            "user_id": "0032",
+            "speaker": "Human",
+            "message": "そうだといいけど。"
+        },
+        {
+            "message_id": 17,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "きっと役に立つよ。少しずつ慣れていこう！"
+        },
+        {
+            "message_id": 18,
+            "user_id": "0032",
+            "speaker": "Human",
+            "message": "高齢者ドライバーなので怖いです。"
+        },
+        {
+            "message_id": 19,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "それは確かに心配ですね。でも慎重に運転していれば大丈夫ですよ。"
+        }
+    ]
+}

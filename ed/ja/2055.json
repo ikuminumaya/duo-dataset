@@ -1,0 +1,162 @@
+{
+    "dialogue_id": 2055,
+    "setting": "ed",
+    "model": "gpt-4o",
+    "prompt": "nonent",
+    "emotion": "Hopeful",
+    "episode": "ニンテンドースイッチ2を予約しているので当選を期待している。",
+    "objective_evaluation": {
+        "preference": 3.67,
+        "stylistic_similarity": 3.0,
+        "consistency": 3.67,
+        "empathy": 3.33,
+        "preference_scores": [
+            4.0,
+            3.0,
+            4.0
+        ],
+        "stylistic_similarity_scores": [
+            3.0,
+            3.0,
+            3.0
+        ],
+        "consistency_scores": [
+            4.0,
+            3.0,
+            4.0
+        ],
+        "empathy_scores": [
+            3.0,
+            3.0,
+            4.0
+        ]
+    },
+    "subjective_evaluation": {
+        "preference": 5.0,
+        "stylistic_similarity": 5.0,
+        "consistency": 5.0,
+        "empathy": 5.0
+    },
+    "dialogue": [
+        {
+            "message_id": 0,
+            "user_id": "0010",
+            "speaker": "Human",
+            "message": "うちは親子共々ゲームが好きなんです。"
+        },
+        {
+            "message_id": 1,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "ゲームは親子の絆を深める素晴らしい機会ですね。どんなゲームを楽しんでいますか？"
+        },
+        {
+            "message_id": 2,
+            "user_id": "0010",
+            "speaker": "Human",
+            "message": "家族で楽しめるパーティーゲームや、レーシングゲームが多いですね。子供は一人で楽しめるRPGも好んでプレーしています。"
+        },
+        {
+            "message_id": 3,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "それは素晴らしいですね。お子さんが夢中になれるRPGも良い選択だと思いますよ。"
+        },
+        {
+            "message_id": 4,
+            "user_id": "0010",
+            "speaker": "Human",
+            "message": "そうですよね。でも子供も大きくなるにつれて、一人でやる時間が増えてますので少し寂しいです。"
+        },
+        {
+            "message_id": 5,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "子供の成長は嬉しいけれど、独り立ちを感じると少し切ないですね。"
+        },
+        {
+            "message_id": 6,
+            "user_id": "0010",
+            "speaker": "Human",
+            "message": "そうなんですよ。一緒に楽しめる時間も残り少ないかもしれないと思うと切ないものがあります。"
+        },
+        {
+            "message_id": 7,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "大切な時間ですね。家族の思い出をしっかり作ってくださいね。"
+        },
+        {
+            "message_id": 8,
+            "user_id": "0010",
+            "speaker": "Human",
+            "message": "ありがとうございます。ところで最近ニンテンドースイッチ2が発売されたのをご存じですか？"
+        },
+        {
+            "message_id": 9,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "ああ、そうなんですか！知らなかったですけど、すごく興味がありますね。"
+        },
+        {
+            "message_id": 10,
+            "user_id": "0010",
+            "speaker": "Human",
+            "message": "ものすごく人気で抽選に当選しなければ手に入らないんです。"
+        },
+        {
+            "message_id": 11,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "それは大変ですね。入手するのはかなりの幸運が必要ですね。"
+        },
+        {
+            "message_id": 12,
+            "user_id": "0010",
+            "speaker": "Human",
+            "message": "うちも応募していますが落選続きです。"
+        },
+        {
+            "message_id": 13,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "それは残念ですね。でも、諦めずにトライし続ける価値がありそうです。"
+        },
+        {
+            "message_id": 14,
+            "user_id": "0010",
+            "speaker": "Human",
+            "message": "はい、いつかは当たると信じて諦めずに頑張ってみます。"
+        },
+        {
+            "message_id": 15,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "その意気だ。幸運が訪れるのを待つのみだね。"
+        },
+        {
+            "message_id": 16,
+            "user_id": "0010",
+            "speaker": "Human",
+            "message": "当選したら子供が楽しめるゲームも購入して、一緒にプレーできるのを期待しています。"
+        },
+        {
+            "message_id": 17,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "良いですね。家族での時間がさらに楽しくなりますね。"
+        },
+        {
+            "message_id": 18,
+            "user_id": "0010",
+            "speaker": "Human",
+            "message": "ゲームの話ばかりしてしまいましたが、実は勉強も頑張ってくれることも期待しているわがままな親です笑"
+        },
+        {
+            "message_id": 19,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "きっとバランスをとってうまくやってくれますよ。勉強も大事ですからね。"
+        }
+    ]
+}

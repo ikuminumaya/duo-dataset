@@ -1,0 +1,162 @@
+{
+    "dialogue_id": 2043,
+    "setting": "ed",
+    "model": "gpt-4o",
+    "prompt": "nonent",
+    "emotion": "Hopeful",
+    "episode": "飼っている熱帯魚が稚魚を生んだ。##以前から飼っていたがなかなか増えずに苦労していた。##たくさん生まれて順調に育っているので、賑やかになることを期待している。",
+    "objective_evaluation": {
+        "preference": 3.67,
+        "stylistic_similarity": 2.33,
+        "consistency": 4.0,
+        "empathy": 3.0,
+        "preference_scores": [
+            4.0,
+            4.0,
+            3.0
+        ],
+        "stylistic_similarity_scores": [
+            4.0,
+            1.0,
+            2.0
+        ],
+        "consistency_scores": [
+            4.0,
+            4.0,
+            4.0
+        ],
+        "empathy_scores": [
+            4.0,
+            3.0,
+            2.0
+        ]
+    },
+    "subjective_evaluation": {
+        "preference": 4.0,
+        "stylistic_similarity": 4.0,
+        "consistency": 4.0,
+        "empathy": 4.0
+    },
+    "dialogue": [
+        {
+            "message_id": 0,
+            "user_id": "0040",
+            "speaker": "Human",
+            "message": "熱帯魚が子供を生みました！"
+        },
+        {
+            "message_id": 1,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "それは素晴らしいですね。おめでとうございます！"
+        },
+        {
+            "message_id": 2,
+            "user_id": "0040",
+            "speaker": "Human",
+            "message": "ありがとう！以前から飼っていたけどなかなか増えなくて苦労していた。"
+        },
+        {
+            "message_id": 3,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "そうだったのですね。増えてくれて本当に良かったです。"
+        },
+        {
+            "message_id": 4,
+            "user_id": "0040",
+            "speaker": "Human",
+            "message": "生き物なので管理が大変。"
+        },
+        {
+            "message_id": 5,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "確かに。手間がかかるけど、その分喜びも大きいですね。"
+        },
+        {
+            "message_id": 6,
+            "user_id": "0040",
+            "speaker": "Human",
+            "message": "自分の子供のように喜ばしいです。"
+        },
+        {
+            "message_id": 7,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "それは嬉しいことですね。どんどん増えるといいですね。"
+        },
+        {
+            "message_id": 8,
+            "user_id": "0040",
+            "speaker": "Human",
+            "message": "どんどん増えて賑やかになってほしいです。"
+        },
+        {
+            "message_id": 9,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "賑やかさが増すのは素敵なことですね。楽しみです。"
+        },
+        {
+            "message_id": 10,
+            "user_id": "0040",
+            "speaker": "Human",
+            "message": "いろんな模様の魚がいて楽しいですよ。"
+        },
+        {
+            "message_id": 11,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "美しさが際立ちますね。"
+        },
+        {
+            "message_id": 12,
+            "user_id": "0040",
+            "speaker": "Human",
+            "message": "気を付けて管理しても突然死するので世話が大変です。"
+        },
+        {
+            "message_id": 13,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "それは大変ですね。管理が必要ですね。"
+        },
+        {
+            "message_id": 14,
+            "user_id": "0040",
+            "speaker": "Human",
+            "message": "エサやりも気を付けないといけないけど、魚が集まってくるのは楽しいですね。"
+        },
+        {
+            "message_id": 15,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "エサやりの楽しみがあって良いですね。"
+        },
+        {
+            "message_id": 16,
+            "user_id": "0040",
+            "speaker": "Human",
+            "message": "これから先稚魚の育成が楽しみです。"
+        },
+        {
+            "message_id": 17,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "稚魚の成長が楽しみですね。きっと賑やかになることを願っています。"
+        },
+        {
+            "message_id": 18,
+            "user_id": "0040",
+            "speaker": "Human",
+            "message": "ありがとうございます、飼育を頑張って増やしていこうと思います。"
+        },
+        {
+            "message_id": 19,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "どうぞご無理なさらずに、楽しみながら頑張ってください。"
+        }
+    ]
+}

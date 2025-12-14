@@ -1,0 +1,162 @@
+{
+    "dialogue_id": 2020,
+    "setting": "ed",
+    "model": "gpt-4o",
+    "prompt": "ent",
+    "emotion": "Joyful",
+    "episode": "家の猫と遊んでました##1時間位追いかけっこして遊んでました##最後は猫がばてて倒れて可愛らしかったです",
+    "objective_evaluation": {
+        "preference": 4.33,
+        "stylistic_similarity": 4.0,
+        "consistency": 4.33,
+        "empathy": 4.0,
+        "preference_scores": [
+            4.0,
+            5.0,
+            4.0
+        ],
+        "stylistic_similarity_scores": [
+            3.0,
+            5.0,
+            4.0
+        ],
+        "consistency_scores": [
+            4.0,
+            4.0,
+            5.0
+        ],
+        "empathy_scores": [
+            4.0,
+            4.0,
+            4.0
+        ]
+    },
+    "subjective_evaluation": {
+        "preference": 3.0,
+        "stylistic_similarity": 2.0,
+        "consistency": 4.0,
+        "empathy": 3.0
+    },
+    "dialogue": [
+        {
+            "message_id": 0,
+            "user_id": "0020",
+            "speaker": "Human",
+            "message": "先ほどペットの猫と遊んでましたー"
+        },
+        {
+            "message_id": 1,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "いいねー、どんな遊びしたの？"
+        },
+        {
+            "message_id": 2,
+            "user_id": "0020",
+            "speaker": "Human",
+            "message": "1時間位追いかけっこしてました"
+        },
+        {
+            "message_id": 3,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "楽しそう！猫ちゃんも喜んでたんじゃない？"
+        },
+        {
+            "message_id": 4,
+            "user_id": "0020",
+            "speaker": "Human",
+            "message": "そうですね！最初懐いてきたところを襲ってみたら追いかけ合いになったので楽しかったです"
+        },
+        {
+            "message_id": 5,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "それは楽しそうだね！猫ちゃんもすごく喜んでたんだろうなー。"
+        },
+        {
+            "message_id": 6,
+            "user_id": "0020",
+            "speaker": "Human",
+            "message": "最後の方は猫ばててましたー"
+        },
+        {
+            "message_id": 7,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "かわいいねー！いっぱい遊んで満足したんだね。"
+        },
+        {
+            "message_id": 8,
+            "user_id": "0020",
+            "speaker": "Human",
+            "message": "その場でコテンと倒れて可愛かったです"
+        },
+        {
+            "message_id": 9,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "それはたまらなく可愛いね！癒やされるね。"
+        },
+        {
+            "message_id": 10,
+            "user_id": "0020",
+            "speaker": "Human",
+            "message": "そうですね！その後ひたすら撫で回してあげました！"
+        },
+        {
+            "message_id": 11,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "それはいいね！猫ちゃんもきっと嬉しかったね。"
+        },
+        {
+            "message_id": 12,
+            "user_id": "0020",
+            "speaker": "Human",
+            "message": "室内で飼ってるのでストレス解消になってればいいなと思います"
+        },
+        {
+            "message_id": 13,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "いいねー、きっといいストレス発散になってるよ！"
+        },
+        {
+            "message_id": 14,
+            "user_id": "0020",
+            "speaker": "Human",
+            "message": "今は疲れたせいかぐっすり寝てます"
+        },
+        {
+            "message_id": 15,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "いっぱい遊んで疲れたんだね、癒されるね！"
+        },
+        {
+            "message_id": 16,
+            "user_id": "0020",
+            "speaker": "Human",
+            "message": "以前はもう一匹居たから二匹で一緒に遊んでたけど亡くなったので、その分一緒に遊んであげないといけないですし"
+        },
+        {
+            "message_id": 17,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "そうだったんだね。たくさん遊んで、いっぱい愛情注いであげてね。"
+        },
+        {
+            "message_id": 18,
+            "user_id": "0020",
+            "speaker": "Human",
+            "message": "ありがとうございます！結構走り回ったのでこちらも疲れました"
+        },
+        {
+            "message_id": 19,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "それはお疲れさま！でも、猫ちゃんも嬉しかったと思うよ。"
+        }
+    ]
+}

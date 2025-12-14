@@ -1,0 +1,136 @@
+{
+    "dialogue_id": 2030,
+    "setting": "ed",
+    "model": "gpt-4o",
+    "prompt": "ent",
+    "emotion": "Sad",
+    "episode": "京は一日中頭痛が続いていて悲しいです。",
+    "subjective_evaluation": {
+        "preference": 3.0,
+        "stylistic_similarity": 3.0,
+        "consistency": 4.0,
+        "empathy": 4.0
+    },
+    "dialogue": [
+        {
+            "message_id": 0,
+            "user_id": "0030",
+            "speaker": "Human",
+            "message": "今日は一日中頭痛が続いていて悲しいです。"
+        },
+        {
+            "message_id": 1,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "それは辛いね。何かリラックスできること試してみた？"
+        },
+        {
+            "message_id": 2,
+            "user_id": "0030",
+            "speaker": "Human",
+            "message": "さっき頭痛薬を飲んで休んでいたところです"
+        },
+        {
+            "message_id": 3,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "そうなんだね。少しでも楽になるといいね。"
+        },
+        {
+            "message_id": 4,
+            "user_id": "0030",
+            "speaker": "Human",
+            "message": "通常なら30分で効いてくるのですがまだ痛いです"
+        },
+        {
+            "message_id": 5,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "つらいね…。もう少し休んでみるといいかも。"
+        },
+        {
+            "message_id": 6,
+            "user_id": "0030",
+            "speaker": "Human",
+            "message": "はい。もう少し休むつもりです"
+        },
+        {
+            "message_id": 7,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "そうですね。お大事にしてくださいね。"
+        },
+        {
+            "message_id": 8,
+            "user_id": "0030",
+            "speaker": "Human",
+            "message": "ありがとうございます"
+        },
+        {
+            "message_id": 9,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "どういたしまして。お大事にね。"
+        },
+        {
+            "message_id": 10,
+            "user_id": "0030",
+            "speaker": "Human",
+            "message": "なにか頭痛に聞くものをご存じでしょうか？"
+        },
+        {
+            "message_id": 11,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "温かいお茶を飲んだり、こめかみを軽くマッサージするのもいいかもしれませんね。"
+        },
+        {
+            "message_id": 12,
+            "user_id": "0030",
+            "speaker": "Human",
+            "message": "お茶は何を飲んだらよいですか？"
+        },
+        {
+            "message_id": 13,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "カモミールティーなんかいいかもしれませんね。リラックス効果がありますよ。"
+        },
+        {
+            "message_id": 14,
+            "user_id": "0030",
+            "speaker": "Human",
+            "message": "カモミールティーですね。今度試してみます。"
+        },
+        {
+            "message_id": 15,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "ぜひ試してみてくださいね。お大事に。"
+        },
+        {
+            "message_id": 16,
+            "user_id": "0030",
+            "speaker": "Human",
+            "message": "ありがとうございます"
+        },
+        {
+            "message_id": 17,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "どういたしまして。お大事にね。"
+        },
+        {
+            "message_id": 18,
+            "user_id": "0030",
+            "speaker": "Human",
+            "message": "ありがとう"
+        },
+        {
+            "message_id": 19,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "どういたしまして。お大事にね。"
+        }
+    ]
+}

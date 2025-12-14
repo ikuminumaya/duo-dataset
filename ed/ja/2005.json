@@ -1,0 +1,162 @@
+{
+    "dialogue_id": 2005,
+    "setting": "ed",
+    "model": "gpt-4o",
+    "prompt": "neutral",
+    "emotion": "Disappointed",
+    "episode": "半月ほど前に予約していた粗大ゴミの収集が今日あり、長年世話になったメタルラックを出した。3Rを強調される昨今の風潮からトラックの荷台に乗せてリサイクルセンター的なものに運び再利用を図るのかと思っていたが、通常の収集車がやってきて目の前でローラに巻き込み破壊・圧縮して去って行った。自分の在住自治体では破壊が大前提なのだと知ってがっかりした。",
+    "objective_evaluation": {
+        "preference": 4.33,
+        "stylistic_similarity": 4.67,
+        "consistency": 4.33,
+        "empathy": 4.0,
+        "preference_scores": [
+            4.0,
+            4.0,
+            5.0
+        ],
+        "stylistic_similarity_scores": [
+            4.0,
+            5.0,
+            5.0
+        ],
+        "consistency_scores": [
+            4.0,
+            4.0,
+            5.0
+        ],
+        "empathy_scores": [
+            4.0,
+            4.0,
+            4.0
+        ]
+    },
+    "subjective_evaluation": {
+        "preference": 2.0,
+        "stylistic_similarity": 2.0,
+        "consistency": 5.0,
+        "empathy": 2.0
+    },
+    "dialogue": [
+        {
+            "message_id": 0,
+            "user_id": "0005",
+            "speaker": "Human",
+            "message": "長年利用してきたスチールラックを今日粗大ゴミとして収集してもらいました。"
+        },
+        {
+            "message_id": 1,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "長年の間、お疲れさまでしたね。どんな思い出がありますか？"
+        },
+        {
+            "message_id": 2,
+            "user_id": "0005",
+            "speaker": "Human",
+            "message": "総面積が大きいので調理しながら一時的に物を置いたりするのに重宝していました。"
+        },
+        {
+            "message_id": 3,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "便利に使っていたんですね。ちょっと寂しい気持ちもありますね。"
+        },
+        {
+            "message_id": 4,
+            "user_id": "0005",
+            "speaker": "Human",
+            "message": "そうですね。最近はSDGsや3Rが強調されていることからも、必要とする人の手にわたり再利用されるのではないかと思っていました。"
+        },
+        {
+            "message_id": 5,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "それは素晴らしい考えですね。再利用されるといいですね。"
+        },
+        {
+            "message_id": 6,
+            "user_id": "0005",
+            "speaker": "Human",
+            "message": "ところが収集車は通常のゴミ収集車で、作業員の方はスチールラックをそのローラーに入れて私の目の前で破壊・圧縮してしまったのです。"
+        },
+        {
+            "message_id": 7,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "それはショックですね…。"
+        },
+        {
+            "message_id": 8,
+            "user_id": "0005",
+            "speaker": "Human",
+            "message": "ショックですし驚きました。私のものは再利用に難があったかもしれませんが、まだまだ使えるような粗大ゴミもあるでしょうに破壊を前提とした車をよこすというのはいかがな物でしょうか。"
+        },
+        {
+            "message_id": 9,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "本当にそうですね。もっと再利用を考えてほしいですよね。"
+        },
+        {
+            "message_id": 10,
+            "user_id": "0005",
+            "speaker": "Human",
+            "message": "自治体側としてはそのような手間は所有者が払うべきという考えなのかもしれませんね。"
+        },
+        {
+            "message_id": 11,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "そうかもしれませんね。それでも再利用の仕組みがあるといいですね。"
+        },
+        {
+            "message_id": 12,
+            "user_id": "0005",
+            "speaker": "Human",
+            "message": "これに続いて粗大ゴミを輩出する予定だったのですが再考しているところです。"
+        },
+        {
+            "message_id": 13,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "それは賢明な判断かもしれませんね。"
+        },
+        {
+            "message_id": 14,
+            "user_id": "0005",
+            "speaker": "Human",
+            "message": "もちろん無料で利用していただける方に簡単に譲ることができれば双方にとってメリットがあると思うのですが。"
+        },
+        {
+            "message_id": 15,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "そうですね、譲渡の機会があるといいですね。"
+        },
+        {
+            "message_id": 16,
+            "user_id": "0005",
+            "speaker": "Human",
+            "message": "ただ、車を保有しない私にとっては取りに来てもらうしかなく、そうすると見知らぬ人に住所を知られる恐ろしさも感じてしまいます。"
+        },
+        {
+            "message_id": 17,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "その気持ちもわかります。安全面は大事ですからね。"
+        },
+        {
+            "message_id": 18,
+            "user_id": "0005",
+            "speaker": "Human",
+            "message": "何か良い方法はない物ですかね。"
+        },
+        {
+            "message_id": 19,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "地域の掲示板やフリーマーケットアプリで、信頼できる方法を探すのも一つの手かもしれませんね。"
+        }
+    ]
+}

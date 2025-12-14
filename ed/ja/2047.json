@@ -1,0 +1,136 @@
+{
+    "dialogue_id": 2047,
+    "setting": "ed",
+    "model": "gpt-4o",
+    "prompt": "nonent",
+    "emotion": "Jealous",
+    "episode": "母子家庭で育った私は、家族が揃っている家庭が羨ましく思います。",
+    "subjective_evaluation": {
+        "preference": 5.0,
+        "stylistic_similarity": 4.0,
+        "consistency": 4.0,
+        "empathy": 5.0
+    },
+    "dialogue": [
+        {
+            "message_id": 0,
+            "user_id": "0043",
+            "speaker": "Human",
+            "message": "母子家庭で育った私は、家族が揃っている家庭が羨ましく思います。"
+        },
+        {
+            "message_id": 1,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "それは辛いですね。でも、あなたの家庭にも素敵な絆があるのでしょう。"
+        },
+        {
+            "message_id": 2,
+            "user_id": "0043",
+            "speaker": "Human",
+            "message": "子供の頃はいろんな思いがありましたが、不自由なく育ててくれたことに感謝しています。"
+        },
+        {
+            "message_id": 3,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "素晴らしいですね。お母様の努力に心から感謝ですね。"
+        },
+        {
+            "message_id": 4,
+            "user_id": "0043",
+            "speaker": "Human",
+            "message": "そうですね。お金がなくて大学には行かせてもらえなかったのですが、短大でも感謝しています。"
+        },
+        {
+            "message_id": 5,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "短大でも十分に価値がある経験だったんですね。"
+        },
+        {
+            "message_id": 6,
+            "user_id": "0043",
+            "speaker": "Human",
+            "message": "人との出会いがあり、貴重な2年間だったと思います。"
+        },
+        {
+            "message_id": 7,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "人との出会いはとても重要です。いい経験ができましたね。"
+        },
+        {
+            "message_id": 8,
+            "user_id": "0043",
+            "speaker": "Human",
+            "message": "そう思います。学んだことが生かせていれば、もっと良かったと思います。"
+        },
+        {
+            "message_id": 9,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "学んだことはきっと役立っているはずですよ。"
+        },
+        {
+            "message_id": 10,
+            "user_id": "0043",
+            "speaker": "Human",
+            "message": "役に立っているといいのですが、全く違う職に就いていました。"
+        },
+        {
+            "message_id": 11,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "どんな職でも、経験は無駄にならないものですよ。"
+        },
+        {
+            "message_id": 12,
+            "user_id": "0043",
+            "speaker": "Human",
+            "message": "転職することに抵抗があった時期もありましたので、そう言っていただけて嬉しいです。"
+        },
+        {
+            "message_id": 13,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "転職を乗り越えたあなたは素晴らしいです。勇気を持って進んだのですね。"
+        },
+        {
+            "message_id": 14,
+            "user_id": "0043",
+            "speaker": "Human",
+            "message": "転職を決断するには悩みましたが、結果としてよかったと思います。"
+        },
+        {
+            "message_id": 15,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "転職の決断が良い結果をもたらしたのは素晴らしいことですね。"
+        },
+        {
+            "message_id": 16,
+            "user_id": "0043",
+            "speaker": "Human",
+            "message": "人生が変わることもありますよね。"
+        },
+        {
+            "message_id": 17,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "そうですね、人生の変化は時に驚くべきものですね。"
+        },
+        {
+            "message_id": 18,
+            "user_id": "0043",
+            "speaker": "Human",
+            "message": "そうですね。どのような人生でも、受け止め頑張りたいと思います。"
+        },
+        {
+            "message_id": 19,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "その意気込みがあれば、どんな道でも乗り越えられるでしょう。"
+        }
+    ]
+}

@@ -1,0 +1,162 @@
+{
+    "dialogue_id": 2033,
+    "setting": "ed",
+    "model": "gpt-4o",
+    "prompt": "ent",
+    "emotion": "Excited",
+    "episode": "明日は家族と遊園地に行きます！",
+    "objective_evaluation": {
+        "preference": 3.67,
+        "stylistic_similarity": 3.33,
+        "consistency": 4.33,
+        "empathy": 3.33,
+        "preference_scores": [
+            3.0,
+            4.0,
+            4.0
+        ],
+        "stylistic_similarity_scores": [
+            3.0,
+            4.0,
+            3.0
+        ],
+        "consistency_scores": [
+            4.0,
+            5.0,
+            4.0
+        ],
+        "empathy_scores": [
+            4.0,
+            3.0,
+            3.0
+        ]
+    },
+    "subjective_evaluation": {
+        "preference": 3.0,
+        "stylistic_similarity": 3.0,
+        "consistency": 5.0,
+        "empathy": 5.0
+    },
+    "dialogue": [
+        {
+            "message_id": 0,
+            "user_id": "0033",
+            "speaker": "Human",
+            "message": "明日は家族と遊園地に行きます！"
+        },
+        {
+            "message_id": 1,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "いいね！どんなアトラクションに乗るの？"
+        },
+        {
+            "message_id": 2,
+            "user_id": "0033",
+            "speaker": "Human",
+            "message": "観覧車とジェットコースター"
+        },
+        {
+            "message_id": 3,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "いいね！楽しんできてね！"
+        },
+        {
+            "message_id": 4,
+            "user_id": "0033",
+            "speaker": "Human",
+            "message": "ありがとう"
+        },
+        {
+            "message_id": 5,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "どういたしまして！いっぱい楽しんできてね！"
+        },
+        {
+            "message_id": 6,
+            "user_id": "0033",
+            "speaker": "Human",
+            "message": "朝早く起きれるかな"
+        },
+        {
+            "message_id": 7,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "大丈夫だよ、楽しみで自然と目が覚めるかも！"
+        },
+        {
+            "message_id": 8,
+            "user_id": "0033",
+            "speaker": "Human",
+            "message": "ワクワクして眠れない"
+        },
+        {
+            "message_id": 9,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "そういう時あるよね。でも、きっと楽しい一日になるよ！"
+        },
+        {
+            "message_id": 10,
+            "user_id": "0033",
+            "speaker": "Human",
+            "message": "明日が待ち遠しいな"
+        },
+        {
+            "message_id": 11,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "本当にね、楽しい日になるよ！"
+        },
+        {
+            "message_id": 12,
+            "user_id": "0033",
+            "speaker": "Human",
+            "message": "雨が降らないといいな"
+        },
+        {
+            "message_id": 13,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "ほんとだね、晴れるといいね！"
+        },
+        {
+            "message_id": 14,
+            "user_id": "0033",
+            "speaker": "Human",
+            "message": "でも雨でも楽しめるように計画してるんだ"
+        },
+        {
+            "message_id": 15,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "それなら安心だね！どんな天気でも楽しめるね。"
+        },
+        {
+            "message_id": 16,
+            "user_id": "0033",
+            "speaker": "Human",
+            "message": "久しぶりの旅行だから準備はバッチリだよ"
+        },
+        {
+            "message_id": 17,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "それはいいね！準備万端なら楽しめるね。"
+        },
+        {
+            "message_id": 18,
+            "user_id": "0033",
+            "speaker": "Human",
+            "message": "早く明日にならないかな"
+        },
+        {
+            "message_id": 19,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "ほんと、楽しみだね！"
+        }
+    ]
+}

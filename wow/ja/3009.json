@@ -1,0 +1,167 @@
+{
+    "dialogue_id": 3009,
+    "setting": "wow",
+    "model": "gpt-4o",
+    "prompt": "neutral",
+    "topic": "シボレー・コルベット",
+    "objective_evaluation": {
+        "preference": 3.67,
+        "stylistic_similarity": 4.0,
+        "consistency": 4.67,
+        "engagingness": 3.33,
+        "preference_scores": [
+            3.0,
+            4.0,
+            4.0
+        ],
+        "stylistic_similarity_scores": [
+            3.0,
+            5.0,
+            4.0
+        ],
+        "consistency_scores": [
+            5.0,
+            5.0,
+            4.0
+        ],
+        "engagingness_scores": [
+            2.0,
+            4.0,
+            4.0
+        ]
+    },
+    "subjective_evaluation": {
+        "preference": 4.0,
+        "stylistic_similarity": 5.0,
+        "consistency": 3.0,
+        "engagingness": 4.0
+    },
+    "dialogue": [
+        {
+            "message_id": 0,
+            "system_id": "0003",
+            "speaker": "Bot",
+            "message": "シボレー・コルベットは、1953年に初めて登場したスポーツカーで、現在はケンタッキー州で製造されています。"
+        },
+        {
+            "message_id": 1,
+            "user_id": "0026",
+            "speaker": "Human",
+            "message": "ケンタッキー州だけで製造されているんですか？他では製造されていないんですか？だとしたらその理由はあるんですか？"
+        },
+        {
+            "message_id": 2,
+            "system_id": "0003",
+            "speaker": "Bot",
+            "message": "シボレー・コルベットは現在、ケンタッキー州ボウリンググリーンでのみ製造されています。これは、その地がコルベットの公式製造拠点となっているためです。"
+        },
+        {
+            "message_id": 3,
+            "user_id": "0026",
+            "speaker": "Human",
+            "message": "なるほど。ちなみにシボレー・コルベットの名前の由来はなんですか？"
+        },
+        {
+            "message_id": 4,
+            "system_id": "0003",
+            "speaker": "Bot",
+            "message": "シボレー・コルベットの名前は、小型で機動性の高い軍艦「コルベット」にちなんで名付けられました。"
+        },
+        {
+            "message_id": 5,
+            "user_id": "0026",
+            "speaker": "Human",
+            "message": "なんかとても強そうですね。あまり車に詳しくないのでシボレー・コルベットとはどういう車なんですか？特徴を教えてください。"
+        },
+        {
+            "message_id": 6,
+            "system_id": "0003",
+            "speaker": "Bot",
+            "message": "シボレー・コルベットは、シボレーが製造するスポーツカーで、1953年に初めて登場し、現在はケンタッキー州ボウリンググリーンで製造されています。"
+        },
+        {
+            "message_id": 7,
+            "user_id": "0026",
+            "speaker": "Human",
+            "message": "値段はどのくらいですか？シボレー"
+        },
+        {
+            "message_id": 8,
+            "system_id": "0003",
+            "speaker": "Bot",
+            "message": "シボレー・コルベットの価格はモデルや仕様によりますが、一般的には数万ドルから始まります。"
+        },
+        {
+            "message_id": 9,
+            "user_id": "0026",
+            "speaker": "Human",
+            "message": "数万ドル。新車は気軽に購入できないお値段ですね。中古車だとどのくらいで購入できるのでしょうか？"
+        },
+        {
+            "message_id": 10,
+            "system_id": "0003",
+            "speaker": "Bot",
+            "message": "中古のシボレー・コルベットの価格は、モデルや年式によって異なりますが、一般的には数千ドルから購入可能です。"
+        },
+        {
+            "message_id": 11,
+            "user_id": "0026",
+            "speaker": "Human",
+            "message": "排気量はどのくらいですか？また何人乗りですか？"
+        },
+        {
+            "message_id": 12,
+            "system_id": "0003",
+            "speaker": "Bot",
+            "message": "シボレー・コルベットは通常2人乗りで、排気量はモデルによって異なりますが、パフォーマンス志向のエンジンを搭載しています。"
+        },
+        {
+            "message_id": 13,
+            "user_id": "0026",
+            "speaker": "Human",
+            "message": "故障した際はどうすればいいですか？日本法人や代理店はありますか？"
+        },
+        {
+            "message_id": 14,
+            "system_id": "0003",
+            "speaker": "Bot",
+            "message": "日本でもシボレーのディーラーや代理店があり、故障時にはそこでサポートを受けることができます。"
+        },
+        {
+            "message_id": 15,
+            "user_id": "0026",
+            "speaker": "Human",
+            "message": "シボレー・コルベットはMT車とAT車のどちらもありますか？"
+        },
+        {
+            "message_id": 16,
+            "system_id": "0003",
+            "speaker": "Bot",
+            "message": "シボレー・コルベットには、モデルによってマニュアルトランスミッション（MT）とオートマチックトランスミッション（AT）の両方が用意されています。"
+        },
+        {
+            "message_id": 17,
+            "user_id": "0026",
+            "speaker": "Human",
+            "message": "それは嬉しいですね。大きさだとどのくらいになるのでしょうか？日本の道路や駐車場に合う車ですか？"
+        },
+        {
+            "message_id": 18,
+            "system_id": "0003",
+            "speaker": "Bot",
+            "message": "シボレー・コルベットはスポーツカーであり、日本の道路や駐車場での利用にはやや大きめかもしれません。"
+        },
+        {
+            "message_id": 19,
+            "user_id": "0026",
+            "speaker": "Human",
+            "message": "そういえばスポーツカーの定義はなんですか？"
+        },
+        {
+            "message_id": 20,
+            "system_id": "0003",
+            "speaker": "Bot",
+            "message": "スポーツカーとは、高性能で機動性が高く、通常は2人乗りの車を指します。"
+        }
+    ]
+}

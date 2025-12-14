@@ -1,0 +1,136 @@
+{
+    "dialogue_id": 2051,
+    "setting": "ed",
+    "model": "gpt-4o",
+    "prompt": "nonent",
+    "emotion": "Grateful",
+    "episode": "母親が独立開業資金を援助してくれたことを感謝しています。",
+    "subjective_evaluation": {
+        "preference": 4.0,
+        "stylistic_similarity": 4.0,
+        "consistency": 4.0,
+        "empathy": 4.0
+    },
+    "dialogue": [
+        {
+            "message_id": 0,
+            "user_id": "0046",
+            "speaker": "Human",
+            "message": "母親が独立開業資金を援助してくれたことを感謝しています。"
+        },
+        {
+            "message_id": 1,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "素晴らしいですね。お母様に心から感謝の気持ちを伝えましょう。"
+        },
+        {
+            "message_id": 2,
+            "user_id": "0046",
+            "speaker": "Human",
+            "message": "そうですね、嬉しくて泣きました。"
+        },
+        {
+            "message_id": 3,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "心に響く瞬間ですね。お母様にとっても嬉しいことだと思います。"
+        },
+        {
+            "message_id": 4,
+            "user_id": "0046",
+            "speaker": "Human",
+            "message": "私は就職氷河期世代で苦労しましたが、なんとか自分の会社を立ち上げることができました。"
+        },
+        {
+            "message_id": 5,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "それは素晴らしい成果ですね。努力の賜物ですね。"
+        },
+        {
+            "message_id": 6,
+            "user_id": "0046",
+            "speaker": "Human",
+            "message": "勤務先の会社が倒産した経験もあります。"
+        },
+        {
+            "message_id": 7,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "それは大変な経験でしたね。しかし、それを乗り越えて自分の道を切り開いたあなたは本当にすごいです。"
+        },
+        {
+            "message_id": 8,
+            "user_id": "0046",
+            "speaker": "Human",
+            "message": "勉強して資格を取得しました。"
+        },
+        {
+            "message_id": 9,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "資格取得は大きな一歩ですね。努力の結果が実を結んで素晴らしいです。"
+        },
+        {
+            "message_id": 10,
+            "user_id": "0046",
+            "speaker": "Human",
+            "message": "その資格を生かした事業を立ち上げました。"
+        },
+        {
+            "message_id": 11,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "なんとまあ、あなたの情熱と決意がその事業を生んだのですね。"
+        },
+        {
+            "message_id": 12,
+            "user_id": "0046",
+            "speaker": "Human",
+            "message": "サラリーマン時代は低賃金のブラック企業でした。"
+        },
+        {
+            "message_id": 13,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "それは大変な時期でしたね。今はもっと良い場所にいることが素晴らしいです。"
+        },
+        {
+            "message_id": 14,
+            "user_id": "0046",
+            "speaker": "Human",
+            "message": "生活するのでいっぱいいっぱいで開業資金をためることが困難でした。"
+        },
+        {
+            "message_id": 15,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "それは大変でしたね。でも、今の成功がその努力を報いていますね。"
+        },
+        {
+            "message_id": 16,
+            "user_id": "0046",
+            "speaker": "Human",
+            "message": "それで母親の相談すると、援助してくれることになりました。"
+        },
+        {
+            "message_id": 17,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "それは頼もしいお母様ですね。素晴らしいサポートです。"
+        },
+        {
+            "message_id": 18,
+            "user_id": "0046",
+            "speaker": "Human",
+            "message": "本当に感謝しています。"
+        },
+        {
+            "message_id": 19,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "お母様への感謝、心から伝えましょう。"
+        }
+    ]
+}

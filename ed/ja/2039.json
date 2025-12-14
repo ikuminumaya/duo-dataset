@@ -1,0 +1,136 @@
+{
+    "dialogue_id": 2039,
+    "setting": "ed",
+    "model": "gpt-4o",
+    "prompt": "nonent",
+    "emotion": "Furious",
+    "episode": "政治家が自分のことばかりで国民のことを全く考えていない政治をしていること。増税しか頭にないように思えることに激怒する。",
+    "subjective_evaluation": {
+        "preference": 2.0,
+        "stylistic_similarity": 3.0,
+        "consistency": 3.0,
+        "empathy": 3.0
+    },
+    "dialogue": [
+        {
+            "message_id": 0,
+            "user_id": "0038",
+            "speaker": "Human",
+            "message": "政治家が国民のために政治を行っていない"
+        },
+        {
+            "message_id": 1,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "それは残念ですね。政治家には国民の声を大切にしてほしいものです。"
+        },
+        {
+            "message_id": 2,
+            "user_id": "0038",
+            "speaker": "Human",
+            "message": "すきあれば増税ばかり考えているとしか思えません"
+        },
+        {
+            "message_id": 3,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "それは辛いですね。税金に関する政策は慎重に考えてほしいです。"
+        },
+        {
+            "message_id": 4,
+            "user_id": "0038",
+            "speaker": "Human",
+            "message": "歳出を減らすことを考えないで増税ばかりで困る"
+        },
+        {
+            "message_id": 5,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "それは不満がたまりますね。バランスを考えてほしいものです。"
+        },
+        {
+            "message_id": 6,
+            "user_id": "0038",
+            "speaker": "Human",
+            "message": "何に使っているのかはっきりさせてほしい"
+        },
+        {
+            "message_id": 7,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "公共資金の使途が透明であることは重要ですね。"
+        },
+        {
+            "message_id": 8,
+            "user_id": "0038",
+            "speaker": "Human",
+            "message": "それで足りないのならばしょうがないと思うけどそうではないことに怒りを感じます"
+        },
+        {
+            "message_id": 9,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "それは理解できます。もう少し透明性があれば、安心できますね。"
+        },
+        {
+            "message_id": 10,
+            "user_id": "0038",
+            "speaker": "Human",
+            "message": "そうです。透明性がないんです"
+        },
+        {
+            "message_id": 11,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "なるほど。それじゃあ、もっと情報公開を求めるしかないね。"
+        },
+        {
+            "message_id": 12,
+            "user_id": "0038",
+            "speaker": "Human",
+            "message": "情報公開しても黒塗りばかりでしょうね"
+        },
+        {
+            "message_id": 13,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "なるほど、それは困ったことですね。透明性が増すことを願っています。"
+        },
+        {
+            "message_id": 14,
+            "user_id": "0038",
+            "speaker": "Human",
+            "message": "どうすればいいんでしょうかね"
+        },
+        {
+            "message_id": 15,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "本当に厄介ですね。何か行動を起こすしかないかもしれません。"
+        },
+        {
+            "message_id": 16,
+            "user_id": "0038",
+            "speaker": "Human",
+            "message": "デモでもするしかないですかね"
+        },
+        {
+            "message_id": 17,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "デモは一つの方法ですが、他の選択肢も考えてみる価値があります。"
+        },
+        {
+            "message_id": 18,
+            "user_id": "0038",
+            "speaker": "Human",
+            "message": "まずは選挙に行くことですね。石破政権を引きずり下ろすしかないですね"
+        },
+        {
+            "message_id": 19,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "選挙は重要ですね。民主的な手段で変化を求めることが大切です。"
+        }
+    ]
+}

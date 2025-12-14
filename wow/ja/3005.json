@@ -1,0 +1,167 @@
+{
+    "dialogue_id": 3005,
+    "setting": "wow",
+    "model": "gpt-4o",
+    "prompt": "neutral",
+    "topic": "日本",
+    "objective_evaluation": {
+        "preference": 4.0,
+        "stylistic_similarity": 4.0,
+        "consistency": 4.67,
+        "engagingness": 3.67,
+        "preference_scores": [
+            4.0,
+            4.0,
+            4.0
+        ],
+        "stylistic_similarity_scores": [
+            4.0,
+            4.0,
+            4.0
+        ],
+        "consistency_scores": [
+            5.0,
+            5.0,
+            4.0
+        ],
+        "engagingness_scores": [
+            3.0,
+            4.0,
+            4.0
+        ]
+    },
+    "subjective_evaluation": {
+        "preference": 5.0,
+        "stylistic_similarity": 5.0,
+        "consistency": 5.0,
+        "engagingness": 5.0
+    },
+    "dialogue": [
+        {
+            "message_id": 0,
+            "system_id": "0003",
+            "speaker": "Bot",
+            "message": "日本は、約6,852の島々からなる東アジアの島国で、首都は東京です。"
+        },
+        {
+            "message_id": 1,
+            "user_id": "0053",
+            "speaker": "Human",
+            "message": "日本の国土面積はどれくらいあるのですか？"
+        },
+        {
+            "message_id": 2,
+            "system_id": "0003",
+            "speaker": "Bot",
+            "message": "日本の国土面積は約37.8万平方キロメートルです。"
+        },
+        {
+            "message_id": 3,
+            "user_id": "0053",
+            "speaker": "Human",
+            "message": "結構広いですね。都道府県の数はどれくらいあるのでしたっけ？"
+        },
+        {
+            "message_id": 4,
+            "system_id": "0003",
+            "speaker": "Bot",
+            "message": "日本には47の都道府県があります。"
+        },
+        {
+            "message_id": 5,
+            "user_id": "0053",
+            "speaker": "Human",
+            "message": "国土面積にしては結構多いですね。一番面積の広い県は何処ですか？"
+        },
+        {
+            "message_id": 6,
+            "system_id": "0003",
+            "speaker": "Bot",
+            "message": "日本で一番面積の広い県は北海道です。"
+        },
+        {
+            "message_id": 7,
+            "user_id": "0053",
+            "speaker": "Human",
+            "message": "逆に一番面積の小さい県は何処ですか？"
+        },
+        {
+            "message_id": 8,
+            "system_id": "0003",
+            "speaker": "Bot",
+            "message": "一番面積の小さい県は香川県です。"
+        },
+        {
+            "message_id": 9,
+            "user_id": "0053",
+            "speaker": "Human",
+            "message": "香川県の次に面積の小さい県は何処ですか？"
+        },
+        {
+            "message_id": 10,
+            "system_id": "0003",
+            "speaker": "Bot",
+            "message": "香川県の次に面積の小さい県は大阪府です。"
+        },
+        {
+            "message_id": 11,
+            "user_id": "0053",
+            "speaker": "Human",
+            "message": "北海道の次に面積の大きい県は何処ですか？"
+        },
+        {
+            "message_id": 12,
+            "system_id": "0003",
+            "speaker": "Bot",
+            "message": "北海道の次に面積の大きい県は岩手県です。"
+        },
+        {
+            "message_id": 13,
+            "user_id": "0053",
+            "speaker": "Human",
+            "message": "東北地方に空港の数はどれくらいありますか？"
+        },
+        {
+            "message_id": 14,
+            "system_id": "0003",
+            "speaker": "Bot",
+            "message": "東北地方には、青森空港、岩手花巻空港、秋田空港、仙台空港、山形空港、庄内空港、福島空港の7つの空港があります。"
+        },
+        {
+            "message_id": 15,
+            "user_id": "0053",
+            "speaker": "Human",
+            "message": "北海道の平均気温はどれくらいですか？"
+        },
+        {
+            "message_id": 16,
+            "system_id": "0003",
+            "speaker": "Bot",
+            "message": "北海道の平均気温は年間を通じて約8°C前後です。"
+        },
+        {
+            "message_id": 17,
+            "user_id": "0053",
+            "speaker": "Human",
+            "message": "北海道の名物にはどんな物がありますか？"
+        },
+        {
+            "message_id": 18,
+            "system_id": "0003",
+            "speaker": "Bot",
+            "message": "北海道の名物には、ジンギスカン、海鮮丼、ラーメン、乳製品などがあります。"
+        },
+        {
+            "message_id": 19,
+            "user_id": "0053",
+            "speaker": "Human",
+            "message": "北海道に牧場の数はどれくらいありますか？"
+        },
+        {
+            "message_id": 20,
+            "system_id": "0003",
+            "speaker": "Bot",
+            "message": "北海道には数百の牧場がありますが、正確な数は時期や情報源によって異なる場合があります。"
+        }
+    ]
+}

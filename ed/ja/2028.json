@@ -1,0 +1,136 @@
+{
+    "dialogue_id": 2028,
+    "setting": "ed",
+    "model": "gpt-4o",
+    "prompt": "ent",
+    "emotion": "Embarrassed",
+    "episode": "柔道の試合中におならが出た",
+    "subjective_evaluation": {
+        "preference": 4.0,
+        "stylistic_similarity": 4.0,
+        "consistency": 5.0,
+        "empathy": 5.0
+    },
+    "dialogue": [
+        {
+            "message_id": 0,
+            "user_id": "0028",
+            "speaker": "Human",
+            "message": "柔道の試合中におならが出た"
+        },
+        {
+            "message_id": 1,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "それはちょっと恥ずかしいね。試合中だと気まずいよね。"
+        },
+        {
+            "message_id": 2,
+            "user_id": "0028",
+            "speaker": "Human",
+            "message": "周りから笑いも起こったしね"
+        },
+        {
+            "message_id": 3,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "それはきついね。でも、みんなも笑ってくれたなら、ちょっと和んだかもね。"
+        },
+        {
+            "message_id": 4,
+            "user_id": "0028",
+            "speaker": "Human",
+            "message": "力が入ってるのか恥ずかしいのかで顔が熱くなったよ"
+        },
+        {
+            "message_id": 5,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "そりゃあ、顔が熱くなるよね。でも、誰にでも起こることだし、気にしすぎないでね。"
+        },
+        {
+            "message_id": 6,
+            "user_id": "0028",
+            "speaker": "Human",
+            "message": "今となっては笑い話だけどね"
+        },
+        {
+            "message_id": 7,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "そうそう、時間が経つといい思い出になるよね。"
+        },
+        {
+            "message_id": 8,
+            "user_id": "0028",
+            "speaker": "Human",
+            "message": "でもその時はごまかそうにもごまかせない状況だったしね"
+        },
+        {
+            "message_id": 9,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "そうだよね、その場ではどうしようもないよね。でも、今は笑い話になってよかったね。"
+        },
+        {
+            "message_id": 10,
+            "user_id": "0028",
+            "speaker": "Human",
+            "message": "まぁ私だけではなく他にもおならが出る人はちょこちょこ居たな"
+        },
+        {
+            "message_id": 11,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "そうなんだ、結構あることなんだね。ちょっと安心するね。"
+        },
+        {
+            "message_id": 12,
+            "user_id": "0028",
+            "speaker": "Human",
+            "message": "まさか自分がそうなるとは思いもしなかったね"
+        },
+        {
+            "message_id": 13,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "本当に、予想外のことってあるよね。"
+        },
+        {
+            "message_id": 14,
+            "user_id": "0028",
+            "speaker": "Human",
+            "message": "もしあれがものすごく臭かったらどうなってたんだろう"
+        },
+        {
+            "message_id": 15,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "それはそれで、みんなのリアクションが気になるよね。"
+        },
+        {
+            "message_id": 16,
+            "user_id": "0028",
+            "speaker": "Human",
+            "message": "完全にヘイトを買うよね"
+        },
+        {
+            "message_id": 17,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "間違いないね。でも、そうならなくてよかったよね。"
+        },
+        {
+            "message_id": 18,
+            "user_id": "0028",
+            "speaker": "Human",
+            "message": "今だから笑って話せる"
+        },
+        {
+            "message_id": 19,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "そうそう、今だからこそ笑い話になるんだよね。"
+        }
+    ]
+}

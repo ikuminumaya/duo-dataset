@@ -1,0 +1,162 @@
+{
+    "dialogue_id": 2009,
+    "setting": "ed",
+    "model": "gpt-4o",
+    "prompt": "neutral",
+    "emotion": "Ashamed",
+    "episode": "今日、道で転んでしまいました。多くの人に見られていてとても恥ずかしかった",
+    "objective_evaluation": {
+        "preference": 4.0,
+        "stylistic_similarity": 4.33,
+        "consistency": 4.33,
+        "empathy": 4.33,
+        "preference_scores": [
+            4.0,
+            5.0,
+            3.0
+        ],
+        "stylistic_similarity_scores": [
+            4.0,
+            5.0,
+            4.0
+        ],
+        "consistency_scores": [
+            4.0,
+            5.0,
+            4.0
+        ],
+        "empathy_scores": [
+            5.0,
+            5.0,
+            3.0
+        ]
+    },
+    "subjective_evaluation": {
+        "preference": 3.0,
+        "stylistic_similarity": 2.0,
+        "consistency": 4.0,
+        "empathy": 3.0
+    },
+    "dialogue": [
+        {
+            "message_id": 0,
+            "user_id": "0009",
+            "speaker": "Human",
+            "message": "今日、道で転んでしまいました。多くの人に見られていてとても恥ずかしかったですね。"
+        },
+        {
+            "message_id": 1,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "それは恥ずかしいですね、大丈夫でしたか？"
+        },
+        {
+            "message_id": 2,
+            "user_id": "0009",
+            "speaker": "Human",
+            "message": "ケガは無かったですが、痛かったです。雨だったのでズボンが汚れてしまいました。"
+        },
+        {
+            "message_id": 3,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "それは大変でしたね。汚れたズボンをどうにかできましたか？"
+        },
+        {
+            "message_id": 4,
+            "user_id": "0009",
+            "speaker": "Human",
+            "message": "軽くハンカチで拭きましたがベージュのズボンだったので泥汚れが目立ってしまい恥ずかしかった。"
+        },
+        {
+            "message_id": 5,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "せっかくのベージュのズボンが残念でしたね。早く汚れが落ちるといいですね。"
+        },
+        {
+            "message_id": 6,
+            "user_id": "0009",
+            "speaker": "Human",
+            "message": "今夜洗濯する予定です。雨なので乾くか心配ですが。"
+        },
+        {
+            "message_id": 7,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "雨の日は乾きにくいですよね。乾くといいですね。"
+        },
+        {
+            "message_id": 8,
+            "user_id": "0009",
+            "speaker": "Human",
+            "message": "ダメなら乾燥機を使うつもりです"
+        },
+        {
+            "message_id": 9,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "それは良いアイデアですね。"
+        },
+        {
+            "message_id": 10,
+            "user_id": "0009",
+            "speaker": "Human",
+            "message": "今の時期は洗濯に苦労します"
+        },
+        {
+            "message_id": 11,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "わかります、乾きにくいですよね。"
+        },
+        {
+            "message_id": 12,
+            "user_id": "0009",
+            "speaker": "Human",
+            "message": "カラッと晴れないので困りますね。"
+        },
+        {
+            "message_id": 13,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "本当に、早く晴れてほしいですね。"
+        },
+        {
+            "message_id": 14,
+            "user_id": "0009",
+            "speaker": "Human",
+            "message": "生乾きのにおいが大嫌いなので早く梅雨が終わってほしいものです。"
+        },
+        {
+            "message_id": 15,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "その気持ち、よくわかります。早く梅雨が明けるといいですね。"
+        },
+        {
+            "message_id": 16,
+            "user_id": "0009",
+            "speaker": "Human",
+            "message": "といっても夏も苦手です。最近の夏は酷暑ですからね。"
+        },
+        {
+            "message_id": 17,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "確かに、暑すぎますよね。"
+        },
+        {
+            "message_id": 18,
+            "user_id": "0009",
+            "speaker": "Human",
+            "message": "今年も40度超える日が続くかもしれませんね"
+        },
+        {
+            "message_id": 19,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "そうですね、気をつけましょうね。"
+        }
+    ]
+}

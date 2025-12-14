@@ -1,0 +1,167 @@
+{
+    "dialogue_id": 3001,
+    "setting": "wow",
+    "model": "gpt-4o",
+    "prompt": "neutral",
+    "topic": "NFL",
+    "objective_evaluation": {
+        "preference": 3.67,
+        "stylistic_similarity": 3.67,
+        "consistency": 4.33,
+        "engagingness": 3.67,
+        "preference_scores": [
+            4.0,
+            3.0,
+            4.0
+        ],
+        "stylistic_similarity_scores": [
+            5.0,
+            3.0,
+            3.0
+        ],
+        "consistency_scores": [
+            5.0,
+            4.0,
+            4.0
+        ],
+        "engagingness_scores": [
+            4.0,
+            3.0,
+            4.0
+        ]
+    },
+    "subjective_evaluation": {
+        "preference": 5.0,
+        "stylistic_similarity": 3.0,
+        "consistency": 5.0,
+        "engagingness": 5.0
+    },
+    "dialogue": [
+        {
+            "message_id": 0,
+            "system_id": "0003",
+            "speaker": "Bot",
+            "message": "NFLは、32チームが参加するアメリカのプロのアメリカンフットボールリーグで、スーパーボウルでシーズンのチャンピオンが決定します。"
+        },
+        {
+            "message_id": 1,
+            "user_id": "0052",
+            "speaker": "Human",
+            "message": "たしか、スーパーボウルは、2月上旬くらいではなかったでしょか"
+        },
+        {
+            "message_id": 2,
+            "system_id": "0003",
+            "speaker": "Bot",
+            "message": "はい、スーパーボウルは通常2月の第1日曜日に開催されます。"
+        },
+        {
+            "message_id": 3,
+            "user_id": "0052",
+            "speaker": "Human",
+            "message": "りーぐは幾つに分かれていたんでしたっけ？"
+        },
+        {
+            "message_id": 4,
+            "system_id": "0003",
+            "speaker": "Bot",
+            "message": "NFLは、ナショナル・フットボール・カンファレンス（NFC）とアメリカン・フットボール・カンファレンス（AFC）の2つに分かれています。"
+        },
+        {
+            "message_id": 5,
+            "user_id": "0052",
+            "speaker": "Human",
+            "message": "シーズンの開始は、秋頃だったと思うのですが、合ってますか？"
+        },
+        {
+            "message_id": 6,
+            "system_id": "0003",
+            "speaker": "Bot",
+            "message": "はい、NFLのレギュラーシーズンは9月初旬から始まります。"
+        },
+        {
+            "message_id": 7,
+            "user_id": "0052",
+            "speaker": "Human",
+            "message": "最多優勝はどこのチームでしょうか"
+        },
+        {
+            "message_id": 8,
+            "system_id": "0003",
+            "speaker": "Bot",
+            "message": "最多優勝はピッツバーグ・スティーラーズとニューイングランド・ペイトリオッツで、それぞれ6回のスーパーボウル制覇を達成しています。"
+        },
+        {
+            "message_id": 9,
+            "user_id": "0052",
+            "speaker": "Human",
+            "message": "ピッツバーグ・スティーラーズですか。ピッツバーグを何度か訪れたことがあるので嬉しいです。"
+        },
+        {
+            "message_id": 10,
+            "system_id": "0003",
+            "speaker": "Bot",
+            "message": "ピッツバーグ・スティーラーズは、スーパーボウルで6回の優勝を誇る名門チームですね。"
+        },
+        {
+            "message_id": 11,
+            "user_id": "0052",
+            "speaker": "Human",
+            "message": "ケチャップメーカーのヘインズがスポンサーなんですかね？スタジアムに大きなロゴがあったような"
+        },
+        {
+            "message_id": 12,
+            "system_id": "0003",
+            "speaker": "Bot",
+            "message": "はい、ヘインツはピッツバーグ・スティーラーズの本拠地であるヘインツ・フィールドの命名権を持っていました。"
+        },
+        {
+            "message_id": 13,
+            "user_id": "0052",
+            "speaker": "Human",
+            "message": "「持っていました」ということは、変わってしまったのですか？"
+        },
+        {
+            "message_id": 14,
+            "system_id": "0003",
+            "speaker": "Bot",
+            "message": "はい、命名権は変更され、現在はアクリシュア・スタジアムとなっています。"
+        },
+        {
+            "message_id": 15,
+            "user_id": "0052",
+            "speaker": "Human",
+            "message": "そうなんですね。もう一つの最多優勝チーム、ニューイングランド・ペイトリオッツですが、2000年代に強くなったイメージがあるのですが"
+        },
+        {
+            "message_id": 16,
+            "system_id": "0003",
+            "speaker": "Bot",
+            "message": "はい、ニューイングランド・ペイトリオッツは2000年代に特に強力で、スーパーボウルを複数回制覇しました。"
+        },
+        {
+            "message_id": 17,
+            "user_id": "0052",
+            "speaker": "Human",
+            "message": "最多優勝のピッツバーグ・スティーラーズとニューイングランド・ペイトリオッツは、それぞれ、どのリーグに所属しているんでしょうか"
+        },
+        {
+            "message_id": 18,
+            "system_id": "0003",
+            "speaker": "Bot",
+            "message": "ピッツバーグ・スティーラーズはAFCに、ニューイングランド・ペイトリオッツもAFCに所属しています。"
+        },
+        {
+            "message_id": 19,
+            "user_id": "0052",
+            "speaker": "Human",
+            "message": "両方ともAFCなんですね。そうすると、優勝最多リーグもAFCですか？"
+        },
+        {
+            "message_id": 20,
+            "system_id": "0003",
+            "speaker": "Bot",
+            "message": "はい、AFCはスーパーボウルでの優勝回数が多いです。"
+        }
+    ]
+}

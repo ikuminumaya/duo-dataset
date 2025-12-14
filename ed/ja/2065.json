@@ -1,0 +1,162 @@
+{
+    "dialogue_id": 2065,
+    "setting": "ed",
+    "model": "gpt-4o",
+    "prompt": "neutral",
+    "emotion": "Lonely",
+    "episode": "学生時代、仲の良かった友人が遠くの大学へ進学することになり、卒業式の日に別れを告げました。その瞬間、胸の奥にぽっかり穴が開いたようなさびしさを感じました。SNSや電話で連絡は取れると分かっていても、日常的に顔を合わせることがなくなるという現実は、とても寂しいものでした。",
+    "objective_evaluation": {
+        "preference": 2.67,
+        "stylistic_similarity": 3.67,
+        "consistency": 3.67,
+        "empathy": 2.33,
+        "preference_scores": [
+            2.0,
+            1.0,
+            5.0
+        ],
+        "stylistic_similarity_scores": [
+            3.0,
+            3.0,
+            5.0
+        ],
+        "consistency_scores": [
+            3.0,
+            3.0,
+            5.0
+        ],
+        "empathy_scores": [
+            2.0,
+            1.0,
+            4.0
+        ]
+    },
+    "subjective_evaluation": {
+        "preference": 3.0,
+        "stylistic_similarity": 4.0,
+        "consistency": 4.0,
+        "empathy": 4.0
+    },
+    "dialogue": [
+        {
+            "message_id": 0,
+            "user_id": "0050",
+            "speaker": "Human",
+            "message": "学生時代仲の良かった友人がいます"
+        },
+        {
+            "message_id": 1,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "どんな友人だったのですか？"
+        },
+        {
+            "message_id": 2,
+            "user_id": "0050",
+            "speaker": "Human",
+            "message": "だから学生時代に仲の良かった友人です"
+        },
+        {
+            "message_id": 3,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "その友人とはどんな思い出がありますか？"
+        },
+        {
+            "message_id": 4,
+            "user_id": "0050",
+            "speaker": "Human",
+            "message": "一緒に勉強したり旅行などにも行きました"
+        },
+        {
+            "message_id": 5,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "素敵な思い出ですね。それからどうしたのですか？"
+        },
+        {
+            "message_id": 6,
+            "user_id": "0050",
+            "speaker": "Human",
+            "message": "遠くの大学へ進学することになりました"
+        },
+        {
+            "message_id": 7,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "離れるのは寂しいですね。"
+        },
+        {
+            "message_id": 8,
+            "user_id": "0050",
+            "speaker": "Human",
+            "message": "そして卒業式の日に別れを告げました"
+        },
+        {
+            "message_id": 9,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "お別れの時、どんな気持ちでしたか？"
+        },
+        {
+            "message_id": 10,
+            "user_id": "0050",
+            "speaker": "Human",
+            "message": "胸の奥にぽっかり穴が開いたようなさびしさを感じました"
+        },
+        {
+            "message_id": 11,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "それはとても寂しいですね。"
+        },
+        {
+            "message_id": 12,
+            "user_id": "0050",
+            "speaker": "Human",
+            "message": "そうなんです"
+        },
+        {
+            "message_id": 13,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "理解できます。今でも連絡を取り合っていますか？"
+        },
+        {
+            "message_id": 14,
+            "user_id": "0050",
+            "speaker": "Human",
+            "message": "SNSや電話で連絡を取り合っています"
+        },
+        {
+            "message_id": 15,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "それは良いですね！つながりが続いているのは素敵です。"
+        },
+        {
+            "message_id": 16,
+            "user_id": "0050",
+            "speaker": "Human",
+            "message": "でも日常的に顔を合わせることがなくなるという現実があります"
+        },
+        {
+            "message_id": 17,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "それは寂しいですね。"
+        },
+        {
+            "message_id": 18,
+            "user_id": "0050",
+            "speaker": "Human",
+            "message": "そうなんです"
+        },
+        {
+            "message_id": 19,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "大事な友達ですね。"
+        }
+    ]
+}

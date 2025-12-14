@@ -1,0 +1,162 @@
+{
+    "dialogue_id": 2013,
+    "setting": "ed",
+    "model": "gpt-4o",
+    "prompt": "neutral",
+    "emotion": "Anxious",
+    "episode": "近くに大型施設がオープンします。周辺の渋滞が不安です。",
+    "objective_evaluation": {
+        "preference": 3.0,
+        "stylistic_similarity": 4.0,
+        "consistency": 3.33,
+        "empathy": 3.0,
+        "preference_scores": [
+            3.0,
+            1.0,
+            5.0
+        ],
+        "stylistic_similarity_scores": [
+            4.0,
+            3.0,
+            5.0
+        ],
+        "consistency_scores": [
+            3.0,
+            2.0,
+            5.0
+        ],
+        "empathy_scores": [
+            4.0,
+            1.0,
+            4.0
+        ]
+    },
+    "subjective_evaluation": {
+        "preference": 2.0,
+        "stylistic_similarity": 3.0,
+        "consistency": 3.0,
+        "empathy": 3.0
+    },
+    "dialogue": [
+        {
+            "message_id": 0,
+            "user_id": "0013",
+            "speaker": "Human",
+            "message": "もうすぐ近くに大型施設が出来ます。渋滞が不安です。"
+        },
+        {
+            "message_id": 1,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "それは心配ですね。交通が混雑しないといいですね。"
+        },
+        {
+            "message_id": 2,
+            "user_id": "0013",
+            "speaker": "Human",
+            "message": "大きな道路沿いが大渋滞しそうで少し怖いですね"
+        },
+        {
+            "message_id": 3,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "それは不安ですね。早めの対策があるといいですね。"
+        },
+        {
+            "message_id": 4,
+            "user_id": "0013",
+            "speaker": "Human",
+            "message": "施設側でも対応してほしいですね"
+        },
+        {
+            "message_id": 5,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "本当にそうですね。施設側の対応に期待したいですね。"
+        },
+        {
+            "message_id": 6,
+            "user_id": "0013",
+            "speaker": "Human",
+            "message": "警察も近くにあるので整理に出てくれるといいな"
+        },
+        {
+            "message_id": 7,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "それがあると安心ですね。"
+        },
+        {
+            "message_id": 8,
+            "user_id": "0013",
+            "speaker": "Human",
+            "message": "事故だけは避けたいですね"
+        },
+        {
+            "message_id": 9,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "本当に、その通りです。安全第一ですね。"
+        },
+        {
+            "message_id": 10,
+            "user_id": "0013",
+            "speaker": "Human",
+            "message": "沢山の人が集まるので不安ばかりです"
+        },
+        {
+            "message_id": 11,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "不安ですよね。何事もないといいですね。"
+        },
+        {
+            "message_id": 12,
+            "user_id": "0013",
+            "speaker": "Human",
+            "message": "何もなく落ち着くといいですね"
+        },
+        {
+            "message_id": 13,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "本当にそう願います。"
+        },
+        {
+            "message_id": 14,
+            "user_id": "0013",
+            "speaker": "Human",
+            "message": "でも、大型施設ができるのはうれしいです"
+        },
+        {
+            "message_id": 15,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "それは楽しみですね！"
+        },
+        {
+            "message_id": 16,
+            "user_id": "0013",
+            "speaker": "Human",
+            "message": "楽しみと不安ですね"
+        },
+        {
+            "message_id": 17,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "その気持ち、よくわかります。"
+        },
+        {
+            "message_id": 18,
+            "user_id": "0013",
+            "speaker": "Human",
+            "message": "オープン後何事もないことを願ってます"
+        },
+        {
+            "message_id": 19,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "そう願っています。"
+        }
+    ]
+}

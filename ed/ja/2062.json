@@ -1,0 +1,136 @@
+{
+    "dialogue_id": 2062,
+    "setting": "ed",
+    "model": "gpt-4o",
+    "prompt": "ent",
+    "emotion": "Disappointed",
+    "episode": "エアコンが古くなってきたので新しいものに買い替えた。買い替えた翌月に同じ製品が大幅な値下げをして販売されていてがっかりした。",
+    "subjective_evaluation": {
+        "preference": 3.0,
+        "stylistic_similarity": 4.0,
+        "consistency": 5.0,
+        "empathy": 3.0
+    },
+    "dialogue": [
+        {
+            "message_id": 0,
+            "user_id": "0010",
+            "speaker": "Human",
+            "message": "先日、家のエアコンが古くなってきたので、新しいものに買い替えたんです。"
+        },
+        {
+            "message_id": 1,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "新しいエアコン、いいですね！使い心地はいかがですか？"
+        },
+        {
+            "message_id": 2,
+            "user_id": "0010",
+            "speaker": "Human",
+            "message": "暑くなる前に買い替えをと思ったので、試運転だけで、まだ本格的には使用してはいないんです。"
+        },
+        {
+            "message_id": 3,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "なるほどね。試運転の感じはどうだった？"
+        },
+        {
+            "message_id": 4,
+            "user_id": "0010",
+            "speaker": "Human",
+            "message": "音も静かですし、何より清潔に使用できることが嬉しいですね。"
+        },
+        {
+            "message_id": 5,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "それは嬉しいですね。これから安心して使えますね。"
+        },
+        {
+            "message_id": 6,
+            "user_id": "0010",
+            "speaker": "Human",
+            "message": "はい。でも少しがっかりしたことがあるんです。"
+        },
+        {
+            "message_id": 7,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "そうなんですか？何ががっかりだったんですか？"
+        },
+        {
+            "message_id": 8,
+            "user_id": "0010",
+            "speaker": "Human",
+            "message": "エアコンを購入してしばらくしたら、同一の製品が大幅な値下げをして販売されていたんです。"
+        },
+        {
+            "message_id": 9,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "それはちょっとショックですよね。でも、時期的に間に合って良かったですよね。"
+        },
+        {
+            "message_id": 10,
+            "user_id": "0010",
+            "speaker": "Human",
+            "message": "そうですね。夏が近づくと工事が間に合わなくなると思ったので早めに頼んだんですけど、やっぱりちょっとショックでしたね。"
+        },
+        {
+            "message_id": 11,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "早めに頼んだからこその安心感もあるし、結果オーライって感じかな。"
+        },
+        {
+            "message_id": 12,
+            "user_id": "0010",
+            "speaker": "Human",
+            "message": "そう思うようにして納得させてはいますね。"
+        },
+        {
+            "message_id": 13,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "そうだね。でも、安心して夏を迎えられるのは大きいよね。"
+        },
+        {
+            "message_id": 14,
+            "user_id": "0010",
+            "speaker": "Human",
+            "message": "おっしゃる通りです。もしも工事が間に合わないよりは断然いいですものね。"
+        },
+        {
+            "message_id": 15,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "そうですね。やっぱり安心感が一番ですもんね。"
+        },
+        {
+            "message_id": 16,
+            "user_id": "0010",
+            "speaker": "Human",
+            "message": "これで快適に夏を過ごせそうで安心です。"
+        },
+        {
+            "message_id": 17,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "それは良かったですね！これで安心して夏を迎えられますね。"
+        },
+        {
+            "message_id": 18,
+            "user_id": "0010",
+            "speaker": "Human",
+            "message": "はい。冬も頑張ってもらいたいですね。"
+        },
+        {
+            "message_id": 19,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "そうですね、これから一年中快適に過ごせそうですね。"
+        }
+    ]
+}

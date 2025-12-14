@@ -1,0 +1,162 @@
+{
+    "dialogue_id": 2054,
+    "setting": "ed",
+    "model": "gpt-4o",
+    "prompt": "nonent",
+    "emotion": "Afraid",
+    "episode": "最近自動車逆走事故のニュースをよく見ますが、先日遂に逆走車に遭遇し恐ろしかったです。",
+    "objective_evaluation": {
+        "preference": 4.33,
+        "stylistic_similarity": 3.33,
+        "consistency": 4.33,
+        "empathy": 4.0,
+        "preference_scores": [
+            4.0,
+            4.0,
+            5.0
+        ],
+        "stylistic_similarity_scores": [
+            4.0,
+            1.0,
+            5.0
+        ],
+        "consistency_scores": [
+            4.0,
+            4.0,
+            5.0
+        ],
+        "empathy_scores": [
+            4.0,
+            3.0,
+            5.0
+        ]
+    },
+    "subjective_evaluation": {
+        "preference": 3.0,
+        "stylistic_similarity": 4.0,
+        "consistency": 4.0,
+        "empathy": 3.0
+    },
+    "dialogue": [
+        {
+            "message_id": 0,
+            "user_id": "0047",
+            "speaker": "Human",
+            "message": "先日初めて逆走車に遭遇しました"
+        },
+        {
+            "message_id": 1,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "それは危険でしたね。大丈夫でしたか？"
+        },
+        {
+            "message_id": 2,
+            "user_id": "0047",
+            "speaker": "Human",
+            "message": "大丈夫でしたが恐ろしかったです"
+        },
+        {
+            "message_id": 3,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "それは恐ろしい体験でしたね。どうかお気をつけて。"
+        },
+        {
+            "message_id": 4,
+            "user_id": "0047",
+            "speaker": "Human",
+            "message": "ありがとうございます"
+        },
+        {
+            "message_id": 5,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "とんでもない。それにしても、逆走車は本当に危ないですね。"
+        },
+        {
+            "message_id": 6,
+            "user_id": "0047",
+            "speaker": "Human",
+            "message": "最近よく報道されていますが、以前からこんなに多発していたんですかねぇ"
+        },
+        {
+            "message_id": 7,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "そうですね。以前からあったかもしれませんが、報道で目立つようになったのかもしれません。"
+        },
+        {
+            "message_id": 8,
+            "user_id": "0047",
+            "speaker": "Human",
+            "message": "それにしても逆走事故のニュースが多い気がします、ニュースバリュー的には以前から扱われていてもおかしくはないと思いますが"
+        },
+        {
+            "message_id": 9,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "確かに、逆走事故の報道は増えているように感じます。もしかしたら、社会の関心が高まっているのかもしれませんね。"
+        },
+        {
+            "message_id": 10,
+            "user_id": "0047",
+            "speaker": "Human",
+            "message": "原因はなんなんでしょうね"
+        },
+        {
+            "message_id": 11,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "原因は様々ですが、運転ミスや注意不足、時には認知症などの健康問題も関連していると言われています。"
+        },
+        {
+            "message_id": 12,
+            "user_id": "0047",
+            "speaker": "Human",
+            "message": "高齢者だけでなく中年層などにも多いのが怖いです"
+        },
+        {
+            "message_id": 13,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "そうですね。運転に関する意識と安全性の向上が必要ですね。"
+        },
+        {
+            "message_id": 14,
+            "user_id": "0047",
+            "speaker": "Human",
+            "message": "自動車って素晴らしい発明ですが利便に対して安全性が低すぎますよね"
+        },
+        {
+            "message_id": 15,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "確かに、便利さと安全のバランスは難しいですね。技術の進化に期待したいです。"
+        },
+        {
+            "message_id": 16,
+            "user_id": "0047",
+            "speaker": "Human",
+            "message": "多くの人の命を奪っている恐ろしい乗り物です"
+        },
+        {
+            "message_id": 17,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "確かに、車は危険も伴いますが、技術の進化で安全性が向上することを願っています。"
+        },
+        {
+            "message_id": 18,
+            "user_id": "0047",
+            "speaker": "Human",
+            "message": "自動車が発明されてからそう大きな進歩はないですよね"
+        },
+        {
+            "message_id": 19,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "技術は進んでいますが、安全性の大きな進化はまだですね。"
+        }
+    ]
+}

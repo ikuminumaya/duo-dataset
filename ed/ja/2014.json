@@ -1,0 +1,136 @@
+{
+    "dialogue_id": 2014,
+    "setting": "ed",
+    "model": "gpt-4o",
+    "prompt": "neutral",
+    "emotion": "Nostalgic",
+    "episode": "テレビで昭和歌謡の特集をしていた。懐かしい曲に触れて楽しかった。##",
+    "subjective_evaluation": {
+        "preference": 3.0,
+        "stylistic_similarity": 3.0,
+        "consistency": 4.0,
+        "empathy": 3.0
+    },
+    "dialogue": [
+        {
+            "message_id": 0,
+            "user_id": "0014",
+            "speaker": "Human",
+            "message": "先日テレビで昭和歌謡の特集をしていました。懐かしい曲が聴けて嬉しかったです。"
+        },
+        {
+            "message_id": 1,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "懐かしい曲って、心が温まりますよね。どの曲が特に印象に残りましたか？"
+        },
+        {
+            "message_id": 2,
+            "user_id": "0014",
+            "speaker": "Human",
+            "message": "バンドだとチェッカーズの曲ですね。"
+        },
+        {
+            "message_id": 3,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "チェッカーズは名曲が多いですよね！どの曲が特に好きですか？"
+        },
+        {
+            "message_id": 4,
+            "user_id": "0014",
+            "speaker": "Human",
+            "message": "星屑のステージが好きですね。"
+        },
+        {
+            "message_id": 5,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "素敵な選曲ですね！聴くたびに元気が出そうですね。"
+        },
+        {
+            "message_id": 6,
+            "user_id": "0014",
+            "speaker": "Human",
+            "message": "チェッカーズは見た目とは違い、演奏力がありますね。"
+        },
+        {
+            "message_id": 7,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "本当にそうですね！ギャップが魅力的ですよね。"
+        },
+        {
+            "message_id": 8,
+            "user_id": "0014",
+            "speaker": "Human",
+            "message": "また、音楽だけではなくバラエティー番組にも出演していましたね。"
+        },
+        {
+            "message_id": 9,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "そうなんですね！多才なグループだったんですね。"
+        },
+        {
+            "message_id": 10,
+            "user_id": "0014",
+            "speaker": "Human",
+            "message": "とんねるずの番組でのチェッカーズは面白かったです。"
+        },
+        {
+            "message_id": 11,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "楽しそうですね！笑いが絶えない時間だったんだろうな。"
+        },
+        {
+            "message_id": 12,
+            "user_id": "0014",
+            "speaker": "Human",
+            "message": "昭和の時代のアイドルは、ドリフターズの8時だよ全員集合にも出ていましたね。"
+        },
+        {
+            "message_id": 13,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "そうなんですね！当時のアイドルは本当に多才でしたね。"
+        },
+        {
+            "message_id": 14,
+            "user_id": "0014",
+            "speaker": "Human",
+            "message": "西城秀樹、郷ひろみ、野口五郎などのバラエティーでいい演技をしていました。"
+        },
+        {
+            "message_id": 15,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "そうなんですね！彼らの多才さは本当に素晴らしいですね。"
+        },
+        {
+            "message_id": 16,
+            "user_id": "0014",
+            "speaker": "Human",
+            "message": "昭和時代の曲が再評価されていますが、良い曲は何時の時代でもいい曲ですね。"
+        },
+        {
+            "message_id": 17,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "本当にそうですね。時代を超えて愛され続けますね。"
+        },
+        {
+            "message_id": 18,
+            "user_id": "0014",
+            "speaker": "Human",
+            "message": "現在、レコードで音楽を聴く人が結構いるみたいですね。"
+        },
+        {
+            "message_id": 19,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "そうですね。アナログな音が新鮮ですよね。"
+        }
+    ]
+}

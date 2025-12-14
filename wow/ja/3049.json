@@ -1,0 +1,141 @@
+{
+    "dialogue_id": 3049,
+    "setting": "wow",
+    "model": "gpt-4o",
+    "prompt": "nonent",
+    "topic": "ブルーノ・マーズ",
+    "subjective_evaluation": {
+        "preference": 4.0,
+        "stylistic_similarity": 4.0,
+        "consistency": 5.0,
+        "engagingness": 4.0
+    },
+    "dialogue": [
+        {
+            "message_id": 0,
+            "system_id": "0005",
+            "speaker": "Bot",
+            "message": "ブルーノ・マーズは、音楽一家で育ち、ハワイからロサンゼルスへ移り住んで成功を収めたシンガーソングライターです。"
+        },
+        {
+            "message_id": 1,
+            "user_id": "0074",
+            "speaker": "Human",
+            "message": "彼は何歳ですか"
+        },
+        {
+            "message_id": 2,
+            "system_id": "0005",
+            "speaker": "Bot",
+            "message": "ブルーノ・マーズは1985年10月8日生まれなので、現在37歳です。"
+        },
+        {
+            "message_id": 3,
+            "user_id": "0074",
+            "speaker": "Human",
+            "message": "代表曲には何がありますか"
+        },
+        {
+            "message_id": 4,
+            "system_id": "0005",
+            "speaker": "Bot",
+            "message": "ブルーノ・マーズの代表曲には「Just the Way You Are」、「Grenade」、「Locked Out of Heaven」などがあり、これらは国際的にも成功を収めています。"
+        },
+        {
+            "message_id": 5,
+            "user_id": "0074",
+            "speaker": "Human",
+            "message": "賞を受賞した曲は何ですか"
+        },
+        {
+            "message_id": 6,
+            "system_id": "0005",
+            "speaker": "Bot",
+            "message": "ブルーノ・マーズは「Just the Way You Are」や「Grenade」で国際的に成功を収め、数々の賞を受賞しています。"
+        },
+        {
+            "message_id": 7,
+            "user_id": "0074",
+            "speaker": "Human",
+            "message": "賞の名前はなにですか"
+        },
+        {
+            "message_id": 8,
+            "system_id": "0005",
+            "speaker": "Bot",
+            "message": "ブルーノ・マーズは「Just the Way You Are」でグラミー賞の最優秀男性ポップボーカルパフォーマンス賞を受賞しています。"
+        },
+        {
+            "message_id": 9,
+            "user_id": "0074",
+            "speaker": "Human",
+            "message": "彼の曲は何に分類されますか"
+        },
+        {
+            "message_id": 10,
+            "system_id": "0005",
+            "speaker": "Bot",
+            "message": "ブルーノ・マーズの楽曲はポップ、R&B、ファンクなど多様なジャンルに分類されます。"
+        },
+        {
+            "message_id": 11,
+            "user_id": "0074",
+            "speaker": "Human",
+            "message": "来日経験はありますか"
+        },
+        {
+            "message_id": 12,
+            "system_id": "0005",
+            "speaker": "Bot",
+            "message": "はい、ブルーノ・マーズは過去に何度か来日しており、日本での公演も成功を収めています。"
+        },
+        {
+            "message_id": 13,
+            "user_id": "0074",
+            "speaker": "Human",
+            "message": "これから訪日の予定はありますか"
+        },
+        {
+            "message_id": 14,
+            "system_id": "0005",
+            "speaker": "Bot",
+            "message": "現在のところ、ブルーノ・マーズの具体的な訪日予定は確認できませんが、新しいツアー情報が発表されることを期待しています。"
+        },
+        {
+            "message_id": 15,
+            "user_id": "0074",
+            "speaker": "Human",
+            "message": "彼の曲でドライブにおすすめの曲はなにですか"
+        },
+        {
+            "message_id": 16,
+            "system_id": "0005",
+            "speaker": "Bot",
+            "message": "ドライブにおすすめのブルーノ・マーズの曲は「Treasure」や「Locked Out of Heaven」ですね。どちらもノリが良くて、車の中で盛り上がること間違いなしです！"
+        },
+        {
+            "message_id": 17,
+            "user_id": "0074",
+            "speaker": "Human",
+            "message": "彼のアルバムを一枚買うとしたら何がお勧めですか"
+        },
+        {
+            "message_id": 18,
+            "system_id": "0005",
+            "speaker": "Bot",
+            "message": "ブルーノ・マーズのアルバムなら、『Doo-Wops & Hooligans』は彼のデビュー作であり、代表的なヒット曲が詰まっているのでおすすめです。"
+        },
+        {
+            "message_id": 19,
+            "user_id": "0074",
+            "speaker": "Human",
+            "message": "彼の家族構成を教えて下さい"
+        },
+        {
+            "message_id": 20,
+            "system_id": "0005",
+            "speaker": "Bot",
+            "message": "ブルーノ・マーズは音楽一家に生まれ、幼少期から音楽に親しんで育ちました。"
+        }
+    ]
+}

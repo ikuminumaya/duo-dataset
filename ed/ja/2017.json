@@ -1,0 +1,136 @@
+{
+    "dialogue_id": 2017,
+    "setting": "ed",
+    "model": "gpt-4o",
+    "prompt": "neutral",
+    "emotion": "Embarrassed",
+    "episode": "外出先で知人だと思って親しく声をかけたら、全くの他人だった。",
+    "subjective_evaluation": {
+        "preference": 3.0,
+        "stylistic_similarity": 4.0,
+        "consistency": 5.0,
+        "empathy": 3.0
+    },
+    "dialogue": [
+        {
+            "message_id": 0,
+            "user_id": "0017",
+            "speaker": "Human",
+            "message": "外出先で、知人かと思って親しげに声を掛けたら全くの他人で、すごい恥ずかしかったです。"
+        },
+        {
+            "message_id": 1,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "それはすごく気まずいですね。勘違いすること、誰にでもありますよ。"
+        },
+        {
+            "message_id": 2,
+            "user_id": "0017",
+            "speaker": "Human",
+            "message": "相手の対応が冷静に「どちら様？」と言われてしまったので、頭が混乱してしまいました。"
+        },
+        {
+            "message_id": 3,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "それはさらに焦りますね。でも、きっと相手も驚いていただけですよ。"
+        },
+        {
+            "message_id": 4,
+            "user_id": "0017",
+            "speaker": "Human",
+            "message": "見ず知らずの人に親しげに声をかけられれば、相手も驚きますよね。"
+        },
+        {
+            "message_id": 5,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "そうですね、お互いに驚いたんでしょうね。"
+        },
+        {
+            "message_id": 6,
+            "user_id": "0017",
+            "speaker": "Human",
+            "message": "頭が混乱して数秒固まって、「あ、間違えました」と言うのが精一杯でした。"
+        },
+        {
+            "message_id": 7,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "それでもちゃんと謝れて偉いですよ。"
+        },
+        {
+            "message_id": 8,
+            "user_id": "0017",
+            "speaker": "Human",
+            "message": "そういって頂けると嬉しいです。こういう場合の上手い誤魔化し方とかないですかね？"
+        },
+        {
+            "message_id": 9,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "ユーモアを交えて「双子かな？」なんて言ってみるのもいいかもしれませんね。"
+        },
+        {
+            "message_id": 10,
+            "user_id": "0017",
+            "speaker": "Human",
+            "message": "それ、いいですね。ちなみにカフェでやってしまったので、すぐに退店してしまいました。"
+        },
+        {
+            "message_id": 11,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "その場を離れたくなる気持ち、すごくわかります。"
+        },
+        {
+            "message_id": 12,
+            "user_id": "0017",
+            "speaker": "Human",
+            "message": "またその人がカフェに居たら気まずいので、行きにくいです。"
+        },
+        {
+            "message_id": 13,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "気まずいですよね。でも、きっとすぐに気にしなくなると思いますよ。"
+        },
+        {
+            "message_id": 14,
+            "user_id": "0017",
+            "speaker": "Human",
+            "message": "一瞬の出来事だから、相手も私の事を覚えていないかもしれないかもですね。"
+        },
+        {
+            "message_id": 15,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "そうですね、きっとそうだと思いますよ。"
+        },
+        {
+            "message_id": 16,
+            "user_id": "0017",
+            "speaker": "Human",
+            "message": "でも、なるべくそのカフェに行く時は一目に触れない席に座ろうと思います。"
+        },
+        {
+            "message_id": 17,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "それが安心ですね。気持ちが落ち着くまで、無理せずに。"
+        },
+        {
+            "message_id": 18,
+            "user_id": "0017",
+            "speaker": "Human",
+            "message": "何回か行ってその人を見かけなかったら、堂々と利用しようと思います。"
+        },
+        {
+            "message_id": 19,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "それがいいですね。きっと大丈夫ですよ。"
+        }
+    ]
+}

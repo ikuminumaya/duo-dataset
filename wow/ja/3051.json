@@ -1,0 +1,167 @@
+{
+    "dialogue_id": 3051,
+    "setting": "wow",
+    "model": "gpt-4o",
+    "prompt": "nonent",
+    "topic": "ニワトリ",
+    "objective_evaluation": {
+        "preference": 4.33,
+        "stylistic_similarity": 4.0,
+        "consistency": 4.33,
+        "engagingness": 4.67,
+        "preference_scores": [
+            5.0,
+            4.0,
+            4.0
+        ],
+        "stylistic_similarity_scores": [
+            4.0,
+            4.0,
+            4.0
+        ],
+        "consistency_scores": [
+            4.0,
+            5.0,
+            4.0
+        ],
+        "engagingness_scores": [
+            5.0,
+            4.0,
+            5.0
+        ]
+    },
+    "subjective_evaluation": {
+        "preference": 4.0,
+        "stylistic_similarity": 4.0,
+        "consistency": 4.0,
+        "engagingness": 4.0
+    },
+    "dialogue": [
+        {
+            "message_id": 0,
+            "system_id": "0005",
+            "speaker": "Bot",
+            "message": "鶏は、世界中で最も広く飼育されている家禽であり、その歴史は紀元前15世紀のエジプトにまで遡ることができます。"
+        },
+        {
+            "message_id": 1,
+            "user_id": "0030",
+            "speaker": "Human",
+            "message": "その当時鶏はどのような目的で飼われてたのですか？"
+        },
+        {
+            "message_id": 2,
+            "system_id": "0005",
+            "speaker": "Bot",
+            "message": "エジプトでは紀元前15世紀頃から鶏が知られており、「毎日卵を産む鳥」として卵の供給源として重要視されていたようです。"
+        },
+        {
+            "message_id": 3,
+            "user_id": "0030",
+            "speaker": "Human",
+            "message": "そんなに昔から卵ｗo"
+        },
+        {
+            "message_id": 4,
+            "system_id": "0005",
+            "speaker": "Bot",
+            "message": "そうですね、紀元前15世紀のエジプトでは、鶏は「毎日卵を産む鳥」として、主に卵の供給源として飼われていたようです。"
+        },
+        {
+            "message_id": 5,
+            "user_id": "0030",
+            "speaker": "Human",
+            "message": "鶏の卵はどのように食されたのでしょうか？"
+        },
+        {
+            "message_id": 6,
+            "system_id": "0005",
+            "speaker": "Bot",
+            "message": "古代エジプトでは、鶏の卵は主に茹でたり焼いたりして食されていたと考えられますが、正確な調理法ははっきりとは分かっていません。"
+        },
+        {
+            "message_id": 7,
+            "user_id": "0030",
+            "speaker": "Human",
+            "message": "さすがに生では食べませんね"
+        },
+        {
+            "message_id": 8,
+            "system_id": "0005",
+            "speaker": "Bot",
+            "message": "はい、生で食べることはあまり一般的ではありませんでした。古代の調理法では、火を使った調理が中心でしたので、茹でたり焼いたりして食されたと考えられます。"
+        },
+        {
+            "message_id": 9,
+            "user_id": "0030",
+            "speaker": "Human",
+            "message": "鶏の卵を生で食べる習慣はいつ頃から始まったのでしょうか？"
+        },
+        {
+            "message_id": 10,
+            "system_id": "0005",
+            "speaker": "Bot",
+            "message": "鶏の卵を生で食べる習慣が広まったのは、日本など一部の国で比較的最近のことですが、古代からあったわけではありません。"
+        },
+        {
+            "message_id": 11,
+            "user_id": "0030",
+            "speaker": "Human",
+            "message": "日本で鶏が飼育されるようになったのは何時ですか？"
+        },
+        {
+            "message_id": 12,
+            "system_id": "0005",
+            "speaker": "Bot",
+            "message": "日本で鶏が飼育され始めたのは、古代からのことであり、具体的な時期は明確にはわかっていませんが、東南アジアや東アジアの地域から伝わったと考えられています。"
+        },
+        {
+            "message_id": 13,
+            "user_id": "0030",
+            "speaker": "Human",
+            "message": "考古学的に最も古い記録となると何でしょうか"
+        },
+        {
+            "message_id": 14,
+            "system_id": "0005",
+            "speaker": "Bot",
+            "message": "日本における鶏の考古学的な記録は、古墳時代に遡ることができ、東南アジアや東アジアから伝わったと考えられています。"
+        },
+        {
+            "message_id": 15,
+            "user_id": "0030",
+            "speaker": "Human",
+            "message": "それでは古墳時代にはすでに飼育されていたのですね"
+        },
+        {
+            "message_id": 16,
+            "system_id": "0005",
+            "speaker": "Bot",
+            "message": "はい、考古学的には古墳時代には鶏がすでに飼育されていた証拠があります。"
+        },
+        {
+            "message_id": 17,
+            "user_id": "0030",
+            "speaker": "Human",
+            "message": "それはどのような証拠になりますか？"
+        },
+        {
+            "message_id": 18,
+            "system_id": "0005",
+            "speaker": "Bot",
+            "message": "古墳時代の日本では、鶏の骨が出土しており、それが飼育の証拠とされています。"
+        },
+        {
+            "message_id": 19,
+            "user_id": "0030",
+            "speaker": "Human",
+            "message": "その当時から多くの人が日常的に卵を食べていたのでしょうか？"
+        },
+        {
+            "message_id": 20,
+            "system_id": "0005",
+            "speaker": "Bot",
+            "message": "古墳時代において、鶏の卵がどの程度日常的に消費されていたかははっきり分かっていませんが、食料源としての利用が始まっていたと考えられます。"
+        }
+    ]
+}

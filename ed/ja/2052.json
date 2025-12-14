@@ -1,0 +1,136 @@
+{
+    "dialogue_id": 2052,
+    "setting": "ed",
+    "model": "gpt-4o",
+    "prompt": "nonent",
+    "emotion": "Caring",
+    "episode": "友人が寝不足だった。作業を手伝ってあげた。早く帰らせてあげた。",
+    "subjective_evaluation": {
+        "preference": 3.0,
+        "stylistic_similarity": 4.0,
+        "consistency": 4.0,
+        "empathy": 3.0
+    },
+    "dialogue": [
+        {
+            "message_id": 0,
+            "user_id": "0020",
+            "speaker": "Human",
+            "message": "今日は友人が寝不足気味で疲れた顔をしてました。"
+        },
+        {
+            "message_id": 1,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "それは心配ですね。何か手伝えることがあれば良いのですが。"
+        },
+        {
+            "message_id": 2,
+            "user_id": "0020",
+            "speaker": "Human",
+            "message": "昨晩、何かの配信を明け方まで観ていたようなので、自業自得とは言えますけどね"
+        },
+        {
+            "message_id": 3,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "なるほど、それでもお疲れ様ですね。休息が大切ですから、ゆっくり休めるといいですね。"
+        },
+        {
+            "message_id": 4,
+            "user_id": "0020",
+            "speaker": "Human",
+            "message": "そうですね。あまりに疲れてそうだったので仕事を少し手伝ってあげました"
+        },
+        {
+            "message_id": 5,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "優しいですね。彼も感謝しているでしょう。"
+        },
+        {
+            "message_id": 6,
+            "user_id": "0020",
+            "speaker": "Human",
+            "message": "普段からお互いピンチのときは手伝い合っているのでまあいつも通りです。"
+        },
+        {
+            "message_id": 7,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "それが友情の美しさですね。お互いを支え合うのは素晴らしいことです。"
+        },
+        {
+            "message_id": 8,
+            "user_id": "0020",
+            "speaker": "Human",
+            "message": "支え合うのは大事ですねー。金銭面以外なら"
+        },
+        {
+            "message_id": 9,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "そうですね、友情は金銭以外の部分で深まるものですからね。"
+        },
+        {
+            "message_id": 10,
+            "user_id": "0020",
+            "speaker": "Human",
+            "message": "その後、昼過ぎまでは仕事してましたがさすがに辛そうなので早く帰らせました。"
+        },
+        {
+            "message_id": 11,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "それは賢明な判断でしたね。彼の健康が最優先です。"
+        },
+        {
+            "message_id": 12,
+            "user_id": "0020",
+            "speaker": "Human",
+            "message": "とりあえず早く寝るよう言っときましたので、きっと今頃寝てるでしょう"
+        },
+        {
+            "message_id": 13,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "それは良かったです。彼が十分な休息を取れることを願っています。"
+        },
+        {
+            "message_id": 14,
+            "user_id": "0020",
+            "speaker": "Human",
+            "message": "ただ早く寝すぎて、変な時間に目が覚めるかもしれませんね"
+        },
+        {
+            "message_id": 15,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "確かに、その可能性もありますね。リズムが整うと良いのですが。"
+        },
+        {
+            "message_id": 16,
+            "user_id": "0020",
+            "speaker": "Human",
+            "message": "そうですね。私もですが友人も生活リズムがよく狂うので心配ですね"
+        },
+        {
+            "message_id": 17,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "生活リズム、大事ですね。気をつける価値あります。"
+        },
+        {
+            "message_id": 18,
+            "user_id": "0020",
+            "speaker": "Human",
+            "message": "適切な運動や食事に気をつけなければいけませんね"
+        },
+        {
+            "message_id": 19,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "本当だね。健康維持は重要だ。"
+        }
+    ]
+}

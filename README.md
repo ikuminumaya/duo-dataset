@@ -1,52 +1,59 @@
 # DUO: Dialogue dataset with User subjective and Objective evaluations
 
-The DUO dataset is introduced in our paper at SIGDIAL 2025, *How Stylistic Similarity Shapes Preferences in Dialogue Dataset with User and Third Party Evaluations.*
+The DUO dataset is introduced in our SIGDIAL 2025 paper, *How Stylistic Similarity Shapes Preferences in Dialogue Dataset with User and Third Party Evaluations.*
 
-This dataset contains dialogues collected on MTurk under open-domain dialogue settings, including EmpatheticDialogues \[[Rashkin+'19](https://aclanthology.org/P19-1534/)\] and Wizard of Wikipedia \[[Dinan+'19](https://arxiv.org/abs/1811.01241)\].
+This dataset contains dialogues collected on MTurk under open-domain dialogue settings, including EmpatheticDialogues (ED) \[[Rashkin+'19](https://aclanthology.org/P19-1534/)\] and Wizard of Wikipedia (WoW) \[[Dinan+'19](https://arxiv.org/abs/1811.01241)\].
 
-Each dialogue is annotated by subjective evaluations from the user themselves and objective evaluations from third-party annotators.
+Each dialogue is annotated with subjective evaluations from the user themselves and objective evaluations from third-party annotators.
+
+The Japanese data, collected via Yahoo! Crowdsourcing, are described in an article in the Journal of Natural Language Processing (Vol. 32, No. 4) (Japan), *Dialogue Evaluation Is Affected by How Raters Perceive Stylistic Similarity*, and constitute a Japanese extension of the DUO dataset.
+
+In the journal version, we added objective evaluations to English dialogues , so some of the scores reported here differ from those in the SIGDIAL 2025 paper.
 
 ## Statistics
 **Basic Statistics**
-||EmpatheticDialogues|Wizard of Wikipedia|
-|-|----|----|
-|Number of dialogues|157|157|
-|Number of dialogues with objective evaluations|50|46|
-|Number of participants|34|34|
-|Number of utterances|3,148|3,302|
-|Number of tokens|44,640|63,157|
-|Number of unique emotions|30|-|
-|Number of unique topics|-|133|
-|Dialogue length(min-max)|20-23|20-23|
-|Avg. Number of utterances per dialogue|20.05|21.03|
-|Utterance length(min-max)|1-76|1-146|
-|Avg. of utterance length|14.18|19.13|
-|Vocabulary|3,819|6,439|
-|Type-token ratio|0.086|0.10|
-|Herdan’s C|0.77|0.79|
-|Language|English|English|
+|                      | English                 |                     | Japanese               |                   |
+|----------------------|:--------------------:|:-------------------:|:--------------------:|:-------------------:|
+|                      | **ED**               | **WoW**             | **ED**               | **WoW**             |
+|Number of dialogues|157|157|68|73|
+|Number of dialogues with objective evaluations|70|71|45|45|
+|Number of participants|34|34|52|52|
+|Number of utterances|3,148|3,302|1,360|1,533|
+|Number of tokens|44,640|63,157|23,046|35,524|
+|Number of unique emotions|30|-|28|-|
+|Number of unique topics|-|133|-|73|
+|Dialogue length(min-max)|20-23|20-23|20|21|
+|Avg. Number of utterances per dialogue|20.05|21.03|20|21|
+|Utterance length(min-max)|1-76|1-146|1-84|2-76|
+|Avg. of utterance length|14.18|19.13|16.95|23.17|
+|Vocabulary|3,819|6,439|2,707|3,669|
+|Type-token ratio|0.086|0.10|0.117|0.103|
+|Herdan’s C|0.77|0.79|0.787|0.783|
 
 
 **Subjective evaluations (mean ± SD)**
 
-| Label   | EmpatheticDialogues| Wizard of Wikipedia |
-|:--------|:---------------|:----------------|
-| Preference   | 3.47 ± 1.31    | 3.96 ± 1.11     |
-| Consistency   | 4.40 ± 0.80    | 4.57 ± 0.68     |
-| Stylistic similarity   | 3.32 ± 1.31    | 3.86 ± 1.06     |
-| Empathy    | 3.87 ± 1.19    | –               |
-| Engagingness  | –              | 3.87 ± 1.18     |
+|                      | English                 |                     | Japanese               |                   |
+|----------------------|:--------------------:|:-------------------:|:--------------------:|:-------------------:|
+|                      | **ED**               | **WoW**             | **ED**               | **WoW**             |
+| Preference   | 3.47 ± 1.31    | 3.96 ± 1.11     | 3.53 ± 1.00    | 3.82 ± 1.06     |
+| Consistency   | 4.40 ± 0.80    | 4.57 ± 0.68     | 4.13 ± 0.83    | 3.93 ± 1.13     |
+| Stylistic similarity   | 3.32 ± 1.31    | 3.86 ± 1.06     | 3.47 ± 0.95    | 3.59 ± 1.09     |
+| Empathy    | 3.87 ± 1.19    | –               |3.74 ± 0.99    | –               |
+| Engagingness  | –              | 3.87 ± 1.18     | –              | 3.62 ± 1.08     |
+
 
 
 **Objective evaluations (mean ± SD)**
 
-| Label   | Empathetic Dialogue| Wizard of Wikipedia |
-|:--------|:---------------|:----------------|
-| Preference   | 3.50 ± 0.79    | 3.56 ± 0.72     |
-| Consistency   | 4.55 ± 0.42    | 4.49 ± 0.57     |
-| Stylistic similarity   | 3.51 ± 0.54    | 3.18 ± 0.73     |
-| Empathy    | 4.10 ± 0.58    | –               |
-| Engagingness  | –              | 3.62 ± 0.75     |
+|                      | English                 |                     | Japanese               |                   |
+|----------------------|:--------------------:|:-------------------:|:--------------------:|:-------------------:|
+|                      | **ED**               | **WoW**             | **ED**               | **WoW**             |
+| Preference   | 3.55 ± 0.75    | 3.55 ± 0.72     |3.63 ± 0.68    | 3.73 ± 0.55     |
+| Consistency   | 4.60 ± 0.38    | 4.54 ± 0.54     | 3.82 ± 0.45    | 3.96 ± 0.52     |
+| Stylistic similarity   | 3.50 ± 0.54    | 3.41 ± 0.70     | 3.25 ± 0.77    | 3.52 ± 0.66     |
+| Empathy    | 4.14 ± 0.55    | –               | 3.53 ± 0.63    | –               |
+| Engagingness  | –              | 3.80 ± 0.73     | –              | 3.67 ± 0.55     |
 
 ## Data Format
 | Key                                             | Type             | Description                                                                          |
@@ -159,6 +166,16 @@ Any real names contained in the collected data are anonymized and replaced with 
     publisher = "Association for Computational Linguistics",
 }
 
+@article{沼屋2025,
+  title={スタイル類似の知覚主体が対話評価に与える影響},
+  author={沼屋 征海 and 守屋 彰二 and 佐藤 志貴  and 赤間 怜奈 and 鈴木 潤},
+  journal={自然言語処理},
+  volume={32},
+  number={4},
+  pages={},
+  year={2025},
+  doi={}
+}
 
 ```
 

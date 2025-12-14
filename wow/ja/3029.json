@@ -1,0 +1,141 @@
+{
+    "dialogue_id": 3029,
+    "setting": "wow",
+    "model": "gpt-4o",
+    "prompt": "ent",
+    "topic": "マクドナルド",
+    "subjective_evaluation": {
+        "preference": 3.0,
+        "stylistic_similarity": 3.0,
+        "consistency": 3.0,
+        "engagingness": 3.0
+    },
+    "dialogue": [
+        {
+            "message_id": 0,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "「マクドナルドって、1940年にカリフォルニアで始まったんだよね。今は世界中で展開してて、いろいろなメニューがあるんだ。」"
+        },
+        {
+            "message_id": 1,
+            "user_id": "0063",
+            "speaker": "Human",
+            "message": "こんばんは。"
+        },
+        {
+            "message_id": 2,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "こんばんは！マクドナルドって、もともとカリフォルニアで始まったんだよ。知ってた？"
+        },
+        {
+            "message_id": 3,
+            "user_id": "0063",
+            "speaker": "Human",
+            "message": "知りませんでした。"
+        },
+        {
+            "message_id": 4,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "そうなんだ！マクドナルドは、もともとリチャードとモーリス・マクドナルド兄弟がカリフォルニアで始めたんだよ。"
+        },
+        {
+            "message_id": 5,
+            "user_id": "0063",
+            "speaker": "Human",
+            "message": "それも初耳でした。"
+        },
+        {
+            "message_id": 6,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "1955年にはレイ・クロックがフランチャイズ代理店として参加して、後にマクドナルド兄弟からチェーンを買収したんだよ。"
+        },
+        {
+            "message_id": 7,
+            "user_id": "0063",
+            "speaker": "Human",
+            "message": "ほほう…"
+        },
+        {
+            "message_id": 8,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "実は、マクドナルドは2018年に本社をシカゴに移転したんだよ。"
+        },
+        {
+            "message_id": 9,
+            "user_id": "0063",
+            "speaker": "Human",
+            "message": "今の所在地はどこですか？"
+        },
+        {
+            "message_id": 10,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "今はシカゴに本社があるんだよ。"
+        },
+        {
+            "message_id": 11,
+            "user_id": "0063",
+            "speaker": "Human",
+            "message": "野球？"
+        },
+        {
+            "message_id": 12,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "すみません、野球については特に関係はないですが、マクドナルドの本社はシカゴに移転されました。"
+        },
+        {
+            "message_id": 13,
+            "user_id": "0063",
+            "speaker": "Human",
+            "message": "住所は？"
+        },
+        {
+            "message_id": 14,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "マクドナルドの本社は、シカゴにありますよ。"
+        },
+        {
+            "message_id": 15,
+            "user_id": "0063",
+            "speaker": "Human",
+            "message": "highschool?"
+        },
+        {
+            "message_id": 16,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "あ、マクドナルドはもともとイリノイ州オークブルックに本社があったけど、今はシカゴに移転してるんだ。"
+        },
+        {
+            "message_id": 17,
+            "user_id": "0063",
+            "speaker": "Human",
+            "message": "日本マクドナルドの本社もあるんでしょうけど、どこだか知ってますか？"
+        },
+        {
+            "message_id": 18,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "日本マクドナルドの本社は、東京都新宿区にありますよ。"
+        },
+        {
+            "message_id": 19,
+            "user_id": "0063",
+            "speaker": "Human",
+            "message": "日本初のマクドは銀座だったと思いますが、意外です。"
+        },
+        {
+            "message_id": 20,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "そうですね、日本初のマクドナルドは銀座に1971年にオープンしましたよ。"
+        }
+    ]
+}

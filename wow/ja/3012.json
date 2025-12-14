@@ -1,0 +1,141 @@
+{
+    "dialogue_id": 3012,
+    "setting": "wow",
+    "model": "gpt-4o",
+    "prompt": "neutral",
+    "topic": "ジャスティン・ビーバー",
+    "subjective_evaluation": {
+        "preference": 3.0,
+        "stylistic_similarity": 5.0,
+        "consistency": 4.0,
+        "engagingness": 3.0
+    },
+    "dialogue": [
+        {
+            "message_id": 0,
+            "system_id": "0003",
+            "speaker": "Bot",
+            "message": "ジャスティン・ビーバーは、YouTubeで見出され、デビューアルバム「My World 2.0」で国際的な成功を収めたカナダの歌手です。"
+        },
+        {
+            "message_id": 1,
+            "user_id": "0055",
+            "speaker": "Human",
+            "message": "名前を聞いたことはありますが詳しくは知らない人ですね。どのようなジャンルの歌を歌う人なのですか？"
+        },
+        {
+            "message_id": 2,
+            "system_id": "0003",
+            "speaker": "Bot",
+            "message": "ジャスティン・ビーバーは主にポップ、R&B、ダンス・ポップのジャンルで活動しているカナダの歌手です。"
+        },
+        {
+            "message_id": 3,
+            "user_id": "0055",
+            "speaker": "Human",
+            "message": "いろんなジャンルの歌を歌うのですね。彼の歌唱力はどのような評価を受けていますか？"
+        },
+        {
+            "message_id": 4,
+            "system_id": "0003",
+            "speaker": "Bot",
+            "message": "ジャスティン・ビーバーの歌唱力は、YouTubeでのカバー動画を通じてタレントマネージャーに発見されるほど高く評価されています。"
+        },
+        {
+            "message_id": 5,
+            "user_id": "0055",
+            "speaker": "Human",
+            "message": "youtubeを通じて歌手活動を始めたということでしょうか。"
+        },
+        {
+            "message_id": 6,
+            "system_id": "0003",
+            "speaker": "Bot",
+            "message": "はい、ジャスティン・ビーバーはYouTubeでのカバー動画を通じて発見され、そこから音楽キャリアをスタートさせました。"
+        },
+        {
+            "message_id": 7,
+            "user_id": "0055",
+            "speaker": "Human",
+            "message": "夢のある話ですね。ジャスティンのyoutubeでの活動歴は何年ぐらいになるんですか？"
+        },
+        {
+            "message_id": 8,
+            "system_id": "0003",
+            "speaker": "Bot",
+            "message": "ジャスティン・ビーバーは2008年にYouTubeでの活動を始め、その動画を通じてタレントマネージャーに発見されました。"
+        },
+        {
+            "message_id": 9,
+            "user_id": "0055",
+            "speaker": "Human",
+            "message": "今現在もyoutubeでの活動を行っていますか？歌を披露したり、ファンとの交流を行うとか。"
+        },
+        {
+            "message_id": 10,
+            "system_id": "0003",
+            "speaker": "Bot",
+            "message": "現在もYouTubeで活動を続けており、ファンとの交流や新曲のプロモーションを行っています。"
+        },
+        {
+            "message_id": 11,
+            "user_id": "0055",
+            "speaker": "Human",
+            "message": "ジャスティンは他の歌手と共同で音楽活動を行ったことはありますか？"
+        },
+        {
+            "message_id": 12,
+            "system_id": "0003",
+            "speaker": "Bot",
+            "message": "はい、ジャスティン・ビーバーは「Despacito (Remix)」や「I'm the One」など、さまざまなアーティストとの成功したコラボレーションを行っています。"
+        },
+        {
+            "message_id": 13,
+            "user_id": "0055",
+            "speaker": "Human",
+            "message": "幅広い活躍をしているんですね。日本で公演を行ったことってあるんでしょうか？"
+        },
+        {
+            "message_id": 14,
+            "system_id": "0003",
+            "speaker": "Bot",
+            "message": "はい、ジャスティン・ビーバーは日本でも公演を行ったことがあります。"
+        },
+        {
+            "message_id": 15,
+            "user_id": "0055",
+            "speaker": "Human",
+            "message": "公演が行われた会場はどこになるんでしょうか。やはり数万単位の人を収容できる大きな会場なのでしょうか。"
+        },
+        {
+            "message_id": 16,
+            "system_id": "0003",
+            "speaker": "Bot",
+            "message": "はい、ジャスティン・ビーバーは日本でも大規模な会場で公演を行ったことがあります。"
+        },
+        {
+            "message_id": 17,
+            "user_id": "0055",
+            "speaker": "Human",
+            "message": "日本で行った公演のうち、最も新しいものは何年に行われたものなんですか？"
+        },
+        {
+            "message_id": 18,
+            "system_id": "0003",
+            "speaker": "Bot",
+            "message": "最新の情報については具体的な年はわかりませんが、ジャスティン・ビーバーは日本で公演を行ったことがあります。"
+        },
+        {
+            "message_id": 19,
+            "user_id": "0055",
+            "speaker": "Human",
+            "message": "ジャスティンは過去に世界何か国で公演を行ったかわかりますか？"
+        },
+        {
+            "message_id": 20,
+            "system_id": "0003",
+            "speaker": "Bot",
+            "message": "具体的な国数はわかりませんが、ジャスティン・ビーバーは世界中で公演を行っています。"
+        }
+    ]
+}

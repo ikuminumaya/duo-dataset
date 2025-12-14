@@ -1,0 +1,167 @@
+{
+    "dialogue_id": 3003,
+    "setting": "wow",
+    "model": "gpt-4o",
+    "prompt": "neutral",
+    "topic": "オーストラリア",
+    "objective_evaluation": {
+        "preference": 4.0,
+        "stylistic_similarity": 3.67,
+        "consistency": 4.33,
+        "engagingness": 4.0,
+        "preference_scores": [
+            5.0,
+            3.0,
+            4.0
+        ],
+        "stylistic_similarity_scores": [
+            5.0,
+            2.0,
+            4.0
+        ],
+        "consistency_scores": [
+            5.0,
+            3.0,
+            5.0
+        ],
+        "engagingness_scores": [
+            5.0,
+            2.0,
+            5.0
+        ]
+    },
+    "subjective_evaluation": {
+        "preference": 3.0,
+        "stylistic_similarity": 3.0,
+        "consistency": 4.0,
+        "engagingness": 3.0
+    },
+    "dialogue": [
+        {
+            "message_id": 0,
+            "system_id": "0003",
+            "speaker": "Bot",
+            "message": "オーストラリアはオセアニアで最大の国であり、首都はキャンベラ、最大の都市はシドニーです。"
+        },
+        {
+            "message_id": 1,
+            "user_id": "0014",
+            "speaker": "Human",
+            "message": "首都はキャンベラでしたね。シドニーが首都だと思っている人が大勢いそうですね。"
+        },
+        {
+            "message_id": 2,
+            "system_id": "0003",
+            "speaker": "Bot",
+            "message": "そうですね、多くの人がシドニーを首都と誤解していますが、実際の首都はキャンベラです。"
+        },
+        {
+            "message_id": 3,
+            "user_id": "0014",
+            "speaker": "Human",
+            "message": "キャンベラは行政の街ですか。"
+        },
+        {
+            "message_id": 4,
+            "system_id": "0003",
+            "speaker": "Bot",
+            "message": "はい、キャンベラは行政の中心地として設立され、政府機関が集中しています。"
+        },
+        {
+            "message_id": 5,
+            "user_id": "0014",
+            "speaker": "Human",
+            "message": "オーストラリアに観光に行く人で、キャンベラを訪れる人はどれ位いるのでしょうか。"
+        },
+        {
+            "message_id": 6,
+            "system_id": "0003",
+            "speaker": "Bot",
+            "message": "キャンベラは行政の中心地ですが、観光の主な目的地としてはシドニーやメルボルンに比べて訪れる人は少ないかもしれません。"
+        },
+        {
+            "message_id": 7,
+            "user_id": "0014",
+            "speaker": "Human",
+            "message": "オーストラリア観光で人気があるのは、やはりコアラですか。"
+        },
+        {
+            "message_id": 8,
+            "system_id": "0003",
+            "speaker": "Bot",
+            "message": "はい、コアラやカンガルーなどのユニークな野生動物は、オーストラリア観光の大きな魅力の一つです。"
+        },
+        {
+            "message_id": 9,
+            "user_id": "0014",
+            "speaker": "Human",
+            "message": "ラグビーのオーストラリア代表のことをワラビーズと呼びますが、ワラビーはオーストラリア固有の種ですか。"
+        },
+        {
+            "message_id": 10,
+            "system_id": "0003",
+            "speaker": "Bot",
+            "message": "はい、ワラビーはオーストラリア固有の動物であり、ラグビー代表チームの愛称としても使われています。"
+        },
+        {
+            "message_id": 11,
+            "user_id": "0014",
+            "speaker": "Human",
+            "message": "日本からは年間どれ位の人がオーストラリアを訪れていますか。"
+        },
+        {
+            "message_id": 12,
+            "system_id": "0003",
+            "speaker": "Bot",
+            "message": "具体的な人数は変動しますが、日本からオーストラリアへの観光客は毎年多数訪れています。"
+        },
+        {
+            "message_id": 13,
+            "user_id": "0014",
+            "speaker": "Human",
+            "message": "オーストラリア観光には一般的なツアーですと、どれ位の費用が掛かりますか。"
+        },
+        {
+            "message_id": 14,
+            "system_id": "0003",
+            "speaker": "Bot",
+            "message": "オーストラリア観光の費用は旅行の期間や内容によりますが、一般的には数十万円程度が目安です。"
+        },
+        {
+            "message_id": 15,
+            "user_id": "0014",
+            "speaker": "Human",
+            "message": "オーストラリアだと時差があまりないのでいいかもしれないですね。"
+        },
+        {
+            "message_id": 16,
+            "system_id": "0003",
+            "speaker": "Bot",
+            "message": "はい、オーストラリアと日本の時差は少なく、旅行の際に時差ぼけの心配が比較的少ないです。"
+        },
+        {
+            "message_id": 17,
+            "user_id": "0014",
+            "speaker": "Human",
+            "message": "オーストラリア観光には何月に行けばいいですかね。"
+        },
+        {
+            "message_id": 18,
+            "system_id": "0003",
+            "speaker": "Bot",
+            "message": "オーストラリアは四季が逆なので、観光には春や秋（9月から11月、3月から5月）が快適な気候でおすすめです。"
+        },
+        {
+            "message_id": 19,
+            "user_id": "0014",
+            "speaker": "Human",
+            "message": "真冬の季節から真夏だと、体調を崩しそうですね。"
+        },
+        {
+            "message_id": 20,
+            "system_id": "0003",
+            "speaker": "Bot",
+            "message": "確かに、季節が逆なので体調管理には注意が必要ですね。"
+        }
+    ]
+}

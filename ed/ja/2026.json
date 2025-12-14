@@ -1,0 +1,162 @@
+{
+    "dialogue_id": 2026,
+    "setting": "ed",
+    "model": "gpt-4o",
+    "prompt": "ent",
+    "emotion": "Hopeful",
+    "episode": "宝くじを買いましたが、当選発表日にはどうしても当たっていてほしいのでドキドキしています。##",
+    "objective_evaluation": {
+        "preference": 4.67,
+        "stylistic_similarity": 3.0,
+        "consistency": 4.33,
+        "empathy": 4.33,
+        "preference_scores": [
+            4.0,
+            5.0,
+            5.0
+        ],
+        "stylistic_similarity_scores": [
+            3.0,
+            1.0,
+            5.0
+        ],
+        "consistency_scores": [
+            4.0,
+            4.0,
+            5.0
+        ],
+        "empathy_scores": [
+            4.0,
+            4.0,
+            5.0
+        ]
+    },
+    "subjective_evaluation": {
+        "preference": 5.0,
+        "stylistic_similarity": 4.0,
+        "consistency": 5.0,
+        "empathy": 4.0
+    },
+    "dialogue": [
+        {
+            "message_id": 0,
+            "user_id": "0026",
+            "speaker": "Human",
+            "message": "宝くじを買いましたが、当選発表日にはどうしても当たっていてほしいのでドキドキしています。"
+        },
+        {
+            "message_id": 1,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "当たってるといいね！結果が楽しみだね。"
+        },
+        {
+            "message_id": 2,
+            "user_id": "0026",
+            "speaker": "Human",
+            "message": "3000円が当たっていました！300円しか当たらなかったと思っていたので嬉しいです！"
+        },
+        {
+            "message_id": 3,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "おお、それはラッキーだね！おめでとう！"
+        },
+        {
+            "message_id": 4,
+            "user_id": "0026",
+            "speaker": "Human",
+            "message": "当たった3000円で美味しいお菓子を買って帰りたいと思いますが、何がいいかな？"
+        },
+        {
+            "message_id": 5,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "いいね！チョコレートとかケーキはどうかな？甘いものは幸せな気分になるよね。"
+        },
+        {
+            "message_id": 6,
+            "user_id": "0026",
+            "speaker": "Human",
+            "message": "甘いものいいですよね！ケーキを買って帰ります。でもショートケーキやチョコレートケーキ、フルーツケーキなど迷ってしまいそうです。"
+        },
+        {
+            "message_id": 7,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "どれも美味しそうだね！気分に合わせて選ぶのも楽しいよね。"
+        },
+        {
+            "message_id": 8,
+            "user_id": "0026",
+            "speaker": "Human",
+            "message": "自分じゃ選べないので、もしよければ選んでもらえませんか？"
+        },
+        {
+            "message_id": 9,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "じゃあ、チョコレートケーキはどうかな？リッチで満足感あるし、特別な日にぴったりだよね。"
+        },
+        {
+            "message_id": 10,
+            "user_id": "0026",
+            "speaker": "Human",
+            "message": "ありがとうございます！チョコレートケーキにします。でも3000円だとホールケーキは買えるかな？"
+        },
+        {
+            "message_id": 11,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "3000円あれば、ちょっと小さいホールケーキとか買えるかもね。楽しみだね！"
+        },
+        {
+            "message_id": 12,
+            "user_id": "0026",
+            "speaker": "Human",
+            "message": "でもケーキだけだと甘いので、少しだけしょっぱいものも買いたいですが、何かお勧めの食べ物はありますか？"
+        },
+        {
+            "message_id": 13,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "おつまみ系で、チーズクラッカーとかどうかな？バランス取れていいと思うよ。"
+        },
+        {
+            "message_id": 14,
+            "user_id": "0026",
+            "speaker": "Human",
+            "message": "その2つだと、飲み物はどんなのが合うと思いますか？"
+        },
+        {
+            "message_id": 15,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "紅茶とかどうかな？甘いのもしょっぱいのも合うからいいと思うよ！"
+        },
+        {
+            "message_id": 16,
+            "user_id": "0026",
+            "speaker": "Human",
+            "message": "なるほど！紅茶だと甘くてもいいし、無糖でも飲めるから家族で飲めそうです！"
+        },
+        {
+            "message_id": 17,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "そうだね、家族みんなで楽しめるね！"
+        },
+        {
+            "message_id": 18,
+            "user_id": "0026",
+            "speaker": "Human",
+            "message": "色々一緒に考えてくれてありがとうございます！"
+        },
+        {
+            "message_id": 19,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "こちらこそ、楽しかったです！楽しんでね！"
+        }
+    ]
+}

@@ -1,0 +1,167 @@
+{
+    "dialogue_id": 3035,
+    "setting": "wow",
+    "model": "gpt-4o",
+    "prompt": "ent",
+    "topic": "トヨタ自動車",
+    "objective_evaluation": {
+        "preference": 2.67,
+        "stylistic_similarity": 2.67,
+        "consistency": 3.0,
+        "engagingness": 2.33,
+        "preference_scores": [
+            4.0,
+            1.0,
+            3.0
+        ],
+        "stylistic_similarity_scores": [
+            4.0,
+            2.0,
+            2.0
+        ],
+        "consistency_scores": [
+            4.0,
+            2.0,
+            3.0
+        ],
+        "engagingness_scores": [
+            4.0,
+            1.0,
+            2.0
+        ]
+    },
+    "subjective_evaluation": {
+        "preference": 5.0,
+        "stylistic_similarity": 4.0,
+        "consistency": 4.0,
+        "engagingness": 5.0
+    },
+    "dialogue": [
+        {
+            "message_id": 0,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "トヨタは、ハイブリッド車の普及を世界中で推進している大手企業で、特にプリウスが人気だよ。"
+        },
+        {
+            "message_id": 1,
+            "user_id": "0068",
+            "speaker": "Human",
+            "message": "ハイブリット車ってなんですか"
+        },
+        {
+            "message_id": 2,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "ハイブリッド車は、ガソリンエンジンと電動モーターの両方を使って走る車のことだよ。燃費が良くて環境に優しいんだ。"
+        },
+        {
+            "message_id": 3,
+            "user_id": "0068",
+            "speaker": "Human",
+            "message": "もう少し詳しく"
+        },
+        {
+            "message_id": 4,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "ハイブリッド車は、ガソリンエンジンと電動モーターを組み合わせて効率よく動く車で、燃費が良く環境に優しいのが特徴なんだよ。"
+        },
+        {
+            "message_id": 5,
+            "user_id": "0068",
+            "speaker": "Human",
+            "message": "トヨタってどの国の会社ですか"
+        },
+        {
+            "message_id": 6,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "トヨタは日本の企業で、愛知県豊田市に本社があるんだ。"
+        },
+        {
+            "message_id": 7,
+            "user_id": "0068",
+            "speaker": "Human",
+            "message": "創業は何時ですか"
+        },
+        {
+            "message_id": 8,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "トヨタは1937年に豊田喜一郎さんによって設立されたんだよ。"
+        },
+        {
+            "message_id": 9,
+            "user_id": "0068",
+            "speaker": "Human",
+            "message": "株価は"
+        },
+        {
+            "message_id": 10,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "ごめんね、株価の最新情報は確認できないんだ。株式市場のウェブサイトや金融ニュースでチェックしてみるといいよ。"
+        },
+        {
+            "message_id": 11,
+            "user_id": "0068",
+            "speaker": "Human",
+            "message": "日本で何番目の企業ですか"
+        },
+        {
+            "message_id": 12,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "トヨタは日本で最大級の企業の一つで、トヨタグループの一員なんだよ。"
+        },
+        {
+            "message_id": 13,
+            "user_id": "0068",
+            "speaker": "Human",
+            "message": "世界だとどのくらいですか"
+        },
+        {
+            "message_id": 14,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "トヨタは世界でも有数の自動車メーカーで、特にハイブリッド車の分野で市場をリードしているよ。"
+        },
+        {
+            "message_id": 15,
+            "user_id": "0068",
+            "speaker": "Human",
+            "message": "そうなんだね"
+        },
+        {
+            "message_id": 16,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "そうなんだ、トヨタは世界のハイブリッド車市場をリードしていて、特にプリウスが人気だよ。"
+        },
+        {
+            "message_id": 17,
+            "user_id": "0068",
+            "speaker": "Human",
+            "message": "他に情報はありますか"
+        },
+        {
+            "message_id": 18,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "トヨタはレクサスや日野などのブランドも手掛けていて、世界中で多くの合弁事業を展開しているんだよ。"
+        },
+        {
+            "message_id": 19,
+            "user_id": "0068",
+            "speaker": "Human",
+            "message": "もう少し詳しく"
+        },
+        {
+            "message_id": 20,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "トヨタは、トヨタブランド以外にも日野やレクサス、ダイハツなどのブランドで車を製造していて、世界中で合弁事業も展開してるんだよ。"
+        }
+    ]
+}

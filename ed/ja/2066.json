@@ -1,0 +1,162 @@
+{
+    "dialogue_id": 2066,
+    "setting": "ed",
+    "model": "gpt-4o",
+    "prompt": "neutral",
+    "emotion": "Confident",
+    "episode": "バードウォッチングが趣味である。最近はサイクリングの休憩中にスズメやカモと遊ぶのが楽しい。鳥から好かれているという自覚も自信もある。##",
+    "objective_evaluation": {
+        "preference": 3.33,
+        "stylistic_similarity": 2.33,
+        "consistency": 3.67,
+        "empathy": 3.67,
+        "preference_scores": [
+            3.0,
+            4.0,
+            3.0
+        ],
+        "stylistic_similarity_scores": [
+            3.0,
+            1.0,
+            3.0
+        ],
+        "consistency_scores": [
+            4.0,
+            4.0,
+            3.0
+        ],
+        "empathy_scores": [
+            3.0,
+            5.0,
+            3.0
+        ]
+    },
+    "subjective_evaluation": {
+        "preference": 2.0,
+        "stylistic_similarity": 4.0,
+        "consistency": 3.0,
+        "empathy": 2.0
+    },
+    "dialogue": [
+        {
+            "message_id": 0,
+            "user_id": "0024",
+            "speaker": "Human",
+            "message": "私は野鳥の種類を見分けることに自信があるんです。"
+        },
+        {
+            "message_id": 1,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "すごいですね！どんな鳥が得意ですか？"
+        },
+        {
+            "message_id": 2,
+            "user_id": "0024",
+            "speaker": "Human",
+            "message": "特に得意なのはカモ類ですね。冬に日本に飛来してくるカモは、大体わかります。"
+        },
+        {
+            "message_id": 3,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "冬のカモたちを見分けられるなんて素晴らしいですね！"
+        },
+        {
+            "message_id": 4,
+            "user_id": "0024",
+            "speaker": "Human",
+            "message": "そうですね。生き物が好きなので、人間に話しかけるように話しかけています。最近は私が立ち寄ると近寄ってくるカモやスズメがいるので、さらに楽しいです。"
+        },
+        {
+            "message_id": 5,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "それは素敵ですね！きっと鳥たちもあなたを信頼しているんですね。"
+        },
+        {
+            "message_id": 6,
+            "user_id": "0024",
+            "speaker": "Human",
+            "message": "そうだと嬉しいです。自然環境を壊さない程度に、粟粒などのエサをあげることもあるんです。"
+        },
+        {
+            "message_id": 7,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "優しいですね。鳥たちも喜んでいるでしょうね。"
+        },
+        {
+            "message_id": 8,
+            "user_id": "0024",
+            "speaker": "Human",
+            "message": "仲間だと思ってくれていると嬉しいのですが。でも最近は海や川が汚れていたり、スズメガスを作る場所が減っているとのことで、心配です。"
+        },
+        {
+            "message_id": 9,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "本当に心配ですね。自然環境が守られるといいですね。"
+        },
+        {
+            "message_id": 10,
+            "user_id": "0024",
+            "speaker": "Human",
+            "message": "自然環境を守るには、人間は土嚢なことをすればよいと思いますか？"
+        },
+        {
+            "message_id": 11,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "小さなことから始めるといいですね。たとえばゴミを減らす、環境に優しい製品を選ぶなど。"
+        },
+        {
+            "message_id": 12,
+            "user_id": "0024",
+            "speaker": "Human",
+            "message": "まずはエコな生活ですね。さらに、巣作りができる環境や植樹もしてあげないといけませんね。そんなことを低減できるようになれば、自分に自信がつくのですが。"
+        },
+        {
+            "message_id": 13,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "その通りですね。少しずつできることを増やしていけば、自信もついてくると思いますよ。"
+        },
+        {
+            "message_id": 14,
+            "user_id": "0024",
+            "speaker": "Human",
+            "message": "自分のできることからコツコツやっていきたいと思います。"
+        },
+        {
+            "message_id": 15,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "応援しています！頑張ってくださいね。"
+        },
+        {
+            "message_id": 16,
+            "user_id": "0024",
+            "speaker": "Human",
+            "message": "ありがとうございます。これからも人と野生動物が共存できる、周りに自慢できるような自信をつけた人になりたいと思います。"
+        },
+        {
+            "message_id": 17,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "素晴らしい目標ですね！応援しています。"
+        },
+        {
+            "message_id": 18,
+            "user_id": "0024",
+            "speaker": "Human",
+            "message": "頑張ります。あなたも日ごろから自然保護に注目していますか？"
+        },
+        {
+            "message_id": 19,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "はい、できる限り心掛けています。"
+        }
+    ]
+}

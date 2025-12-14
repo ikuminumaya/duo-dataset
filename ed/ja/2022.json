@@ -1,0 +1,162 @@
+{
+    "dialogue_id": 2022,
+    "setting": "ed",
+    "model": "gpt-4o",
+    "prompt": "ent",
+    "emotion": "Disappointed",
+    "episode": "天気が雨だったり、風が強かったりで、楽しみにしているテニスができなくて、がっかりした。",
+    "objective_evaluation": {
+        "preference": 3.33,
+        "stylistic_similarity": 2.67,
+        "consistency": 3.67,
+        "empathy": 3.67,
+        "preference_scores": [
+            4.0,
+            3.0,
+            3.0
+        ],
+        "stylistic_similarity_scores": [
+            2.0,
+            3.0,
+            3.0
+        ],
+        "consistency_scores": [
+            4.0,
+            3.0,
+            4.0
+        ],
+        "empathy_scores": [
+            5.0,
+            3.0,
+            3.0
+        ]
+    },
+    "subjective_evaluation": {
+        "preference": 5.0,
+        "stylistic_similarity": 5.0,
+        "consistency": 5.0,
+        "empathy": 5.0
+    },
+    "dialogue": [
+        {
+            "message_id": 0,
+            "user_id": "0022",
+            "speaker": "Human",
+            "message": "最近、雨ばかりで、テニスができません"
+        },
+        {
+            "message_id": 1,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "それは残念だね。早く晴れるといいね。"
+        },
+        {
+            "message_id": 2,
+            "user_id": "0022",
+            "speaker": "Human",
+            "message": "そうですね。でも、晴れると今度は風が強かったりするんですよね"
+        },
+        {
+            "message_id": 3,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "それは困っちゃうね。いいコンディションの日が早く来るといいね。"
+        },
+        {
+            "message_id": 4,
+            "user_id": "0022",
+            "speaker": "Human",
+            "message": "そうなんですよ。早く良い天気になってもらいたいです。"
+        },
+        {
+            "message_id": 5,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "本当にね。早くテニスが楽しめる日が来るといいね。"
+        },
+        {
+            "message_id": 6,
+            "user_id": "0022",
+            "speaker": "Human",
+            "message": "最近、人気が出てきて、コートも確保も大変なんですよ。"
+        },
+        {
+            "message_id": 7,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "ますます大変だね。早く良いタイミングでテニスができるといいね。"
+        },
+        {
+            "message_id": 8,
+            "user_id": "0022",
+            "speaker": "Human",
+            "message": "メンバーを集めるのも、なかなか難しいです。"
+        },
+        {
+            "message_id": 9,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "それは大変だね。みんなが集まれるといいね。"
+        },
+        {
+            "message_id": 10,
+            "user_id": "0022",
+            "speaker": "Human",
+            "message": "シングルスをするので、最悪、一人相手がいればいいんですけどね。"
+        },
+        {
+            "message_id": 11,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "一人でも相手が見つかるといいね。頑張って！"
+        },
+        {
+            "message_id": 12,
+            "user_id": "0022",
+            "speaker": "Human",
+            "message": "ありがとう。頑張って、相手を見つけます。"
+        },
+        {
+            "message_id": 13,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "いいね、頑張って！応援してるよ。"
+        },
+        {
+            "message_id": 14,
+            "user_id": "0022",
+            "speaker": "Human",
+            "message": "早く、週末にならないかな。"
+        },
+        {
+            "message_id": 15,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "週末が待ち遠しいね。楽しみだね！"
+        },
+        {
+            "message_id": 16,
+            "user_id": "0022",
+            "speaker": "Human",
+            "message": "今度も週末は、コートも相手も決まっているんでね。"
+        },
+        {
+            "message_id": 17,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "それは楽しみだね！良い週末になるといいね。"
+        },
+        {
+            "message_id": 18,
+            "user_id": "0022",
+            "speaker": "Human",
+            "message": "ありがとう。頑張るよ。"
+        },
+        {
+            "message_id": 19,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "こちらこそ！楽しんできてね。"
+        }
+    ]
+}

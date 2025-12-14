@@ -1,0 +1,167 @@
+{
+    "dialogue_id": 3038,
+    "setting": "wow",
+    "model": "gpt-4o",
+    "prompt": "ent",
+    "topic": "ランボルギーニ",
+    "objective_evaluation": {
+        "preference": 2.67,
+        "stylistic_similarity": 2.33,
+        "consistency": 3.0,
+        "engagingness": 3.0,
+        "preference_scores": [
+            2.0,
+            4.0,
+            2.0
+        ],
+        "stylistic_similarity_scores": [
+            2.0,
+            3.0,
+            2.0
+        ],
+        "consistency_scores": [
+            2.0,
+            4.0,
+            3.0
+        ],
+        "engagingness_scores": [
+            3.0,
+            4.0,
+            2.0
+        ]
+    },
+    "subjective_evaluation": {
+        "preference": 5.0,
+        "stylistic_similarity": 3.0,
+        "consistency": 5.0,
+        "engagingness": 4.0
+    },
+    "dialogue": [
+        {
+            "message_id": 0,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "ランボルギーニはイタリアの高級車メーカーで、アウディを通じてフォルクスワーゲングループに属しています。"
+        },
+        {
+            "message_id": 1,
+            "user_id": "0071",
+            "speaker": "Human",
+            "message": "車の話ですか？"
+        },
+        {
+            "message_id": 2,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "はい、ランボルギーニは高級車の話ですね！イタリアのメーカーで、特にスーパーカーで有名です。"
+        },
+        {
+            "message_id": 3,
+            "user_id": "0071",
+            "speaker": "Human",
+            "message": "そうなんだ。外車って乗ったことない"
+        },
+        {
+            "message_id": 4,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "ランボルギーニはイタリアのスーパーカーで有名だけど、実はトラクターも作ってるんだよ。"
+        },
+        {
+            "message_id": 5,
+            "user_id": "0071",
+            "speaker": "Human",
+            "message": "農業に使うの？"
+        },
+        {
+            "message_id": 6,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "うん、ランボルギーニはトラクターも作ってて、農業にも使われてるよ！"
+        },
+        {
+            "message_id": 7,
+            "user_id": "0071",
+            "speaker": "Human",
+            "message": "イメージと違った！"
+        },
+        {
+            "message_id": 8,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "そうだよね、ランボルギーニってスーパーカーのイメージが強いけど、実はトラクターも作ってて、農業にも使われてるんだ。"
+        },
+        {
+            "message_id": 9,
+            "user_id": "0071",
+            "speaker": "Human",
+            "message": "耕してるのか。。。何の作物・"
+        },
+        {
+            "message_id": 10,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "そうなんだ、ランボルギーニのトラクターは色々な作物の農業に使われてるんだよ。"
+        },
+        {
+            "message_id": 11,
+            "user_id": "0071",
+            "speaker": "Human",
+            "message": "どこの国で活躍してるの？"
+        },
+        {
+            "message_id": 12,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "ランボルギーニのトラクターは主にイタリアで活躍してるけど、他の国でも使われてることがあるよ！"
+        },
+        {
+            "message_id": 13,
+            "user_id": "0071",
+            "speaker": "Human",
+            "message": "パスタの材料にランボルギーニもかかわってるとか？"
+        },
+        {
+            "message_id": 14,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "うん、ランボルギーニのトラクターがイタリアで農業に使われてるから、間接的にはパスタの材料にも関わってるかもしれないね！"
+        },
+        {
+            "message_id": 15,
+            "user_id": "0071",
+            "speaker": "Human",
+            "message": "おもしろい！イタリアン食べるとき思い出してみようかな"
+        },
+        {
+            "message_id": 16,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "おもしろい視点だね！ランボルギーニのトラクターがイタリアで作物の栽培に使われてる可能性はあるから、イタリアンを食べるときにちょっとしたつながりを感じるのも楽しいかもね。"
+        },
+        {
+            "message_id": 17,
+            "user_id": "0071",
+            "speaker": "Human",
+            "message": "今日ちょっとうんちく仕入れられたよありがとう"
+        },
+        {
+            "message_id": 18,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "どういたしまして！ランボルギーニの歴史にはいろいろな変遷があったけど、今でもイタリアンを楽しむときにちょっとしたつながりを感じるのは面白いね！"
+        },
+        {
+            "message_id": 19,
+            "user_id": "0071",
+            "speaker": "Human",
+            "message": "運転してるのはやっぱり農家のおじさん？"
+        },
+        {
+            "message_id": 20,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "うん、ランボルギーニのトラクターはイタリアのピエーヴェ・ディ・チェントで作られてるから、地元の農家の方が運転してることも多いかもね！"
+        }
+    ]
+}

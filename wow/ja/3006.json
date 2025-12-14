@@ -1,0 +1,167 @@
+{
+    "dialogue_id": 3006,
+    "setting": "wow",
+    "model": "gpt-4o",
+    "prompt": "neutral",
+    "topic": "レクサス",
+    "objective_evaluation": {
+        "preference": 2.33,
+        "stylistic_similarity": 1.67,
+        "consistency": 3.0,
+        "engagingness": 2.33,
+        "preference_scores": [
+            2.0,
+            2.0,
+            3.0
+        ],
+        "stylistic_similarity_scores": [
+            2.0,
+            1.0,
+            2.0
+        ],
+        "consistency_scores": [
+            2.0,
+            5.0,
+            2.0
+        ],
+        "engagingness_scores": [
+            2.0,
+            2.0,
+            3.0
+        ]
+    },
+    "subjective_evaluation": {
+        "preference": 1.0,
+        "stylistic_similarity": 2.0,
+        "consistency": 1.0,
+        "engagingness": 1.0
+    },
+    "dialogue": [
+        {
+            "message_id": 0,
+            "system_id": "0003",
+            "speaker": "Bot",
+            "message": "レクサスは1989年に高級セダンLSの発売から始まり、その後SUVやハイブリッドモデルを含む多様な車種を展開しています。"
+        },
+        {
+            "message_id": 1,
+            "user_id": "0054",
+            "speaker": "Human",
+            "message": "富裕層が乗ってるイメージがあるね。"
+        },
+        {
+            "message_id": 2,
+            "system_id": "0003",
+            "speaker": "Bot",
+            "message": "レクサスは高級車として広く認識されており、特にアメリカ市場での人気が高いことから、富裕層に支持されています。"
+        },
+        {
+            "message_id": 3,
+            "user_id": "0054",
+            "speaker": "Human",
+            "message": "アメリカでも人気があるんだね。"
+        },
+        {
+            "message_id": 4,
+            "system_id": "0003",
+            "speaker": "Bot",
+            "message": "はい、レクサスは特にアメリカ市場での人気が高く、最大市場となっています。"
+        },
+        {
+            "message_id": 5,
+            "user_id": "0054",
+            "speaker": "Human",
+            "message": "トランプに目を付けられてない？"
+        },
+        {
+            "message_id": 6,
+            "system_id": "0003",
+            "speaker": "Bot",
+            "message": "レクサスはアメリカ市場で非常に成功を収めており、特に高級車市場での地位を確立しています。"
+        },
+        {
+            "message_id": 7,
+            "user_id": "0054",
+            "speaker": "Human",
+            "message": "トヨタの立場からトランプ関税の影響は無い？"
+        },
+        {
+            "message_id": 8,
+            "system_id": "0003",
+            "speaker": "Bot",
+            "message": "トヨタは主に日本でレクサスを生産していますが、カナダでも生産しており、関税の影響を受ける可能性があります。"
+        },
+        {
+            "message_id": 9,
+            "user_id": "0054",
+            "speaker": "Human",
+            "message": "大変だよね。"
+        },
+        {
+            "message_id": 10,
+            "system_id": "0003",
+            "speaker": "Bot",
+            "message": "トヨタはアメリカ市場でのレクサスの販売を強化しており、関税の影響を受ける可能性はあるものの、戦略的に対応しています。"
+        },
+        {
+            "message_id": 11,
+            "user_id": "0054",
+            "speaker": "Human",
+            "message": "大丈夫なの？"
+        },
+        {
+            "message_id": 12,
+            "system_id": "0003",
+            "speaker": "Bot",
+            "message": "トヨタはアメリカ市場での影響を最小限に抑えるため、カナダでの生産や企業再編などの戦略的な対応を行っています。"
+        },
+        {
+            "message_id": 13,
+            "user_id": "0054",
+            "speaker": "Human",
+            "message": "トランプはカナダとも揉めてけど。"
+        },
+        {
+            "message_id": 14,
+            "system_id": "0003",
+            "speaker": "Bot",
+            "message": "トヨタはカナダでもレクサスを生産しており、アメリカ市場の影響を緩和するための戦略的な対応を行っています。"
+        },
+        {
+            "message_id": 15,
+            "user_id": "0054",
+            "speaker": "Human",
+            "message": "話が噛み合わないね。今、アメリカとカナダの関係はあんまり良くないよね？"
+        },
+        {
+            "message_id": 16,
+            "system_id": "0003",
+            "speaker": "Bot",
+            "message": "アメリカとカナダの関係が緊張する中、トヨタはカナダでの生産を活用しつつ、国際市場での販売を強化しています。"
+        },
+        {
+            "message_id": 17,
+            "user_id": "0054",
+            "speaker": "Human",
+            "message": "トヨタが上手くやってくれてるなら良いけどさ。"
+        },
+        {
+            "message_id": 18,
+            "system_id": "0003",
+            "speaker": "Bot",
+            "message": "トヨタは企業再編や国際生産拠点を活用し、アメリカ市場での影響を緩和しています。"
+        },
+        {
+            "message_id": 19,
+            "user_id": "0054",
+            "speaker": "Human",
+            "message": "でも、アメリカが最大市場なんでしょ？"
+        },
+        {
+            "message_id": 20,
+            "system_id": "0003",
+            "speaker": "Bot",
+            "message": "はい、アメリカは依然としてレクサスの最大市場です。"
+        }
+    ]
+}

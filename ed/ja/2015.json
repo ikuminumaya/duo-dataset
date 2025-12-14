@@ -1,0 +1,136 @@
+{
+    "dialogue_id": 2015,
+    "setting": "ed",
+    "model": "gpt-4o",
+    "prompt": "neutral",
+    "emotion": "Hopeful",
+    "episode": "頑張ってきたのでうれしい##昇給するのでうれしい##部下ができるのでしっかりしなければいけない",
+    "subjective_evaluation": {
+        "preference": 4.0,
+        "stylistic_similarity": 4.0,
+        "consistency": 4.0,
+        "empathy": 4.0
+    },
+    "dialogue": [
+        {
+            "message_id": 0,
+            "user_id": "0015",
+            "speaker": "Human",
+            "message": "仕事で昇進できました"
+        },
+        {
+            "message_id": 1,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "おめでとうございます！本当に素晴らしいですね。"
+        },
+        {
+            "message_id": 2,
+            "user_id": "0015",
+            "speaker": "Human",
+            "message": "ありがとう。これからますます仕事を頑張らないといけません。"
+        },
+        {
+            "message_id": 3,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "その意気込み、素晴らしいです！応援してますよ。"
+        },
+        {
+            "message_id": 4,
+            "user_id": "0015",
+            "speaker": "Human",
+            "message": "部下もできるのでしっかりしないといけないね"
+        },
+        {
+            "message_id": 5,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "頑張って！きっと素晴らしいリーダーになれますよ。"
+        },
+        {
+            "message_id": 6,
+            "user_id": "0015",
+            "speaker": "Human",
+            "message": "あまり自信がないんだけどどうしたらいいと思う？"
+        },
+        {
+            "message_id": 7,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "まずは小さな成功を積み重ねて、自信をつけていくのがいいかもしれません。"
+        },
+        {
+            "message_id": 8,
+            "user_id": "0015",
+            "speaker": "Human",
+            "message": "コツコツやってきたので今までどうりでいいのかな？"
+        },
+        {
+            "message_id": 9,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "そうですね、今まで通りの努力がきっと実を結ぶと思いますよ。"
+        },
+        {
+            "message_id": 10,
+            "user_id": "0015",
+            "speaker": "Human",
+            "message": "何か気を付けることはあるかな？"
+        },
+        {
+            "message_id": 11,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "コミュニケーションを大切にするといいかもしれませんね。"
+        },
+        {
+            "message_id": 12,
+            "user_id": "0015",
+            "speaker": "Human",
+            "message": "会話をするのが大事ですか？"
+        },
+        {
+            "message_id": 13,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "はい、特に部下とのコミュニケーションは重要です。"
+        },
+        {
+            "message_id": 14,
+            "user_id": "0015",
+            "speaker": "Human",
+            "message": "部下を飲みに誘うのはどうかな？"
+        },
+        {
+            "message_id": 15,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "いいと思いますよ！リラックスした場での会話も大切です。"
+        },
+        {
+            "message_id": 16,
+            "user_id": "0015",
+            "speaker": "Human",
+            "message": "女性の部下だったらどう接したらいいかな？"
+        },
+        {
+            "message_id": 17,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "敬意を持って接し、仕事の話を中心にしつつ、相手の意見をしっかり聞くといいですね。"
+        },
+        {
+            "message_id": 18,
+            "user_id": "0015",
+            "speaker": "Human",
+            "message": "大変参考になりました"
+        },
+        {
+            "message_id": 19,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "良かったです！応援してます。"
+        }
+    ]
+}

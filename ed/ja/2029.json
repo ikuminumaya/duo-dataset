@@ -1,0 +1,136 @@
+{
+    "dialogue_id": 2029,
+    "setting": "ed",
+    "model": "gpt-4o",
+    "prompt": "ent",
+    "emotion": "Disgusted",
+    "episode": "キッチンの流しに設置してある生ごみ入れからコバエが大量に発生していた。顔の近くや食材の周りにも飛んでいたので嫌悪感を感じた。",
+    "subjective_evaluation": {
+        "preference": 3.0,
+        "stylistic_similarity": 3.0,
+        "consistency": 5.0,
+        "empathy": 5.0
+    },
+    "dialogue": [
+        {
+            "message_id": 0,
+            "user_id": "0029",
+            "speaker": "Human",
+            "message": "キッチンの流しの生ごみ入れにコバエが発生しました。"
+        },
+        {
+            "message_id": 1,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "それは大変だね。早めに対策しないと増えちゃうよ。"
+        },
+        {
+            "message_id": 2,
+            "user_id": "0029",
+            "speaker": "Human",
+            "message": "一応前もって、ハエ取りリボンを近くに設置していたので、ある程度は捕獲できました。"
+        },
+        {
+            "message_id": 3,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "それなら少しは安心だね。でも、早く解決できるといいね。"
+        },
+        {
+            "message_id": 4,
+            "user_id": "0029",
+            "speaker": "Human",
+            "message": "まあ、毎年のことなのである程度のコバエの発生はあきらめてます。"
+        },
+        {
+            "message_id": 5,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "そうなんだね。でも、少しでも減らせるといいね。"
+        },
+        {
+            "message_id": 6,
+            "user_id": "0029",
+            "speaker": "Human",
+            "message": "そうですね。数を減らさないとどんどん増えてしまいますからね。"
+        },
+        {
+            "message_id": 7,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "そうだね。できるだけ早めに対策しておきたいね。"
+        },
+        {
+            "message_id": 8,
+            "user_id": "0029",
+            "speaker": "Human",
+            "message": "コバエは小さいから、少しの隙間から家の中に入ってしまう。"
+        },
+        {
+            "message_id": 9,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "ほんとにやっかいだよね。しっかり対策しないとね。"
+        },
+        {
+            "message_id": 10,
+            "user_id": "0029",
+            "speaker": "Human",
+            "message": "まあ相手も自然の生き物だしね。多少は仕方ないよ。"
+        },
+        {
+            "message_id": 11,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "そうだね、自然の一部だもんね。ほどほどに共存しないとね。"
+        },
+        {
+            "message_id": 12,
+            "user_id": "0029",
+            "speaker": "Human",
+            "message": "でも、これから食べる食べ物にコバエが付いていた時は落ち込んだよ。"
+        },
+        {
+            "message_id": 13,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "それは嫌だよね。気をつけないと。"
+        },
+        {
+            "message_id": 14,
+            "user_id": "0029",
+            "speaker": "Human",
+            "message": "テーブルの食品には、コバエが入れない傘上の網が必要だね。"
+        },
+        {
+            "message_id": 15,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "確かに、それがあると安心だね。"
+        },
+        {
+            "message_id": 16,
+            "user_id": "0029",
+            "speaker": "Human",
+            "message": "うん。備えあれば憂いなしですよ。"
+        },
+        {
+            "message_id": 17,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "そうだね、備えは大事だよね。"
+        },
+        {
+            "message_id": 18,
+            "user_id": "0029",
+            "speaker": "Human",
+            "message": "早く夏が終わって、コバエの発生しない季節になってほしいですよ。"
+        },
+        {
+            "message_id": 19,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "本当だね、秋が待ち遠しいよね。"
+        }
+    ]
+}

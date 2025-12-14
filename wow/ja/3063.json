@@ -1,0 +1,167 @@
+{
+    "dialogue_id": 3063,
+    "setting": "wow",
+    "model": "gpt-4o",
+    "prompt": "nonent",
+    "topic": "アーノルド・シュワルツェネッガー",
+    "objective_evaluation": {
+        "preference": 4.33,
+        "stylistic_similarity": 3.67,
+        "consistency": 4.33,
+        "engagingness": 3.67,
+        "preference_scores": [
+            5.0,
+            4.0,
+            4.0
+        ],
+        "stylistic_similarity_scores": [
+            5.0,
+            3.0,
+            3.0
+        ],
+        "consistency_scores": [
+            5.0,
+            4.0,
+            4.0
+        ],
+        "engagingness_scores": [
+            4.0,
+            4.0,
+            3.0
+        ]
+    },
+    "subjective_evaluation": {
+        "preference": 4.0,
+        "stylistic_similarity": 2.0,
+        "consistency": 5.0,
+        "engagingness": 4.0
+    },
+    "dialogue": [
+        {
+            "message_id": 0,
+            "system_id": "0005",
+            "speaker": "Bot",
+            "message": "アーノルド・シュワルツェネッガーは、ハリウッドのアクション映画界で名を馳せ、カリフォルニア州知事も務めた多才な人物です。"
+        },
+        {
+            "message_id": 1,
+            "user_id": "0043",
+            "speaker": "Human",
+            "message": "名前だけは知っています。スターですね。"
+        },
+        {
+            "message_id": 2,
+            "system_id": "0005",
+            "speaker": "Bot",
+            "message": "彼は、ボディビルダーとしての頂点を極めた後、アクション映画『ターミネーター』シリーズで一躍世界的なスターとなり、さらに政治の舞台でも活躍しました。"
+        },
+        {
+            "message_id": 3,
+            "user_id": "0043",
+            "speaker": "Human",
+            "message": "ターミネーターは有名ですね。いろんな才能があるあり、政治家にもなったのでしょうか？"
+        },
+        {
+            "message_id": 4,
+            "system_id": "0005",
+            "speaker": "Bot",
+            "message": "彼はボディビルディングでの成功を足掛かりに、俳優業や政治の世界でも大きな影響力を持つようになりました。"
+        },
+        {
+            "message_id": 5,
+            "user_id": "0043",
+            "speaker": "Human",
+            "message": "ボディビルの肉体が思い浮かびます。ハリウッドでは誰もが知る存在ですね。"
+        },
+        {
+            "message_id": 6,
+            "system_id": "0005",
+            "speaker": "Bot",
+            "message": "シュワルツェネッガーは、ミスター・オリンピアで7回の優勝を果たし、その後『ターミネーター』などの映画でアクションスターとしての地位を確立しました。"
+        },
+        {
+            "message_id": 7,
+            "user_id": "0043",
+            "speaker": "Human",
+            "message": "先に肉体を極めて、アクションスターになったのですね。"
+        },
+        {
+            "message_id": 8,
+            "system_id": "0005",
+            "speaker": "Bot",
+            "message": "はい、彼はボディビルディングでの成功がキャリアの礎となり、『コナン・ザ・バーバリアン』や『ターミネーター』でアクションスターとしての地位を確立し、さらに政治家としても活躍しました。"
+        },
+        {
+            "message_id": 9,
+            "user_id": "0043",
+            "speaker": "Human",
+            "message": "今はどうされているのですか？"
+        },
+        {
+            "message_id": 10,
+            "system_id": "0005",
+            "speaker": "Bot",
+            "message": "現在も俳優活動を続けつつ、慈善活動や環境問題への取り組みなど、様々な分野で積極的に活動しています。"
+        },
+        {
+            "message_id": 11,
+            "user_id": "0043",
+            "speaker": "Human",
+            "message": "そうなんですね。現役で活躍しながら、慈善事業などへも関与されているのは素晴らしいですね。"
+        },
+        {
+            "message_id": 12,
+            "system_id": "0005",
+            "speaker": "Bot",
+            "message": "シュワルツェネッガーは、俳優業と並行して慈善活動や環境問題への取り組みを続け、常に影響力を持つ存在であり続けています。"
+        },
+        {
+            "message_id": 13,
+            "user_id": "0043",
+            "speaker": "Human",
+            "message": "長年にわたり、影響力がある人はなかなかいないと思います。本人の努力と才能ですね。"
+        },
+        {
+            "message_id": 14,
+            "system_id": "0005",
+            "speaker": "Bot",
+            "message": "彼は15歳からウエイトトレーニングを始め、ボディビル界で伝説的な存在となり、カリスマ的な大使としても知られています。"
+        },
+        {
+            "message_id": 15,
+            "user_id": "0043",
+            "speaker": "Human",
+            "message": "ボディビルを極めて"
+        },
+        {
+            "message_id": 16,
+            "system_id": "0005",
+            "speaker": "Bot",
+            "message": "シュワルツェネッガーは、史上最高のボディビルダーの一人とされ、彼の名を冠した「アーノルド・スポーツ・フェスティバル」は、プロボディビルディング大会の中でも非常に著名です。"
+        },
+        {
+            "message_id": 17,
+            "user_id": "0043",
+            "speaker": "Human",
+            "message": "史上最高とまで言われ、名前が付いた大会があるのですね。知ることができてよかったです。"
+        },
+        {
+            "message_id": 18,
+            "system_id": "0005",
+            "speaker": "Bot",
+            "message": "まさにその通りです。彼の多才さと影響力は確かに並外れていますね。"
+        },
+        {
+            "message_id": 19,
+            "user_id": "0043",
+            "speaker": "Human",
+            "message": "そうですね。名前は知っていても、ここまでの存在とは知りませんでした。教えていただいてありがとうございました。"
+        },
+        {
+            "message_id": 20,
+            "system_id": "0005",
+            "speaker": "Bot",
+            "message": "これからも何か知りたいことがあれば、いつでも聞いてくださいね。"
+        }
+    ]
+}

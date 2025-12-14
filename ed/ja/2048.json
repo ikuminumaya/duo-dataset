@@ -1,0 +1,136 @@
+{
+    "dialogue_id": 2048,
+    "setting": "ed",
+    "model": "gpt-4o",
+    "prompt": "nonent",
+    "emotion": "Excited",
+    "episode": "人事系の業務をこなしながら長年培った経験と育んだ知識をもとに、８月、中小企業診断士を受験する予定です。現業務を退任後、すでに取得している社会保険労務士と合わせ、士業としての起業を目標としています。",
+    "subjective_evaluation": {
+        "preference": 3.0,
+        "stylistic_similarity": 4.0,
+        "consistency": 4.0,
+        "empathy": 3.0
+    },
+    "dialogue": [
+        {
+            "message_id": 0,
+            "user_id": "0000",
+            "speaker": "Human",
+            "message": "今年８月、中小企業診断士を受験します。もちろん一発合格を狙っています。"
+        },
+        {
+            "message_id": 1,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "一発合格を狙うなんて素晴らしいですね。応援しています。"
+        },
+        {
+            "message_id": 2,
+            "user_id": "0000",
+            "speaker": "Human",
+            "message": "現在の人事系の業務をこなしながら長年培った経験と社会保険労務士に合格した法律の知識の両輪で合格を目指しています。"
+        },
+        {
+            "message_id": 3,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "素晴らしいですね。努力が実を結ぶと良いですね。"
+        },
+        {
+            "message_id": 4,
+            "user_id": "0000",
+            "speaker": "Human",
+            "message": "取得するとすぐに企業内ではもちろん、将来的には独立することも視野に入れています。"
+        },
+        {
+            "message_id": 5,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "その計画、すごくクールですね！がんばって！"
+        },
+        {
+            "message_id": 6,
+            "user_id": "0000",
+            "speaker": "Human",
+            "message": "と言っても心配事が無いわけではありません。公認会計士や行政書士よりも難易度が高く、合格率は4～6％とされています。業務知識や一般知識、労働三法の知識はありますが、財務・会計の知識が薄いところが弱点です。"
+        },
+        {
+            "message_id": 7,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "財務・会計は難関だけど、努力次第で克服できる！頑張れ！"
+        },
+        {
+            "message_id": 8,
+            "user_id": "0000",
+            "speaker": "Human",
+            "message": "頑張らないわけではありません、これから受験日まで不得意科目をどう攻略するかの計画を立てています。"
+        },
+        {
+            "message_id": 9,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "計画立てるとは、しっかりしてるね！応援してます。"
+        },
+        {
+            "message_id": 10,
+            "user_id": "0000",
+            "speaker": "Human",
+            "message": "受験に際しても、自己分析は重要ですね。得意であるがために、どうしても得意分野に時間を割いてしまいがちですが、自身の弱点に時間をかけるべきですね。"
+        },
+        {
+            "message_id": 11,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "自己分析、よくできてますね。弱点攻略、頑張ってください。"
+        },
+        {
+            "message_id": 12,
+            "user_id": "0000",
+            "speaker": "Human",
+            "message": "ちょっと弱気な事を言うと、最悪、科目合格でもいいという、裏スケジュールも作っています。"
+        },
+        {
+            "message_id": 13,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "計画的ですね。きっと道は開けますよ。"
+        },
+        {
+            "message_id": 14,
+            "user_id": "0000",
+            "speaker": "Human",
+            "message": "科目合格すると翌年、翌々年に合格した科目は免除されるので、その分、不得意分野に注力できると考えています。"
+        },
+        {
+            "message_id": 15,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "冷静に計画立てて素晴らしいです。応援しています。"
+        },
+        {
+            "message_id": 16,
+            "user_id": "0000",
+            "speaker": "Human",
+            "message": "一発合格するにこしたことはありませんが、結果次第で次の計画にすぐに移行できるようにしています。"
+        },
+        {
+            "message_id": 17,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "戦略的ですね。きっと成功します。"
+        },
+        {
+            "message_id": 18,
+            "user_id": "0000",
+            "speaker": "Human",
+            "message": "AIさんの指す成功とは何ですか？"
+        },
+        {
+            "message_id": 19,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "成功とは、あなたが目標に向かって進み、成長することです。"
+        }
+    ]
+}

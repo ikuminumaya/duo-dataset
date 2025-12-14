@@ -1,0 +1,141 @@
+{
+    "dialogue_id": 3013,
+    "setting": "wow",
+    "model": "gpt-4o",
+    "prompt": "neutral",
+    "topic": "ボルチモア・オリオールズ",
+    "subjective_evaluation": {
+        "preference": 4.0,
+        "stylistic_similarity": 4.0,
+        "consistency": 4.0,
+        "engagingness": 4.0
+    },
+    "dialogue": [
+        {
+            "message_id": 0,
+            "system_id": "0003",
+            "speaker": "Bot",
+            "message": "ボルチモア・オリオールズは、アメリカンリーグ東地区の一員としてMLBで競技しており、1966年から1983年にかけて3度のワールドシリーズ優勝を果たしました。"
+        },
+        {
+            "message_id": 1,
+            "user_id": "0050",
+            "speaker": "Human",
+            "message": "1983年以降の成績はどうですか？"
+        },
+        {
+            "message_id": 2,
+            "system_id": "0003",
+            "speaker": "Bot",
+            "message": "1983年以降、ボルチモア・オリオールズはワールドシリーズでの優勝はありませんが、時折プレーオフに進出しています。"
+        },
+        {
+            "message_id": 3,
+            "user_id": "0050",
+            "speaker": "Human",
+            "message": "アメリカンリーグ東地区にはほかにどんなチームがありますか？"
+        },
+        {
+            "message_id": 4,
+            "system_id": "0003",
+            "speaker": "Bot",
+            "message": "アメリカンリーグ東地区には、ボルチモア・オリオールズの他にニューヨーク・ヤンキース、ボストン・レッドソックス、トロント・ブルージェイズ、タンパベイ・レイズが所属しています。"
+        },
+        {
+            "message_id": 5,
+            "user_id": "0050",
+            "speaker": "Human",
+            "message": "現在、ボルチモア・オリオールズに所属している日本人選手はいますか？"
+        },
+        {
+            "message_id": 6,
+            "system_id": "0003",
+            "speaker": "Bot",
+            "message": "現在、ボルチモア・オリオールズには日本人選手は所属していません。"
+        },
+        {
+            "message_id": 7,
+            "user_id": "0050",
+            "speaker": "Human",
+            "message": "巨人と阪神みたいなライバル関係にあるチームはありますか？"
+        },
+        {
+            "message_id": 8,
+            "system_id": "0003",
+            "speaker": "Bot",
+            "message": "ボルチモア・オリオールズは、特にニューヨーク・ヤンキースとの間でライバル関係があると言われています。"
+        },
+        {
+            "message_id": 9,
+            "user_id": "0050",
+            "speaker": "Human",
+            "message": "ホーム球場はどこにあるのですか？"
+        },
+        {
+            "message_id": 10,
+            "system_id": "0003",
+            "speaker": "Bot",
+            "message": "ボルチモア・オリオールズのホーム球場は、メリーランド州ボルチモアにあります。"
+        },
+        {
+            "message_id": 11,
+            "user_id": "0050",
+            "speaker": "Human",
+            "message": "メリーランド州といってもあまりピンとこないのですがアメリカのどの辺ですか？周りにはどんな州がありますか？"
+        },
+        {
+            "message_id": 12,
+            "system_id": "0003",
+            "speaker": "Bot",
+            "message": "メリーランド州はアメリカの東海岸に位置し、周りにはバージニア州、ウェストバージニア州、ペンシルベニア州、デラウェア州があります。"
+        },
+        {
+            "message_id": 13,
+            "user_id": "0050",
+            "speaker": "Human",
+            "message": "特産品とかあるんですか？"
+        },
+        {
+            "message_id": 14,
+            "system_id": "0003",
+            "speaker": "Bot",
+            "message": "メリーランド州は、特にブルークラブを使った料理が特産品として知られています。"
+        },
+        {
+            "message_id": 15,
+            "user_id": "0050",
+            "speaker": "Human",
+            "message": "ブルークラブってなんですか？青いカニですか？"
+        },
+        {
+            "message_id": 16,
+            "system_id": "0003",
+            "speaker": "Bot",
+            "message": "ブルークラブは、特にメリーランド州で人気のある青みがかった色のカニです。"
+        },
+        {
+            "message_id": 17,
+            "user_id": "0050",
+            "speaker": "Human",
+            "message": "漁業がさかんなところなんですか？"
+        },
+        {
+            "message_id": 18,
+            "system_id": "0003",
+            "speaker": "Bot",
+            "message": "はい、メリーランド州は特にチェサピーク湾を中心に漁業が盛んな地域です。"
+        },
+        {
+            "message_id": 19,
+            "user_id": "0050",
+            "speaker": "Human",
+            "message": "いろいろおしえていただいてありがとうございました。興味がわいてきました"
+        },
+        {
+            "message_id": 20,
+            "system_id": "0003",
+            "speaker": "Bot",
+            "message": "興味を持っていただけて嬉しいです。ボルチモア・オリオールズのチーム名は、メリーランド州の公式な州の鳥にちなんでいます。"
+        }
+    ]
+}

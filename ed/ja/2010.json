@@ -1,0 +1,162 @@
+{
+    "dialogue_id": 2010,
+    "setting": "ed",
+    "model": "gpt-4o",
+    "prompt": "neutral",
+    "emotion": "Disgusted",
+    "episode": "親族が突発的な病気で入院した。田舎なので専門の病院が少なく、医者や看護師が殿様商売のような態度をとる人が未だにいる。嫌な思いをしても選択肢がないので病院を変えられない。",
+    "objective_evaluation": {
+        "preference": 3.67,
+        "stylistic_similarity": 3.33,
+        "consistency": 4.0,
+        "empathy": 4.0,
+        "preference_scores": [
+            5.0,
+            3.0,
+            3.0
+        ],
+        "stylistic_similarity_scores": [
+            4.0,
+            3.0,
+            3.0
+        ],
+        "consistency_scores": [
+            5.0,
+            3.0,
+            4.0
+        ],
+        "empathy_scores": [
+            5.0,
+            3.0,
+            4.0
+        ]
+    },
+    "subjective_evaluation": {
+        "preference": 5.0,
+        "stylistic_similarity": 5.0,
+        "consistency": 5.0,
+        "empathy": 5.0
+    },
+    "dialogue": [
+        {
+            "message_id": 0,
+            "user_id": "0010",
+            "speaker": "Human",
+            "message": "少し前に親族が入院したんです。"
+        },
+        {
+            "message_id": 1,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "それは心配ですね。大丈夫ですか？"
+        },
+        {
+            "message_id": 2,
+            "user_id": "0010",
+            "speaker": "Human",
+            "message": "はい。病状は落ち着きましたが、別の問題が発生しました。"
+        },
+        {
+            "message_id": 3,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "どういった問題ですか？"
+        },
+        {
+            "message_id": 4,
+            "user_id": "0010",
+            "speaker": "Human",
+            "message": "看護師の中に、とても嫌な態度の人がいるんです。"
+        },
+        {
+            "message_id": 5,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "それは辛いですね。どんな態度なんですか？"
+        },
+        {
+            "message_id": 6,
+            "user_id": "0010",
+            "speaker": "Human",
+            "message": "こちらは敬語で話すのですが、相手は基本的にタメグチをきいてくるんです。質問をしても、面倒そうな態度でかなり上から目線の物言いなので嫌な気持ちになります。"
+        },
+        {
+            "message_id": 7,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "それは不快ですね。気持ちを害されるのは当然です。"
+        },
+        {
+            "message_id": 8,
+            "user_id": "0010",
+            "speaker": "Human",
+            "message": "医者よりも権力を持っているかのような尊大な態度の看護師がいて驚きました。"
+        },
+        {
+            "message_id": 9,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "それは驚きますね。対応が改善されるといいですね。"
+        },
+        {
+            "message_id": 10,
+            "user_id": "0010",
+            "speaker": "Human",
+            "message": "少し前に親から息子の世代交代をしたそうで、ベテラン看護師のほうが現場を知っているという理由からかとても偉そうでした。"
+        },
+        {
+            "message_id": 11,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "それは大変ですね、ストレスになりそうです。"
+        },
+        {
+            "message_id": 12,
+            "user_id": "0010",
+            "speaker": "Human",
+            "message": "言い返したい気持ちになるのですが、入院している親族本人に不利益が生じると嫌なので我慢しています。"
+        },
+        {
+            "message_id": 13,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "その気持ち、よくわかります。我慢するのはつらいですね。"
+        },
+        {
+            "message_id": 14,
+            "user_id": "0010",
+            "speaker": "Human",
+            "message": "住まいが田舎なので、専門の病院が少なく転院しようにもそれもままならないので我慢するしかないのが現状です。"
+        },
+        {
+            "message_id": 15,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "それは本当に大変ですね。サポートできることがあればいいのですが。"
+        },
+        {
+            "message_id": 16,
+            "user_id": "0010",
+            "speaker": "Human",
+            "message": "相手に非常識なことを言われても、なるべく笑顔で返すようにしています。"
+        },
+        {
+            "message_id": 17,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "大人な対応ですね。辛い中でも素晴らしいです。"
+        },
+        {
+            "message_id": 18,
+            "user_id": "0010",
+            "speaker": "Human",
+            "message": "ありがとうございます。親族のサポートを頑張って早く元気に退院できるようにサポートします。"
+        },
+        {
+            "message_id": 19,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "応援しています。頑張ってくださいね。"
+        }
+    ]
+}

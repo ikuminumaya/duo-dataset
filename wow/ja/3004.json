@@ -1,0 +1,167 @@
+{
+    "dialogue_id": 3004,
+    "setting": "wow",
+    "model": "gpt-4o",
+    "prompt": "neutral",
+    "topic": "アルフレッド・ヒッチコック",
+    "objective_evaluation": {
+        "preference": 3.67,
+        "stylistic_similarity": 3.67,
+        "consistency": 4.0,
+        "engagingness": 3.67,
+        "preference_scores": [
+            3.0,
+            4.0,
+            4.0
+        ],
+        "stylistic_similarity_scores": [
+            3.0,
+            5.0,
+            3.0
+        ],
+        "consistency_scores": [
+            4.0,
+            4.0,
+            4.0
+        ],
+        "engagingness_scores": [
+            3.0,
+            4.0,
+            4.0
+        ]
+    },
+    "subjective_evaluation": {
+        "preference": 3.0,
+        "stylistic_similarity": 5.0,
+        "consistency": 3.0,
+        "engagingness": 2.0
+    },
+    "dialogue": [
+        {
+            "message_id": 0,
+            "system_id": "0003",
+            "speaker": "Bot",
+            "message": "アルフレッド・ヒッチコックは、映画史において最も影響力のある映画製作者の一人であり、彼の作品はスリラーというジャンルを形成するのに貢献しました。"
+        },
+        {
+            "message_id": 1,
+            "user_id": "0004",
+            "speaker": "Human",
+            "message": "名前は知っています。どこの国の人ですか？"
+        },
+        {
+            "message_id": 2,
+            "system_id": "0003",
+            "speaker": "Bot",
+            "message": "アルフレッド・ヒッチコックはイギリスの映画監督兼プロデューサーです。"
+        },
+        {
+            "message_id": 3,
+            "user_id": "0004",
+            "speaker": "Human",
+            "message": "イギリスの人だったんですね。活躍したのはいつ頃の時代でしょう？"
+        },
+        {
+            "message_id": 4,
+            "system_id": "0003",
+            "speaker": "Bot",
+            "message": "アルフレッド・ヒッチコックは、1920年代から1970年代にかけて活躍した映画監督です。"
+        },
+        {
+            "message_id": 5,
+            "user_id": "0004",
+            "speaker": "Human",
+            "message": "活躍し始めたのは100年くらい前なんですね。代表作にはどのような作品があるんですか？"
+        },
+        {
+            "message_id": 6,
+            "system_id": "0003",
+            "speaker": "Bot",
+            "message": "アルフレッド・ヒッチコックの代表作には『レベッカ』『三十九夜』『バルカン超特急』などがあります。"
+        },
+        {
+            "message_id": 7,
+            "user_id": "0004",
+            "speaker": "Human",
+            "message": "どの作品も聞いたことがないです。すべて映画のタイトルでしょうか？"
+        },
+        {
+            "message_id": 8,
+            "system_id": "0003",
+            "speaker": "Bot",
+            "message": "はい、すべて映画のタイトルで、特に『レベッカ』はアカデミー賞で作品賞を受賞しています。"
+        },
+        {
+            "message_id": 9,
+            "user_id": "0004",
+            "speaker": "Human",
+            "message": "それは知りませんでした。同時期に活躍した映画監督にはどんな人がいますか？"
+        },
+        {
+            "message_id": 10,
+            "system_id": "0003",
+            "speaker": "Bot",
+            "message": "同時期に活躍した映画監督には、デヴィッド・O・セルズニックなどがいます。"
+        },
+        {
+            "message_id": 11,
+            "user_id": "0004",
+            "speaker": "Human",
+            "message": "デヴィッド・O・セルズニックがライバル的存在だったのですね。どんな作品を制作した人ですか？"
+        },
+        {
+            "message_id": 12,
+            "system_id": "0003",
+            "speaker": "Bot",
+            "message": "デヴィッド・O・セルズニックは、映画『風と共に去りぬ』のプロデューサーとして知られています。"
+        },
+        {
+            "message_id": 13,
+            "user_id": "0004",
+            "speaker": "Human",
+            "message": "あ、聞いたことがあります。つまり『風と共に去りぬ』は、ヒッチコックが活躍した時代の作品なんですね。"
+        },
+        {
+            "message_id": 14,
+            "system_id": "0003",
+            "speaker": "Bot",
+            "message": "はい、『風と共に去りぬ』は1939年の作品で、ヒッチコックが活躍した時代の映画です。"
+        },
+        {
+            "message_id": 15,
+            "user_id": "0004",
+            "speaker": "Human",
+            "message": "『レベッカ』はアカデミー賞で作品賞を受賞したそうですが、ヒッチコックの映画は、どれも当時から評価が高かったんですか？"
+        },
+        {
+            "message_id": 16,
+            "system_id": "0003",
+            "speaker": "Bot",
+            "message": "ヒッチコックの映画は多くの作品が当時から評価され、『レベッカ』はアカデミー賞で作品賞を受賞するなど成功を収めました。"
+        },
+        {
+            "message_id": 17,
+            "user_id": "0004",
+            "speaker": "Human",
+            "message": "『レベッカ』のあらすじを教えてください。"
+        },
+        {
+            "message_id": 18,
+            "system_id": "0003",
+            "speaker": "Bot",
+            "message": "『レベッカ』は、若い女性が結婚した後、亡くなった前妻の影に悩まされる物語です。"
+        },
+        {
+            "message_id": 19,
+            "user_id": "0004",
+            "speaker": "Human",
+            "message": "ちょっと怖い話ですね。『レベッカ』のどのようなところが評価されていたのでしょうか？"
+        },
+        {
+            "message_id": 20,
+            "system_id": "0003",
+            "speaker": "Bot",
+            "message": "『レベッカ』は、緊張感あるストーリーと巧みな演出で高く評価され、アカデミー賞で作品賞を受賞しました。"
+        }
+    ]
+}

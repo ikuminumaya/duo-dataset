@@ -1,0 +1,167 @@
+{
+    "dialogue_id": 3037,
+    "setting": "wow",
+    "model": "gpt-4o",
+    "prompt": "ent",
+    "topic": "レオナルド・ディカプリオ",
+    "objective_evaluation": {
+        "preference": 4.33,
+        "stylistic_similarity": 3.67,
+        "consistency": 4.33,
+        "engagingness": 4.33,
+        "preference_scores": [
+            5.0,
+            4.0,
+            4.0
+        ],
+        "stylistic_similarity_scores": [
+            5.0,
+            3.0,
+            3.0
+        ],
+        "consistency_scores": [
+            5.0,
+            4.0,
+            4.0
+        ],
+        "engagingness_scores": [
+            5.0,
+            4.0,
+            4.0
+        ]
+    },
+    "subjective_evaluation": {
+        "preference": 5.0,
+        "stylistic_similarity": 5.0,
+        "consistency": 5.0,
+        "engagingness": 5.0
+    },
+    "dialogue": [
+        {
+            "message_id": 0,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "レオナルド・ディカプリオは、俳優だけでなく環境活動家としても知られているんだよ。"
+        },
+        {
+            "message_id": 1,
+            "user_id": "0070",
+            "speaker": "Human",
+            "message": "そうなんだ知らなかった"
+        },
+        {
+            "message_id": 2,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "そうなんだ、レオナルド・ディカプリオは俳優としてだけじゃなく、環境活動家としてもすごく活躍してるんだよ。"
+        },
+        {
+            "message_id": 3,
+            "user_id": "0070",
+            "speaker": "Human",
+            "message": "環境活動はどんな事してるの？"
+        },
+        {
+            "message_id": 4,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "彼は自身の財団を通じて環境保護プロジェクトを支援したり、気候変動についての意識を高める活動を行っているよ。"
+        },
+        {
+            "message_id": 5,
+            "user_id": "0070",
+            "speaker": "Human",
+            "message": "気候変動は問題だから意識は高めたほうがいいもんね"
+        },
+        {
+            "message_id": 6,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "そうだね、ディカプリオは気候変動の危機を訴えるドキュメンタリーを製作したり、国連でスピーチして意識を高める活動をしているよ。"
+        },
+        {
+            "message_id": 7,
+            "user_id": "0070",
+            "speaker": "Human",
+            "message": "今度動画を見てみるよ"
+        },
+        {
+            "message_id": 8,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "それはいいね！彼のドキュメンタリー「Before the Flood」なんかがおすすめだよ。"
+        },
+        {
+            "message_id": 9,
+            "user_id": "0070",
+            "speaker": "Human",
+            "message": "それを見てみる　ディカプリオと言ったらタイタニック号の映画を思い出すよ"
+        },
+        {
+            "message_id": 10,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "そうだね、「タイタニック」はディカプリオを国際的に有名にした作品だよね。"
+        },
+        {
+            "message_id": 11,
+            "user_id": "0070",
+            "speaker": "Human",
+            "message": "結構面白かった"
+        },
+        {
+            "message_id": 12,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "「タイタニック」はディカプリオを一躍有名にした映画で、今でも多くの人に愛されているね。"
+        },
+        {
+            "message_id": 13,
+            "user_id": "0070",
+            "speaker": "Human",
+            "message": "でも船に乗ってあんなことになったらやだな"
+        },
+        {
+            "message_id": 14,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "ほんとだね、映画みたいな状況になったら本当に怖いよね。"
+        },
+        {
+            "message_id": 15,
+            "user_id": "0070",
+            "speaker": "Human",
+            "message": "でも可能性は０じゃないから怖いよね"
+        },
+        {
+            "message_id": 16,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "確かにね、でも「タイタニック」は映画として感動的なストーリーだから、あの時代を少し体験する気分で楽しんでね。"
+        },
+        {
+            "message_id": 17,
+            "user_id": "0070",
+            "speaker": "Human",
+            "message": "こんど久々に見てみようかな"
+        },
+        {
+            "message_id": 18,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "それはいいね！ディカプリオは他にも「ギルバート・グレイプ」や「キャッチ・ミー・イフ・ユー・キャン」など、面白い作品にたくさん出てるから、ぜひ色々観てみてね。"
+        },
+        {
+            "message_id": 19,
+            "user_id": "0070",
+            "speaker": "Human",
+            "message": "色々見てみるよ　ありがとう"
+        },
+        {
+            "message_id": 20,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "どういたしまして！いろんな作品を観て、ディカプリオの幅広い演技を楽しんでね。"
+        }
+    ]
+}

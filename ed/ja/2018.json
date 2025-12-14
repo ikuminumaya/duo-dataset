@@ -1,0 +1,162 @@
+{
+    "dialogue_id": 2018,
+    "setting": "ed",
+    "model": "gpt-4o",
+    "prompt": "neutral",
+    "emotion": "Lonely",
+    "episode": "長年買っていた猫が病気もあり世話をしていたけれども無くなった##最後は世話は大変だったけれどもそれでも1日でも長く生きてくれていたことは良かった##亡くなってから1か月くらいだけども何かずっと心のなかで生きてるようだけど居ないのは寂しい",
+    "objective_evaluation": {
+        "preference": 3.0,
+        "stylistic_similarity": 2.67,
+        "consistency": 3.67,
+        "empathy": 2.33,
+        "preference_scores": [
+            4.0,
+            1.0,
+            4.0
+        ],
+        "stylistic_similarity_scores": [
+            2.0,
+            3.0,
+            3.0
+        ],
+        "consistency_scores": [
+            4.0,
+            3.0,
+            4.0
+        ],
+        "empathy_scores": [
+            3.0,
+            1.0,
+            3.0
+        ]
+    },
+    "subjective_evaluation": {
+        "preference": 4.0,
+        "stylistic_similarity": 3.0,
+        "consistency": 4.0,
+        "empathy": 5.0
+    },
+    "dialogue": [
+        {
+            "message_id": 0,
+            "user_id": "0018",
+            "speaker": "Human",
+            "message": "8年飼っていた猫が半年前から腎臓の病気で弱ってきてずっと看病しながら大切していた"
+        },
+        {
+            "message_id": 1,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "それはとても辛いですね。大切にしていたこと、猫ちゃんもきっと感じていたと思います。"
+        },
+        {
+            "message_id": 2,
+            "user_id": "0018",
+            "speaker": "Human",
+            "message": "8年前の夏に親とはぐれたのか庭先に迷い込んだのかずっと泣いていた猫だったんだけど最初は威嚇されてたのが今でも思い出します"
+        },
+        {
+            "message_id": 3,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "そんな出会いがあったんですね。それが今や大切な家族になったんですね。"
+        },
+        {
+            "message_id": 4,
+            "user_id": "0018",
+            "speaker": "Human",
+            "message": "親猫が近場に居るのかと思って餌と水だけを置いていたけれども2日しても親が現れなかったから保護をしたのが始まりだったなって"
+        },
+        {
+            "message_id": 5,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "その時の決断が、素敵な関係の始まりだったんですね。"
+        },
+        {
+            "message_id": 6,
+            "user_id": "0018",
+            "speaker": "Human",
+            "message": "家で飼うことになったけど大きい犬が居てどうなるかなって思ったけど犬の方も小さい猫がきて興奮気味で接して猫パンチで叩かれてたなって"
+        },
+        {
+            "message_id": 7,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "微笑ましいエピソードですね。すぐに仲良くなったのかな。"
+        },
+        {
+            "message_id": 8,
+            "user_id": "0018",
+            "speaker": "Human",
+            "message": "犬の方は子猫に興味があって近づくけども最初はずっと威嚇されてたけど3日目からはずっと寄り添って仲が良くなってた"
+        },
+        {
+            "message_id": 9,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "素敵な友情が生まれたんですね。"
+        },
+        {
+            "message_id": 10,
+            "user_id": "0018",
+            "speaker": "Human",
+            "message": "不思議と犬の方も猫を家族として受け入れてくれて色々と躾てて子猫の方も犬みたいな感じに育っていってた"
+        },
+        {
+            "message_id": 11,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "本当に素敵な関係ですね。互いに影響し合って成長したんですね。"
+        },
+        {
+            "message_id": 12,
+            "user_id": "0018",
+            "speaker": "Human",
+            "message": "猫も半年くらいして大きくなっても犬を親同然として見てて微笑ましかったよ"
+        },
+        {
+            "message_id": 13,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "とても心温まる関係ですね。"
+        },
+        {
+            "message_id": 14,
+            "user_id": "0018",
+            "speaker": "Human",
+            "message": "猫との生活も半年前に定期健診で腎臓が悪くてあまり長生きできないって言われて看病が始まったけど"
+        },
+        {
+            "message_id": 15,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "それは本当に辛い知らせでしたね。"
+        },
+        {
+            "message_id": 16,
+            "user_id": "0018",
+            "speaker": "Human",
+            "message": "猫派どうしても肝臓や腎臓が弱くて病気になるのは仕方ないと言われてたけど丸々太ってた猫が段々と細くなっていくのは悲しかなったなって"
+        },
+        {
+            "message_id": 17,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "それは本当に心が痛むことですね。"
+        },
+        {
+            "message_id": 18,
+            "user_id": "0018",
+            "speaker": "Human",
+            "message": "最後まで病気と闘って生きたから強いなって思った"
+        },
+        {
+            "message_id": 19,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "その強さは素晴らしいですね。"
+        }
+    ]
+}

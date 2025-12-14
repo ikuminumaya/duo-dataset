@@ -1,0 +1,162 @@
+{
+    "dialogue_id": 2000,
+    "setting": "ed",
+    "model": "gpt-4o",
+    "prompt": "neutral",
+    "emotion": "Proud",
+    "episode": "現在、役員を務める組織での任期（退職）があと２年に迫ってきました。人事系の部門を預かり、時代に合わせ組織改革や制度改革に尽力してきたつもりですが、誇らしいと思う反面、寂しくも感じます。",
+    "objective_evaluation": {
+        "preference": 3.67,
+        "stylistic_similarity": 3.67,
+        "consistency": 3.67,
+        "empathy": 3.67,
+        "preference_scores": [
+            5.0,
+            3.0,
+            3.0
+        ],
+        "stylistic_similarity_scores": [
+            5.0,
+            3.0,
+            3.0
+        ],
+        "consistency_scores": [
+            5.0,
+            3.0,
+            3.0
+        ],
+        "empathy_scores": [
+            5.0,
+            3.0,
+            3.0
+        ]
+    },
+    "subjective_evaluation": {
+        "preference": 4.0,
+        "stylistic_similarity": 5.0,
+        "consistency": 4.0,
+        "empathy": 3.0
+    },
+    "dialogue": [
+        {
+            "message_id": 0,
+            "user_id": "0000",
+            "speaker": "Human",
+            "message": "私は現在、役員を務める組織での任期（退職）があと２年に迫ってきました。この組織での経験や仕事を振り返り、手前みそながらを務める組織での任期（退職）もあと２年に迫ってきました。この組織での経験や仕事を振り返り、手前みそながらよくやってきたと誇らしいと感じています。"
+        },
+        {
+            "message_id": 1,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "それは素晴らしいですね！これまでの努力と成果が誇らしく思えるのは、本当に素敵なことです。"
+        },
+        {
+            "message_id": 2,
+            "user_id": "0000",
+            "speaker": "Human",
+            "message": "役員として人事系の部門を預かり、時代に則して組織改革や制度改革に尽力してきたつもりですが、誇らしいと思う反面、寂しくも感じます。"
+        },
+        {
+            "message_id": 3,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "その気持ち、よくわかります。長い時間をかけて築いてきたものを離れるのは寂しいですよね。"
+        },
+        {
+            "message_id": 4,
+            "user_id": "0000",
+            "speaker": "Human",
+            "message": "もちろん、良いことばかりではありませんでした。振り返ると、むしろ試練や苦難、辛酸をなめることの方が多かったと思います。"
+        },
+        {
+            "message_id": 5,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "その試練を乗り越えてきたからこそ、今の誇らしい気持ちがあるんですね。"
+        },
+        {
+            "message_id": 6,
+            "user_id": "0000",
+            "speaker": "Human",
+            "message": "おっしゃる通りですね。二度とあんな経験はしたくないと思いますが、今までの経験が自身を成長させてくれたとも思います。"
+        },
+        {
+            "message_id": 7,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "その経験があなたを強くしてくれたんですね。"
+        },
+        {
+            "message_id": 8,
+            "user_id": "0000",
+            "speaker": "Human",
+            "message": "強くというよりも、やさしさの本質を身に着けることができたと思います。"
+        },
+        {
+            "message_id": 9,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "それは本当に貴重な学びですね。"
+        },
+        {
+            "message_id": 10,
+            "user_id": "0000",
+            "speaker": "Human",
+            "message": "はい、私の言うやさしさとは、常に謙遜ではなく、謙虚な思考、文言で人と接することです。それを常に頭の片隅に置いていました。"
+        },
+        {
+            "message_id": 11,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "素晴らしい考え方ですね。"
+        },
+        {
+            "message_id": 12,
+            "user_id": "0000",
+            "speaker": "Human",
+            "message": "素晴らしいなんてとんでもないです。こんなわたしでも、一つの事を信じて、永年培うことで、それなりに成長できたと思っています。"
+        },
+        {
+            "message_id": 13,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "本当にその通りですね。あなたの努力が実を結んだんですね。"
+        },
+        {
+            "message_id": 14,
+            "user_id": "0000",
+            "speaker": "Human",
+            "message": "今は自身が身につけたことを、働いた、生きた、学んだという証のようなものを残したいと思っています。"
+        },
+        {
+            "message_id": 15,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "素敵な思いですね。きっと多くの人に影響を与えることでしょう。"
+        },
+        {
+            "message_id": 16,
+            "user_id": "0000",
+            "speaker": "Human",
+            "message": "どこまで私の考え方が理解してもらっているのか、また、本当に伝わっているのかわかりませんが、特に若い方々には折に触れ、話しかけるようにしています。"
+        },
+        {
+            "message_id": 17,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "それは素晴らしい取り組みですね。きっと伝わっていますよ。"
+        },
+        {
+            "message_id": 18,
+            "user_id": "0000",
+            "speaker": "Human",
+            "message": "知識や技術は経験すれば身に着くものですが、考え方や自身の育て方は誰も教えてくれないものです。だからこそ、私の考え方で1人でも多く成長してもらえたらと思っています。"
+        },
+        {
+            "message_id": 19,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "その思いが、きっと若い世代にとって大きな助けになると思います。"
+        }
+    ]
+}

@@ -1,0 +1,167 @@
+{
+    "dialogue_id": 3044,
+    "setting": "wow",
+    "model": "gpt-4o",
+    "prompt": "ent",
+    "topic": "ハロウィン",
+    "objective_evaluation": {
+        "preference": 3.33,
+        "stylistic_similarity": 3.33,
+        "consistency": 4.0,
+        "engagingness": 3.67,
+        "preference_scores": [
+            3.0,
+            4.0,
+            3.0
+        ],
+        "stylistic_similarity_scores": [
+            3.0,
+            3.0,
+            4.0
+        ],
+        "consistency_scores": [
+            3.0,
+            5.0,
+            4.0
+        ],
+        "engagingness_scores": [
+            3.0,
+            4.0,
+            4.0
+        ]
+    },
+    "subjective_evaluation": {
+        "preference": 3.0,
+        "stylistic_similarity": 2.0,
+        "consistency": 3.0,
+        "engagingness": 3.0
+    },
+    "dialogue": [
+        {
+            "message_id": 0,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "ハロウィンは10月31日に行われるお祭りで、古代ケルトのサウィンに由来する伝統もあるんだよ。"
+        },
+        {
+            "message_id": 1,
+            "user_id": "0037",
+            "speaker": "Human",
+            "message": "ハロウィンでは何をするんですか？"
+        },
+        {
+            "message_id": 2,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "ハロウィンでは、仮装してトリック・オア・トリートをしたり、かぼちゃをジャック・オー・ランタンに彫ったり、パーティーやお化け屋敷を楽しんだりするんだよ。"
+        },
+        {
+            "message_id": 3,
+            "user_id": "0037",
+            "speaker": "Human",
+            "message": "なぜ仮装するんですか？"
+        },
+        {
+            "message_id": 4,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "仮装は、古代ケルトのサウィン祭で悪霊を追い払うために変装したことが由来と言われてるんだよ。"
+        },
+        {
+            "message_id": 5,
+            "user_id": "0037",
+            "speaker": "Human",
+            "message": "トリック・オア・トリートって何ですか？"
+        },
+        {
+            "message_id": 6,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "トリック・オア・トリートは、子どもたちが仮装して家々を回り、お菓子をもらうハロウィンの伝統的な遊びなんだよ。"
+        },
+        {
+            "message_id": 7,
+            "user_id": "0037",
+            "speaker": "Human",
+            "message": "なぜお菓子をもらうのですか？"
+        },
+        {
+            "message_id": 8,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "トリック・オア・トリートでお菓子をもらうのは、古代の収穫祭や万聖節に関連した伝統が発展して、子どもたちが仮装してお菓子をもらう楽しいイベントになったんだよ。"
+        },
+        {
+            "message_id": 9,
+            "user_id": "0037",
+            "speaker": "Human",
+            "message": "万聖節ってなんですか？"
+        },
+        {
+            "message_id": 10,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "万聖節は、聖人や殉教者を追悼するキリスト教の祝日で、ハロウィンはその前夜祭にあたるんだよ。"
+        },
+        {
+            "message_id": 11,
+            "user_id": "0037",
+            "speaker": "Human",
+            "message": "楽しそうな行事ですね。"
+        },
+        {
+            "message_id": 12,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "そうですね、ハロウィンは古代の伝統とキリスト教のお祝いが融合した、楽しい行事として多くの国で親しまれていますね。"
+        },
+        {
+            "message_id": 13,
+            "user_id": "0037",
+            "speaker": "Human",
+            "message": "日本ではやっていますか？"
+        },
+        {
+            "message_id": 14,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "はい、日本でもハロウィンは人気があって、特に仮装して楽しむイベントやパレードが各地で行われていますよ。"
+        },
+        {
+            "message_id": 15,
+            "user_id": "0037",
+            "speaker": "Human",
+            "message": "渋谷では禁止されましたっけ？"
+        },
+        {
+            "message_id": 16,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "はい、渋谷ではハロウィンの時期における混雑や騒動を防ぐために、公共の場での飲酒が禁止されることがありますね。"
+        },
+        {
+            "message_id": 17,
+            "user_id": "0037",
+            "speaker": "Human",
+            "message": "残念ですね。"
+        },
+        {
+            "message_id": 18,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "そうですね、渋谷ではハロウィンの時期の混雑を考慮して飲酒が禁止されたりすることがあって、安全を優先しているようです。"
+        },
+        {
+            "message_id": 19,
+            "user_id": "0037",
+            "speaker": "Human",
+            "message": "復活する予定はありませんか？"
+        },
+        {
+            "message_id": 20,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "現時点では渋谷でのハロウィンイベントの復活予定について具体的な情報はないけど、安全を考慮してのことだから仕方ないね。"
+        }
+    ]
+}

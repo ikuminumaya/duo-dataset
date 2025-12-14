@@ -1,0 +1,162 @@
+{
+    "dialogue_id": 2002,
+    "setting": "ed",
+    "model": "gpt-4o",
+    "prompt": "neutral",
+    "emotion": "Joyful",
+    "episode": "来月の旅行計画をしていて、自分が行きたい場所や観光名所など調べているととても楽しいです。",
+    "objective_evaluation": {
+        "preference": 4.0,
+        "stylistic_similarity": 3.33,
+        "consistency": 4.0,
+        "empathy": 3.67,
+        "preference_scores": [
+            5.0,
+            3.0,
+            4.0
+        ],
+        "stylistic_similarity_scores": [
+            4.0,
+            3.0,
+            3.0
+        ],
+        "consistency_scores": [
+            5.0,
+            3.0,
+            4.0
+        ],
+        "empathy_scores": [
+            5.0,
+            3.0,
+            3.0
+        ]
+    },
+    "subjective_evaluation": {
+        "preference": 5.0,
+        "stylistic_similarity": 5.0,
+        "consistency": 5.0,
+        "empathy": 5.0
+    },
+    "dialogue": [
+        {
+            "message_id": 0,
+            "user_id": "0002",
+            "speaker": "Human",
+            "message": "来月、沖縄旅行に行こうと思っているんです。"
+        },
+        {
+            "message_id": 1,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "いいですね！楽しみですね。沖縄で何をする予定ですか？"
+        },
+        {
+            "message_id": 2,
+            "user_id": "0002",
+            "speaker": "Human",
+            "message": "レンタカーを借りて、まずは島一周しようと思っています。おすすめの観光スポットありますか？"
+        },
+        {
+            "message_id": 3,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "首里城や美ら海水族館は人気ですよ。古宇利島も素敵な場所です！"
+        },
+        {
+            "message_id": 4,
+            "user_id": "0002",
+            "speaker": "Human",
+            "message": "そうなんですね。首里城や美ら海水族館はぜひ行きたいです。ほかにお勧めありますか？"
+        },
+        {
+            "message_id": 5,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "備瀬のフクギ並木もおすすめですよ。静かで美しい場所です。"
+        },
+        {
+            "message_id": 6,
+            "user_id": "0002",
+            "speaker": "Human",
+            "message": "フクギ並木は初めて知りました。とても興味が湧きますね。"
+        },
+        {
+            "message_id": 7,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "ぜひ訪れてみてください！きっと気に入ると思いますよ。"
+        },
+        {
+            "message_id": 8,
+            "user_id": "0002",
+            "speaker": "Human",
+            "message": "そうですね。ぜひ行ってみようと思います。ちょっと心配なのは沖縄の天気なんです。"
+        },
+        {
+            "message_id": 9,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "確かに天気は気になりますね。天気予報をチェックして、うまく計画を立てられるといいですね。"
+        },
+        {
+            "message_id": 10,
+            "user_id": "0002",
+            "speaker": "Human",
+            "message": "そうですよね。台風が結構多いと思うのでちょっと恐ろしさを感じるし、下手したら予定どおり帰れないこともあったりしてと考えちゃいます。"
+        },
+        {
+            "message_id": 11,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "それは心配ですよね。事前に対策を考えておくと安心かもしれません。"
+        },
+        {
+            "message_id": 12,
+            "user_id": "0002",
+            "speaker": "Human",
+            "message": "そうですね。不安要素より、楽しいことを考えて旅行計画をした方がいいですね。沖縄の名物料理ってご存じですか？"
+        },
+        {
+            "message_id": 13,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "ゴーヤチャンプルーやラフテー、沖縄そばがおすすめです！"
+        },
+        {
+            "message_id": 14,
+            "user_id": "0002",
+            "speaker": "Human",
+            "message": "ラフテーってどんな料理ですか？"
+        },
+        {
+            "message_id": 15,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "ラフテーは、豚の角煮を泡盛や砂糖で甘辛く煮込んだ料理です。柔らかくて美味しいですよ。"
+        },
+        {
+            "message_id": 16,
+            "user_id": "0002",
+            "speaker": "Human",
+            "message": "白ご飯に合いそうな料理ですね。ぜひ食べてみようと思います。沖縄のお土産はどんなものが喜ばれますか？"
+        },
+        {
+            "message_id": 17,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "紅いもタルトやちんすこうが人気ですよ！"
+        },
+        {
+            "message_id": 18,
+            "user_id": "0002",
+            "speaker": "Human",
+            "message": "ちんすこうって食べたことがあります。いろんな味があっていいですよね。"
+        },
+        {
+            "message_id": 19,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "そうですね、バリエーションが豊富で楽しいですよね。"
+        }
+    ]
+}

@@ -1,0 +1,167 @@
+{
+    "dialogue_id": 3019,
+    "setting": "wow",
+    "model": "gpt-4o",
+    "prompt": "neutral",
+    "topic": "ニューヨーク",
+    "objective_evaluation": {
+        "preference": 3.67,
+        "stylistic_similarity": 4.0,
+        "consistency": 4.33,
+        "engagingness": 4.0,
+        "preference_scores": [
+            3.0,
+            5.0,
+            3.0
+        ],
+        "stylistic_similarity_scores": [
+            3.0,
+            5.0,
+            4.0
+        ],
+        "consistency_scores": [
+            4.0,
+            5.0,
+            4.0
+        ],
+        "engagingness_scores": [
+            4.0,
+            5.0,
+            3.0
+        ]
+    },
+    "subjective_evaluation": {
+        "preference": 4.0,
+        "stylistic_similarity": 4.0,
+        "consistency": 4.0,
+        "engagingness": 5.0
+    },
+    "dialogue": [
+        {
+            "message_id": 0,
+            "system_id": "0003",
+            "speaker": "Bot",
+            "message": "ニューヨーク市はアメリカで最も人口の多い都市で、文化や金融の中心地として知られています。"
+        },
+        {
+            "message_id": 1,
+            "user_id": "0059",
+            "speaker": "Human",
+            "message": "ニューヨークって気候はどのような場所なんですか？"
+        },
+        {
+            "message_id": 2,
+            "system_id": "0003",
+            "speaker": "Bot",
+            "message": "ニューヨーク市は、四季がはっきりしており、夏は暑く湿度が高く、冬は寒く雪が降ることがあります。"
+        },
+        {
+            "message_id": 3,
+            "user_id": "0059",
+            "speaker": "Human",
+            "message": "ニューヨークの物価は高いですか？"
+        },
+        {
+            "message_id": 4,
+            "system_id": "0003",
+            "speaker": "Bot",
+            "message": "ニューヨーク市は物価が高く、特に住宅費が非常に高いことで知られています。"
+        },
+        {
+            "message_id": 5,
+            "user_id": "0059",
+            "speaker": "Human",
+            "message": "ニューヨークの交通渋滞はどのような状態でしょうか？"
+        },
+        {
+            "message_id": 6,
+            "system_id": "0003",
+            "speaker": "Bot",
+            "message": "ニューヨーク市は交通量が非常に多く、渋滞が頻繁に発生する都市です。"
+        },
+        {
+            "message_id": 7,
+            "user_id": "0059",
+            "speaker": "Human",
+            "message": "自由の女神像はどの島にありますか？"
+        },
+        {
+            "message_id": 8,
+            "system_id": "0003",
+            "speaker": "Bot",
+            "message": "自由の女神像はニューヨーク市のリバティ島にあります。"
+        },
+        {
+            "message_id": 9,
+            "user_id": "0059",
+            "speaker": "Human",
+            "message": "セントラルパークの面積はどのくらいですか？"
+        },
+        {
+            "message_id": 10,
+            "system_id": "0003",
+            "speaker": "Bot",
+            "message": "セントラルパークの面積は約843エーカー（3.41平方キロメートル）です。"
+        },
+        {
+            "message_id": 11,
+            "user_id": "0059",
+            "speaker": "Human",
+            "message": "なるほど、大きいですね。"
+        },
+        {
+            "message_id": 12,
+            "system_id": "0003",
+            "speaker": "Bot",
+            "message": "セントラルパークはニューヨーク市マンハッタンに位置し、都市の速いペースの中で自然を楽しめる広大なエリアです。"
+        },
+        {
+            "message_id": 13,
+            "user_id": "0059",
+            "speaker": "Human",
+            "message": "大都市でも自然があるのはいいですね。"
+        },
+        {
+            "message_id": 14,
+            "system_id": "0003",
+            "speaker": "Bot",
+            "message": "そうですね、ニューヨークは大都市でありながら、多くの自然や文化を楽しめる場所がたくさんあります。"
+        },
+        {
+            "message_id": 15,
+            "user_id": "0059",
+            "speaker": "Human",
+            "message": "ニューヨークの主な文化施設を教えて下さい。"
+        },
+        {
+            "message_id": 16,
+            "system_id": "0003",
+            "speaker": "Bot",
+            "message": "ニューヨーク市には、メトロポリタン美術館やブロードウェイ劇場など、世界的に有名な文化施設が多数あります。"
+        },
+        {
+            "message_id": 17,
+            "user_id": "0059",
+            "speaker": "Human",
+            "message": "ニューヨークの総人口を教えて下さい。"
+        },
+        {
+            "message_id": 18,
+            "system_id": "0003",
+            "speaker": "Bot",
+            "message": "ニューヨーク市の推定人口は2016年時点で約8,537,673人です。"
+        },
+        {
+            "message_id": 19,
+            "user_id": "0059",
+            "speaker": "Human",
+            "message": "なるほど、ありがとうございました。"
+        },
+        {
+            "message_id": 20,
+            "system_id": "0003",
+            "speaker": "Bot",
+            "message": "どういたしまして、また何か質問があれば教えてくださいね。"
+        }
+    ]
+}

@@ -1,0 +1,162 @@
+{
+    "dialogue_id": 2042,
+    "setting": "ed",
+    "model": "gpt-4o",
+    "prompt": "nonent",
+    "emotion": "Furious",
+    "episode": "父親に物を隠したと疑われる##姉にいいように使われる##病気になってもこき使われる",
+    "objective_evaluation": {
+        "preference": 3.0,
+        "stylistic_similarity": 3.67,
+        "consistency": 4.0,
+        "empathy": 2.67,
+        "preference_scores": [
+            2.0,
+            5.0,
+            2.0
+        ],
+        "stylistic_similarity_scores": [
+            4.0,
+            4.0,
+            3.0
+        ],
+        "consistency_scores": [
+            4.0,
+            5.0,
+            3.0
+        ],
+        "empathy_scores": [
+            2.0,
+            3.0,
+            3.0
+        ]
+    },
+    "subjective_evaluation": {
+        "preference": 3.0,
+        "stylistic_similarity": 2.0,
+        "consistency": 5.0,
+        "empathy": 3.0
+    },
+    "dialogue": [
+        {
+            "message_id": 0,
+            "user_id": "0039",
+            "speaker": "Human",
+            "message": "異常行動ばかりする父親にうんざりします"
+        },
+        {
+            "message_id": 1,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "大変ですね。それはお辛いことかとお察しします。"
+        },
+        {
+            "message_id": 2,
+            "user_id": "0039",
+            "speaker": "Human",
+            "message": "自分が管理していた物が無くなればお前が隠しただの全て他人のせい"
+        },
+        {
+            "message_id": 3,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "それは本当に困りますね。どう対処されていますか？"
+        },
+        {
+            "message_id": 4,
+            "user_id": "0039",
+            "speaker": "Human",
+            "message": "毎日サンドバックになり耐え忍んでいます"
+        },
+        {
+            "message_id": 5,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "それは本当に辛い状況ですね。でも、あなたがその中で強くいることは素晴らしいです。"
+        },
+        {
+            "message_id": 6,
+            "user_id": "0039",
+            "speaker": "Human",
+            "message": "姉も何の役にも立たず逆に勝手な行為を強要してくるだけと味方がおりませんので"
+        },
+        {
+            "message_id": 7,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "それは本当に厳しい状況ですね。助けを求められる場所を探してみるのも一つの手かもしれません。"
+        },
+        {
+            "message_id": 8,
+            "user_id": "0039",
+            "speaker": "Human",
+            "message": "家を出る意外にこの檻の中では安息の時間は無いかと"
+        },
+        {
+            "message_id": 9,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "辛い状況ですね。外部のサポートを考えるのも良い選択かもしれませんね。"
+        },
+        {
+            "message_id": 10,
+            "user_id": "0039",
+            "speaker": "Human",
+            "message": "ケアマネージャーはあくまでビジネスなので助けにはなりません"
+        },
+        {
+            "message_id": 11,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "それはお辛いですね。他に頼れるサポートが見つかると良いですね。"
+        },
+        {
+            "message_id": 12,
+            "user_id": "0039",
+            "speaker": "Human",
+            "message": "そんなスーパーマンがこの世に居てくれたら助かるのですがね"
+        },
+        {
+            "message_id": 13,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "本当に現実にそんな存在がいれば、素晴らしいですね。"
+        },
+        {
+            "message_id": 14,
+            "user_id": "0039",
+            "speaker": "Human",
+            "message": "アニメや映画の中だけにしか存在しませんからね"
+        },
+        {
+            "message_id": 15,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "確かに、現実は厳しいですね。でも、きっと何か解決策が見つかるはずです。"
+        },
+        {
+            "message_id": 16,
+            "user_id": "0039",
+            "speaker": "Human",
+            "message": "可能性に殺される毎日しかありません"
+        },
+        {
+            "message_id": 17,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "それは大変ですね。でも、少しずつでも希望を見つけられるといいですね。"
+        },
+        {
+            "message_id": 18,
+            "user_id": "0039",
+            "speaker": "Human",
+            "message": "捨てる以外の希望は無いかと思っています"
+        },
+        {
+            "message_id": 19,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "どんなに厳しい状況でも、新たな道が見つかることを願っています。"
+        }
+    ]
+}

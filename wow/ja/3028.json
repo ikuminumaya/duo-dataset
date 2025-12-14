@@ -1,0 +1,141 @@
+{
+    "dialogue_id": 3028,
+    "setting": "wow",
+    "model": "gpt-4o",
+    "prompt": "ent",
+    "topic": "スペイン語",
+    "subjective_evaluation": {
+        "preference": 4.0,
+        "stylistic_similarity": 3.0,
+        "consistency": 5.0,
+        "engagingness": 3.0
+    },
+    "dialogue": [
+        {
+            "message_id": 0,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "スペイン語はカスティーリャ地方に起源を持つ言語で、世界で2番目に多くの人々に母語として話されていますよ。"
+        },
+        {
+            "message_id": 1,
+            "user_id": "0062",
+            "speaker": "Human",
+            "message": "カスティーリャ地方はどのあたりにあるのですか？"
+        },
+        {
+            "message_id": 2,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "カスティーリャ地方は、スペインの北中部に位置していて、スペイン語の発祥地として知られているよ。"
+        },
+        {
+            "message_id": 3,
+            "user_id": "0062",
+            "speaker": "Human",
+            "message": "スペインだけでなく、他の国でもスペイン語は話されているのですか？"
+        },
+        {
+            "message_id": 4,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "はい、スペイン語はスペイン以外にも、特にアメリカ大陸全体で広く話されています。"
+        },
+        {
+            "message_id": 5,
+            "user_id": "0062",
+            "speaker": "Human",
+            "message": "スペインの人口は何人なんですか？"
+        },
+        {
+            "message_id": 6,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "スペインの人口は約4700万人だよ。"
+        },
+        {
+            "message_id": 7,
+            "user_id": "0062",
+            "speaker": "Human",
+            "message": "では、スペイン語は、スペイン以外の他の国の方が沢山話しているんですね。"
+        },
+        {
+            "message_id": 8,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "そうなんだ、スペイン語はスペイン以外の多くの国、特にアメリカ大陸で広く話されているんだよ。"
+        },
+        {
+            "message_id": 9,
+            "user_id": "0062",
+            "speaker": "Human",
+            "message": "スペイン語だけにある特徴なんてあるんですか？"
+        },
+        {
+            "message_id": 10,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "スペイン語はラテン語に由来する語彙が多く、またアラビア語の影響も受けているのが特徴だよ。"
+        },
+        {
+            "message_id": 11,
+            "user_id": "0062",
+            "speaker": "Human",
+            "message": "発声方法は簡単ですか？"
+        },
+        {
+            "message_id": 12,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "スペイン語の発音は、基本的に書かれた通りに発音するので、比較的シンプルだよ。ただし、いくつか独特な音もあるから、慣れるまで少し練習が必要かもしれないね。"
+        },
+        {
+            "message_id": 13,
+            "user_id": "0062",
+            "speaker": "Human",
+            "message": "外国語を学習するならスペイン語はオススメですか？"
+        },
+        {
+            "message_id": 14,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "うん、スペイン語は多くの国で話されていて、特にビジネスや旅行で役立つから、学ぶ価値があると思うよ。"
+        },
+        {
+            "message_id": 15,
+            "user_id": "0062",
+            "speaker": "Human",
+            "message": "文法的にも簡単に覚えられますか？"
+        },
+        {
+            "message_id": 16,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "スペイン語の文法は他の言語と比べてシンプルな部分もあるけど、動詞の活用が複雑だったりするから、少し時間をかけて覚える必要があるかもしれないよ。"
+        },
+        {
+            "message_id": 17,
+            "user_id": "0062",
+            "speaker": "Human",
+            "message": "ドイツ語みたいに、単語に性別はないんですか？"
+        },
+        {
+            "message_id": 18,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "スペイン語にも名詞に性別があって、男性名詞と女性名詞があるんだよ。"
+        },
+        {
+            "message_id": 19,
+            "user_id": "0062",
+            "speaker": "Human",
+            "message": "それは覚えるのが大変そうですね。"
+        },
+        {
+            "message_id": 20,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "確かに最初は覚えるのが少し大変かもしれないけど、慣れてくるとだんだん自然に使えるようになると思うよ。"
+        }
+    ]
+}

@@ -1,0 +1,167 @@
+{
+    "dialogue_id": 3030,
+    "setting": "wow",
+    "model": "gpt-4o",
+    "prompt": "ent",
+    "topic": "ロバート・デ・ニーロ",
+    "objective_evaluation": {
+        "preference": 4.0,
+        "stylistic_similarity": 3.33,
+        "consistency": 4.33,
+        "engagingness": 3.67,
+        "preference_scores": [
+            4.0,
+            4.0,
+            4.0
+        ],
+        "stylistic_similarity_scores": [
+            4.0,
+            2.0,
+            4.0
+        ],
+        "consistency_scores": [
+            4.0,
+            4.0,
+            5.0
+        ],
+        "engagingness_scores": [
+            4.0,
+            3.0,
+            4.0
+        ]
+    },
+    "subjective_evaluation": {
+        "preference": 3.0,
+        "stylistic_similarity": 5.0,
+        "consistency": 4.0,
+        "engagingness": 4.0
+    },
+    "dialogue": [
+        {
+            "message_id": 0,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "ロバート・デ・ニーロは『ゴッドファーザー PART II』でアカデミー賞を受賞したすごい俳優なんだよ。"
+        },
+        {
+            "message_id": 1,
+            "user_id": "0036",
+            "speaker": "Human",
+            "message": "映画に詳しくない私は「ヒート」ぐらいでしか観たことがないです。そんなにすごい俳優だったんですね。"
+        },
+        {
+            "message_id": 2,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "そうなんだ、ロバート・デ・ニーロはアカデミー賞を何度も受賞していて、特にマーティン・スコセッシ監督との作品で有名なんだよ。"
+        },
+        {
+            "message_id": 3,
+            "user_id": "0036",
+            "speaker": "Human",
+            "message": "デ・ニーロの出ているスコセッシ監督の映画って、他にはどんな作品がありますか？"
+        },
+        {
+            "message_id": 4,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "デ・ニーロが出ているスコセッシ監督の映画には、『タクシードライバー』や『グッドフェローズ』なんかがあるよ。どれも名作だね。"
+        },
+        {
+            "message_id": 5,
+            "user_id": "0036",
+            "speaker": "Human",
+            "message": "マフィアがテーマの作品が多いんですね。"
+        },
+        {
+            "message_id": 6,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "そうだね、デ・ニーロはマフィア映画に多く出演していて、『グッドフェローズ』とか『ミーン・ストリート』もその一部なんだよ。"
+        },
+        {
+            "message_id": 7,
+            "user_id": "0036",
+            "speaker": "Human",
+            "message": "「ミーン・ストリート」は知らないですね。どんな作品か教えて下さい。"
+        },
+        {
+            "message_id": 8,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "『ミーン・ストリート』は、デ・ニーロが出演した1973年のマーティン・スコセッシ監督の犯罪映画で、彼の初期の重要な作品の一つなんだ。"
+        },
+        {
+            "message_id": 9,
+            "user_id": "0036",
+            "speaker": "Human",
+            "message": "50年以上も前とは驚きです。二人ともそんなに前から活躍しているんですね。"
+        },
+        {
+            "message_id": 10,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "そうなんだよ、デ・ニーロとスコセッシはすごく長い間一緒に作品を作っていて、いろんな名作を生み出してきたんだ。"
+        },
+        {
+            "message_id": 11,
+            "user_id": "0036",
+            "speaker": "Human",
+            "message": "二人の最新の作品は何ですか？"
+        },
+        {
+            "message_id": 12,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "一番新しいコラボレーションは、2023年の映画『キラーズ・オブ・ザ・フラワームーン』だよ。"
+        },
+        {
+            "message_id": 13,
+            "user_id": "0036",
+            "speaker": "Human",
+            "message": "デ・ニーロはかなりの高齢だと思いますが、まだ現役の俳優なんですか？"
+        },
+        {
+            "message_id": 14,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "そうですね、ロバート・デ・ニーロは80歳を超えていますが、まだ現役で俳優として活躍していますよ。"
+        },
+        {
+            "message_id": 15,
+            "user_id": "0036",
+            "speaker": "Human",
+            "message": "それはすごいですね。映画以外の活動はなにかされているんでしょうか？"
+        },
+        {
+            "message_id": 16,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "映画以外では、デ・ニーロはプロデューサーや監督としても活動しているし、2016年には大統領自由勲章を受け取ったこともあるよ。"
+        },
+        {
+            "message_id": 17,
+            "user_id": "0036",
+            "speaker": "Human",
+            "message": "プロデューサーや監督は映画界のことだと思いますが、それ以外ではどうでしょうか。"
+        },
+        {
+            "message_id": 18,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "映画界以外では、レストランビジネスなども手がけているよ。"
+        },
+        {
+            "message_id": 19,
+            "user_id": "0036",
+            "speaker": "Human",
+            "message": "レストランも経営しているなんて、まるで彼が演じている映画のマフィアみたいですね。"
+        },
+        {
+            "message_id": 20,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "そうですね、デ・ニーロはレストランビジネスでも成功していて、特に「ノブ」という高級レストランの共同経営者として知られていますよ。"
+        }
+    ]
+}

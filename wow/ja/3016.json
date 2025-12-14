@@ -1,0 +1,141 @@
+{
+    "dialogue_id": 3016,
+    "setting": "wow",
+    "model": "gpt-4o",
+    "prompt": "neutral",
+    "topic": "スターバックス",
+    "subjective_evaluation": {
+        "preference": 5.0,
+        "stylistic_similarity": 5.0,
+        "consistency": 5.0,
+        "engagingness": 5.0
+    },
+    "dialogue": [
+        {
+            "message_id": 0,
+            "system_id": "0003",
+            "speaker": "Bot",
+            "message": "スターバックスは1971年にシアトルで創業され、現在では世界中に多くの店舗を展開するアメリカのコーヒーチェーンです。"
+        },
+        {
+            "message_id": 1,
+            "user_id": "0057",
+            "speaker": "Human",
+            "message": "行ったことはないですが、コーヒーは何種類あるのですか？"
+        },
+        {
+            "message_id": 2,
+            "system_id": "0003",
+            "speaker": "Bot",
+            "message": "スターバックスでは、エスプレッソやカフェラテ、フラペチーノなど多様なコーヒー飲料が提供されています。"
+        },
+        {
+            "message_id": 3,
+            "user_id": "0057",
+            "speaker": "Human",
+            "message": "食事もできるのですか？"
+        },
+        {
+            "message_id": 4,
+            "system_id": "0003",
+            "speaker": "Bot",
+            "message": "はい、スターバックスでは温かいサンドイッチやペストリーなどの食事も楽しむことができます。"
+        },
+        {
+            "message_id": 5,
+            "user_id": "0057",
+            "speaker": "Human",
+            "message": "営業時間は何時から何時までですか？"
+        },
+        {
+            "message_id": 6,
+            "system_id": "0003",
+            "speaker": "Bot",
+            "message": "スターバックスの営業時間は店舗によって異なるため、具体的な店舗に問い合わせるか、オンラインで確認するのが良いでしょう。"
+        },
+        {
+            "message_id": 7,
+            "user_id": "0057",
+            "speaker": "Human",
+            "message": "お薦めのコーヒーは何ですか？"
+        },
+        {
+            "message_id": 8,
+            "system_id": "0003",
+            "speaker": "Bot",
+            "message": "スターバックスの人気のあるコーヒーには、エスプレッソやカフェラテ、季節限定のパンプキンスパイスラテなどがあります。"
+        },
+        {
+            "message_id": 9,
+            "user_id": "0057",
+            "speaker": "Human",
+            "message": "持ち帰りもできるのですか？"
+        },
+        {
+            "message_id": 10,
+            "system_id": "0003",
+            "speaker": "Bot",
+            "message": "はい、スターバックスでは持ち帰り用の飲み物や食品も購入することができます。"
+        },
+        {
+            "message_id": 11,
+            "user_id": "0057",
+            "speaker": "Human",
+            "message": "犬は入れますか？"
+        },
+        {
+            "message_id": 12,
+            "system_id": "0003",
+            "speaker": "Bot",
+            "message": "スターバックスのほとんどの店舗ではペットは入れませんが、屋外の席がある場合には犬を連れて行けることがあります。"
+        },
+        {
+            "message_id": 13,
+            "user_id": "0057",
+            "speaker": "Human",
+            "message": "田舎にもあるんですか？"
+        },
+        {
+            "message_id": 14,
+            "system_id": "0003",
+            "speaker": "Bot",
+            "message": "スターバックスは世界中に幅広く展開しており、田舎の地域にも存在することがあります。"
+        },
+        {
+            "message_id": 15,
+            "user_id": "0057",
+            "speaker": "Human",
+            "message": "paypayは使えますか？"
+        },
+        {
+            "message_id": 16,
+            "system_id": "0003",
+            "speaker": "Bot",
+            "message": "スターバックスの店舗によってはPayPayなどの電子決済に対応している場合がありますので、具体的な店舗で確認するのが良いでしょう。"
+        },
+        {
+            "message_id": 17,
+            "user_id": "0057",
+            "speaker": "Human",
+            "message": "店員さんは年を取った方もいますか？"
+        },
+        {
+            "message_id": 18,
+            "system_id": "0003",
+            "speaker": "Bot",
+            "message": "スターバックスの店員はさまざまな年齢の方が働いていることがあります。"
+        },
+        {
+            "message_id": 19,
+            "user_id": "0057",
+            "speaker": "Human",
+            "message": "コーヒー1杯で何時間もいられますか？"
+        },
+        {
+            "message_id": 20,
+            "system_id": "0003",
+            "speaker": "Bot",
+            "message": "スターバックスでは、コーヒー1杯で長時間過ごすことも一般的ですが、混雑時には配慮が求められることもあります。"
+        }
+    ]
+}

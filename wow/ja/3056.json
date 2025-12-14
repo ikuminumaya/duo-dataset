@@ -1,0 +1,167 @@
+{
+    "dialogue_id": 3056,
+    "setting": "wow",
+    "model": "gpt-4o",
+    "prompt": "nonent",
+    "topic": "バックストリート・ボーイズ",
+    "objective_evaluation": {
+        "preference": 3.67,
+        "stylistic_similarity": 3.67,
+        "consistency": 4.33,
+        "engagingness": 3.67,
+        "preference_scores": [
+            3.0,
+            4.0,
+            4.0
+        ],
+        "stylistic_similarity_scores": [
+            5.0,
+            3.0,
+            3.0
+        ],
+        "consistency_scores": [
+            5.0,
+            4.0,
+            4.0
+        ],
+        "engagingness_scores": [
+            3.0,
+            4.0,
+            4.0
+        ]
+    },
+    "subjective_evaluation": {
+        "preference": 5.0,
+        "stylistic_similarity": 3.0,
+        "consistency": 5.0,
+        "engagingness": 4.0
+    },
+    "dialogue": [
+        {
+            "message_id": 0,
+            "system_id": "0005",
+            "speaker": "Bot",
+            "message": "バックストリート・ボーイズは、世界中で1億3,000万枚以上のレコードを売り上げ、歴史上最も売れたボーイバンドの一つです。"
+        },
+        {
+            "message_id": 1,
+            "user_id": "0052",
+            "speaker": "Human",
+            "message": "そうなんですね。どこの国のバンドなんでしょうか"
+        },
+        {
+            "message_id": 2,
+            "system_id": "0005",
+            "speaker": "Bot",
+            "message": "バックストリート・ボーイズは、アメリカのフロリダ州オーランドで1993年に結成されたグループです。"
+        },
+        {
+            "message_id": 3,
+            "user_id": "0052",
+            "speaker": "Human",
+            "message": "何人で活動しているバンドですか"
+        },
+        {
+            "message_id": 4,
+            "system_id": "0005",
+            "speaker": "Bot",
+            "message": "彼らは現在、5人で活動しているボーカルグループです。"
+        },
+        {
+            "message_id": 5,
+            "user_id": "0052",
+            "speaker": "Human",
+            "message": "現在、ということは人数は流動的なんですか"
+        },
+        {
+            "message_id": 6,
+            "system_id": "0005",
+            "speaker": "Bot",
+            "message": "彼らは結成当初から5人でしたが、2006年にケビン・リチャードソンが一度脱退し、2012年に再加入したので、人数が変動したことがあります。"
+        },
+        {
+            "message_id": 7,
+            "user_id": "0052",
+            "speaker": "Human",
+            "message": "なるほど、それにしても20年以上活動している寿命の長いバンドなんですね"
+        },
+        {
+            "message_id": 8,
+            "system_id": "0005",
+            "speaker": "Bot",
+            "message": "確かに、バックストリート・ボーイズは長い歴史を持ち、結成から30年近くにわたって活動を続けていることが彼らの成功と人気を物語っています。"
+        },
+        {
+            "message_id": 9,
+            "user_id": "0052",
+            "speaker": "Human",
+            "message": "そのバンドの魅力はなんですか"
+        },
+        {
+            "message_id": 10,
+            "system_id": "0005",
+            "speaker": "Bot",
+            "message": "彼らの魅力は、緻密なハーモニーとキャッチーな楽曲、そして長年にわたる一貫したパフォーマンスによるものです。"
+        },
+        {
+            "message_id": 11,
+            "user_id": "0052",
+            "speaker": "Human",
+            "message": "パフォーマンスとは、踊りなどでしょうか？"
+        },
+        {
+            "message_id": 12,
+            "system_id": "0005",
+            "speaker": "Bot",
+            "message": "彼らのパフォーマンスには、緻密な振り付けとダンスが組み込まれており、観客を魅了し続けています。"
+        },
+        {
+            "message_id": 13,
+            "user_id": "0052",
+            "speaker": "Human",
+            "message": "ダンスは激しい系でしょうか？"
+        },
+        {
+            "message_id": 14,
+            "system_id": "0005",
+            "speaker": "Bot",
+            "message": "彼らのダンスは、エネルギッシュで華やかなパフォーマンスとして知られ、視覚的にも大いに楽しませてくれます。"
+        },
+        {
+            "message_id": 15,
+            "user_id": "0052",
+            "speaker": "Human",
+            "message": "30年近い活動歴だと、年齢は高いと思います。それでもエネルギッシュなパフォーマンスが出来るんですね"
+        },
+        {
+            "message_id": 16,
+            "system_id": "0005",
+            "speaker": "Bot",
+            "message": "そうですね、彼らは長年の経験を活かし、今でもエネルギッシュで多彩なステージパフォーマンスを繰り広げています。"
+        },
+        {
+            "message_id": 17,
+            "user_id": "0052",
+            "speaker": "Human",
+            "message": "5人すべてがボーカルなんですか？"
+        },
+        {
+            "message_id": 18,
+            "system_id": "0005",
+            "speaker": "Bot",
+            "message": "はい、バックストリート・ボーイズは5人全員がボーカルを担当しています。"
+        },
+        {
+            "message_id": 19,
+            "user_id": "0052",
+            "speaker": "Human",
+            "message": "そうなんですね。ボーカルの幅が広がっていいですね。"
+        },
+        {
+            "message_id": 20,
+            "system_id": "0005",
+            "speaker": "Bot",
+            "message": "はい、5人全員がボーカルを担当することで、彼らの楽曲に多様な音楽的色彩をもたらしています。"
+        }
+    ]
+}

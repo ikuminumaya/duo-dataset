@@ -1,0 +1,141 @@
+{
+    "dialogue_id": 3034,
+    "setting": "wow",
+    "model": "gpt-4o",
+    "prompt": "ent",
+    "topic": "100メートル競走",
+    "subjective_evaluation": {
+        "preference": 4.0,
+        "stylistic_similarity": 4.0,
+        "consistency": 4.0,
+        "engagingness": 5.0
+    },
+    "dialogue": [
+        {
+            "message_id": 0,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "「100メートル競走は、オリンピックでも最も権威ある種目の一つで、ウサイン・ボルトが男子の世界記録を持っているんだよ！」"
+        },
+        {
+            "message_id": 1,
+            "user_id": "0067",
+            "speaker": "Human",
+            "message": "世界記録のタイムはいくつ"
+        },
+        {
+            "message_id": 2,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "男子の世界記録は9.58秒で、ウサイン・ボルトが2009年に達成したんだ。"
+        },
+        {
+            "message_id": 3,
+            "user_id": "0067",
+            "speaker": "Human",
+            "message": "2009年のどの大会ですか"
+        },
+        {
+            "message_id": 4,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "ウサイン・ボルトがこの記録を出したのは、2009年にベルリンで開催された世界陸上選手権だよ。"
+        },
+        {
+            "message_id": 5,
+            "user_id": "0067",
+            "speaker": "Human",
+            "message": "その前の世界記録は"
+        },
+        {
+            "message_id": 6,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "その前の世界記録は、同じくウサイン・ボルトが2008年に出した9.69秒だよ。"
+        },
+        {
+            "message_id": 7,
+            "user_id": "0067",
+            "speaker": "Human",
+            "message": "ボルトの前はだれですか"
+        },
+        {
+            "message_id": 8,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "ウサイン・ボルトの前の世界記録はアサファ・パウエルで、2007年に9.74秒を出したんだよ。"
+        },
+        {
+            "message_id": 9,
+            "user_id": "0067",
+            "speaker": "Human",
+            "message": "パウエルは何処の国の人ですか"
+        },
+        {
+            "message_id": 10,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "アサファ・パウエルはジャマイカ出身のスプリンターだよ。"
+        },
+        {
+            "message_id": 11,
+            "user_id": "0067",
+            "speaker": "Human",
+            "message": "ボルトは"
+        },
+        {
+            "message_id": 12,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "ウサイン・ボルトもジャマイカ出身なんだよ！"
+        },
+        {
+            "message_id": 13,
+            "user_id": "0067",
+            "speaker": "Human",
+            "message": "そうなんですね"
+        },
+        {
+            "message_id": 14,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "そうなんだ、ボルトとパウエルはどちらもジャマイカ出身のスプリンターなんだよ！"
+        },
+        {
+            "message_id": 15,
+            "user_id": "0067",
+            "speaker": "Human",
+            "message": "どうしてジャマイカ人は足が速いんですか"
+        },
+        {
+            "message_id": 16,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "ジャマイカでは、遺伝的要因やトレーニング環境、文化的な影響が速いスプリンターを生み出していると言われてるんだよ。"
+        },
+        {
+            "message_id": 17,
+            "user_id": "0067",
+            "speaker": "Human",
+            "message": "誰が、それを調べたのですか"
+        },
+        {
+            "message_id": 18,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "特定の研究者の名前はわからないけど、ジャマイカのスプリントの成功には、遺伝や食事、トレーニングの文化が関係していると考えられているんだ。"
+        },
+        {
+            "message_id": 19,
+            "user_id": "0067",
+            "speaker": "Human",
+            "message": "どんな研究かきになりますね"
+        },
+        {
+            "message_id": 20,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "ジャマイカのスプリンターに関する研究は、遺伝学、食事、トレーニング方法など、さまざまな要因を調査していることが多いんだ。"
+        }
+    ]
+}

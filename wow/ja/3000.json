@@ -1,0 +1,167 @@
+{
+    "dialogue_id": 3000,
+    "setting": "wow",
+    "model": "gpt-4o",
+    "prompt": "neutral",
+    "topic": "NBA",
+    "objective_evaluation": {
+        "preference": 3.33,
+        "stylistic_similarity": 3.33,
+        "consistency": 3.67,
+        "engagingness": 3.33,
+        "preference_scores": [
+            3.0,
+            4.0,
+            3.0
+        ],
+        "stylistic_similarity_scores": [
+            4.0,
+            3.0,
+            3.0
+        ],
+        "consistency_scores": [
+            4.0,
+            4.0,
+            3.0
+        ],
+        "engagingness_scores": [
+            4.0,
+            3.0,
+            3.0
+        ]
+    },
+    "subjective_evaluation": {
+        "preference": 4.0,
+        "stylistic_similarity": 3.0,
+        "consistency": 4.0,
+        "engagingness": 3.0
+    },
+    "dialogue": [
+        {
+            "message_id": 0,
+            "system_id": "0003",
+            "speaker": "Bot",
+            "message": "NBAは、1946年に設立され、現在では世界で最高峰の男子プロバスケットボールリーグと広く考えられています。"
+        },
+        {
+            "message_id": 1,
+            "user_id": "0001",
+            "speaker": "Human",
+            "message": "アメリカの３大スポーツの一つだと認識しておりますが正しいでしょうか？"
+        },
+        {
+            "message_id": 2,
+            "system_id": "0003",
+            "speaker": "Bot",
+            "message": "はい、NBAはアメリカとカナダにおける4大プロスポーツリーグの1つです。"
+        },
+        {
+            "message_id": 3,
+            "user_id": "0001",
+            "speaker": "Human",
+            "message": "私の認識はあっていたようです。日本でNBAの存在が大きく知れ渡ったのは、何が要因か分かりますか？"
+        },
+        {
+            "message_id": 4,
+            "system_id": "0003",
+            "speaker": "Bot",
+            "message": "日本でNBAが広く知られるようになった要因の一つは、アメリカを代表するスポーツリーグとしての国際的な影響力と、スター選手たちの活躍によるものです。"
+        },
+        {
+            "message_id": 5,
+            "user_id": "0001",
+            "speaker": "Human",
+            "message": "私の認識とは食い違いますね。恐らくなのですが、集英社が発行しているジャンプに連絡されていたスラムダンクが多いに影響しているのでは？と感じますが如何ですか？その中でもやはり、シカゴブルズのマイケル・ジョーダンの存在が一番大きいのかな？と思います。"
+        },
+        {
+            "message_id": 6,
+            "system_id": "0003",
+            "speaker": "Bot",
+            "message": "「スラムダンク」やマイケル・ジョーダンの活躍は、日本でNBAが広く知られるようになった大きな要因です。"
+        },
+        {
+            "message_id": 7,
+            "user_id": "0001",
+            "speaker": "Human",
+            "message": "マイケルジョーダン、スコッティ・ピッペン、デニスロッドマンですね"
+        },
+        {
+            "message_id": 8,
+            "system_id": "0003",
+            "speaker": "Bot",
+            "message": "はい、マイケル・ジョーダン、スコッティ・ピッペン、デニス・ロッドマンはシカゴ・ブルズの黄金時代を支えたスター選手たちで、その影響は大きかったです。"
+        },
+        {
+            "message_id": 9,
+            "user_id": "0001",
+            "speaker": "Human",
+            "message": "NBAですが、日本では、開催されていないのでしょうか？"
+        },
+        {
+            "message_id": 10,
+            "system_id": "0003",
+            "speaker": "Bot",
+            "message": "NBAの試合は日本でも開催されたことがあります。"
+        },
+        {
+            "message_id": 11,
+            "user_id": "0001",
+            "speaker": "Human",
+            "message": "いつどこで開催されたのですか？"
+        },
+        {
+            "message_id": 12,
+            "system_id": "0003",
+            "speaker": "Bot",
+            "message": "NBAは、過去に日本でプレシーズンゲームを開催したことがあります。"
+        },
+        {
+            "message_id": 13,
+            "user_id": "0001",
+            "speaker": "Human",
+            "message": "2024,2025は、開催されていないのですね？NBAは、知らずとも八村塁選手の活躍は、報じられているので見に行きたいと思う人がいるのでは？と感じるのですが..."
+        },
+        {
+            "message_id": 14,
+            "system_id": "0003",
+            "speaker": "Bot",
+            "message": "2024年や2025年の具体的な開催情報は確認できませんが、日本では過去にNBAのプレシーズンゲームが開催されています。"
+        },
+        {
+            "message_id": 15,
+            "user_id": "0001",
+            "speaker": "Human",
+            "message": "過去は開催されていたのですね。NBAは、どのようにしてチャンピオンシップを戦うのですか？"
+        },
+        {
+            "message_id": 16,
+            "system_id": "0003",
+            "speaker": "Bot",
+            "message": "NBAは、レギュラーシーズンの後にプレーオフを行い、最後にチャンピオンシップを決定するファイナルが行われます。"
+        },
+        {
+            "message_id": 17,
+            "user_id": "0001",
+            "speaker": "Human",
+            "message": "アメリカ全体で地区別に戦い、その中から上位チームで総当りで戦うイメージなのでしょうか？"
+        },
+        {
+            "message_id": 18,
+            "system_id": "0003",
+            "speaker": "Bot",
+            "message": "はい、NBAは東西2つのカンファレンスに分かれ、各カンファレンスの上位チームがプレーオフを戦います。"
+        },
+        {
+            "message_id": 19,
+            "user_id": "0001",
+            "speaker": "Human",
+            "message": "全体で何チームですか？また、強豪チームを是非オススメしてほしいです。シカゴ・ブルズぐらいしか馴染みがないので是非オススメ下さい。"
+        },
+        {
+            "message_id": 20,
+            "system_id": "0003",
+            "speaker": "Bot",
+            "message": "NBAは全部で30チームあり、ゴールデンステート・ウォリアーズやロサンゼルス・レイカーズなどが強豪チームとして知られています。"
+        }
+    ]
+}

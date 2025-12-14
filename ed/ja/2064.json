@@ -1,0 +1,162 @@
+{
+    "dialogue_id": 2064,
+    "setting": "ed",
+    "model": "gpt-4o",
+    "prompt": "neutral",
+    "emotion": "Grateful",
+    "episode": "いつも話し相手になってくれている友達に感謝してます。",
+    "objective_evaluation": {
+        "preference": 3.33,
+        "stylistic_similarity": 3.0,
+        "consistency": 3.67,
+        "empathy": 3.67,
+        "preference_scores": [
+            3.0,
+            4.0,
+            3.0
+        ],
+        "stylistic_similarity_scores": [
+            3.0,
+            3.0,
+            3.0
+        ],
+        "consistency_scores": [
+            4.0,
+            4.0,
+            3.0
+        ],
+        "empathy_scores": [
+            4.0,
+            4.0,
+            3.0
+        ]
+    },
+    "subjective_evaluation": {
+        "preference": 4.0,
+        "stylistic_similarity": 2.0,
+        "consistency": 5.0,
+        "empathy": 4.0
+    },
+    "dialogue": [
+        {
+            "message_id": 0,
+            "user_id": "0049",
+            "speaker": "Human",
+            "message": "いつも話し相手になってくれている友達に感謝してます。\n"
+        },
+        {
+            "message_id": 1,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "素敵な友達ですね。感謝の気持ちを伝えると喜んでくれると思いますよ。"
+        },
+        {
+            "message_id": 2,
+            "user_id": "0049",
+            "speaker": "Human",
+            "message": "できるだけ感謝の気持ちは伝えるようにしてます"
+        },
+        {
+            "message_id": 3,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "それは素晴らしいですね。きっと友達も嬉しいと思いますよ。"
+        },
+        {
+            "message_id": 4,
+            "user_id": "0049",
+            "speaker": "Human",
+            "message": "友達増えると嬉しいです"
+        },
+        {
+            "message_id": 5,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "それは素敵ですね！新しい出会いが楽しみですね。"
+        },
+        {
+            "message_id": 6,
+            "user_id": "0049",
+            "speaker": "Human",
+            "message": "なかなか出会いがないですが、新たな出会いに期待します"
+        },
+        {
+            "message_id": 7,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "きっと良い出会いがありますよ！"
+        },
+        {
+            "message_id": 8,
+            "user_id": "0049",
+            "speaker": "Human",
+            "message": "ありがとうございます。あるといいです"
+        },
+        {
+            "message_id": 9,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "こちらこそ。きっとありますよ！"
+        },
+        {
+            "message_id": 10,
+            "user_id": "0049",
+            "speaker": "Human",
+            "message": "外出する機会増やした方がいいですかね"
+        },
+        {
+            "message_id": 11,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "はい、外出は新しい出会いのチャンスを広げますよ。"
+        },
+        {
+            "message_id": 12,
+            "user_id": "0049",
+            "speaker": "Human",
+            "message": "ですよね。頑張って友達作ります。"
+        },
+        {
+            "message_id": 13,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "応援してます！楽しんでくださいね。"
+        },
+        {
+            "message_id": 14,
+            "user_id": "0049",
+            "speaker": "Human",
+            "message": "ありがとうございます。友達はたくさんいた方が楽しいですからね"
+        },
+        {
+            "message_id": 15,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "本当にその通りですね！"
+        },
+        {
+            "message_id": 16,
+            "user_id": "0049",
+            "speaker": "Human",
+            "message": "悩みとかも結構聞いてもらえますし"
+        },
+        {
+            "message_id": 17,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "そうですね、心強いですね。"
+        },
+        {
+            "message_id": 18,
+            "user_id": "0049",
+            "speaker": "Human",
+            "message": "心強い味方です"
+        },
+        {
+            "message_id": 19,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "素敵ですね。"
+        }
+    ]
+}

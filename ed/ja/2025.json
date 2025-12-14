@@ -1,0 +1,162 @@
+{
+    "dialogue_id": 2025,
+    "setting": "ed",
+    "model": "gpt-4o",
+    "prompt": "ent",
+    "emotion": "Grateful",
+    "episode": "旅行で楽しいひと時を過ごしました。",
+    "objective_evaluation": {
+        "preference": 4.33,
+        "stylistic_similarity": 3.0,
+        "consistency": 3.67,
+        "empathy": 4.0,
+        "preference_scores": [
+            4.0,
+            4.0,
+            5.0
+        ],
+        "stylistic_similarity_scores": [
+            4.0,
+            1.0,
+            4.0
+        ],
+        "consistency_scores": [
+            4.0,
+            3.0,
+            4.0
+        ],
+        "empathy_scores": [
+            4.0,
+            3.0,
+            5.0
+        ]
+    },
+    "subjective_evaluation": {
+        "preference": 5.0,
+        "stylistic_similarity": 4.0,
+        "consistency": 5.0,
+        "empathy": 5.0
+    },
+    "dialogue": [
+        {
+            "message_id": 0,
+            "user_id": "0025",
+            "speaker": "Human",
+            "message": "旅行に行ってきました"
+        },
+        {
+            "message_id": 1,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "どこに行ってきたの？"
+        },
+        {
+            "message_id": 2,
+            "user_id": "0025",
+            "speaker": "Human",
+            "message": "長野県に行ってきました"
+        },
+        {
+            "message_id": 3,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "長野、いいね！どんなところを観光したの？"
+        },
+        {
+            "message_id": 4,
+            "user_id": "0025",
+            "speaker": "Human",
+            "message": "郷土料理の出てくる旅館で堪能しました。"
+        },
+        {
+            "message_id": 5,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "いいね！どんな料理が美味しかった？"
+        },
+        {
+            "message_id": 6,
+            "user_id": "0025",
+            "speaker": "Human",
+            "message": "海鮮料理が自慢の温泉旅館で満足しました。"
+        },
+        {
+            "message_id": 7,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "温泉も海鮮料理も最高だね！特に美味しかった海鮮料理は何だったの？"
+        },
+        {
+            "message_id": 8,
+            "user_id": "0025",
+            "speaker": "Human",
+            "message": "本まぐろがとろける感じでとても美味しかったです。"
+        },
+        {
+            "message_id": 9,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "本まぐろ最高だね！それは贅沢なひとときだったね。"
+        },
+        {
+            "message_id": 10,
+            "user_id": "0025",
+            "speaker": "Human",
+            "message": "客室は和室で広く、高級感があり、清潔で快適でした。"
+        },
+        {
+            "message_id": 11,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "それは素晴らしいね！ゆったりとした時間を過ごせたみたいで良かったね。"
+        },
+        {
+            "message_id": 12,
+            "user_id": "0025",
+            "speaker": "Human",
+            "message": "スタッフの方々も非常にフレンドリ－でした。"
+        },
+        {
+            "message_id": 13,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "それは良かったですね！気持ちよく過ごせたんですね。"
+        },
+        {
+            "message_id": 14,
+            "user_id": "0025",
+            "speaker": "Human",
+            "message": "私たちの要望にもスム－スに対応してくれてとてもうれしかったです。"
+        },
+        {
+            "message_id": 15,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "それは嬉しいですね！素敵な旅館ですね。"
+        },
+        {
+            "message_id": 16,
+            "user_id": "0025",
+            "speaker": "Human",
+            "message": "旅館の周辺には地元のレストランや居酒屋があり、美味しい食事を楽しむことができます。"
+        },
+        {
+            "message_id": 17,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "それはいいですね！色んな料理を楽しめそう。"
+        },
+        {
+            "message_id": 18,
+            "user_id": "0025",
+            "speaker": "Human",
+            "message": "ただ、旅館周辺の道路が混雑しているため、タクシ－での移動が少し大変です。"
+        },
+        {
+            "message_id": 19,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "それはちょっと困りますね。でも、美味しい食事を楽しめるのはいいですね。"
+        }
+    ]
+}

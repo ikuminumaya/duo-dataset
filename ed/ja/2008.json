@@ -1,0 +1,162 @@
+{
+    "dialogue_id": 2008,
+    "setting": "ed",
+    "model": "gpt-4o",
+    "prompt": "neutral",
+    "emotion": "Terrified",
+    "episode": "自然災害が多く自分も災害に遭うかもしれないと思うと怖いです。",
+    "objective_evaluation": {
+        "preference": 4.0,
+        "stylistic_similarity": 3.33,
+        "consistency": 3.0,
+        "empathy": 3.33,
+        "preference_scores": [
+            5.0,
+            4.0,
+            3.0
+        ],
+        "stylistic_similarity_scores": [
+            4.0,
+            3.0,
+            3.0
+        ],
+        "consistency_scores": [
+            3.0,
+            3.0,
+            3.0
+        ],
+        "empathy_scores": [
+            4.0,
+            3.0,
+            3.0
+        ]
+    },
+    "subjective_evaluation": {
+        "preference": 5.0,
+        "stylistic_similarity": 3.0,
+        "consistency": 5.0,
+        "empathy": 5.0
+    },
+    "dialogue": [
+        {
+            "message_id": 0,
+            "user_id": "0008",
+            "speaker": "Human",
+            "message": "自然災害が多く自分も災害に遭うかもしれないと思うと怖いです。"
+        },
+        {
+            "message_id": 1,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "それは本当に怖いですよね。安全対策を考えておくことが安心につながるかもしれません。"
+        },
+        {
+            "message_id": 2,
+            "user_id": "0008",
+            "speaker": "Human",
+            "message": "どんな安全対策をとれば自然災害の被害から身を守れるでしょうか。"
+        },
+        {
+            "message_id": 3,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "避難場所の確認や非常用持ち出し袋の準備、そして家族と避難計画を話し合っておくと良いかもしれません。"
+        },
+        {
+            "message_id": 4,
+            "user_id": "0008",
+            "speaker": "Human",
+            "message": "家族と避難計画について話し合いの場を設ける事は有効な手段かもしれませんね。"
+        },
+        {
+            "message_id": 5,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "そうですね、話し合いはとても大切です。"
+        },
+        {
+            "message_id": 6,
+            "user_id": "0008",
+            "speaker": "Human",
+            "message": "普段はあまり会話をしない家族との会話のきっかけにもなるので良いかもしれません。"
+        },
+        {
+            "message_id": 7,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "確かに、良いコミュニケーションの機会ですね。"
+        },
+        {
+            "message_id": 8,
+            "user_id": "0008",
+            "speaker": "Human",
+            "message": "家族とのコミュニケーション自体が災害対策とも言えるかもしれません。"
+        },
+        {
+            "message_id": 9,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "本当にその通りですね。"
+        },
+        {
+            "message_id": 10,
+            "user_id": "0008",
+            "speaker": "Human",
+            "message": "やはり日頃から家族間のコミュニケーションを大切にしなければいけませんね。"
+        },
+        {
+            "message_id": 11,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "その通りですね。大切にしたいですね。"
+        },
+        {
+            "message_id": 12,
+            "user_id": "0008",
+            "speaker": "Human",
+            "message": "財産を災害から守る事も重要ですが家族こそ最大の財産だと思います。"
+        },
+        {
+            "message_id": 13,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "本当にそうですね。家族が一番大切です。"
+        },
+        {
+            "message_id": 14,
+            "user_id": "0008",
+            "speaker": "Human",
+            "message": "普段から一緒に食事をするなどのコミュニケーションを持つことを心掛けたいです。"
+        },
+        {
+            "message_id": 15,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "素晴らしい考えですね。"
+        },
+        {
+            "message_id": 16,
+            "user_id": "0008",
+            "speaker": "Human",
+            "message": "そうした時間こそが財産なのかもしれません。"
+        },
+        {
+            "message_id": 17,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "本当にその通りです。"
+        },
+        {
+            "message_id": 18,
+            "user_id": "0008",
+            "speaker": "Human",
+            "message": "そんなかけがえのない時間を災害で失わないように災害対策はしっかり行わないといけませんね。"
+        },
+        {
+            "message_id": 19,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "そうですね、安全第一です。"
+        }
+    ]
+}

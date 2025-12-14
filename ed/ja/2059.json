@@ -1,0 +1,162 @@
+{
+    "dialogue_id": 2059,
+    "setting": "ed",
+    "model": "gpt-4o",
+    "prompt": "nonent",
+    "emotion": "Annoyed",
+    "episode": "寒暖差や雨の日が多い季節になってきました。ただこの時期は偏頭痛になることが多くていらいらしてしまいます。それを解消する方法が知りたいです。",
+    "objective_evaluation": {
+        "preference": 4.33,
+        "stylistic_similarity": 2.33,
+        "consistency": 4.0,
+        "empathy": 3.67,
+        "preference_scores": [
+            4.0,
+            5.0,
+            4.0
+        ],
+        "stylistic_similarity_scores": [
+            3.0,
+            1.0,
+            3.0
+        ],
+        "consistency_scores": [
+            4.0,
+            4.0,
+            4.0
+        ],
+        "empathy_scores": [
+            4.0,
+            4.0,
+            3.0
+        ]
+    },
+    "subjective_evaluation": {
+        "preference": 3.0,
+        "stylistic_similarity": 4.0,
+        "consistency": 3.0,
+        "empathy": 3.0
+    },
+    "dialogue": [
+        {
+            "message_id": 0,
+            "user_id": "0026",
+            "speaker": "Human",
+            "message": "少し前は暑くて今日は肌寒いので少し体調不良になってしまいました。"
+        },
+        {
+            "message_id": 1,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "大変ですね。体調が早く回復しますように。"
+        },
+        {
+            "message_id": 2,
+            "user_id": "0026",
+            "speaker": "Human",
+            "message": "雨が降る日が続くと偏頭痛が起こり、その痛みでイライラしてしまいます。"
+        },
+        {
+            "message_id": 3,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "偏頭痛は辛いですね。無理せず、ゆっくり休んでください。"
+        },
+        {
+            "message_id": 4,
+            "user_id": "0026",
+            "speaker": "Human",
+            "message": "ゆっくり休みたいのですが、頭痛のせいで気分的に休むことができません。"
+        },
+        {
+            "message_id": 5,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "頭痛が取れるといいですね。専門家に相談するのも一つの手です。"
+        },
+        {
+            "message_id": 6,
+            "user_id": "0026",
+            "speaker": "Human",
+            "message": "頭痛専門の外来も調べたのですが、数が少ない上に病院が遠いんですよね。"
+        },
+        {
+            "message_id": 7,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "それは困りますね。近くで良い方法が見つかるといいですね。"
+        },
+        {
+            "message_id": 8,
+            "user_id": "0026",
+            "speaker": "Human",
+            "message": "正直薬以外で何かいい方法があればいいのですが。"
+        },
+        {
+            "message_id": 9,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "代替療法も試してみるといいかもしれません。ヨガや瞑想などリラックスできる方法があるかもしれませんね。"
+        },
+        {
+            "message_id": 10,
+            "user_id": "0026",
+            "speaker": "Human",
+            "message": "運動するのも得意ではないし瞑想も難しいので他にリラックスできる方法はありますか？"
+        },
+        {
+            "message_id": 11,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "アロマセラピーや温かいお風呂もいいかもしれませんね。"
+        },
+        {
+            "message_id": 12,
+            "user_id": "0026",
+            "speaker": "Human",
+            "message": "お風呂なら疲れもとれそうなので良いですね。頭痛に効く食事などはありますか？"
+        },
+        {
+            "message_id": 13,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "魚やナッツ、野菜などがいいかもしれません。お試しあれ。"
+        },
+        {
+            "message_id": 14,
+            "user_id": "0026",
+            "speaker": "Human",
+            "message": "それらを使った料理は何かありますか？あまり料理をしないので思いつきません。"
+        },
+        {
+            "message_id": 15,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "グリルドサーモンとアーモンドサラダはどうでしょう。お試しください。"
+        },
+        {
+            "message_id": 16,
+            "user_id": "0026",
+            "speaker": "Human",
+            "message": "アーモンドサラダは何となく想像がつきますが、グリルドサーモンはどうやって作るんですか？"
+        },
+        {
+            "message_id": 17,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "サーモンに塩コショウして、オリーブオイルで焼くだけさ。シンプルで美味しいよ。"
+        },
+        {
+            "message_id": 18,
+            "user_id": "0026",
+            "speaker": "Human",
+            "message": "それは簡単で美味しそうです！近々試してみたいと思います。一緒に考えてくれてありがとうございます。"
+        },
+        {
+            "message_id": 19,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "お役に立てて嬉しいです。お試しくださいませ。"
+        }
+    ]
+}

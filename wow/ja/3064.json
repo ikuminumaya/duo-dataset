@@ -1,0 +1,167 @@
+{
+    "dialogue_id": 3064,
+    "setting": "wow",
+    "model": "gpt-4o",
+    "prompt": "nonent",
+    "topic": "UFC",
+    "objective_evaluation": {
+        "preference": 4.67,
+        "stylistic_similarity": 3.67,
+        "consistency": 4.33,
+        "engagingness": 4.67,
+        "preference_scores": [
+            5.0,
+            5.0,
+            4.0
+        ],
+        "stylistic_similarity_scores": [
+            5.0,
+            4.0,
+            2.0
+        ],
+        "consistency_scores": [
+            5.0,
+            4.0,
+            4.0
+        ],
+        "engagingness_scores": [
+            5.0,
+            5.0,
+            4.0
+        ]
+    },
+    "subjective_evaluation": {
+        "preference": 5.0,
+        "stylistic_similarity": 3.0,
+        "consistency": 4.0,
+        "engagingness": 5.0
+    },
+    "dialogue": [
+        {
+            "message_id": 0,
+            "system_id": "0005",
+            "speaker": "Bot",
+            "message": "アルティメット・ファイティング・チャンピオンシップ（UFC）は、世界中で大規模なイベントを開催する、ネバダ州ラスベガスに拠点を置く総合格闘技団体です。"
+        },
+        {
+            "message_id": 1,
+            "user_id": "0008",
+            "speaker": "Human",
+            "message": "ラスベガスに拠点を置いているなんて、物凄く大きな規模ですね。"
+        },
+        {
+            "message_id": 2,
+            "system_id": "0005",
+            "speaker": "Bot",
+            "message": "そうですね、UFCはダナ・ホワイトの指導のもと、世界中でイベントを開催し、数十億ドルの規模に成長した非常に大きな団体です。"
+        },
+        {
+            "message_id": 3,
+            "user_id": "0008",
+            "speaker": "Human",
+            "message": "やはりそれだけ大きな規模の団体となると、大きな人たちが大勢集まっているんでしょうか？"
+        },
+        {
+            "message_id": 4,
+            "system_id": "0005",
+            "speaker": "Bot",
+            "message": "UFCは、11の体重階級にわたってトップランクのファイターを擁し、多様な体格の選手たちが競い合っています。"
+        },
+        {
+            "message_id": 5,
+            "user_id": "0008",
+            "speaker": "Human",
+            "message": "たくさんの階級があるんですね。大きな人から小さい人まで、いろんな体格の人たちが揃っているんでしょうね。"
+        },
+        {
+            "message_id": 6,
+            "system_id": "0005",
+            "speaker": "Bot",
+            "message": "はい、UFCには様々な体格やスタイルのファイターが集まり、各階級で競技を繰り広げています。"
+        },
+        {
+            "message_id": 7,
+            "user_id": "0008",
+            "speaker": "Human",
+            "message": "さぞかし熱いバトルが繰り広げられている事でしょうね。怪我人などは出ないんでしょうか？"
+        },
+        {
+            "message_id": 8,
+            "system_id": "0005",
+            "speaker": "Bot",
+            "message": "UFCは激しい競技であり、選手たちは厳しいトレーニングを受けていますが、試合中に怪我をすることもあります。"
+        },
+        {
+            "message_id": 9,
+            "user_id": "0008",
+            "speaker": "Human",
+            "message": "やっぱり怪我人とか出ちゃうんですね。痛くて試合に出るのが嫌になっちゃったりしないのでしょうか？"
+        },
+        {
+            "message_id": 10,
+            "system_id": "0005",
+            "speaker": "Bot",
+            "message": "UFCのファイターは、厳しいトレーニングと強い精神力を持っており、怪我からの復帰も含めて競技を続ける意欲を持っています。"
+        },
+        {
+            "message_id": 11,
+            "user_id": "0008",
+            "speaker": "Human",
+            "message": "肉体も精神も鋼のように強靭に鍛えられているんですね！素晴らしいですね！！"
+        },
+        {
+            "message_id": 12,
+            "system_id": "0005",
+            "speaker": "Bot",
+            "message": "UFCは当初、異なる格闘技の選手が最も効果的なスタイルを見つけるために競い合う場として始まりましたが、今ではそれが進化して総合格闘技という新たなスタイルを生み出しました。"
+        },
+        {
+            "message_id": 13,
+            "user_id": "0008",
+            "speaker": "Human",
+            "message": "総合格闘技ですか。様々な格闘スタイルの人がいそうですが、どんな格闘スタイルが最強なんでしょう？"
+        },
+        {
+            "message_id": 14,
+            "system_id": "0005",
+            "speaker": "Bot",
+            "message": "総合格闘技では、特定のスタイルが「最強」とされることは少なく、選手たちはボクシング、ブラジリアン柔術、レスリングなど様々な技術を組み合わせて戦います。"
+        },
+        {
+            "message_id": 15,
+            "user_id": "0008",
+            "speaker": "Human",
+            "message": "いろんな格闘技の良いとこ取りみたいな感じで、物凄く激しい試合が繰り広げられているのでしょうね！"
+        },
+        {
+            "message_id": 16,
+            "system_id": "0005",
+            "speaker": "Bot",
+            "message": "UFCの試合は、様々な格闘技の技術が融合し、非常にダイナミックで見応えのあるものとなっています。"
+        },
+        {
+            "message_id": 17,
+            "user_id": "0008",
+            "speaker": "Human",
+            "message": "なるほど、見応えは物凄そうですね。観客もエキサイトしすぎて怪我をしたりしないように気をつけなければいけませんね！"
+        },
+        {
+            "message_id": 18,
+            "system_id": "0005",
+            "speaker": "Bot",
+            "message": "UFCのイベントは観客にも大きな興奮を与えますが、会場の安全対策も厳重に管理されているので、安心して観戦できますよ。"
+        },
+        {
+            "message_id": 19,
+            "user_id": "0008",
+            "speaker": "Human",
+            "message": "なるほど、安全対策がしっかりしているなら安心して熱い試合を観戦できますね！"
+        },
+        {
+            "message_id": 20,
+            "system_id": "0005",
+            "speaker": "Bot",
+            "message": "UFCは、世界中で安全に観戦できるよう、しっかりとした運営と安全管理が行われています。"
+        }
+    ]
+}

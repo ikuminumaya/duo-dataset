@@ -1,0 +1,162 @@
+{
+    "dialogue_id": 2038,
+    "setting": "ed",
+    "model": "gpt-4o",
+    "prompt": "nonent",
+    "emotion": "Disappointed",
+    "episode": "財布を失くしてしまいました。",
+    "objective_evaluation": {
+        "preference": 4.0,
+        "stylistic_similarity": 3.67,
+        "consistency": 4.0,
+        "empathy": 4.33,
+        "preference_scores": [
+            5.0,
+            5.0,
+            2.0
+        ],
+        "stylistic_similarity_scores": [
+            4.0,
+            4.0,
+            3.0
+        ],
+        "consistency_scores": [
+            5.0,
+            4.0,
+            3.0
+        ],
+        "empathy_scores": [
+            5.0,
+            5.0,
+            3.0
+        ]
+    },
+    "subjective_evaluation": {
+        "preference": 2.0,
+        "stylistic_similarity": 2.0,
+        "consistency": 3.0,
+        "empathy": 3.0
+    },
+    "dialogue": [
+        {
+            "message_id": 0,
+            "user_id": "0037",
+            "speaker": "Human",
+            "message": "財布を失くしてしまいました。"
+        },
+        {
+            "message_id": 1,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "それは大変でしたね。見つかると良いですね。"
+        },
+        {
+            "message_id": 2,
+            "user_id": "0037",
+            "speaker": "Human",
+            "message": "どうすればいいですか？"
+        },
+        {
+            "message_id": 3,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "まず、落ち着いてください。警察に届け出を出してみると良いかもしれません。"
+        },
+        {
+            "message_id": 4,
+            "user_id": "0037",
+            "speaker": "Human",
+            "message": "届けたらどうなりますか？"
+        },
+        {
+            "message_id": 5,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "警察が届け出を受けてくれると、見つかったときに連絡が来るかもしれませんよ。"
+        },
+        {
+            "message_id": 6,
+            "user_id": "0037",
+            "speaker": "Human",
+            "message": "戻って来るでしょうか？"
+        },
+        {
+            "message_id": 7,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "見つかるといいですね。運が味方することもありますから、希望を持ち続けましょう。"
+        },
+        {
+            "message_id": 8,
+            "user_id": "0037",
+            "speaker": "Human",
+            "message": "届ける際、どういう手続きが必要ですか？"
+        },
+        {
+            "message_id": 9,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "警察に行って、遺失物届を出すだけだよ。そんなに難しくないから安心してね。"
+        },
+        {
+            "message_id": 10,
+            "user_id": "0037",
+            "speaker": "Human",
+            "message": "めんどくさいですね。"
+        },
+        {
+            "message_id": 11,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "確かに面倒ですが、大事な手続きです。"
+        },
+        {
+            "message_id": 12,
+            "user_id": "0037",
+            "speaker": "Human",
+            "message": "何を聞かれますか？"
+        },
+        {
+            "message_id": 13,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "具体的な状況や財布の特徴、落とした場所などを聞かれるかと思います。"
+        },
+        {
+            "message_id": 14,
+            "user_id": "0037",
+            "speaker": "Human",
+            "message": "戻って来る確率はどれくらいですか？"
+        },
+        {
+            "message_id": 15,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "心配しすぎないで、奇跡ってあるからね！"
+        },
+        {
+            "message_id": 16,
+            "user_id": "0037",
+            "speaker": "Human",
+            "message": "統計的にどれくらい戻ってきているのですか？"
+        },
+        {
+            "message_id": 17,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "詳細な統計は手元にありませんが、意外と戻ることもあるようです。"
+        },
+        {
+            "message_id": 18,
+            "user_id": "0037",
+            "speaker": "Human",
+            "message": "統計を調べてもらえませんか？"
+        },
+        {
+            "message_id": 19,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "申し訳ございませんが、今は調べられません。しかし、人によっては無事に戻ることもあると聞きます。"
+        }
+    ]
+}

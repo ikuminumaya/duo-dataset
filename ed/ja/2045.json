@@ -1,0 +1,162 @@
+{
+    "dialogue_id": 2045,
+    "setting": "ed",
+    "model": "gpt-4o",
+    "prompt": "nonent",
+    "emotion": "Embarrassed",
+    "episode": "美容院に行って思っていたよりも髪が短くなってしまいました。とても恥ずかしいです。",
+    "objective_evaluation": {
+        "preference": 4.0,
+        "stylistic_similarity": 3.0,
+        "consistency": 4.0,
+        "empathy": 2.67,
+        "preference_scores": [
+            3.0,
+            5.0,
+            4.0
+        ],
+        "stylistic_similarity_scores": [
+            3.0,
+            3.0,
+            3.0
+        ],
+        "consistency_scores": [
+            4.0,
+            4.0,
+            4.0
+        ],
+        "empathy_scores": [
+            3.0,
+            4.0,
+            1.0
+        ]
+    },
+    "subjective_evaluation": {
+        "preference": 4.0,
+        "stylistic_similarity": 3.0,
+        "consistency": 5.0,
+        "empathy": 4.0
+    },
+    "dialogue": [
+        {
+            "message_id": 0,
+            "user_id": "0042",
+            "speaker": "Human",
+            "message": "美容院に行って思っていたよりも髪が短くなってしまいました。とても恥ずかしいです。"
+        },
+        {
+            "message_id": 1,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "大丈夫ですよ、時間が経てばきっと馴染んできますよ。"
+        },
+        {
+            "message_id": 2,
+            "user_id": "0042",
+            "speaker": "Human",
+            "message": "ありがとうございます。でも、違和感がありすぎて鏡を直視できません。"
+        },
+        {
+            "message_id": 3,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "しばらくしたら、きっと慣れてきますよ。大丈夫ですよ。"
+        },
+        {
+            "message_id": 4,
+            "user_id": "0042",
+            "speaker": "Human",
+            "message": "人はどれぐらいの速さで髪の毛が伸びるのでしょうか。"
+        },
+        {
+            "message_id": 5,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "一般的に、髪は1ヶ月で約1センチ伸びると言われています。少しずつでも、気づいたら変わっているかもね。"
+        },
+        {
+            "message_id": 6,
+            "user_id": "0042",
+            "speaker": "Human",
+            "message": "1ヶ月で約1センチですか！とても遅いように感じますが。個人差はあるでしょうね。"
+        },
+        {
+            "message_id": 7,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "ええ、個人差はありますね。でも、少しずつ変化が楽しめるかもしれませんよ。"
+        },
+        {
+            "message_id": 8,
+            "user_id": "0042",
+            "speaker": "Human",
+            "message": "そうですね。変化を楽しめば、気に入るようになるかもしれませんね。"
+        },
+        {
+            "message_id": 9,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "おっしゃる通りです。新しい自分を発見するチャンスかもしれませんね。"
+        },
+        {
+            "message_id": 10,
+            "user_id": "0042",
+            "speaker": "Human",
+            "message": "もう少し伸びたら、少しアレンジを加えてみようと思います。"
+        },
+        {
+            "message_id": 11,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "良いアイデアですね。アレンジで気分も変わりますよ。"
+        },
+        {
+            "message_id": 12,
+            "user_id": "0042",
+            "speaker": "Human",
+            "message": "髪の毛の色はあまり変えられないのですが、ショートカットではどんなアレンジができますか"
+        },
+        {
+            "message_id": 13,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "ショートカットでも、ワックスで動きをつけたり、ピンでアレンジしたりできますよ。"
+        },
+        {
+            "message_id": 14,
+            "user_id": "0042",
+            "speaker": "Human",
+            "message": "ワックスはハードタイプ？"
+        },
+        {
+            "message_id": 15,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "柔らかいタイプも試すと良いかと存じます。"
+        },
+        {
+            "message_id": 16,
+            "user_id": "0042",
+            "speaker": "Human",
+            "message": "どんな差が出るのでしょう"
+        },
+        {
+            "message_id": 17,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "ハードタイプはしっかりキープ、ソフトは自然な仕上がりです。"
+        },
+        {
+            "message_id": 18,
+            "user_id": "0042",
+            "speaker": "Human",
+            "message": "初心者でも簡単に使いこなせますかね"
+        },
+        {
+            "message_id": 19,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "もちろん、使いやすいですよ。最初は少量から試してみてくださいね。"
+        }
+    ]
+}

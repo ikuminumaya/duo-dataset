@@ -1,0 +1,141 @@
+{
+    "dialogue_id": 3020,
+    "setting": "wow",
+    "model": "gpt-4o",
+    "prompt": "neutral",
+    "topic": "悪性腫瘍",
+    "subjective_evaluation": {
+        "preference": 5.0,
+        "stylistic_similarity": 4.0,
+        "consistency": 5.0,
+        "engagingness": 4.0
+    },
+    "dialogue": [
+        {
+            "message_id": 0,
+            "system_id": "0003",
+            "speaker": "Bot",
+            "message": "悪性腫瘍、つまりがんは異常な細胞増殖で、他の部位に広がる可能性があります。"
+        },
+        {
+            "message_id": 1,
+            "user_id": "0023",
+            "speaker": "Human",
+            "message": "例えば他の部位とはどのあたりですか？"
+        },
+        {
+            "message_id": 2,
+            "system_id": "0003",
+            "speaker": "Bot",
+            "message": "悪性腫瘍は他の臓器やリンパ節、骨などに転移することがあります。"
+        },
+        {
+            "message_id": 3,
+            "user_id": "0023",
+            "speaker": "Human",
+            "message": "リンパ節の転移するとどのような症状が出ますか？"
+        },
+        {
+            "message_id": 4,
+            "system_id": "0003",
+            "speaker": "Bot",
+            "message": "リンパ節に転移すると、しこりや腫れ、原因不明の体重減少などの症状が現れることがあります。"
+        },
+        {
+            "message_id": 5,
+            "user_id": "0023",
+            "speaker": "Human",
+            "message": "なかなか厳しい症状ですね。"
+        },
+        {
+            "message_id": 6,
+            "system_id": "0003",
+            "speaker": "Bot",
+            "message": "はい、リンパ節への転移はしこりや異常な出血など、厳しい症状を引き起こすことがあります。"
+        },
+        {
+            "message_id": 7,
+            "user_id": "0023",
+            "speaker": "Human",
+            "message": "では、そもそも癌にならないようには出来ませんか？"
+        },
+        {
+            "message_id": 8,
+            "system_id": "0003",
+            "speaker": "Bot",
+            "message": "生活習慣の改善や感染症予防が、がんのリスクを減少させるのに役立ちます。"
+        },
+        {
+            "message_id": 9,
+            "user_id": "0023",
+            "speaker": "Human",
+            "message": "やはりストレスや喫煙などが危険な感じですね。"
+        },
+        {
+            "message_id": 10,
+            "system_id": "0003",
+            "speaker": "Bot",
+            "message": "はい、喫煙やストレス、肥満、不適切な食事などががんのリスクを高める要因です。"
+        },
+        {
+            "message_id": 11,
+            "user_id": "0023",
+            "speaker": "Human",
+            "message": "そうなると、仮に癌になっても早期発見が大事ですね。"
+        },
+        {
+            "message_id": 12,
+            "system_id": "0003",
+            "speaker": "Bot",
+            "message": "はい、がんは特定の兆候や症状、スクリーニング検査で早期発見できることが重要です。"
+        },
+        {
+            "message_id": 13,
+            "user_id": "0023",
+            "speaker": "Human",
+            "message": "しかし、病院に検査に行くのは面倒くさく考えてしまう人が多いのでは？"
+        },
+        {
+            "message_id": 14,
+            "system_id": "0003",
+            "speaker": "Bot",
+            "message": "確かに面倒に感じるかもしれませんが、早期発見は治療の効果を高めるために非常に重要です。"
+        },
+        {
+            "message_id": 15,
+            "user_id": "0023",
+            "speaker": "Human",
+            "message": "そうですよね。今では癌になった場合に備えての保険も充実してますから色々考えたいですね。"
+        },
+        {
+            "message_id": 16,
+            "system_id": "0003",
+            "speaker": "Bot",
+            "message": "はい、保険は治療費の負担を軽減するための重要な選択肢となります。"
+        },
+        {
+            "message_id": 17,
+            "user_id": "0023",
+            "speaker": "Human",
+            "message": "日頃の生活と、いざと言う時の備え。やるべきことが良くわかりました。"
+        },
+        {
+            "message_id": 18,
+            "system_id": "0003",
+            "speaker": "Bot",
+            "message": "日頃の生活習慣や定期的な検査で早期発見に努めることが重要です。"
+        },
+        {
+            "message_id": 19,
+            "user_id": "0023",
+            "speaker": "Human",
+            "message": "私も他人事と思わず行動したいと思います。"
+        },
+        {
+            "message_id": 20,
+            "system_id": "0003",
+            "speaker": "Bot",
+            "message": "その意識は非常に大切です。がんのリスク要因を理解し、定期的なスクリーニングを受けることが重要です。"
+        }
+    ]
+}

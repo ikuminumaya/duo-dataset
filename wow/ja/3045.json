@@ -1,0 +1,141 @@
+{
+    "dialogue_id": 3045,
+    "setting": "wow",
+    "model": "gpt-4o",
+    "prompt": "ent",
+    "topic": "プリンス (ミュージシャン)",
+    "subjective_evaluation": {
+        "preference": 3.0,
+        "stylistic_similarity": 4.0,
+        "consistency": 4.0,
+        "engagingness": 3.0
+    },
+    "dialogue": [
+        {
+            "message_id": 0,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "プリンスは、音楽の多様性と華やかなステージで知られ、映画『パープル・レイン』での成功を含め、世界的に1億枚以上のレコードを売り上げたすごいアーティストだよ。"
+        },
+        {
+            "message_id": 1,
+            "user_id": "0073",
+            "speaker": "Human",
+            "message": "プリンスってすごい人なんですね。いつ頃活躍した人ですか？"
+        },
+        {
+            "message_id": 2,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "プリンスは1970年代後半から2000年代にかけて特に活躍したアーティストで、1984年の『パープル・レイン』の成功が大きな転機となりました。"
+        },
+        {
+            "message_id": 3,
+            "user_id": "0073",
+            "speaker": "Human",
+            "message": "活躍した時代はわかりました。パープル・レインの他にはどのような代表曲がありますか？"
+        },
+        {
+            "message_id": 4,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "プリンスには「1999」や「When Doves Cry」、「Kiss」など、数々の代表曲があります。"
+        },
+        {
+            "message_id": 5,
+            "user_id": "0073",
+            "speaker": "Human",
+            "message": "たくさんの代表曲があるなんてものすごいトップアーティストだったんですね。ところでプリンスはどの国で活動していたのでしょうか？"
+        },
+        {
+            "message_id": 6,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "プリンスはアメリカで活動していて、特にミネアポリス出身のアーティストとして知られています。"
+        },
+        {
+            "message_id": 7,
+            "user_id": "0073",
+            "speaker": "Human",
+            "message": "アメリカ人なんですね。アメリカ以外の国や地域でも有名だったんですか？"
+        },
+        {
+            "message_id": 8,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "はい、プリンスはアメリカ以外の国でも非常に有名で、全世界で1億枚以上のレコードを売り上げたほどです。"
+        },
+        {
+            "message_id": 9,
+            "user_id": "0073",
+            "speaker": "Human",
+            "message": "1億枚というのはどれくらいすごいことなんですか？1okumaiijou no他に誰かいますか？"
+        },
+        {
+            "message_id": 10,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "1億枚以上のレコードを売り上げたアーティストは、プリンスの他にもビートルズやマイケル・ジャクソン、エルトン・ジョンなどがいます。"
+        },
+        {
+            "message_id": 11,
+            "user_id": "0073",
+            "speaker": "Human",
+            "message": "みんなすごい有名な人たちばかりですね。そこまでメジャーになるには苦労も多かったのかと思うのですが、プリンスはどのようにしてデビューしたのか知ってますか？"
+        },
+        {
+            "message_id": 12,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "プリンスは17歳でワーナー・ブラザース・レコードと契約し、1978年にデビューアルバム『For You』をリリースしました。"
+        },
+        {
+            "message_id": 13,
+            "user_id": "0073",
+            "speaker": "Human",
+            "message": "17歳でデビュー、早いですね。幼少期から歌手を目指していたのですか？"
+        },
+        {
+            "message_id": 14,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "はい、プリンスはミネアポリスで生まれ、幼少期から音楽に興味を持っていたんですよ。"
+        },
+        {
+            "message_id": 15,
+            "user_id": "0073",
+            "speaker": "Human",
+            "message": "小さい頃から音楽が身近にあるような環境だったのでしょうか？"
+        },
+        {
+            "message_id": 16,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "はい、プリンスはミネアポリスで生まれ、幼少期から音楽に興味を持ち、さまざまな楽器を演奏していました。"
+        },
+        {
+            "message_id": 17,
+            "user_id": "0073",
+            "speaker": "Human",
+            "message": "もうちょっと詳しく教えてもらえますか？"
+        },
+        {
+            "message_id": 18,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "プリンスはミネアポリスで生まれ、幼少期から音楽に興味を持って育ち、多くの楽器を独学で演奏する才能を持っていました。"
+        },
+        {
+            "message_id": 19,
+            "user_id": "0073",
+            "speaker": "Human",
+            "message": "わかりました。それではデビューのきっかけはなんだったのでしょうか？"
+        },
+        {
+            "message_id": 20,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "プリンスは17歳でワーナー・ブラザース・レコードと契約し、これが彼のデビューのきっかけとなりました。"
+        }
+    ]
+}

@@ -1,0 +1,167 @@
+{
+    "dialogue_id": 3015,
+    "setting": "wow",
+    "model": "gpt-4o",
+    "prompt": "neutral",
+    "topic": "コナー・マクレガー",
+    "objective_evaluation": {
+        "preference": 3.67,
+        "stylistic_similarity": 4.33,
+        "consistency": 4.33,
+        "engagingness": 3.67,
+        "preference_scores": [
+            4.0,
+            4.0,
+            3.0
+        ],
+        "stylistic_similarity_scores": [
+            4.0,
+            5.0,
+            4.0
+        ],
+        "consistency_scores": [
+            4.0,
+            5.0,
+            4.0
+        ],
+        "engagingness_scores": [
+            4.0,
+            4.0,
+            3.0
+        ]
+    },
+    "subjective_evaluation": {
+        "preference": 5.0,
+        "stylistic_similarity": 5.0,
+        "consistency": 5.0,
+        "engagingness": 4.0
+    },
+    "dialogue": [
+        {
+            "message_id": 0,
+            "system_id": "0003",
+            "speaker": "Bot",
+            "message": "コナー・マクレガーは、UFCで2階級同時チャンピオンとなった唯一のファイターであり、MMA史上最大のペイ・パー・ビューのスターです。"
+        },
+        {
+            "message_id": 1,
+            "user_id": "0007",
+            "speaker": "Human",
+            "message": "なんのスポーツですか？"
+        },
+        {
+            "message_id": 2,
+            "system_id": "0003",
+            "speaker": "Bot",
+            "message": "コナー・マクレガーは、総合格闘技（MMA）とボクシングの両方で活躍するプロのアスリートです。"
+        },
+        {
+            "message_id": 3,
+            "user_id": "0007",
+            "speaker": "Human",
+            "message": "ヘぇー、どこの国の人ですか？"
+        },
+        {
+            "message_id": 4,
+            "system_id": "0003",
+            "speaker": "Bot",
+            "message": "コナー・マクレガーはアイルランド出身です。"
+        },
+        {
+            "message_id": 5,
+            "user_id": "0007",
+            "speaker": "Human",
+            "message": "今も現役選手ですか？"
+        },
+        {
+            "message_id": 6,
+            "system_id": "0003",
+            "speaker": "Bot",
+            "message": "コナー・マクレガーは現在もUFCで活躍しているプロの総合格闘家です。"
+        },
+        {
+            "message_id": 7,
+            "user_id": "0007",
+            "speaker": "Human",
+            "message": "今、何歳ですか？"
+        },
+        {
+            "message_id": 8,
+            "system_id": "0003",
+            "speaker": "Bot",
+            "message": "コナー・マクレガーは1988年7月14日生まれで、現在35歳です。"
+        },
+        {
+            "message_id": 9,
+            "user_id": "0007",
+            "speaker": "Human",
+            "message": "戦歴は？何勝何敗ですか？"
+        },
+        {
+            "message_id": 10,
+            "system_id": "0003",
+            "speaker": "Bot",
+            "message": "コナー・マクレガーのMMA戦績は、22勝6敗です。"
+        },
+        {
+            "message_id": 11,
+            "user_id": "0007",
+            "speaker": "Human",
+            "message": "ボクシングは何勝何敗ですか？"
+        },
+        {
+            "message_id": 12,
+            "system_id": "0003",
+            "speaker": "Bot",
+            "message": "コナー・マクレガーのボクシング戦績は、1戦1敗です。"
+        },
+        {
+            "message_id": 13,
+            "user_id": "0007",
+            "speaker": "Human",
+            "message": "彼の戦闘スタイルの特徴はありますか？"
+        },
+        {
+            "message_id": 14,
+            "system_id": "0003",
+            "speaker": "Bot",
+            "message": "コナー・マクレガーの戦闘スタイルは、ストライキングに優れたオーソドックスで、特に精度の高いパンチとカウンター攻撃で知られています。"
+        },
+        {
+            "message_id": 15,
+            "user_id": "0007",
+            "speaker": "Human",
+            "message": "どのくらいの人気なんですか？"
+        },
+        {
+            "message_id": 16,
+            "system_id": "0003",
+            "speaker": "Bot",
+            "message": "コナー・マクレガーはMMA史上最大のペイ・パー・ビューのスターであり、UFCのイベントで最も売れた6つのうち4つのメインを務めました。"
+        },
+        {
+            "message_id": 17,
+            "user_id": "0007",
+            "speaker": "Human",
+            "message": "そりゃすごいですね、日本のリングで戦ったことはあるんですか？"
+        },
+        {
+            "message_id": 18,
+            "system_id": "0003",
+            "speaker": "Bot",
+            "message": "コナー・マクレガーが日本のリングで戦った記録はありません。"
+        },
+        {
+            "message_id": 19,
+            "user_id": "0007",
+            "speaker": "Human",
+            "message": "日本人で勝てるファイターはいますかね？"
+        },
+        {
+            "message_id": 20,
+            "system_id": "0003",
+            "speaker": "Bot",
+            "message": "現在、日本人でコナー・マクレガーに勝てると確実に言えるファイターは特定されていませんが、UFCで活躍する日本人ファイターが挑戦する可能性はあります。"
+        }
+    ]
+}

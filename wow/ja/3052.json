@@ -1,0 +1,167 @@
+{
+    "dialogue_id": 3052,
+    "setting": "wow",
+    "model": "gpt-4o",
+    "prompt": "nonent",
+    "topic": "京都市",
+    "objective_evaluation": {
+        "preference": 4.33,
+        "stylistic_similarity": 4.0,
+        "consistency": 4.33,
+        "engagingness": 4.33,
+        "preference_scores": [
+            5.0,
+            4.0,
+            4.0
+        ],
+        "stylistic_similarity_scores": [
+            5.0,
+            4.0,
+            3.0
+        ],
+        "consistency_scores": [
+            5.0,
+            4.0,
+            4.0
+        ],
+        "engagingness_scores": [
+            5.0,
+            4.0,
+            4.0
+        ]
+    },
+    "subjective_evaluation": {
+        "preference": 5.0,
+        "stylistic_similarity": 2.0,
+        "consistency": 5.0,
+        "engagingness": 5.0
+    },
+    "dialogue": [
+        {
+            "message_id": 0,
+            "system_id": "0005",
+            "speaker": "Bot",
+            "message": "京都は、かつて「西京」とも呼ばれたことがある歴史ある都市ですね。"
+        },
+        {
+            "message_id": 1,
+            "user_id": "0009",
+            "speaker": "Human",
+            "message": "いつから京都と呼ばれ始めたのですか"
+        },
+        {
+            "message_id": 2,
+            "system_id": "0005",
+            "speaker": "Bot",
+            "message": "11世紀に「京都」と呼ばれるようになったのは、中国語の「京」にちなんでのことです。"
+        },
+        {
+            "message_id": 3,
+            "user_id": "0009",
+            "speaker": "Human",
+            "message": "当時は京都はどんな場所で下か"
+        },
+        {
+            "message_id": 4,
+            "system_id": "0005",
+            "speaker": "Bot",
+            "message": "8世紀に桓武天皇が奈良から都を移したことで、京都は政治と文化の中心地として発展し始めました。"
+        },
+        {
+            "message_id": 5,
+            "user_id": "0009",
+            "speaker": "Human",
+            "message": "どれくらいの人が住んでいたのですか"
+        },
+        {
+            "message_id": 6,
+            "system_id": "0005",
+            "speaker": "Bot",
+            "message": "当時の京都の人口については正確な記録がありませんが、都として栄えるために多くの人々が集まっていたと考えられています。"
+        },
+        {
+            "message_id": 7,
+            "user_id": "0009",
+            "speaker": "Human",
+            "message": "それからずっと日本の中心なのですか"
+        },
+        {
+            "message_id": 8,
+            "system_id": "0005",
+            "speaker": "Bot",
+            "message": "京都は、8世紀から1868年まで日本の首都として機能しており、その後も文化の中心地として重要な役割を果たしてきました。"
+        },
+        {
+            "message_id": 9,
+            "user_id": "0009",
+            "speaker": "Human",
+            "message": "なぜ京都が首都として機能しなくなったのですか"
+        },
+        {
+            "message_id": 10,
+            "system_id": "0005",
+            "speaker": "Bot",
+            "message": "1868年に天皇が東京に移り、江戸が東京と改称されたことにより、京都は首都としての役割を終えました。"
+        },
+        {
+            "message_id": 11,
+            "user_id": "0009",
+            "speaker": "Human",
+            "message": "今は京都はどんな場所ですか"
+        },
+        {
+            "message_id": 12,
+            "system_id": "0005",
+            "speaker": "Bot",
+            "message": "現代の京都は、歴史と文化が深く息づく都市であり、「千年の都」として観光地としても多くの人々を惹きつけています。"
+        },
+        {
+            "message_id": 13,
+            "user_id": "0009",
+            "speaker": "Human",
+            "message": "何があるのですか"
+        },
+        {
+            "message_id": 14,
+            "system_id": "0005",
+            "speaker": "Bot",
+            "message": "京都には、歴史的な神社や寺院、伝統的な町家、そして美しい庭園が数多く存在し、訪れる人々に豊かな文化体験を提供しています。"
+        },
+        {
+            "message_id": 15,
+            "user_id": "0009",
+            "speaker": "Human",
+            "message": "一番のおすすめの観光地はどこでしょうか"
+        },
+        {
+            "message_id": 16,
+            "system_id": "0005",
+            "speaker": "Bot",
+            "message": "京都を訪れる際には、荘厳な歴史を感じる清水寺や金閣寺が特におすすめですよ。"
+        },
+        {
+            "message_id": 17,
+            "user_id": "0009",
+            "speaker": "Human",
+            "message": "清水寺は京都駅から遠いですか"
+        },
+        {
+            "message_id": 18,
+            "system_id": "0005",
+            "speaker": "Bot",
+            "message": "京都駅から清水寺までは、バスやタクシーを利用すると便利で、所要時間は約20分ほどです。"
+        },
+        {
+            "message_id": 19,
+            "user_id": "0009",
+            "speaker": "Human",
+            "message": "京都駅から一番近い観光地はどこでしょうか"
+        },
+        {
+            "message_id": 20,
+            "system_id": "0005",
+            "speaker": "Bot",
+            "message": "京都駅からは、東本願寺が徒歩圏内にあり、アクセスしやすい観光地としておすすめです。"
+        }
+    ]
+}

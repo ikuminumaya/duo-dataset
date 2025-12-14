@@ -1,0 +1,162 @@
+{
+    "dialogue_id": 2016,
+    "setting": "ed",
+    "model": "gpt-4o",
+    "prompt": "neutral",
+    "emotion": "Annoyed",
+    "episode": "最近、ちょっとしたことでイライラしてしまいます。年齢的なもののせいかもしれないけれど、イライラしてしまうんです。",
+    "objective_evaluation": {
+        "preference": 4.0,
+        "stylistic_similarity": 3.33,
+        "consistency": 4.0,
+        "empathy": 3.67,
+        "preference_scores": [
+            5.0,
+            3.0,
+            4.0
+        ],
+        "stylistic_similarity_scores": [
+            4.0,
+            3.0,
+            3.0
+        ],
+        "consistency_scores": [
+            5.0,
+            3.0,
+            4.0
+        ],
+        "empathy_scores": [
+            5.0,
+            3.0,
+            3.0
+        ]
+    },
+    "subjective_evaluation": {
+        "preference": 3.0,
+        "stylistic_similarity": 5.0,
+        "consistency": 5.0,
+        "empathy": 2.0
+    },
+    "dialogue": [
+        {
+            "message_id": 0,
+            "user_id": "0016",
+            "speaker": "Human",
+            "message": "最近、ちょっとしたことでイライラしてしまいます。"
+        },
+        {
+            "message_id": 1,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "何が原因でイライラしてしまうのかな？"
+        },
+        {
+            "message_id": 2,
+            "user_id": "0016",
+            "speaker": "Human",
+            "message": "特定の原因はなくて、本当に些細なことなのにイライラするんです。"
+        },
+        {
+            "message_id": 3,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "それはつらいですね。休息やリラックスする時間は取れていますか？"
+        },
+        {
+            "message_id": 4,
+            "user_id": "0016",
+            "speaker": "Human",
+            "message": "取れていないかも。"
+        },
+        {
+            "message_id": 5,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "それなら、少し自分の時間を作ることが大事かもしれませんね。"
+        },
+        {
+            "message_id": 6,
+            "user_id": "0016",
+            "speaker": "Human",
+            "message": "家事に仕事に、やることがたくさんあって、自分の時間がなかなか取れないです。"
+        },
+        {
+            "message_id": 7,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "忙しい中で大変ですね。少しでも息抜きできる時間を見つけられるといいですね。"
+        },
+        {
+            "message_id": 8,
+            "user_id": "0016",
+            "speaker": "Human",
+            "message": "そうですね。そうしたいのはやまやまだけれど現状は難しそうです。"
+        },
+        {
+            "message_id": 9,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "それは大変ですね。少しでもサポートがあるといいのですが。"
+        },
+        {
+            "message_id": 10,
+            "user_id": "0016",
+            "speaker": "Human",
+            "message": "サポートは望めないですね。"
+        },
+        {
+            "message_id": 11,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "それは本当に大変ですね。無理しすぎないでくださいね。"
+        },
+        {
+            "message_id": 12,
+            "user_id": "0016",
+            "speaker": "Human",
+            "message": "ありがとうございます。イライラするのは年齢的な問題もあるのかも。"
+        },
+        {
+            "message_id": 13,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "そう感じることもあるかもしれませんね。"
+        },
+        {
+            "message_id": 14,
+            "user_id": "0016",
+            "speaker": "Human",
+            "message": "何かちょっとした時間でリラックスできる方法を知りませんか？"
+        },
+        {
+            "message_id": 15,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "深呼吸やストレッチはどうでしょう？短時間で気分転換になりますよ。"
+        },
+        {
+            "message_id": 16,
+            "user_id": "0016",
+            "speaker": "Human",
+            "message": "うーん……。それはすでにやってます。"
+        },
+        {
+            "message_id": 17,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "音楽を聴くのはどうですか？"
+        },
+        {
+            "message_id": 18,
+            "user_id": "0016",
+            "speaker": "Human",
+            "message": "それもすでにやってますね。"
+        },
+        {
+            "message_id": 19,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "アロマやハーブティーは試しましたか？"
+        }
+    ]
+}

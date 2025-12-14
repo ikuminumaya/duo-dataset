@@ -1,0 +1,162 @@
+{
+    "dialogue_id": 2060,
+    "setting": "ed",
+    "model": "gpt-4o",
+    "prompt": "nonent",
+    "emotion": "Hopeful",
+    "episode": "小泉進次郎が農水大臣に就任した。##6月上旬に２０００円でコメを店頭に出すといった。##馬鹿なことを言っていると思ったが実際にやり遂げたから今後に期待する。",
+    "objective_evaluation": {
+        "preference": 1.67,
+        "stylistic_similarity": 1.67,
+        "consistency": 2.67,
+        "empathy": 2.0,
+        "preference_scores": [
+            1.0,
+            2.0,
+            2.0
+        ],
+        "stylistic_similarity_scores": [
+            2.0,
+            1.0,
+            2.0
+        ],
+        "consistency_scores": [
+            3.0,
+            2.0,
+            3.0
+        ],
+        "empathy_scores": [
+            2.0,
+            2.0,
+            2.0
+        ]
+    },
+    "subjective_evaluation": {
+        "preference": 1.0,
+        "stylistic_similarity": 2.0,
+        "consistency": 2.0,
+        "empathy": 1.0
+    },
+    "dialogue": [
+        {
+            "message_id": 0,
+            "user_id": "0048",
+            "speaker": "Human",
+            "message": "小泉進次郎が農水大臣に就任して１０日足らずで２０００円のコメが店頭に並んだ"
+        },
+        {
+            "message_id": 1,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "それは驚きですね。どうしてそんなに高くなったのでしょうか？"
+        },
+        {
+            "message_id": 2,
+            "user_id": "0048",
+            "speaker": "Human",
+            "message": "主語が明確でなく何を言っているのか判別つかない"
+        },
+        {
+            "message_id": 3,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "それは驚きですね。何が原因でそんな価格になったのか気になります。"
+        },
+        {
+            "message_id": 4,
+            "user_id": "0048",
+            "speaker": "Human",
+            "message": "貴殿の意見は？"
+        },
+        {
+            "message_id": 5,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "個人的には、政策の影響が出るのは時間がかかることが多いので、これが直接の結果とは限らないと思います。もう少し時間を見てみる必要があるかもしれませんね。"
+        },
+        {
+            "message_id": 6,
+            "user_id": "0048",
+            "speaker": "Human",
+            "message": "政策に関しては論じておりませんが"
+        },
+        {
+            "message_id": 7,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "すみません、ちょっと行き違いがありましたね。米の価格については、原因が気になりますね。"
+        },
+        {
+            "message_id": 8,
+            "user_id": "0048",
+            "speaker": "Human",
+            "message": "２０００円という数字を貴殿はどう見る？"
+        },
+        {
+            "message_id": 9,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "2000円は驚きですね。市場の動きが気になります。"
+        },
+        {
+            "message_id": 10,
+            "user_id": "0048",
+            "speaker": "Human",
+            "message": "驚きという言葉は抽象的すぎる。よいか悪いかで答えていただきたい"
+        },
+        {
+            "message_id": 11,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "その価格は高いですね。ちょっと心配です。"
+        },
+        {
+            "message_id": 12,
+            "user_id": "0048",
+            "speaker": "Human",
+            "message": "その根拠は？"
+        },
+        {
+            "message_id": 13,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "市場価格と比較して高く感じますね。"
+        },
+        {
+            "message_id": 14,
+            "user_id": "0048",
+            "speaker": "Human",
+            "message": "現在の市場価格は？"
+        },
+        {
+            "message_id": 15,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "具体的な市場価格は把握しておりませんが、通常はもっと安い印象です。"
+        },
+        {
+            "message_id": 16,
+            "user_id": "0048",
+            "speaker": "Human",
+            "message": "印象で判断されても困ります"
+        },
+        {
+            "message_id": 17,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "申し訳ありません。最新の価格情報は持ち合わせておりません。"
+        },
+        {
+            "message_id": 18,
+            "user_id": "0048",
+            "speaker": "Human",
+            "message": "では貴殿の持つ最新価格情報は何年何月の情報であるか？"
+        },
+        {
+            "message_id": 19,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "僕のトレーニングデータは2023年10月までだけど、具体的な価格情報はないんだ。"
+        }
+    ]
+}

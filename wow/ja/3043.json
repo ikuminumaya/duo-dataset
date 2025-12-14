@@ -1,0 +1,167 @@
+{
+    "dialogue_id": 3043,
+    "setting": "wow",
+    "model": "gpt-4o",
+    "prompt": "ent",
+    "topic": "バナナ",
+    "objective_evaluation": {
+        "preference": 2.67,
+        "stylistic_similarity": 2.67,
+        "consistency": 3.0,
+        "engagingness": 3.0,
+        "preference_scores": [
+            2.0,
+            4.0,
+            2.0
+        ],
+        "stylistic_similarity_scores": [
+            2.0,
+            3.0,
+            3.0
+        ],
+        "consistency_scores": [
+            3.0,
+            3.0,
+            3.0
+        ],
+        "engagingness_scores": [
+            2.0,
+            4.0,
+            3.0
+        ]
+    },
+    "subjective_evaluation": {
+        "preference": 5.0,
+        "stylistic_similarity": 2.0,
+        "consistency": 2.0,
+        "engagingness": 4.0
+    },
+    "dialogue": [
+        {
+            "message_id": 0,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "バナナは実はベリーに分類されるんだよ！"
+        },
+        {
+            "message_id": 1,
+            "user_id": "0048",
+            "speaker": "Human",
+            "message": "ベリーとは言いましたが種類が多いですよね。大綱に基づいての詳細な分類で説明してください"
+        },
+        {
+            "message_id": 2,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "バナナは「ムサ」属の植物から生まれた果実で、特に「Musa acuminata」と「Musa balbisiana」の2つの野生種に由来しているんだよ。"
+        },
+        {
+            "message_id": 3,
+            "user_id": "0048",
+            "speaker": "Human",
+            "message": "他のムサ属の植物を一例として提示してください"
+        },
+        {
+            "message_id": 4,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "「ムサ」属には他にも「Musa basjoo」という観賞用として人気のある種がありますよ。"
+        },
+        {
+            "message_id": 5,
+            "user_id": "0048",
+            "speaker": "Human",
+            "message": "要するにバショウですよね？最初のベリーといまいち繋がりませんが"
+        },
+        {
+            "message_id": 6,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "バナナは「ムサ」属の植物が生産する果実で、植物学的にはベリーに分類されるんだよ。"
+        },
+        {
+            "message_id": 7,
+            "user_id": "0048",
+            "speaker": "Human",
+            "message": "では貴殿が提示するところのベリーの定義とは何でしょうか？"
+        },
+        {
+            "message_id": 8,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "植物学的にベリーとは、単一の花の子房から発生し、種が果肉中に埋まっている果実のことを指します。バナナもこの定義に当てはまるんだよ。"
+        },
+        {
+            "message_id": 9,
+            "user_id": "0048",
+            "speaker": "Human",
+            "message": "それと比較してリンゴがベリーであるのかそうでないのかを述べてください"
+        },
+        {
+            "message_id": 10,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "リンゴはバラ科の果物で、複数の子房からなるため、植物学的にはベリーではなく「偽果」と分類されます。"
+        },
+        {
+            "message_id": 11,
+            "user_id": "0048",
+            "speaker": "Human",
+            "message": "単一の子房であるはずのバナナがなぜ房状に連なって生育されるのか"
+        },
+        {
+            "message_id": 12,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "バナナは植物の上部から房状に垂れ下がって成長するから、一つの植物に複数の果実が房を作るように見えるんだよ。"
+        },
+        {
+            "message_id": 13,
+            "user_id": "0048",
+            "speaker": "Human",
+            "message": "それでは房状になっているバナナは実はすべてつながった同一個体と言えますか？"
+        },
+        {
+            "message_id": 14,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "バナナの房は一つの植物に複数の果実がついている状態で、各バナナ自体はそれぞれ独立した果実だよ。"
+        },
+        {
+            "message_id": 15,
+            "user_id": "0048",
+            "speaker": "Human",
+            "message": "それでは果実の定義とは何ですか？"
+        },
+        {
+            "message_id": 16,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "果実とは、植物の子房が成熟してできるもので、その中に種子を含むことが一般的です。"
+        },
+        {
+            "message_id": 17,
+            "user_id": "0048",
+            "speaker": "Human",
+            "message": "独立したバナナの果実がなぜ結合したうえで房を形成していいるのですか？"
+        },
+        {
+            "message_id": 18,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "バナナは植物の上部から房状に垂れ下がって成長するんだけど、これは一つの茎から複数の果実が発生するからなんだよ。"
+        },
+        {
+            "message_id": 19,
+            "user_id": "0048",
+            "speaker": "Human",
+            "message": "一つの茎につき一つの子房がついているというわけではないということですか？"
+        },
+        {
+            "message_id": 20,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "バナナは一つの茎から複数の果実が連なって房を形成するんだよ。"
+        }
+    ]
+}

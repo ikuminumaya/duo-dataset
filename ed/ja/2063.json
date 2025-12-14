@@ -1,0 +1,162 @@
+{
+    "dialogue_id": 2063,
+    "setting": "ed",
+    "model": "gpt-4o",
+    "prompt": "ent",
+    "emotion": "Disappointed",
+    "episode": "プロ野球が好きで中継をよく見ている。今期はひいきのチームが最終回に抑え投手を登板させたのに、勝ちを逃す場面が複数回あり、がっかりした。",
+    "objective_evaluation": {
+        "preference": 3.67,
+        "stylistic_similarity": 3.33,
+        "consistency": 3.67,
+        "empathy": 3.67,
+        "preference_scores": [
+            4.0,
+            3.0,
+            4.0
+        ],
+        "stylistic_similarity_scores": [
+            4.0,
+            3.0,
+            3.0
+        ],
+        "consistency_scores": [
+            4.0,
+            3.0,
+            4.0
+        ],
+        "empathy_scores": [
+            4.0,
+            3.0,
+            4.0
+        ]
+    },
+    "subjective_evaluation": {
+        "preference": 3.0,
+        "stylistic_similarity": 5.0,
+        "consistency": 4.0,
+        "empathy": 4.0
+    },
+    "dialogue": [
+        {
+            "message_id": 0,
+            "user_id": "0004",
+            "speaker": "Human",
+            "message": "ひいきのプロ野球チームの抑え投手がセーブ失敗するとガッカリするんだ。"
+        },
+        {
+            "message_id": 1,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "それは本当に悔しいよね。次こそ頑張ってほしいな。"
+        },
+        {
+            "message_id": 2,
+            "user_id": "0004",
+            "speaker": "Human",
+            "message": "そう、たまの失敗は仕方ないと思うんだけど、何度もあるとしんどい。"
+        },
+        {
+            "message_id": 3,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "わかるよ、何度も続くと気持ちが落ち込むよね。応援し続けるのも大変だね。"
+        },
+        {
+            "message_id": 4,
+            "user_id": "0004",
+            "speaker": "Human",
+            "message": "一点差ランナーなしでホームランだけはダメな時に限ってホームラン打たれちゃうとかね、つらい。"
+        },
+        {
+            "message_id": 5,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "それは本当につらいよね。次はうまくいくといいなぁ。"
+        },
+        {
+            "message_id": 6,
+            "user_id": "0004",
+            "speaker": "Human",
+            "message": "ランナーたまるのも心臓に悪いけどね。"
+        },
+        {
+            "message_id": 7,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "ほんとにね、心臓に悪い展開だよね。でも、次こそ抑えてくれることを期待しよう。"
+        },
+        {
+            "message_id": 8,
+            "user_id": "0004",
+            "speaker": "Human",
+            "message": "試合展開的に序盤で大差負けの時は、逆にあんまりガッカリしない。"
+        },
+        {
+            "message_id": 9,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "わかる、序盤で大差だともう諦めモード入るよね。期待しない分、ガッカリしないのかも。"
+        },
+        {
+            "message_id": 10,
+            "user_id": "0004",
+            "speaker": "Human",
+            "message": "そうそう、諦めちゃうと平常心でいられる。"
+        },
+        {
+            "message_id": 11,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "それがある意味での心の準備ってやつだよね。切り替えも大事だ。"
+        },
+        {
+            "message_id": 12,
+            "user_id": "0004",
+            "speaker": "Human",
+            "message": "最終回までリードを保っていると、もう勝った気になっちゃうんだよね。"
+        },
+        {
+            "message_id": 13,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "わかる、そこで気を抜くとドキドキが倍増するんだよね。"
+        },
+        {
+            "message_id": 14,
+            "user_id": "0004",
+            "speaker": "Human",
+            "message": "で、期待が外れるとガッカリくる。"
+        },
+        {
+            "message_id": 15,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "うん、期待が大きいほどガッカリ感も増しちゃうよね。"
+        },
+        {
+            "message_id": 16,
+            "user_id": "0004",
+            "speaker": "Human",
+            "message": "かといって、何も期待しないで見るのも応援のし甲斐がないしなぁ。"
+        },
+        {
+            "message_id": 17,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "そうだよね、期待があるからこそ応援する楽しさがあるんだよね。"
+        },
+        {
+            "message_id": 18,
+            "user_id": "0004",
+            "speaker": "Human",
+            "message": "やっぱり勝利を期待するし、勝ってほしいと期待しちゃうよね。"
+        },
+        {
+            "message_id": 19,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "そうそう、やっぱりそれが応援の醍醐味だよね。"
+        }
+    ]
+}

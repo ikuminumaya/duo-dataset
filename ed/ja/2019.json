@@ -1,0 +1,162 @@
+{
+    "dialogue_id": 2019,
+    "setting": "ed",
+    "model": "gpt-4o",
+    "prompt": "ent",
+    "emotion": "Trusting",
+    "episode": "先輩との信頼感のある話を行った",
+    "objective_evaluation": {
+        "preference": 3.0,
+        "stylistic_similarity": 3.0,
+        "consistency": 3.33,
+        "empathy": 3.67,
+        "preference_scores": [
+            3.0,
+            3.0,
+            3.0
+        ],
+        "stylistic_similarity_scores": [
+            3.0,
+            3.0,
+            3.0
+        ],
+        "consistency_scores": [
+            4.0,
+            3.0,
+            3.0
+        ],
+        "empathy_scores": [
+            4.0,
+            4.0,
+            3.0
+        ]
+    },
+    "subjective_evaluation": {
+        "preference": 3.0,
+        "stylistic_similarity": 3.0,
+        "consistency": 4.0,
+        "empathy": 4.0
+    },
+    "dialogue": [
+        {
+            "message_id": 0,
+            "user_id": "0019",
+            "speaker": "Human",
+            "message": "会社の先輩を信頼しています"
+        },
+        {
+            "message_id": 1,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "どんなところが信頼できるんですか？"
+        },
+        {
+            "message_id": 2,
+            "user_id": "0019",
+            "speaker": "Human",
+            "message": "困ったときにただフォローするだけでなく、すべて教えるのではなく自分で考えせて成長を促す指導をする"
+        },
+        {
+            "message_id": 3,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "素晴らしい先輩だね！そんな指導があれば、自分も成長しやすいよね。"
+        },
+        {
+            "message_id": 4,
+            "user_id": "0019",
+            "speaker": "Human",
+            "message": "将来自分も、先輩のように自分だけの利益を考えるのではなく、人を育てられる人間になりたい"
+        },
+        {
+            "message_id": 5,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "素敵な目標だね。きっと先輩も誇りに思ってくれるよ。"
+        },
+        {
+            "message_id": 6,
+            "user_id": "0019",
+            "speaker": "Human",
+            "message": "先輩がチーム内からいなくなる前に吸収できるところは吸収していきたい"
+        },
+        {
+            "message_id": 7,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "そうだね。先輩から学べることをどんどん吸収して、自分の成長につなげていこう！"
+        },
+        {
+            "message_id": 8,
+            "user_id": "0019",
+            "speaker": "Human",
+            "message": "自分の成長が未来の後輩のためになることを信じてる"
+        },
+        {
+            "message_id": 9,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "その意識があれば、きっと立派な先輩になれるよ。応援してるね！"
+        },
+        {
+            "message_id": 10,
+            "user_id": "0019",
+            "speaker": "Human",
+            "message": "ありがとう。仕事に前向きに取り組めそうだよ。"
+        },
+        {
+            "message_id": 11,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "それは良かった！これからも頑張ってね！"
+        },
+        {
+            "message_id": 12,
+            "user_id": "0019",
+            "speaker": "Human",
+            "message": "仕事なので苦手なこと得意なことなどあるが、信頼される人間になりたい。"
+        },
+        {
+            "message_id": 13,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "信頼される人間になれるよ！苦手なことも含めて前に進む姿勢が大事だからね。"
+        },
+        {
+            "message_id": 14,
+            "user_id": "0019",
+            "speaker": "Human",
+            "message": "そうですね。行き詰まりどうしようもなくなり逃げることもあるかもだけど、それまで全力で立ち向かいたい"
+        },
+        {
+            "message_id": 15,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "そうだね、全力で挑んでいけば道は開けるよ！応援してるよ！"
+        },
+        {
+            "message_id": 16,
+            "user_id": "0019",
+            "speaker": "Human",
+            "message": "信頼される人間になり自分の成長とともにいろいろな道を模索して進んでいこうと思う"
+        },
+        {
+            "message_id": 17,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "そうだね、成長しながら進んでいけば、きっと信頼されるよ。応援してる！"
+        },
+        {
+            "message_id": 18,
+            "user_id": "0019",
+            "speaker": "Human",
+            "message": "ありがとう。がんばります。"
+        },
+        {
+            "message_id": 19,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "応援してます。頑張ってね！"
+        }
+    ]
+}

@@ -1,0 +1,167 @@
+{
+    "dialogue_id": 3057,
+    "setting": "wow",
+    "model": "gpt-4o",
+    "prompt": "nonent",
+    "topic": "テイラー・スウィフト",
+    "objective_evaluation": {
+        "preference": 4.67,
+        "stylistic_similarity": 4.67,
+        "consistency": 4.67,
+        "engagingness": 4.67,
+        "preference_scores": [
+            5.0,
+            5.0,
+            4.0
+        ],
+        "stylistic_similarity_scores": [
+            5.0,
+            5.0,
+            4.0
+        ],
+        "consistency_scores": [
+            5.0,
+            5.0,
+            4.0
+        ],
+        "engagingness_scores": [
+            5.0,
+            5.0,
+            4.0
+        ]
+    },
+    "subjective_evaluation": {
+        "preference": 2.0,
+        "stylistic_similarity": 5.0,
+        "consistency": 3.0,
+        "engagingness": 2.0
+    },
+    "dialogue": [
+        {
+            "message_id": 0,
+            "system_id": "0005",
+            "speaker": "Bot",
+            "message": "テイラー・スウィフトは、物語性豊かな楽曲で知られるアメリカのシンガーソングライターで、彼女のアルバム「Fearless」はグラミー賞を受賞し大成功を収めました。"
+        },
+        {
+            "message_id": 1,
+            "user_id": "0004",
+            "speaker": "Human",
+            "message": "名前は聞いたことがあります。現在も活動中の方ですか？"
+        },
+        {
+            "message_id": 2,
+            "system_id": "0005",
+            "speaker": "Bot",
+            "message": "はい、テイラー・スウィフトは現在も活発に音楽活動を続けており、現代を代表するアーティストの一人として広く知られています。"
+        },
+        {
+            "message_id": 3,
+            "user_id": "0004",
+            "speaker": "Human",
+            "message": "お幾つくらいの方でしょう？"
+        },
+        {
+            "message_id": 4,
+            "system_id": "0005",
+            "speaker": "Bot",
+            "message": "テイラー・スウィフトは1989年12月13日生まれで、現在33歳です。"
+        },
+        {
+            "message_id": 5,
+            "user_id": "0004",
+            "speaker": "Human",
+            "message": "ということは結構若くして成功された方なんですね。"
+        },
+        {
+            "message_id": 6,
+            "system_id": "0005",
+            "speaker": "Bot",
+            "message": "そうですね、彼女は14歳でナッシュビルに引っ越して音楽のキャリアをスタートし、若くして大成功を収めました。"
+        },
+        {
+            "message_id": 7,
+            "user_id": "0004",
+            "speaker": "Human",
+            "message": "14歳からですか、それはすごいですね。"
+        },
+        {
+            "message_id": 8,
+            "system_id": "0005",
+            "speaker": "Bot",
+            "message": "そうですね、彼女は14歳でナッシュビルに移り、若くしてカントリーミュージックのキャリアを築き始め、すぐにその才能が認められました。"
+        },
+        {
+            "message_id": 9,
+            "user_id": "0004",
+            "speaker": "Human",
+            "message": "彼女の才能を見出したのはどんな方なのでしょう？"
+        },
+        {
+            "message_id": 10,
+            "system_id": "0005",
+            "speaker": "Bot",
+            "message": "テイラー・スウィフトの才能を見出したのは、彼女が契約したビッグマシン・レコードであり、またソニー/ATVミュージックパブリッシングハウスとも契約した最年少のアーティストとして注目されました。"
+        },
+        {
+            "message_id": 11,
+            "user_id": "0004",
+            "speaker": "Human",
+            "message": "最年少記録の持ち主なんですね。そこからスランプなしに活動を続けているんですか？"
+        },
+        {
+            "message_id": 12,
+            "system_id": "0005",
+            "speaker": "Bot",
+            "message": "彼女は一貫して成功を収めており、特に「Fearless」のアルバムで最年少でグラミー賞の年間最優秀アルバム賞を受賞するなど、大きなスランプなく活動を続けています。"
+        },
+        {
+            "message_id": 13,
+            "user_id": "0004",
+            "speaker": "Human",
+            "message": "早熟な上に継続力もある方なんですね。彼女のような方はやはり稀な存在なんでしょうか？"
+        },
+        {
+            "message_id": 14,
+            "system_id": "0005",
+            "speaker": "Bot",
+            "message": "テイラー・スウィフトのように若くして成功を収め、継続力を持ち続けるアーティストは稀で、彼女は特異な存在と言えるでしょう。"
+        },
+        {
+            "message_id": 15,
+            "user_id": "0004",
+            "speaker": "Human",
+            "message": "やはりそうですよね。最近のヒット曲はどのような曲がありますか？"
+        },
+        {
+            "message_id": 16,
+            "system_id": "0005",
+            "speaker": "Bot",
+            "message": "最近のヒット曲では、アルバム「Lover」や「Folklore」、「Evermore」からの楽曲が多くの支持を集めています。"
+        },
+        {
+            "message_id": 17,
+            "user_id": "0004",
+            "speaker": "Human",
+            "message": "次々とタイトルが上がりますね。ファン層はどのような方たちなんでしょう？"
+        },
+        {
+            "message_id": 18,
+            "system_id": "0005",
+            "speaker": "Bot",
+            "message": "テイラー・スウィフトのファン層は非常に多様で、彼女の物語性豊かな曲は幅広い年齢層に共鳴しています。"
+        },
+        {
+            "message_id": 19,
+            "user_id": "0004",
+            "speaker": "Human",
+            "message": "多くの人々に支持される方なんですね。日本で公演を行ったことはあるんですか？"
+        },
+        {
+            "message_id": 20,
+            "system_id": "0005",
+            "speaker": "Bot",
+            "message": "テイラー・スウィフトは、これまでに日本でも公演を行ったことがあります。彼女のライブは多くのファンにとって特別な経験となっています。"
+        }
+    ]
+}

@@ -1,0 +1,167 @@
+{
+    "dialogue_id": 3026,
+    "setting": "wow",
+    "model": "gpt-4o",
+    "prompt": "ent",
+    "topic": "スター・ウォーズシリーズ",
+    "objective_evaluation": {
+        "preference": 4.33,
+        "stylistic_similarity": 4.0,
+        "consistency": 4.0,
+        "engagingness": 3.67,
+        "preference_scores": [
+            4.0,
+            5.0,
+            4.0
+        ],
+        "stylistic_similarity_scores": [
+            3.0,
+            5.0,
+            4.0
+        ],
+        "consistency_scores": [
+            4.0,
+            5.0,
+            3.0
+        ],
+        "engagingness_scores": [
+            4.0,
+            4.0,
+            3.0
+        ]
+    },
+    "subjective_evaluation": {
+        "preference": 5.0,
+        "stylistic_similarity": 2.0,
+        "consistency": 5.0,
+        "engagingness": 4.0
+    },
+    "dialogue": [
+        {
+            "message_id": 0,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "「スター・ウォーズ」はジョージ・ルーカスが作った映画シリーズで、1977年に始まってから巨大なポップカルチャー現象になったんだよ。"
+        },
+        {
+            "message_id": 1,
+            "user_id": "0060",
+            "speaker": "Human",
+            "message": "どんなストーリーなんですか？"
+        },
+        {
+            "message_id": 2,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "「スター・ウォーズ」は、遠い昔の銀河系での冒険を描いた壮大なスペースオペラで、善と悪の戦いが中心のストーリーだよ。"
+        },
+        {
+            "message_id": 3,
+            "user_id": "0060",
+            "speaker": "Human",
+            "message": "見どころはどんなところですか？"
+        },
+        {
+            "message_id": 4,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "「スター・ウォーズ」の見どころは、壮大なスペースバトルやライトセーバーを使った迫力あるアクションシーン、そして複雑なキャラクターたちが織り成すドラマだよ。"
+        },
+        {
+            "message_id": 5,
+            "user_id": "0060",
+            "speaker": "Human",
+            "message": "ライトセイバーとは何ですか？"
+        },
+        {
+            "message_id": 6,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "ライトセーバーは、スター・ウォーズに登場するジェダイやシスが使うエネルギーの剣で、青や赤などの光るブレードが特徴だよ。"
+        },
+        {
+            "message_id": 7,
+            "user_id": "0060",
+            "speaker": "Human",
+            "message": "かっこよさそうですね。ジェダイとかシスとは何ですか？"
+        },
+        {
+            "message_id": 8,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "ジェダイはフォースの光の側を信じる守護者で、シスはその対極に位置するフォースの暗黒面を追求する存在なんだよ。"
+        },
+        {
+            "message_id": 9,
+            "user_id": "0060",
+            "speaker": "Human",
+            "message": "なるほど。フォースとは何ですか？"
+        },
+        {
+            "message_id": 10,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "フォースはスター・ウォーズの世界で全ての生物に流れる神秘的なエネルギーで、ジェダイやシスがその力を使って様々な能力を発揮するんだよ。"
+        },
+        {
+            "message_id": 11,
+            "user_id": "0060",
+            "speaker": "Human",
+            "message": "どんな能力が出てきますか？"
+        },
+        {
+            "message_id": 12,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "フォースを使うことで、ジェダイやシスは物を動かしたり、心を読み取ったり、超人的な反射神経を発揮することができるんだよ。"
+        },
+        {
+            "message_id": 13,
+            "user_id": "0060",
+            "speaker": "Human",
+            "message": "すごいですね。戦ってばかりなのですか？"
+        },
+        {
+            "message_id": 14,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "戦うだけじゃなくて、友情や家族の絆、希望といったテーマも描かれているから、感動的なストーリーもたくさんあるんだよ。"
+        },
+        {
+            "message_id": 15,
+            "user_id": "0060",
+            "speaker": "Human",
+            "message": "シリーズは何作品あるのですか？"
+        },
+        {
+            "message_id": 16,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "スター・ウォーズシリーズは、3つの三部作とスピンオフを含む計11の映画作品があります。"
+        },
+        {
+            "message_id": 17,
+            "user_id": "0060",
+            "speaker": "Human",
+            "message": "映画だけですか？"
+        },
+        {
+            "message_id": 18,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "映画だけじゃなくて、本やテレビシリーズ、ビデオゲームなんかもあって、色々なメディアで楽しめるんだよ。"
+        },
+        {
+            "message_id": 19,
+            "user_id": "0060",
+            "speaker": "Human",
+            "message": "世界が出来上がっているんですね。"
+        },
+        {
+            "message_id": 20,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "うん、スター・ウォーズの世界は映画だけじゃなくて、本やゲーム、コミックなんかもあって、広がり続けているんだよ。"
+        }
+    ]
+}

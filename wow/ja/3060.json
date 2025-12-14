@@ -1,0 +1,167 @@
+{
+    "dialogue_id": 3060,
+    "setting": "wow",
+    "model": "gpt-4o",
+    "prompt": "nonent",
+    "topic": "スポンジ・ボブ",
+    "objective_evaluation": {
+        "preference": 3.33,
+        "stylistic_similarity": 4.0,
+        "consistency": 3.67,
+        "engagingness": 3.33,
+        "preference_scores": [
+            3.0,
+            4.0,
+            3.0
+        ],
+        "stylistic_similarity_scores": [
+            3.0,
+            5.0,
+            4.0
+        ],
+        "consistency_scores": [
+            3.0,
+            4.0,
+            4.0
+        ],
+        "engagingness_scores": [
+            3.0,
+            4.0,
+            3.0
+        ]
+    },
+    "subjective_evaluation": {
+        "preference": 5.0,
+        "stylistic_similarity": 4.0,
+        "consistency": 5.0,
+        "engagingness": 4.0
+    },
+    "dialogue": [
+        {
+            "message_id": 0,
+            "system_id": "0005",
+            "speaker": "Bot",
+            "message": "『スポンジ・ボブ』は、海洋生物学者スティーブン・ヒレンバーグによって生み出された、ビキニボトムでの冒険を描いた人気アニメーションシリーズです。"
+        },
+        {
+            "message_id": 1,
+            "user_id": "0076",
+            "speaker": "Human",
+            "message": "スポンジ・ボブのどのようなところが人気ですか？"
+        },
+        {
+            "message_id": 2,
+            "system_id": "0005",
+            "speaker": "Bot",
+            "message": "『スポンジ・ボブ』の人気の秘訣は、ユーモラスで創造的なキャラクターたちの冒険と、幅広い年齢層に愛されるユニークなストーリーにあります。"
+        },
+        {
+            "message_id": 3,
+            "user_id": "0076",
+            "speaker": "Human",
+            "message": "いつから放送されているのですか？"
+        },
+        {
+            "message_id": 4,
+            "system_id": "0005",
+            "speaker": "Bot",
+            "message": "『スポンジ・ボブ』は1999年5月1日にアメリカで初めて放送されました。"
+        },
+        {
+            "message_id": 5,
+            "user_id": "0076",
+            "speaker": "Human",
+            "message": "今でも放送されているのですか？"
+        },
+        {
+            "message_id": 6,
+            "system_id": "0005",
+            "speaker": "Bot",
+            "message": "はい、『スポンジ・ボブ』は今でも放送が続いている人気のシリーズです。"
+        },
+        {
+            "message_id": 7,
+            "user_id": "0076",
+            "speaker": "Human",
+            "message": "アメリカで今一番人気のアニメは何ですか？"
+        },
+        {
+            "message_id": 8,
+            "system_id": "0005",
+            "speaker": "Bot",
+            "message": "アメリカで最も人気のあるアニメはしばしば変わりますが、『スポンジ・ボブ』は長年にわたり高い評価を受け、多くのファンに愛されています。"
+        },
+        {
+            "message_id": 9,
+            "user_id": "0076",
+            "speaker": "Human",
+            "message": "日本からはどのようにして観たらよいですか？"
+        },
+        {
+            "message_id": 10,
+            "system_id": "0005",
+            "speaker": "Bot",
+            "message": "日本では、ストリーミングサービスやDVDで『スポンジ・ボブ』を楽しむことができますよ。"
+        },
+        {
+            "message_id": 11,
+            "user_id": "0076",
+            "speaker": "Human",
+            "message": "アニメグッズは沢山ありますか？"
+        },
+        {
+            "message_id": 12,
+            "system_id": "0005",
+            "speaker": "Bot",
+            "message": "『スポンジ・ボブ』の人気により、関連グッズは非常に豊富で、多くのファンが楽しめる商品が揃っています。"
+        },
+        {
+            "message_id": 13,
+            "user_id": "0076",
+            "speaker": "Human",
+            "message": "映画になったこともありますか？"
+        },
+        {
+            "message_id": 14,
+            "system_id": "0005",
+            "speaker": "Bot",
+            "message": "はい、『スポンジ・ボブ』は映画化もされており、いくつかの劇場版が公開されています。"
+        },
+        {
+            "message_id": 15,
+            "user_id": "0076",
+            "speaker": "Human",
+            "message": "一番面白い映画を紹介してください"
+        },
+        {
+            "message_id": 16,
+            "system_id": "0005",
+            "speaker": "Bot",
+            "message": "『スポンジ・ボブ』の映画で特に好評だったのは、2004年に公開された『スポンジ・ボブ／スクエアパンツ ザ・ムービー』です。"
+        },
+        {
+            "message_id": 17,
+            "user_id": "0076",
+            "speaker": "Human",
+            "message": "スクエアパンツという言葉は聞いたことがないですが、どのような話ですか？"
+        },
+        {
+            "message_id": 18,
+            "system_id": "0005",
+            "speaker": "Bot",
+            "message": "『スポンジ・ボブ／スクエアパンツ ザ・ムービー』は、スポンジ・ボブとパトリックが王冠を取り戻すために壮大な冒険に出るストーリーです。"
+        },
+        {
+            "message_id": 19,
+            "user_id": "0076",
+            "speaker": "Human",
+            "message": "ほかにスポンジ・ボブ関連でおすすめしたいことはありますか？"
+        },
+        {
+            "message_id": 20,
+            "system_id": "0005",
+            "speaker": "Bot",
+            "message": "『スポンジ・ボブ』のキャラクターやストーリーには、教育漫画『The Intertidal Zone』からのインスピレーションが生かされている点も興味深いですよ。"
+        }
+    ]
+}

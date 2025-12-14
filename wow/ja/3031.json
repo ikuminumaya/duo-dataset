@@ -1,0 +1,167 @@
+{
+    "dialogue_id": 3031,
+    "setting": "wow",
+    "model": "gpt-4o",
+    "prompt": "ent",
+    "topic": "リンゴ",
+    "objective_evaluation": {
+        "preference": 3.33,
+        "stylistic_similarity": 3.0,
+        "consistency": 3.33,
+        "engagingness": 3.67,
+        "preference_scores": [
+            4.0,
+            3.0,
+            3.0
+        ],
+        "stylistic_similarity_scores": [
+            4.0,
+            3.0,
+            2.0
+        ],
+        "consistency_scores": [
+            4.0,
+            3.0,
+            3.0
+        ],
+        "engagingness_scores": [
+            4.0,
+            3.0,
+            4.0
+        ]
+    },
+    "subjective_evaluation": {
+        "preference": 5.0,
+        "stylistic_similarity": 4.0,
+        "consistency": 4.0,
+        "engagingness": 4.0
+    },
+    "dialogue": [
+        {
+            "message_id": 0,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "リンゴは、世界中で広く栽培されている果物で、中央アジアがその原産地なんだよ。"
+        },
+        {
+            "message_id": 1,
+            "user_id": "0064",
+            "speaker": "Human",
+            "message": "原産地、初めて知った。"
+        },
+        {
+            "message_id": 2,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "そうなんだ、リンゴは中央アジアが原産で、そこではその野生の祖先である「Malus sieversii」っていうのが今でも見られるんだよ。"
+        },
+        {
+            "message_id": 3,
+            "user_id": "0064",
+            "speaker": "Human",
+            "message": "日本では、青森県が有名ですね。"
+        },
+        {
+            "message_id": 4,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "そうですね、青森県は日本でリンゴの生産が最も盛んな地域で、特に「ふじ」などの品種が有名ですよね。"
+        },
+        {
+            "message_id": 5,
+            "user_id": "0064",
+            "speaker": "Human",
+            "message": "りんごの種類は、どの位あるか知りたい。"
+        },
+        {
+            "message_id": 6,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "りんごには7,500以上の品種があるんだって、すごい数だよね！"
+        },
+        {
+            "message_id": 7,
+            "user_id": "0064",
+            "speaker": "Human",
+            "message": "そんなにあるんだ。日本の品種は、どの位あるかね。"
+        },
+        {
+            "message_id": 8,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "日本には約2,000種類のリンゴの品種があるんだって！"
+        },
+        {
+            "message_id": 9,
+            "user_id": "0064",
+            "speaker": "Human",
+            "message": "再び驚いた。でも実際にお店で販売してるのは数種類の気がします。"
+        },
+        {
+            "message_id": 10,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "そうだね、市場では特に人気のある品種が選ばれて販売されていることが多いから、実際には数種類だけ見かけることが多いんだよね。"
+        },
+        {
+            "message_id": 11,
+            "user_id": "0064",
+            "speaker": "Human",
+            "message": "なるほど、店で売れないものは仕方ない。"
+        },
+        {
+            "message_id": 12,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "そうだね、品種はたくさんあるけど、店では特に人気のあるものだけが選ばれて販売されることが多いんだよ。"
+        },
+        {
+            "message_id": 13,
+            "user_id": "0064",
+            "speaker": "Human",
+            "message": "りんごの大きさも種類によってさまざまですかね。"
+        },
+        {
+            "message_id": 14,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "そうですね、りんごの品種によって果実の大きさはさまざまで、台木の種類によって木の大きさも変えることができるんですよ。"
+        },
+        {
+            "message_id": 15,
+            "user_id": "0064",
+            "speaker": "Human",
+            "message": "そうなんだ。小さい木だと果実も小さくなるってことなのかな。"
+        },
+        {
+            "message_id": 16,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "実は、リンゴの木の大きさは接ぎ木する台木によって制御されるんだよ。"
+        },
+        {
+            "message_id": 17,
+            "user_id": "0064",
+            "speaker": "Human",
+            "message": "専門家でないから難しいね。店頭に並んだ美味しそうなりんごの見分け方ありますかね。"
+        },
+        {
+            "message_id": 18,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "美味しそうなリンゴを見分けるには、色が鮮やかで、皮に傷がなく、持ったときに重みを感じるものを選ぶといいよ。"
+        },
+        {
+            "message_id": 19,
+            "user_id": "0064",
+            "speaker": "Human",
+            "message": "そうですか、中身が見えないから外見ですね。"
+        },
+        {
+            "message_id": 20,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "そうですね、見た目が重要ですね。リンゴには7,500以上の品種があるので、それぞれの特性も違うんですよ。"
+        }
+    ]
+}

@@ -1,0 +1,167 @@
+{
+    "dialogue_id": 3033,
+    "setting": "wow",
+    "model": "gpt-4o",
+    "prompt": "ent",
+    "topic": "ジャイアントパンダ",
+    "objective_evaluation": {
+        "preference": 3.67,
+        "stylistic_similarity": 2.33,
+        "consistency": 3.67,
+        "engagingness": 3.33,
+        "preference_scores": [
+            3.0,
+            4.0,
+            4.0
+        ],
+        "stylistic_similarity_scores": [
+            2.0,
+            1.0,
+            4.0
+        ],
+        "consistency_scores": [
+            3.0,
+            5.0,
+            3.0
+        ],
+        "engagingness_scores": [
+            3.0,
+            4.0,
+            3.0
+        ]
+    },
+    "subjective_evaluation": {
+        "preference": 1.0,
+        "stylistic_similarity": 2.0,
+        "consistency": 1.0,
+        "engagingness": 2.0
+    },
+    "dialogue": [
+        {
+            "message_id": 0,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "ジャイアントパンダは主に竹を食べるけど、時々他の植物や小動物も食べることがあるんだよ。"
+        },
+        {
+            "message_id": 1,
+            "user_id": "0066",
+            "speaker": "Human",
+            "message": "何を食べる？"
+        },
+        {
+            "message_id": 2,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "ジャイアントパンダは主に竹を食べてるけど、時々他の草や小動物を食べることもあるんだ。"
+        },
+        {
+            "message_id": 3,
+            "user_id": "0066",
+            "speaker": "Human",
+            "message": "どの動物を食べる？"
+        },
+        {
+            "message_id": 4,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "ジャイアントパンダは、時々鳥やげっ歯類を食べることもあるみたいだよ。"
+        },
+        {
+            "message_id": 5,
+            "user_id": "0066",
+            "speaker": "Human",
+            "message": "おいしいの？"
+        },
+        {
+            "message_id": 6,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "ジャイアントパンダが食べる鳥やげっ歯類が美味しいかどうかは分からないけど、彼らの主食は竹だから、竹が一番好きなんじゃないかな。"
+        },
+        {
+            "message_id": 7,
+            "user_id": "0066",
+            "speaker": "Human",
+            "message": "どんな堅さの竹が好き？"
+        },
+        {
+            "message_id": 8,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "ジャイアントパンダは、柔らかい新芽や若い竹の方を好んで食べることが多いよ。"
+        },
+        {
+            "message_id": 9,
+            "user_id": "0066",
+            "speaker": "Human",
+            "message": "竹の味は？"
+        },
+        {
+            "message_id": 10,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "竹の味って、ジャイアントパンダにとっては美味しいんだろうけど、基本的には淡白で、少し甘さがあるみたいだよ。"
+        },
+        {
+            "message_id": 11,
+            "user_id": "0066",
+            "speaker": "Human",
+            "message": "サトウキビくらいの甘さ？"
+        },
+        {
+            "message_id": 12,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "竹はサトウキビほど甘くはないけど、パンダにとっては美味しいみたいだよ。"
+        },
+        {
+            "message_id": 13,
+            "user_id": "0066",
+            "speaker": "Human",
+            "message": "パンダの竹と小動物を食べる割合は？"
+        },
+        {
+            "message_id": 14,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "ジャイアントパンダの食事の99%以上は竹で、小動物や鳥を食べることはごくわずかな割合なんだ。"
+        },
+        {
+            "message_id": 15,
+            "user_id": "0066",
+            "speaker": "Human",
+            "message": "竹の味にも好き嫌いがありそう"
+        },
+        {
+            "message_id": 16,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "うん、パンダも竹の種類によって好みがあるみたいで、特に若くて柔らかい部分を好んで食べるんだよね。"
+        },
+        {
+            "message_id": 17,
+            "user_id": "0066",
+            "speaker": "Human",
+            "message": "パンダそれぞれ好みがあるんだね"
+        },
+        {
+            "message_id": 18,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "そうだね、パンダは竹の種類によって好みがあるみたいで、飼育下では蜂蜜や果物なども楽しむことがあるんだよ。"
+        },
+        {
+            "message_id": 19,
+            "user_id": "0066",
+            "speaker": "Human",
+            "message": "どんな果物を食べる？"
+        },
+        {
+            "message_id": 20,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "そうだね、飼育下にいるパンダはオレンジやバナナなどの果物も食べることがあるみたいだよ。"
+        }
+    ]
+}

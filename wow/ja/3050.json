@@ -1,0 +1,141 @@
+{
+    "dialogue_id": 3050,
+    "setting": "wow",
+    "model": "gpt-4o",
+    "prompt": "nonent",
+    "topic": "寿司",
+    "subjective_evaluation": {
+        "preference": 3.0,
+        "stylistic_similarity": 5.0,
+        "consistency": 1.0,
+        "engagingness": 3.0
+    },
+    "dialogue": [
+        {
+            "message_id": 0,
+            "system_id": "0005",
+            "speaker": "Bot",
+            "message": "寿司はその酸味と旨味が特徴的で、古くは発酵技術を用いた保存食として始まりました。"
+        },
+        {
+            "message_id": 1,
+            "user_id": "0035",
+            "speaker": "Human",
+            "message": "そうなんですか！興味深いです"
+        },
+        {
+            "message_id": 2,
+            "system_id": "0005",
+            "speaker": "Bot",
+            "message": "寿司の起源は東南アジアの発酵食品にあり、元々は魚を保存するために発酵させた米を使用していたのですよ。"
+        },
+        {
+            "message_id": 3,
+            "user_id": "0035",
+            "speaker": "Human",
+            "message": "勉強になります"
+        },
+        {
+            "message_id": 4,
+            "system_id": "0005",
+            "speaker": "Bot",
+            "message": "寿司は、玄米でも白米でも作ることができ、多様な食材と共に提供されることが多い料理です。"
+        },
+        {
+            "message_id": 5,
+            "user_id": "0035",
+            "speaker": "Human",
+            "message": "なるほど。自分も食べてみたいです"
+        },
+        {
+            "message_id": 6,
+            "system_id": "0005",
+            "speaker": "Bot",
+            "message": "寿司はガリやわさび、醤油と一緒に楽しむと、その風味が一層引き立ちますよ。"
+        },
+        {
+            "message_id": 7,
+            "user_id": "0035",
+            "speaker": "Human",
+            "message": "とてもおいしそうですね"
+        },
+        {
+            "message_id": 8,
+            "system_id": "0005",
+            "speaker": "Bot",
+            "message": "寿司は地域によって様々なスタイルがあり、滋賀県の「ふなずし」などは特に独特な風味を楽しむことができますよ。"
+        },
+        {
+            "message_id": 9,
+            "user_id": "0035",
+            "speaker": "Human",
+            "message": "鮒ずしは食べたことないので、想像できませんが、とにかく美味しそうです"
+        },
+        {
+            "message_id": 10,
+            "system_id": "0005",
+            "speaker": "Bot",
+            "message": "ふなずしは、独特な発酵風味を持つ「なれずし」の一種で、特に滋賀県で有名な地域の特産品ですよ。"
+        },
+        {
+            "message_id": 11,
+            "user_id": "0035",
+            "speaker": "Human",
+            "message": "滋賀県で有名なのは知ってます。食べてみたいです"
+        },
+        {
+            "message_id": 12,
+            "system_id": "0005",
+            "speaker": "Bot",
+            "message": "ふなずしは、発酵した米と魚を使って作られる独特な風味を持つ料理で、特に滋賀県で地域の特産品として楽しめます。"
+        },
+        {
+            "message_id": 13,
+            "user_id": "0035",
+            "speaker": "Human",
+            "message": "独特な風味を感じたいです"
+        },
+        {
+            "message_id": 14,
+            "system_id": "0005",
+            "speaker": "Bot",
+            "message": "ふなずしは、特に米の乳酸発酵による独特の風味があり、滋賀県では地域の特産品として親しまれていますよ。"
+        },
+        {
+            "message_id": 15,
+            "user_id": "0035",
+            "speaker": "Human",
+            "message": "機械があれば買ってみたいです"
+        },
+        {
+            "message_id": 16,
+            "system_id": "0005",
+            "speaker": "Bot",
+            "message": "ふなずしの独特な風味は、乳酸発酵による酸味と旨味が特徴で、特に滋賀県の特産として楽しめます。"
+        },
+        {
+            "message_id": 17,
+            "user_id": "0035",
+            "speaker": "Human",
+            "message": "早く食べたくなってきました"
+        },
+        {
+            "message_id": 18,
+            "system_id": "0005",
+            "speaker": "Bot",
+            "message": "ふなずしの風味は非常に独特で、まさに一度味わってみる価値がありますね。"
+        },
+        {
+            "message_id": 19,
+            "user_id": "0035",
+            "speaker": "Human",
+            "message": "確かに価値がありそうです"
+        },
+        {
+            "message_id": 20,
+            "system_id": "0005",
+            "speaker": "Bot",
+            "message": "ふなずしは、乳酸発酵による酸味が特徴で、古来から重要なタンパク源だったそうです。"
+        }
+    ]
+}

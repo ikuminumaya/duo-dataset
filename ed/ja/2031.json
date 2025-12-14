@@ -1,0 +1,162 @@
+{
+    "dialogue_id": 2031,
+    "setting": "ed",
+    "model": "gpt-4o",
+    "prompt": "ent",
+    "emotion": "Jealous",
+    "episode": "娘が結婚して新しいマンションを買いました",
+    "objective_evaluation": {
+        "preference": 3.0,
+        "stylistic_similarity": 1.33,
+        "consistency": 3.33,
+        "empathy": 2.67,
+        "preference_scores": [
+            3.0,
+            4.0,
+            2.0
+        ],
+        "stylistic_similarity_scores": [
+            1.0,
+            1.0,
+            2.0
+        ],
+        "consistency_scores": [
+            4.0,
+            3.0,
+            3.0
+        ],
+        "empathy_scores": [
+            3.0,
+            3.0,
+            2.0
+        ]
+    },
+    "subjective_evaluation": {
+        "preference": 4.0,
+        "stylistic_similarity": 4.0,
+        "consistency": 5.0,
+        "empathy": 3.0
+    },
+    "dialogue": [
+        {
+            "message_id": 0,
+            "user_id": "0031",
+            "speaker": "Human",
+            "message": "娘が結婚して家を買いました"
+        },
+        {
+            "message_id": 1,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "それはおめでたいね！どんな家を買ったの？"
+        },
+        {
+            "message_id": 2,
+            "user_id": "0031",
+            "speaker": "Human",
+            "message": "２人と１匹が住むには広い家です"
+        },
+        {
+            "message_id": 3,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "素敵だね！娘さんたちが快適に暮らせそうで良かったね。"
+        },
+        {
+            "message_id": 4,
+            "user_id": "0031",
+            "speaker": "Human",
+            "message": "実は購入しましたが、まだ入居はしていません"
+        },
+        {
+            "message_id": 5,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "そうなんですね。入居が楽しみですね。どんな風に暮らすか考えるのも楽しい時間ですね。"
+        },
+        {
+            "message_id": 6,
+            "user_id": "0031",
+            "speaker": "Human",
+            "message": "近所に引っ越してくるので、たくさん会えるようになります"
+        },
+        {
+            "message_id": 7,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "それはいいね！これからたくさん会えるの楽しみだね。"
+        },
+        {
+            "message_id": 8,
+            "user_id": "0031",
+            "speaker": "Human",
+            "message": "特に愛犬と会うのが楽しみです"
+        },
+        {
+            "message_id": 9,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "それは楽しみですね！愛犬との時間も大切にしたいですね。"
+        },
+        {
+            "message_id": 10,
+            "user_id": "0031",
+            "speaker": "Human",
+            "message": "私もそんな素敵な家に住みたいです"
+        },
+        {
+            "message_id": 11,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "本当だね、夢のある話だね！いつかそんな家に住めるといいね。"
+        },
+        {
+            "message_id": 12,
+            "user_id": "0031",
+            "speaker": "Human",
+            "message": "私はもう若くはないので、新しい家は無理です"
+        },
+        {
+            "message_id": 13,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "新しい家じゃなくても、居心地のいい空間を作れるといいね。"
+        },
+        {
+            "message_id": 14,
+            "user_id": "0031",
+            "speaker": "Human",
+            "message": "ここのお家に愛犬が気軽に遊びに来るのが楽しみです"
+        },
+        {
+            "message_id": 15,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "それはいいね！愛犬が来るの、楽しみだね。"
+        },
+        {
+            "message_id": 16,
+            "user_id": "0031",
+            "speaker": "Human",
+            "message": "お散歩がまた、楽しみです"
+        },
+        {
+            "message_id": 17,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "いいですね！愛犬とのお散歩、楽しみですね。"
+        },
+        {
+            "message_id": 18,
+            "user_id": "0031",
+            "speaker": "Human",
+            "message": "近所のお家を選んでもらって嬉しいです"
+        },
+        {
+            "message_id": 19,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "それは嬉しいね、これからいっぱい会えるね。"
+        }
+    ]
+}

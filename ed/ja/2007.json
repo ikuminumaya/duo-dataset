@@ -1,0 +1,162 @@
+{
+    "dialogue_id": 2007,
+    "setting": "ed",
+    "model": "gpt-4o",
+    "prompt": "neutral",
+    "emotion": "Terrified",
+    "episode": "日々、通り魔事件や強盗事件のニュースを見て。",
+    "objective_evaluation": {
+        "preference": 3.33,
+        "stylistic_similarity": 3.33,
+        "consistency": 4.0,
+        "empathy": 3.67,
+        "preference_scores": [
+            4.0,
+            3.0,
+            3.0
+        ],
+        "stylistic_similarity_scores": [
+            4.0,
+            3.0,
+            3.0
+        ],
+        "consistency_scores": [
+            5.0,
+            3.0,
+            4.0
+        ],
+        "empathy_scores": [
+            5.0,
+            3.0,
+            3.0
+        ]
+    },
+    "subjective_evaluation": {
+        "preference": 5.0,
+        "stylistic_similarity": 5.0,
+        "consistency": 5.0,
+        "empathy": 5.0
+    },
+    "dialogue": [
+        {
+            "message_id": 0,
+            "user_id": "0007",
+            "speaker": "Human",
+            "message": "最近は物騒なニュースが多くて怖いですね"
+        },
+        {
+            "message_id": 1,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "本当にそうですね。心配になります。"
+        },
+        {
+            "message_id": 2,
+            "user_id": "0007",
+            "speaker": "Human",
+            "message": "強盗や殺人とかって、こんなにありましたっけ？"
+        },
+        {
+            "message_id": 3,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "最近特に目立っているように感じますね。怖いですよね。"
+        },
+        {
+            "message_id": 4,
+            "user_id": "0007",
+            "speaker": "Human",
+            "message": "特に最近は新たな詐欺が目立つ気がします"
+        },
+        {
+            "message_id": 5,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "本当にそうですね。気をつけないといけませんね。"
+        },
+        {
+            "message_id": 6,
+            "user_id": "0007",
+            "speaker": "Human",
+            "message": "気を付けていても詐欺に会う人がいると聞きますが、何故、詐欺にひっかかるんですかね？"
+        },
+        {
+            "message_id": 7,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "詐欺師は巧妙に人の心理をついてくるので、騙されやすい状況を作り出すのが上手なんですよね。"
+        },
+        {
+            "message_id": 8,
+            "user_id": "0007",
+            "speaker": "Human",
+            "message": "詐欺にひっかからないようにするには、どうしたらいいんでしょうか？"
+        },
+        {
+            "message_id": 9,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "疑わしい話にはすぐに反応せず、必ず確認を取ることが大切です。また、家族や友人と相談するのも有効です。"
+        },
+        {
+            "message_id": 10,
+            "user_id": "0007",
+            "speaker": "Human",
+            "message": "警察が犯人をなかなか捕まえられないのはどうしてなんでしょうか？"
+        },
+        {
+            "message_id": 11,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "詐欺師は身元を隠すのが上手で、証拠を残さないようにしているから捕まえるのが難しいんです。"
+        },
+        {
+            "message_id": 12,
+            "user_id": "0007",
+            "speaker": "Human",
+            "message": "黒幕じゃなくて、手先になるような人間はよく捕まりますよね。"
+        },
+        {
+            "message_id": 13,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "そうですね。下の立場の人が表に出てくることが多いからかもしれません。"
+        },
+        {
+            "message_id": 14,
+            "user_id": "0007",
+            "speaker": "Human",
+            "message": "最近は通り魔の事件も多く、外を歩くのが怖いです。"
+        },
+        {
+            "message_id": 15,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "それは怖いですね。身の安全を最優先にしてくださいね。"
+        },
+        {
+            "message_id": 16,
+            "user_id": "0007",
+            "speaker": "Human",
+            "message": "どうすれば恐怖心がなくなりますかね？"
+        },
+        {
+            "message_id": 17,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "周囲に注意を払い、安心できるルートを選ぶと少し安心するかもしれません。"
+        },
+        {
+            "message_id": 18,
+            "user_id": "0007",
+            "speaker": "Human",
+            "message": "なるほど、ありがとうございます。"
+        },
+        {
+            "message_id": 19,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "どういたしまして。気をつけてくださいね。"
+        }
+    ]
+}

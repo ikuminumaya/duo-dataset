@@ -1,0 +1,162 @@
+{
+    "dialogue_id": 2011,
+    "setting": "ed",
+    "model": "gpt-4o",
+    "prompt": "neutral",
+    "emotion": "Angry",
+    "episode": "引っ越してきた隣人が1日中吠える犬を放置してトラブルになりました。何回注意しても解決しないので怒り心頭です。真面目に考えてない常識のなさに怒りとがっかりでいっぱいです。",
+    "objective_evaluation": {
+        "preference": 2.67,
+        "stylistic_similarity": 3.0,
+        "consistency": 3.0,
+        "empathy": 3.0,
+        "preference_scores": [
+            2.0,
+            3.0,
+            3.0
+        ],
+        "stylistic_similarity_scores": [
+            3.0,
+            3.0,
+            3.0
+        ],
+        "consistency_scores": [
+            3.0,
+            3.0,
+            3.0
+        ],
+        "empathy_scores": [
+            3.0,
+            3.0,
+            3.0
+        ]
+    },
+    "subjective_evaluation": {
+        "preference": 4.0,
+        "stylistic_similarity": 3.0,
+        "consistency": 4.0,
+        "empathy": 4.0
+    },
+    "dialogue": [
+        {
+            "message_id": 0,
+            "user_id": "0011",
+            "speaker": "Human",
+            "message": "引っ越してきた隣人が1日中吠える犬を放置し、怒りが最高潮になりました。"
+        },
+        {
+            "message_id": 1,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "それは本当にストレスですね。何か対策を考えていますか？"
+        },
+        {
+            "message_id": 2,
+            "user_id": "0011",
+            "speaker": "Human",
+            "message": "マンションの管理会社に言いました。"
+        },
+        {
+            "message_id": 3,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "それは良かったです。管理会社が何か対応してくれるといいですね。"
+        },
+        {
+            "message_id": 4,
+            "user_id": "0011",
+            "speaker": "Human",
+            "message": "張り紙を貼ったりしてくれましたが解決しませんでした。"
+        },
+        {
+            "message_id": 5,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "それは辛いですね。他に何かできることはあるか考えてみますか？"
+        },
+        {
+            "message_id": 6,
+            "user_id": "0011",
+            "speaker": "Human",
+            "message": "理事会に相談しました。"
+        },
+        {
+            "message_id": 7,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "それは良い判断ですね。理事会が力になってくれるといいですね。"
+        },
+        {
+            "message_id": 8,
+            "user_id": "0011",
+            "speaker": "Human",
+            "message": "市役所と警察にも通報しました。"
+        },
+        {
+            "message_id": 9,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "そこまで行動するのは大変でしたね。早く解決するといいですね。"
+        },
+        {
+            "message_id": 10,
+            "user_id": "0011",
+            "speaker": "Human",
+            "message": "犬は高齢になって来て最近は少し静かになりました。"
+        },
+        {
+            "message_id": 11,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "少しでも静かになって良かったです。早く落ち着くといいですね。"
+        },
+        {
+            "message_id": 12,
+            "user_id": "0011",
+            "speaker": "Human",
+            "message": "仮に犬が死んでもまたすぐ飼ったりしたら同じで不安です。"
+        },
+        {
+            "message_id": 13,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "それは心配ですね。次はご近所との関係を築けるといいですね。"
+        },
+        {
+            "message_id": 14,
+            "user_id": "0011",
+            "speaker": "Human",
+            "message": "もう完全に険悪になったので無理でしょうね。"
+        },
+        {
+            "message_id": 15,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "それは辛いですね。どうかストレスが少しでも和らぎますように。"
+        },
+        {
+            "message_id": 16,
+            "user_id": "0011",
+            "speaker": "Human",
+            "message": "解決法は引っ越ししかなさそうです。"
+        },
+        {
+            "message_id": 17,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "それも一つの選択ですね。あなたの心の平穏が大切です。"
+        },
+        {
+            "message_id": 18,
+            "user_id": "0011",
+            "speaker": "Human",
+            "message": "不可抗力なので怒りと共にあまりの運の悪さにがっかりです。"
+        },
+        {
+            "message_id": 19,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "それは本当に残念ですね。少しでも良い方向に進むことを願っています。"
+        }
+    ]
+}

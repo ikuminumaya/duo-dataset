@@ -1,0 +1,136 @@
+{
+    "dialogue_id": 2046,
+    "setting": "ed",
+    "model": "gpt-4o",
+    "prompt": "nonent",
+    "emotion": "Grateful",
+    "episode": "最近病院を多く受診しており先生に感謝です。",
+    "subjective_evaluation": {
+        "preference": 4.0,
+        "stylistic_similarity": 3.0,
+        "consistency": 5.0,
+        "empathy": 4.0
+    },
+    "dialogue": [
+        {
+            "message_id": 0,
+            "user_id": "0023",
+            "speaker": "Human",
+            "message": "最近、体調が良くなくて多くの病院に通っています。"
+        },
+        {
+            "message_id": 1,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "大変ですね。お体お大事にしてください。"
+        },
+        {
+            "message_id": 2,
+            "user_id": "0023",
+            "speaker": "Human",
+            "message": "ありがとう。病院では先生が親身になってくれます。"
+        },
+        {
+            "message_id": 3,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "それは良かったですね。いろんな病院に行くのは大変ですが、親身な先生がいるのは心強いですね。"
+        },
+        {
+            "message_id": 4,
+            "user_id": "0023",
+            "speaker": "Human",
+            "message": "そうなんです。先生だけではなく看護師や受付の方も優しいんですよ。"
+        },
+        {
+            "message_id": 5,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "それは素晴らしいですね。そんな温かいサポートがあると、少しは安心できますね。"
+        },
+        {
+            "message_id": 6,
+            "user_id": "0023",
+            "speaker": "Human",
+            "message": "はい。もちろん体調がすぐに良くなるわけではないけど、精神的にリラックスできています。"
+        },
+        {
+            "message_id": 7,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "それは良かったね。気持ちが楽になるのは大事だよ。"
+        },
+        {
+            "message_id": 8,
+            "user_id": "0023",
+            "speaker": "Human",
+            "message": "病院に行くだけでも結構ハードルが高いんで本当にありがたいです。"
+        },
+        {
+            "message_id": 9,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "病院に通うのは本当に大変だよね。周りのサポートがあってよかった。"
+        },
+        {
+            "message_id": 10,
+            "user_id": "0023",
+            "speaker": "Human",
+            "message": "それだけに早く良くなるといいなぁ。"
+        },
+        {
+            "message_id": 11,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "きっと良くなりますよ。信じて進みましょう。"
+        },
+        {
+            "message_id": 12,
+            "user_id": "0023",
+            "speaker": "Human",
+            "message": "ありがどう、ちょっと気持ちが前向きになったよ。"
+        },
+        {
+            "message_id": 13,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "それは良かったです。心が軽くなることを願っております。"
+        },
+        {
+            "message_id": 14,
+            "user_id": "0023",
+            "speaker": "Human",
+            "message": "やっぱり病院の先生だけでは無くて周りの人たちの助けも大事ですよね。"
+        },
+        {
+            "message_id": 15,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "本当にその通りですね。周囲の支え、大切です。"
+        },
+        {
+            "message_id": 16,
+            "user_id": "0023",
+            "speaker": "Human",
+            "message": "あなたからも元気をもらって大助かりですよ！"
+        },
+        {
+            "message_id": 17,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "それは嬉しいです。どうかお大事に。"
+        },
+        {
+            "message_id": 18,
+            "user_id": "0023",
+            "speaker": "Human",
+            "message": "ありがとう。がんばるね。"
+        },
+        {
+            "message_id": 19,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "どうぞ、どうかお元気で。"
+        }
+    ]
+}

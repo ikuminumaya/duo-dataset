@@ -1,0 +1,162 @@
+{
+    "dialogue_id": 2036,
+    "setting": "ed",
+    "model": "gpt-4o",
+    "prompt": "nonent",
+    "emotion": "Proud",
+    "episode": "大谷選手のメジャーリーグでの活躍は日本人として誇りに思う",
+    "objective_evaluation": {
+        "preference": 4.67,
+        "stylistic_similarity": 4.0,
+        "consistency": 4.33,
+        "empathy": 4.33,
+        "preference_scores": [
+            4.0,
+            5.0,
+            5.0
+        ],
+        "stylistic_similarity_scores": [
+            3.0,
+            4.0,
+            5.0
+        ],
+        "consistency_scores": [
+            4.0,
+            4.0,
+            5.0
+        ],
+        "empathy_scores": [
+            4.0,
+            4.0,
+            5.0
+        ]
+    },
+    "subjective_evaluation": {
+        "preference": 3.0,
+        "stylistic_similarity": 4.0,
+        "consistency": 4.0,
+        "empathy": 4.0
+    },
+    "dialogue": [
+        {
+            "message_id": 0,
+            "user_id": "0015",
+            "speaker": "Human",
+            "message": "大谷選手がまたホームランを打ちました"
+        },
+        {
+            "message_id": 1,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "すごいですね、大谷選手の活躍には毎回驚かされます。"
+        },
+        {
+            "message_id": 2,
+            "user_id": "0015",
+            "speaker": "Human",
+            "message": "五月には15本打って月間MVPを獲得して絶好調でした"
+        },
+        {
+            "message_id": 3,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "大谷選手のパフォーマンスはまさに驚異的ですね。次の試合も楽しみです。"
+        },
+        {
+            "message_id": 4,
+            "user_id": "0015",
+            "speaker": "Human",
+            "message": "今年もホームランキングを取れるかな？"
+        },
+        {
+            "message_id": 5,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "今年もホームランキング目指してほしいですね。応援しています。"
+        },
+        {
+            "message_id": 6,
+            "user_id": "0015",
+            "speaker": "Human",
+            "message": "今シーズンは盗塁は少な目かな？"
+        },
+        {
+            "message_id": 7,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "盗塁が少ないのは残念ですが、彼のバッティングは目を見張るものがありますね。"
+        },
+        {
+            "message_id": 8,
+            "user_id": "0015",
+            "speaker": "Human",
+            "message": "ピッチングの練習も始めて、二刀流復活が楽しみです"
+        },
+        {
+            "message_id": 9,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "二刀流復活はワクワクしますね！彼の多才さが光ります。"
+        },
+        {
+            "message_id": 10,
+            "user_id": "0015",
+            "speaker": "Human",
+            "message": "復活は後半戦からかな？"
+        },
+        {
+            "message_id": 11,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "後半戦が待ち遠しいですね。彼のピッチングが楽しみです。"
+        },
+        {
+            "message_id": 12,
+            "user_id": "0015",
+            "speaker": "Human",
+            "message": "今シーズンもMVP取れるかな？"
+        },
+        {
+            "message_id": 13,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "MVPの可能性は高いですが、競争も激しいです。"
+        },
+        {
+            "message_id": 14,
+            "user_id": "0015",
+            "speaker": "Human",
+            "message": "二刀流復活して投手でも活躍できれば間違いないかな？"
+        },
+        {
+            "message_id": 15,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "二刀流での活躍はMVPに向けて強力なアピールになりますね。"
+        },
+        {
+            "message_id": 16,
+            "user_id": "0015",
+            "speaker": "Human",
+            "message": "今シーズンもワールドシリーズに出場してほしいです"
+        },
+        {
+            "message_id": 17,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "ワールドシリーズ出場は素晴らしい目標ですね。期待しています。"
+        },
+        {
+            "message_id": 18,
+            "user_id": "0015",
+            "speaker": "Human",
+            "message": "去年はワールドシリーズでは活躍できなかったので今年は活躍してほしいです"
+        },
+        {
+            "message_id": 19,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "今年こそ、大活躍してほしいですね。"
+        }
+    ]
+}

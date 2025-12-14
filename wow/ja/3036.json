@@ -1,0 +1,141 @@
+{
+    "dialogue_id": 3036,
+    "setting": "wow",
+    "model": "gpt-4o",
+    "prompt": "ent",
+    "topic": "コーヒー",
+    "subjective_evaluation": {
+        "preference": 3.0,
+        "stylistic_similarity": 5.0,
+        "consistency": 5.0,
+        "engagingness": 5.0
+    },
+    "dialogue": [
+        {
+            "message_id": 0,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "コーヒーはエチオピアなどアフリカが起源で、今では世界中で愛されている飲み物なんだよ。"
+        },
+        {
+            "message_id": 1,
+            "user_id": "0069",
+            "speaker": "Human",
+            "message": "いろいろな国で愛されているんだね"
+        },
+        {
+            "message_id": 2,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "うん、コーヒーは世界70か国以上で栽培されていて、エスプレッソやフレンチプレスなどいろんな飲み方があるんだよ。"
+        },
+        {
+            "message_id": 3,
+            "user_id": "0069",
+            "speaker": "Human",
+            "message": "70国以上で栽培されているなんて知らなかったよ"
+        },
+        {
+            "message_id": 4,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "そうなんだ、コーヒーはアメリカ大陸や東南アジア、アフリカなど世界中で栽培されていて、特にアラビカ種とロブスタ種が有名なんだよ。"
+        },
+        {
+            "message_id": 5,
+            "user_id": "0069",
+            "speaker": "Human",
+            "message": "他にどんな種があるの"
+        },
+        {
+            "message_id": 6,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "アラビカとロブスタが有名だけど、他にもリベリカやエクセルサという種もあるんだよ。"
+        },
+        {
+            "message_id": 7,
+            "user_id": "0069",
+            "speaker": "Human",
+            "message": "味の違いは"
+        },
+        {
+            "message_id": 8,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "アラビカは風味が豊かで酸味が強いことが多いけど、ロブスタはより苦くてカフェインが多いんだよ。"
+        },
+        {
+            "message_id": 9,
+            "user_id": "0069",
+            "speaker": "Human",
+            "message": "甘いものはある"
+        },
+        {
+            "message_id": 10,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "甘いというよりは、コーヒーの風味に甘みを感じることができる焙煎もあるよ。特に、軽い焙煎だとフルーティーな甘さを感じることがあるんだ。"
+        },
+        {
+            "message_id": 11,
+            "user_id": "0069",
+            "speaker": "Human",
+            "message": "苦くないコーヒーが飲みたい"
+        },
+        {
+            "message_id": 12,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "軽く焙煎されたアラビカ種を試してみると、苦味が少なくフルーティーな甘さを感じることができるかもしれないよ。"
+        },
+        {
+            "message_id": 13,
+            "user_id": "0069",
+            "speaker": "Human",
+            "message": "どこで手に入る"
+        },
+        {
+            "message_id": 14,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "軽く焙煎されたアラビカ種の豆は、コーヒーショップやオンラインストアで手に入ることが多いよ。"
+        },
+        {
+            "message_id": 15,
+            "user_id": "0069",
+            "speaker": "Human",
+            "message": "スーパーにある"
+        },
+        {
+            "message_id": 16,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "多くのスーパーでも軽く焙煎されたアラビカ種のコーヒーが売られていることがあるよ、ぜひ探してみてね。"
+        },
+        {
+            "message_id": 17,
+            "user_id": "0069",
+            "speaker": "Human",
+            "message": "値段はいくら"
+        },
+        {
+            "message_id": 18,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "スーパーでも価格は様々だけど、普通のコーヒー豆より少し高めかもしれないね。"
+        },
+        {
+            "message_id": 19,
+            "user_id": "0069",
+            "speaker": "Human",
+            "message": "お買い得なものは"
+        },
+        {
+            "message_id": 20,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "スーパーではセールやプライベートブランドの豆を探してみると、お買い得なものが見つかるかもしれないよ。"
+        }
+    ]
+}

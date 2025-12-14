@@ -1,0 +1,167 @@
+{
+    "dialogue_id": 3027,
+    "setting": "wow",
+    "model": "gpt-4o",
+    "prompt": "ent",
+    "topic": "サウジアラビア",
+    "objective_evaluation": {
+        "preference": 4.0,
+        "stylistic_similarity": 3.33,
+        "consistency": 3.67,
+        "engagingness": 3.33,
+        "preference_scores": [
+            5.0,
+            4.0,
+            3.0
+        ],
+        "stylistic_similarity_scores": [
+            5.0,
+            3.0,
+            2.0
+        ],
+        "consistency_scores": [
+            5.0,
+            2.0,
+            4.0
+        ],
+        "engagingness_scores": [
+            5.0,
+            3.0,
+            2.0
+        ]
+    },
+    "subjective_evaluation": {
+        "preference": 5.0,
+        "stylistic_similarity": 4.0,
+        "consistency": 5.0,
+        "engagingness": 5.0
+    },
+    "dialogue": [
+        {
+            "message_id": 0,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "サウジアラビアは、1932年にイブン・サウードによって建国された、西アジアに位置する広大な国なんだよ。"
+        },
+        {
+            "message_id": 1,
+            "user_id": "0061",
+            "speaker": "Human",
+            "message": "サウジアラビアはサッカーが強い国なんだよね"
+        },
+        {
+            "message_id": 2,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "そうだね、サウジアラビアはサッカーでもしばしば注目を集めていて、特にアジアカップでの活躍が目立っているよ。"
+        },
+        {
+            "message_id": 3,
+            "user_id": "0061",
+            "speaker": "Human",
+            "message": "サッカーで有名な選手は誰ですか？"
+        },
+        {
+            "message_id": 4,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "サウジアラビアで有名なサッカー選手としては、サーミー・アル＝ジャービルやヤシール・アル＝カフタニが挙げられるよ。"
+        },
+        {
+            "message_id": 5,
+            "user_id": "0061",
+            "speaker": "Human",
+            "message": "契約金もすごいのかなあ"
+        },
+        {
+            "message_id": 6,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "サウジアラビアのサッカー選手には、クラブやスポンサーとの契約で大きな金額を手にすることもあるみたいだよ。"
+        },
+        {
+            "message_id": 7,
+            "user_id": "0061",
+            "speaker": "Human",
+            "message": "それはすごいですね。サッカー以外で有名なものはありますか？"
+        },
+        {
+            "message_id": 8,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "サウジアラビアは、宗教的に重要なメッカとメディナがあることでも有名なんだよ。"
+        },
+        {
+            "message_id": 9,
+            "user_id": "0061",
+            "speaker": "Human",
+            "message": "何教の人が多いですか？"
+        },
+        {
+            "message_id": 10,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "サウジアラビアでは、イスラム教が圧倒的に信仰されているんだよ。"
+        },
+        {
+            "message_id": 11,
+            "user_id": "0061",
+            "speaker": "Human",
+            "message": "礼拝堂も立派なんでしょうね。"
+        },
+        {
+            "message_id": 12,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "うん、サウジアラビアにはイスラム教の聖地であるメッカとメディナがあり、そこにある礼拝堂はとても立派なんだよ。"
+        },
+        {
+            "message_id": 13,
+            "user_id": "0061",
+            "speaker": "Human",
+            "message": "観光で一度行ってみたくなりました。"
+        },
+        {
+            "message_id": 14,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "サウジアラビアは広大な砂漠や美しい海岸線も持っていて、訪れる価値がある場所だよ。"
+        },
+        {
+            "message_id": 15,
+            "user_id": "0061",
+            "speaker": "Human",
+            "message": "気温は日本より暑いんですか？"
+        },
+        {
+            "message_id": 16,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "うん、サウジアラビアは砂漠の気候で、特に夏は日本よりもかなり暑くなることが多いよ。"
+        },
+        {
+            "message_id": 17,
+            "user_id": "0061",
+            "speaker": "Human",
+            "message": "それじゃ日焼け対策とか必要になってきますね。"
+        },
+        {
+            "message_id": 18,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "うん、日中の気温が高いから、日焼け対策や水分補給はしっかりとする必要があるね。"
+        },
+        {
+            "message_id": 19,
+            "user_id": "0061",
+            "speaker": "Human",
+            "message": "物価とかはどうなんでしょうか？"
+        },
+        {
+            "message_id": 20,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "サウジアラビアの物価は、日本と比べると商品やサービスによって異なるけど、生活費は比較的高くなることもあるみたいだよ。"
+        }
+    ]
+}

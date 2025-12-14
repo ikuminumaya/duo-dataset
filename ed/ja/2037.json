@@ -1,0 +1,162 @@
+{
+    "dialogue_id": 2037,
+    "setting": "ed",
+    "model": "gpt-4o",
+    "prompt": "nonent",
+    "emotion": "Grateful",
+    "episode": "電車でSUICA定期券を紛失したが、駅に届けられていた。",
+    "objective_evaluation": {
+        "preference": 2.67,
+        "stylistic_similarity": 2.33,
+        "consistency": 3.0,
+        "empathy": 2.33,
+        "preference_scores": [
+            3.0,
+            2.0,
+            3.0
+        ],
+        "stylistic_similarity_scores": [
+            3.0,
+            3.0,
+            1.0
+        ],
+        "consistency_scores": [
+            4.0,
+            4.0,
+            1.0
+        ],
+        "empathy_scores": [
+            4.0,
+            2.0,
+            1.0
+        ]
+    },
+    "subjective_evaluation": {
+        "preference": 4.0,
+        "stylistic_similarity": 3.0,
+        "consistency": 3.0,
+        "empathy": 5.0
+    },
+    "dialogue": [
+        {
+            "message_id": 0,
+            "user_id": "0036",
+            "speaker": "Human",
+            "message": "電車でSUICA定期券を紛失したが、駅に届けられていました。"
+        },
+        {
+            "message_id": 1,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "それは良かったですね。見つかって安心しましたでしょう。"
+        },
+        {
+            "message_id": 2,
+            "user_id": "0036",
+            "speaker": "Human",
+            "message": "安心したと同時に、届けてくれた方に感謝しました。"
+        },
+        {
+            "message_id": 3,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "それは素晴らしいことです。人の優しさに触れると心が温まりますね。"
+        },
+        {
+            "message_id": 4,
+            "user_id": "0036",
+            "speaker": "Human",
+            "message": "ええ、自分も同じ場面に遭遇したらそうしたいと思えますね。"
+        },
+        {
+            "message_id": 5,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "本当にそうですね。親切な行動は広がるものです。"
+        },
+        {
+            "message_id": 6,
+            "user_id": "0036",
+            "speaker": "Human",
+            "message": "世の中いいニュースばかりではありませんが、個人個人では善意はあるものだと思います。"
+        },
+        {
+            "message_id": 7,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "まさに。善意が世界を少しずつ良くしますね。"
+        },
+        {
+            "message_id": 8,
+            "user_id": "0036",
+            "speaker": "Human",
+            "message": "あなたはAIですが、善意についてどう理解していますか？"
+        },
+        {
+            "message_id": 9,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "善意は、人々をつなぐ力としてとても重要だと思います。個々の行動が社会全体に良い影響を与えると信じています。"
+        },
+        {
+            "message_id": 10,
+            "user_id": "0036",
+            "speaker": "Human",
+            "message": "なるほど。先日のエピソードの後だと、納得ができます。"
+        },
+        {
+            "message_id": 11,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "そうだな、善意ってやつは、どんなときでも光るもんだよな。"
+        },
+        {
+            "message_id": 12,
+            "user_id": "0036",
+            "speaker": "Human",
+            "message": "急に口調が変わりましたね。"
+        },
+        {
+            "message_id": 13,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "失礼しました、口調を戻しますね。善意が広がると良いですね。"
+        },
+        {
+            "message_id": 14,
+            "user_id": "0036",
+            "speaker": "Human",
+            "message": "いえいえ、やっぱり一つ前に戻してください。"
+        },
+        {
+            "message_id": 15,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "了解だぜ、またいつでも聞いてくれよな。"
+        },
+        {
+            "message_id": 16,
+            "user_id": "0036",
+            "speaker": "Human",
+            "message": "口調が変わった理由はなんですか。親近感を感じてくれたのでしょうか？"
+        },
+        {
+            "message_id": 17,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "あ、特に深い理由はないです。ちょっとした変化を試してみました。"
+        },
+        {
+            "message_id": 18,
+            "user_id": "0036",
+            "speaker": "Human",
+            "message": "人間っぽくていいですね。"
+        },
+        {
+            "message_id": 19,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "ありがとうございます。何かほかに話したいことはありますか？"
+        }
+    ]
+}

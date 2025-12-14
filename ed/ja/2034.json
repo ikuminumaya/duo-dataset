@@ -1,0 +1,162 @@
+{
+    "dialogue_id": 2034,
+    "setting": "ed",
+    "model": "gpt-4o",
+    "prompt": "ent",
+    "emotion": "Anxious",
+    "episode": "新しいプロジェクトの責任者になりました。##経験不足でチームをうまくまとめられるか不安に思います。##コミュニケーションを取るのが苦手なほうなので。",
+    "objective_evaluation": {
+        "preference": 4.33,
+        "stylistic_similarity": 4.0,
+        "consistency": 4.33,
+        "empathy": 4.0,
+        "preference_scores": [
+            5.0,
+            5.0,
+            3.0
+        ],
+        "stylistic_similarity_scores": [
+            4.0,
+            5.0,
+            3.0
+        ],
+        "consistency_scores": [
+            5.0,
+            5.0,
+            3.0
+        ],
+        "empathy_scores": [
+            5.0,
+            4.0,
+            3.0
+        ]
+    },
+    "subjective_evaluation": {
+        "preference": 4.0,
+        "stylistic_similarity": 2.0,
+        "consistency": 4.0,
+        "empathy": 4.0
+    },
+    "dialogue": [
+        {
+            "message_id": 0,
+            "user_id": "0034",
+            "speaker": "Human",
+            "message": "新しいプロジェクトの責任者になりました。"
+        },
+        {
+            "message_id": 1,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "すごいね、それは大きなチャンスだね！どう感じてる？"
+        },
+        {
+            "message_id": 2,
+            "user_id": "0034",
+            "speaker": "Human",
+            "message": "経験不足でチームをうまくまとめられるか不安に思います。"
+        },
+        {
+            "message_id": 3,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "そうなんだ、不安もあるよね。でも新しいことに挑戦するのは成長のチャンスだよ。応援してるよ！"
+        },
+        {
+            "message_id": 4,
+            "user_id": "0034",
+            "speaker": "Human",
+            "message": "コミュニケーションを取るのが苦手なほうなので。"
+        },
+        {
+            "message_id": 5,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "そっか、でも経験積めばきっと上手くなるよ。少しずつやってみよう！"
+        },
+        {
+            "message_id": 6,
+            "user_id": "0034",
+            "speaker": "Human",
+            "message": "どうすればいいですかね"
+        },
+        {
+            "message_id": 7,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "まずは小さなことから始めてみるといいかも。チームメンバーとの信頼関係を築くことが大切だよ。"
+        },
+        {
+            "message_id": 8,
+            "user_id": "0034",
+            "speaker": "Human",
+            "message": "信頼関係を築くには何をしたらいい？"
+        },
+        {
+            "message_id": 9,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "まずは、しっかり話を聴いてあげることかな。あと、感謝や励ましの言葉を大切にするといいかもね。"
+        },
+        {
+            "message_id": 10,
+            "user_id": "0034",
+            "speaker": "Human",
+            "message": "叱ったりしたらダメですかね"
+        },
+        {
+            "message_id": 11,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "叱ることも大事だと思うよ。でも、相手を理解しつつ、建設的なフィードバックを心がけるといいかもね。"
+        },
+        {
+            "message_id": 12,
+            "user_id": "0034",
+            "speaker": "Human",
+            "message": "相手に響いてなかったらどうしよう"
+        },
+        {
+            "message_id": 13,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "最初はそう感じるかもね。でも、繰り返し伝えることで少しずつ響くようになると思うよ。"
+        },
+        {
+            "message_id": 14,
+            "user_id": "0034",
+            "speaker": "Human",
+            "message": "がんばります"
+        },
+        {
+            "message_id": 15,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "応援してるよ、がんばってね！"
+        },
+        {
+            "message_id": 16,
+            "user_id": "0034",
+            "speaker": "Human",
+            "message": "勇気が出ました"
+        },
+        {
+            "message_id": 17,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "それは良かった！いつでも応援してるよ。"
+        },
+        {
+            "message_id": 18,
+            "user_id": "0034",
+            "speaker": "Human",
+            "message": "ありがとう"
+        },
+        {
+            "message_id": 19,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "どういたしまして！いつでも頼ってね。"
+        }
+    ]
+}

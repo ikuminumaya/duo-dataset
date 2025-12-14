@@ -1,0 +1,167 @@
+{
+    "dialogue_id": 3054,
+    "setting": "wow",
+    "model": "gpt-4o",
+    "prompt": "nonent",
+    "topic": "WWE",
+    "objective_evaluation": {
+        "preference": 3.33,
+        "stylistic_similarity": 3.67,
+        "consistency": 4.33,
+        "engagingness": 3.67,
+        "preference_scores": [
+            3.0,
+            4.0,
+            3.0
+        ],
+        "stylistic_similarity_scores": [
+            3.0,
+            4.0,
+            4.0
+        ],
+        "consistency_scores": [
+            4.0,
+            5.0,
+            4.0
+        ],
+        "engagingness_scores": [
+            3.0,
+            4.0,
+            4.0
+        ]
+    },
+    "subjective_evaluation": {
+        "preference": 4.0,
+        "stylistic_similarity": 5.0,
+        "consistency": 4.0,
+        "engagingness": 5.0
+    },
+    "dialogue": [
+        {
+            "message_id": 0,
+            "system_id": "0005",
+            "speaker": "Bot",
+            "message": "ワールド・レスリング・エンターテインメント（WWE）は、プロレスを中心に様々なエンターテインメントを提供し、世界中で広く親しまれています。"
+        },
+        {
+            "message_id": 1,
+            "user_id": "0038",
+            "speaker": "Human",
+            "message": "そうなんですね。世界中でどのくらい観られているんですか？"
+        },
+        {
+            "message_id": 2,
+            "system_id": "0005",
+            "speaker": "Bot",
+            "message": "WWEは、150カ国以上で約3600万人の視聴者に楽しまれています。"
+        },
+        {
+            "message_id": 3,
+            "user_id": "0038",
+            "speaker": "Human",
+            "message": "一番視聴者が多い国はどこですか？"
+        },
+        {
+            "message_id": 4,
+            "system_id": "0005",
+            "speaker": "Bot",
+            "message": "特にアメリカでの人気が高く、そこでの視聴者数が特に多いとされています。"
+        },
+        {
+            "message_id": 5,
+            "user_id": "0038",
+            "speaker": "Human",
+            "message": "では2番目はどの国でしょうか"
+        },
+        {
+            "message_id": 6,
+            "system_id": "0005",
+            "speaker": "Bot",
+            "message": "アメリカに次いで、WWEはカナダやイギリスでも特に多くの視聴者を獲得しています。"
+        },
+        {
+            "message_id": 7,
+            "user_id": "0038",
+            "speaker": "Human",
+            "message": "どんなところが人気なのですか？"
+        },
+        {
+            "message_id": 8,
+            "system_id": "0005",
+            "speaker": "Bot",
+            "message": "WWEの人気の一因は、スポーツと演劇を組み合わせた独特のエンターテインメントスタイルにあり、視聴者はドラマチックなストーリー展開とアクションを楽しんでいます。"
+        },
+        {
+            "message_id": 9,
+            "user_id": "0038",
+            "speaker": "Human",
+            "message": "人気の選手は誰ですか？"
+        },
+        {
+            "message_id": 10,
+            "system_id": "0005",
+            "speaker": "Bot",
+            "message": "WWEの人気選手には、ジョン・シナやザ・ロックなど、カリスマ性とパフォーマンスで観客を魅了するスターがいます。"
+        },
+        {
+            "message_id": 11,
+            "user_id": "0038",
+            "speaker": "Human",
+            "message": "選手の中に日本人はいますか？"
+        },
+        {
+            "message_id": 12,
+            "system_id": "0005",
+            "speaker": "Bot",
+            "message": "はい、日本人選手では中邑真輔やアスカがWWEで活躍しています。"
+        },
+        {
+            "message_id": 13,
+            "user_id": "0038",
+            "speaker": "Human",
+            "message": "アスカは女性ですか？"
+        },
+        {
+            "message_id": 14,
+            "system_id": "0005",
+            "speaker": "Bot",
+            "message": "はい、アスカは女性レスラーで、彼女のエネルギッシュなパフォーマンスは多くのファンに愛されています。"
+        },
+        {
+            "message_id": 15,
+            "user_id": "0038",
+            "speaker": "Human",
+            "message": "人気のカードはありますか？"
+        },
+        {
+            "message_id": 16,
+            "system_id": "0005",
+            "speaker": "Bot",
+            "message": "WWEでは、レッスルマニアなどのビッグイベントでのタイトルマッチや特別なストーリーラインが組まれたカードが特に人気を集めています。"
+        },
+        {
+            "message_id": 17,
+            "user_id": "0038",
+            "speaker": "Human",
+            "message": "これまで1番人気があったのはどんなカードですか？"
+        },
+        {
+            "message_id": 18,
+            "system_id": "0005",
+            "speaker": "Bot",
+            "message": "レッスルマニアでのハルク・ホーガン対アンドレ・ザ・ジャイアントの対戦は、WWE史上最も象徴的で人気のあるカードの一つとして知られています。"
+        },
+        {
+            "message_id": 19,
+            "user_id": "0038",
+            "speaker": "Human",
+            "message": "アンドレは知ってます。WWEに出ていたんですね"
+        },
+        {
+            "message_id": 20,
+            "system_id": "0005",
+            "speaker": "Bot",
+            "message": "はい、アンドレ・ザ・ジャイアントはWWEの歴史において非常に重要な存在で、特に1980年代に大きな影響を与えました。"
+        }
+    ]
+}

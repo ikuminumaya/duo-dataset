@@ -1,0 +1,141 @@
+{
+    "dialogue_id": 3040,
+    "setting": "wow",
+    "model": "gpt-4o",
+    "prompt": "ent",
+    "topic": "中華人民共和国",
+    "subjective_evaluation": {
+        "preference": 4.0,
+        "stylistic_similarity": 4.0,
+        "consistency": 2.0,
+        "engagingness": 2.0
+    },
+    "dialogue": [
+        {
+            "message_id": 0,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "中国は、人口が約13億人で、世界で最も人口の多い国なんだよ。"
+        },
+        {
+            "message_id": 1,
+            "user_id": "0035",
+            "speaker": "Human",
+            "message": "そうなんですか。聞いたことがあります"
+        },
+        {
+            "message_id": 2,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "そうなんだ、中国は世界で最も多くの隣国を持つ国でもあるんだよ。"
+        },
+        {
+            "message_id": 3,
+            "user_id": "0035",
+            "speaker": "Human",
+            "message": "それも聞いたことがあります"
+        },
+        {
+            "message_id": 4,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "そうなんだ、中国は22の省や5つの自治区、そして特別行政区を含む多くの地域を統治しているんだよ。"
+        },
+        {
+            "message_id": 5,
+            "user_id": "0035",
+            "speaker": "Human",
+            "message": "それは知りませんでした"
+        },
+        {
+            "message_id": 6,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "そうなんだ、中国は4つの直轄市や香港とマカオの特別行政区も管轄しているんだよ。"
+        },
+        {
+            "message_id": 7,
+            "user_id": "0035",
+            "speaker": "Human",
+            "message": "それも知りませんでした"
+        },
+        {
+            "message_id": 8,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "中国は、世界最古の文明のひとつでもあって、歴史的に何度も統一と分裂を繰り返してきたんだよ。"
+        },
+        {
+            "message_id": 9,
+            "user_id": "0035",
+            "speaker": "Human",
+            "message": "博識な方なんですね"
+        },
+        {
+            "message_id": 10,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "中国は、北京、天津、上海、重慶という4つの直轄市も含めて統治しているんだよ。"
+        },
+        {
+            "message_id": 11,
+            "user_id": "0035",
+            "speaker": "Human",
+            "message": "そうなんだ。勉強になります"
+        },
+        {
+            "message_id": 12,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "中国は歴史的に、夏王朝から始まる王朝制度のもとで成り立っていて、何度も統一と分裂を繰り返してきた文明なんだよ。"
+        },
+        {
+            "message_id": 13,
+            "user_id": "0035",
+            "speaker": "Human",
+            "message": "結構歴史が長いんですね"
+        },
+        {
+            "message_id": 14,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "そうなんだ、中国の歴史は紀元前21世紀の伝説的な夏王朝から始まって、何度も拡大と分裂、再統一を繰り返してきたんだよ。"
+        },
+        {
+            "message_id": 15,
+            "user_id": "0035",
+            "speaker": "Human",
+            "message": "過去には色々あったんですね"
+        },
+        {
+            "message_id": 16,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "そうですね、中国は紀元前3世紀に秦が初めて統一したことで、その後の歴史が大きく動いていったんですよ。"
+        },
+        {
+            "message_id": 17,
+            "user_id": "0035",
+            "speaker": "Human",
+            "message": "昔の人は結構行動力があったんですね"
+        },
+        {
+            "message_id": 18,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "そうだね、例えば紀元前3世紀には秦が中国を統一して最初の王朝を築いたんだ。"
+        },
+        {
+            "message_id": 19,
+            "user_id": "0035",
+            "speaker": "Human",
+            "message": "学校でも勉強しなかったことなので、興味深いです"
+        },
+        {
+            "message_id": 20,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "そうなんだ、例えば漢王朝の時代には製紙や羅針盤など、いくつかの先進的な技術が生まれたんだよ。"
+        }
+    ]
+}

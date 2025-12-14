@@ -1,0 +1,162 @@
+{
+    "dialogue_id": 2049,
+    "setting": "ed",
+    "model": "gpt-4o",
+    "prompt": "nonent",
+    "emotion": "Nostalgic",
+    "episode": "テレビで昭和の時代の特集をやっていた",
+    "objective_evaluation": {
+        "preference": 4.0,
+        "stylistic_similarity": 2.33,
+        "consistency": 4.0,
+        "empathy": 3.33,
+        "preference_scores": [
+            4.0,
+            5.0,
+            3.0
+        ],
+        "stylistic_similarity_scores": [
+            3.0,
+            3.0,
+            1.0
+        ],
+        "consistency_scores": [
+            5.0,
+            4.0,
+            3.0
+        ],
+        "empathy_scores": [
+            4.0,
+            5.0,
+            1.0
+        ]
+    },
+    "subjective_evaluation": {
+        "preference": 3.0,
+        "stylistic_similarity": 3.0,
+        "consistency": 3.0,
+        "empathy": 3.0
+    },
+    "dialogue": [
+        {
+            "message_id": 0,
+            "user_id": "0044",
+            "speaker": "Human",
+            "message": "テレビで昭和の時代の特集をやっていて懐かしかった。"
+        },
+        {
+            "message_id": 1,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "昭和の時代、どんなところが懐かしかったですか？"
+        },
+        {
+            "message_id": 2,
+            "user_id": "0044",
+            "speaker": "Human",
+            "message": "自分が昭和生まれなので、当時使っていたものがありました。"
+        },
+        {
+            "message_id": 3,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "昭和のものを見ると、過去にタイムスリップしたような気持ちになりますね。どんなものが特に印象に残りましたか？"
+        },
+        {
+            "message_id": 4,
+            "user_id": "0044",
+            "speaker": "Human",
+            "message": "花柄の食器や家電が印象に残りました。"
+        },
+        {
+            "message_id": 5,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "それは良いですね。懐かしい感じがして、心が温まりますね。"
+        },
+        {
+            "message_id": 6,
+            "user_id": "0044",
+            "speaker": "Human",
+            "message": "昭和に活躍した歌手なども懐かしいです。"
+        },
+        {
+            "message_id": 7,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "ああ、昭和の歌手たちは本当に素晴らしかったですね。どの歌手が特に心に残っていますか？"
+        },
+        {
+            "message_id": 8,
+            "user_id": "0044",
+            "speaker": "Human",
+            "message": "ピンクレディー、西城秀樹などです"
+        },
+        {
+            "message_id": 9,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "当時の音楽は独特の魅力がありましたね。懐かしさが蘇ります。"
+        },
+        {
+            "message_id": 10,
+            "user_id": "0044",
+            "speaker": "Human",
+            "message": "最近、昭和ブームで昭和の街並みを再現した所がありましたよね？"
+        },
+        {
+            "message_id": 11,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "そうですね、懐かしい雰囲気が楽しめる場所が増えてきましたね。楽しまれている方も多いようです。"
+        },
+        {
+            "message_id": 12,
+            "user_id": "0044",
+            "speaker": "Human",
+            "message": "当時の喫茶店がなつかしいです。"
+        },
+        {
+            "message_id": 13,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "昭和の喫茶店、まさにノスタルジックですね。魅力的です。"
+        },
+        {
+            "message_id": 14,
+            "user_id": "0044",
+            "speaker": "Human",
+            "message": "昔ながらの喫茶店も最近はやっていますね。"
+        },
+        {
+            "message_id": 15,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "そうですね。懐かしさと新しさが共存する魅力がありますね。"
+        },
+        {
+            "message_id": 16,
+            "user_id": "0044",
+            "speaker": "Human",
+            "message": "行ってみたいです。"
+        },
+        {
+            "message_id": 17,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "ぜひ訪れてみてください。きっと楽しめます。"
+        },
+        {
+            "message_id": 18,
+            "user_id": "0044",
+            "speaker": "Human",
+            "message": "ぜひ"
+        },
+        {
+            "message_id": 19,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "昭和の喫茶店、ぜひ楽しんでくださいませ。"
+        }
+    ]
+}

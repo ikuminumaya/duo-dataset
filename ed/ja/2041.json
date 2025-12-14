@@ -1,0 +1,162 @@
+{
+    "dialogue_id": 2041,
+    "setting": "ed",
+    "model": "gpt-4o",
+    "prompt": "nonent",
+    "emotion": "Hopeful",
+    "episode": "友達に臨時収入があり、近々、焼肉をごちそうしてくれるそうです。ちょっと高級なお店へ連れて行ってくれるらしく今からとても楽しみです。",
+    "objective_evaluation": {
+        "preference": 4.0,
+        "stylistic_similarity": 4.33,
+        "consistency": 4.0,
+        "empathy": 4.0,
+        "preference_scores": [
+            4.0,
+            5.0,
+            3.0
+        ],
+        "stylistic_similarity_scores": [
+            4.0,
+            5.0,
+            4.0
+        ],
+        "consistency_scores": [
+            4.0,
+            4.0,
+            4.0
+        ],
+        "empathy_scores": [
+            4.0,
+            4.0,
+            4.0
+        ]
+    },
+    "subjective_evaluation": {
+        "preference": 2.0,
+        "stylistic_similarity": 2.0,
+        "consistency": 3.0,
+        "empathy": 3.0
+    },
+    "dialogue": [
+        {
+            "message_id": 0,
+            "user_id": "0009",
+            "speaker": "Human",
+            "message": "友達に臨時収入があり、近々、焼肉をごちそうしてくれるそうです。ちょっと高級なお店へ連れて行ってくれるらしく今からとても楽しみです。"
+        },
+        {
+            "message_id": 1,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "それは素晴らしいですね。美味しい焼肉を楽しんでください。"
+        },
+        {
+            "message_id": 2,
+            "user_id": "0009",
+            "speaker": "Human",
+            "message": "焼肉は久しぶりです。久々に友達に会えるのも楽しみです。"
+        },
+        {
+            "message_id": 3,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "久しぶりの再会と焼肉、素敵なひとときになりますね。"
+        },
+        {
+            "message_id": 4,
+            "user_id": "0009",
+            "speaker": "Human",
+            "message": "最近は歳を取ったせいか、脂の多いカルビよりもロースが好みです。"
+        },
+        {
+            "message_id": 5,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "ロースは確かにあっさりしていて美味しいですね。年齢と共に好みが変わるのも面白いものです。"
+        },
+        {
+            "message_id": 6,
+            "user_id": "0009",
+            "speaker": "Human",
+            "message": "さっと焼いて食べると柔らかくてうまいです。あとはハラミも好きですね。"
+        },
+        {
+            "message_id": 7,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "ハラミも美味しいですよね、噛むほどに味わいが広がります。"
+        },
+        {
+            "message_id": 8,
+            "user_id": "0009",
+            "speaker": "Human",
+            "message": "わりとヘルシーらしいです。ハラミは安くて美味しいですよね"
+        },
+        {
+            "message_id": 9,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "確かに、ハラミはリーズナブルで栄養価も高いと思います。"
+        },
+        {
+            "message_id": 10,
+            "user_id": "0009",
+            "speaker": "Human",
+            "message": "友達はホルモンが好きみたいですが。"
+        },
+        {
+            "message_id": 11,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "ホルモンも、焼肉の楽しみを広げる一品ですね。"
+        },
+        {
+            "message_id": 12,
+            "user_id": "0009",
+            "speaker": "Human",
+            "message": "たれの焦げた風味が何とも言えずうまいですよ"
+        },
+        {
+            "message_id": 13,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "そうですね、焦げたタレの風味も独特ですね。"
+        },
+        {
+            "message_id": 14,
+            "user_id": "0009",
+            "speaker": "Human",
+            "message": "ごちそうしてもらえるみたいで得しました"
+        },
+        {
+            "message_id": 15,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "それは本当に素晴らしいですね。楽しんでくださいませ。"
+        },
+        {
+            "message_id": 16,
+            "user_id": "0009",
+            "speaker": "Human",
+            "message": "ごちそうになったら、お返しは何が良いでしょうかね"
+        },
+        {
+            "message_id": 17,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "お返しには、ちょっとしたお菓子や飲み物が喜ばれるかもしれません。"
+        },
+        {
+            "message_id": 18,
+            "user_id": "0009",
+            "speaker": "Human",
+            "message": "彼はお酒が好きなんですよ"
+        },
+        {
+            "message_id": 19,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "それなら、特別なワインやビールが良いかもしれませんね。"
+        }
+    ]
+}

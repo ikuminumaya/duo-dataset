@@ -1,0 +1,162 @@
+{
+    "dialogue_id": 2001,
+    "setting": "ed",
+    "model": "gpt-4o",
+    "prompt": "neutral",
+    "emotion": "Excited",
+    "episode": "ボランティア活動しているのですが、毎日沢山のゴミと出会うのでわくわくする気持ちでいっぱいです。",
+    "objective_evaluation": {
+        "preference": 3.67,
+        "stylistic_similarity": 2.0,
+        "consistency": 3.67,
+        "empathy": 4.33,
+        "preference_scores": [
+            4.0,
+            3.0,
+            4.0
+        ],
+        "stylistic_similarity_scores": [
+            2.0,
+            1.0,
+            3.0
+        ],
+        "consistency_scores": [
+            4.0,
+            3.0,
+            4.0
+        ],
+        "empathy_scores": [
+            5.0,
+            4.0,
+            4.0
+        ]
+    },
+    "subjective_evaluation": {
+        "preference": 4.0,
+        "stylistic_similarity": 4.0,
+        "consistency": 4.0,
+        "empathy": 3.0
+    },
+    "dialogue": [
+        {
+            "message_id": 0,
+            "user_id": "0001",
+            "speaker": "Human",
+            "message": "一日一善を目標にボランティア活動を十数年程継続して行っています。"
+        },
+        {
+            "message_id": 1,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "それは本当に素晴らしいですね！続けることはすごいことです。"
+        },
+        {
+            "message_id": 2,
+            "user_id": "0001",
+            "speaker": "Human",
+            "message": "ありがとうございます。毎日いろんなゴミが落ちているのでワクワク感がありますね。ちなみにAIさんは、ゴミ拾いのボランティア活動をどうのように考えていますか？"
+        },
+        {
+            "message_id": 3,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "ゴミ拾いのボランティア活動は、環境を守る素晴らしい取り組みだと思います。あなたの努力が地域をきれいにしているんですね。"
+        },
+        {
+            "message_id": 4,
+            "user_id": "0001",
+            "speaker": "Human",
+            "message": "実際問題、地域が綺麗になっているかどうか？わからないのですが、SNSでは、日本人の民度は、高いので外国と比べてゴミが落ちていないと聞くのですがどうですか？"
+        },
+        {
+            "message_id": 5,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "確かに日本は比較的きれいと言われますが、どこでもゴミの問題はあります。あなたの活動がその美しさを支えているんですね。"
+        },
+        {
+            "message_id": 6,
+            "user_id": "0001",
+            "speaker": "Human",
+            "message": "ゴミの問題とは、どのような事でしょうか？詳しく説明をお願いします。"
+        },
+        {
+            "message_id": 7,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "ゴミの問題は、ポイ捨てや不法投棄などで環境が汚染されることです。これが生態系や景観に悪影響を与えます。"
+        },
+        {
+            "message_id": 8,
+            "user_id": "0001",
+            "speaker": "Human",
+            "message": "でも、行政が毎日清掃活動してくれているので、生態系や景観に悪影響及ぼさないですよね？"
+        },
+        {
+            "message_id": 9,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "行政の努力で改善されていますが、私たち一人ひとりの意識も大切ですね。あなたの活動がその一部です。"
+        },
+        {
+            "message_id": 10,
+            "user_id": "0001",
+            "speaker": "Human",
+            "message": "お、褒めてくださるのですね嬉しいですし、心わくわくしますね。実際問題、私達の諸先輩方が、毎朝ゴミ拾いをしている姿を見てかっこいいと思い初めたのですが、若い人にもやってほしいですね。と言えるほど、ゴミのポイ捨て酷いですね。日本人の民度は、高くないと言えます。"
+        },
+        {
+            "message_id": 11,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "あなたのような姿勢が、若い世代にも良い影響を与えると思います。継続が大切ですね。"
+        },
+        {
+            "message_id": 12,
+            "user_id": "0001",
+            "speaker": "Human",
+            "message": "ありがとうございます。ちなみにですが、ゴミ拾いの中で一番ワクワクすることなんだと思いますか？"
+        },
+        {
+            "message_id": 13,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "新たな発見や、地域がきれいになっていく過程を見ることかもしれませんね。"
+        },
+        {
+            "message_id": 14,
+            "user_id": "0001",
+            "speaker": "Human",
+            "message": "お、賢いですね。頭いいですね。毎日自分が通った所が綺麗になっていくのは、わくわくしますね。"
+        },
+        {
+            "message_id": 15,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "素敵ですね！その変化を見るのはやりがいがありますね。"
+        },
+        {
+            "message_id": 16,
+            "user_id": "0001",
+            "speaker": "Human",
+            "message": "でも、このわくわくも人様に言える程のことではないのが、ボランティア活動なんですよね。"
+        },
+        {
+            "message_id": 17,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "謙虚ですね。でも、あなたの活動は本当に価値がありますよ。"
+        },
+        {
+            "message_id": 18,
+            "user_id": "0001",
+            "speaker": "Human",
+            "message": "価値があるのですかね？回り回ってその価値が私に帰ってきたらさらにわくわく出来るのでしょうが、私に出来る事を日々やっていこうと思います。"
+        },
+        {
+            "message_id": 19,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "その姿勢が素晴らしいです！続けること自体が大きな価値です。"
+        }
+    ]
+}

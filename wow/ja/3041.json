@@ -1,0 +1,167 @@
+{
+    "dialogue_id": 3041,
+    "setting": "wow",
+    "model": "gpt-4o",
+    "prompt": "ent",
+    "topic": "野球",
+    "objective_evaluation": {
+        "preference": 4.0,
+        "stylistic_similarity": 3.33,
+        "consistency": 3.0,
+        "engagingness": 3.67,
+        "preference_scores": [
+            5.0,
+            4.0,
+            3.0
+        ],
+        "stylistic_similarity_scores": [
+            4.0,
+            3.0,
+            3.0
+        ],
+        "consistency_scores": [
+            4.0,
+            4.0,
+            1.0
+        ],
+        "engagingness_scores": [
+            4.0,
+            4.0,
+            3.0
+        ]
+    },
+    "subjective_evaluation": {
+        "preference": 3.0,
+        "stylistic_similarity": 4.0,
+        "consistency": 4.0,
+        "engagingness": 3.0
+    },
+    "dialogue": [
+        {
+            "message_id": 0,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "野球は、2チームが交互に打撃と守備を行い、得点を競うスポーツなんだよ。"
+        },
+        {
+            "message_id": 1,
+            "user_id": "0006",
+            "speaker": "Human",
+            "message": "チームは何人で構成されていますか"
+        },
+        {
+            "message_id": 2,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "野球は1チーム9人で構成されているんだ。"
+        },
+        {
+            "message_id": 3,
+            "user_id": "0006",
+            "speaker": "Human",
+            "message": "守備で大変なのはどこのポジションですか"
+        },
+        {
+            "message_id": 4,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "どのポジションも重要だけど、例えばピッチャーは投球の責任が大きいから大変と言われることが多いよ。"
+        },
+        {
+            "message_id": 5,
+            "user_id": "0006",
+            "speaker": "Human",
+            "message": "ピッチャーは大変そうですね。毎日出場するんですかね"
+        },
+        {
+            "message_id": 6,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "ピッチャーは体力的な負担が大きいから、毎日投げることはなく、通常はローテーションで数日おきに登板しますよ。"
+        },
+        {
+            "message_id": 7,
+            "user_id": "0006",
+            "speaker": "Human",
+            "message": "そうなんですね。キャッチャーは毎回出場ですか"
+        },
+        {
+            "message_id": 8,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "キャッチャーは他のポジションに比べて試合ごとに出場することが多いけど、連戦が続く場合には休養を取ることもあるよ。"
+        },
+        {
+            "message_id": 9,
+            "user_id": "0006",
+            "speaker": "Human",
+            "message": "やっぱり大変なんですね。打撃で一番強いのは誰ですか"
+        },
+        {
+            "message_id": 10,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "打撃で一番強い選手は時代によって異なるけど、例えばベーブ・ルースやバリー・ボンズなどは歴史的に有名な強打者として知られてるよ。"
+        },
+        {
+            "message_id": 11,
+            "user_id": "0006",
+            "speaker": "Human",
+            "message": "大谷選手が今は有名ですよね"
+        },
+        {
+            "message_id": 12,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "そうですね、大谷選手は投打の両方で活躍していて、特に最近は世界中で大変注目されていますよね。"
+        },
+        {
+            "message_id": 13,
+            "user_id": "0006",
+            "speaker": "Human",
+            "message": "ヤクルトの村上選手が好きですが、彼はどうでしょうか"
+        },
+        {
+            "message_id": 14,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "村上選手も非常に優れた打者で、特にホームランをたくさん打つことで注目されていますよね。"
+        },
+        {
+            "message_id": 15,
+            "user_id": "0006",
+            "speaker": "Human",
+            "message": "過去に一番ホームランを打った選手は誰ですか"
+        },
+        {
+            "message_id": 16,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "過去に一番ホームランを打った選手は、メジャーリーグではバリー・ボンズで、通算762本のホームランを記録しています。"
+        },
+        {
+            "message_id": 17,
+            "user_id": "0006",
+            "speaker": "Human",
+            "message": "王貞治選手は？"
+        },
+        {
+            "message_id": 18,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "王貞治選手は、日本プロ野球で通算868本のホームランを記録していて、これは世界記録としても有名なんだ。"
+        },
+        {
+            "message_id": 19,
+            "user_id": "0006",
+            "speaker": "Human",
+            "message": "大谷選手はそれを超えることができますかね"
+        },
+        {
+            "message_id": 20,
+            "system_id": "0004",
+            "speaker": "Bot",
+            "message": "大谷選手が王貞治選手のホームラン記録を超えるのは大変な挑戦だけど、彼の才能と努力次第では可能性はあると思います！"
+        }
+    ]
+}

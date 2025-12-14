@@ -1,0 +1,136 @@
+{
+    "dialogue_id": 2061,
+    "setting": "ed",
+    "model": "gpt-4o",
+    "prompt": "ent",
+    "emotion": "Surprised",
+    "episode": "最近トランプ政治に少し驚いてます。",
+    "subjective_evaluation": {
+        "preference": 4.0,
+        "stylistic_similarity": 4.0,
+        "consistency": 2.0,
+        "empathy": 4.0
+    },
+    "dialogue": [
+        {
+            "message_id": 0,
+            "user_id": "0049",
+            "speaker": "Human",
+            "message": "最近アメリカのトランプ政治に少し驚いてます。\n"
+        },
+        {
+            "message_id": 1,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "どんなところに驚いてるの？"
+        },
+        {
+            "message_id": 2,
+            "user_id": "0049",
+            "speaker": "Human",
+            "message": "少し強引なところです"
+        },
+        {
+            "message_id": 3,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "確かに、彼のやり方は強引に感じることがあるよね。"
+        },
+        {
+            "message_id": 4,
+            "user_id": "0049",
+            "speaker": "Human",
+            "message": "政治をビジネスと勘違いしているところがあると思います"
+        },
+        {
+            "message_id": 5,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "確かに、ビジネス的なアプローチが政治に影響を与えている感じがするね。"
+        },
+        {
+            "message_id": 6,
+            "user_id": "0049",
+            "speaker": "Human",
+            "message": "最初は革新的で少しは期待できましたけどね"
+        },
+        {
+            "message_id": 7,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "最初は新しい風が吹くかと思ったけど、ちょっと違ったね。"
+        },
+        {
+            "message_id": 8,
+            "user_id": "0049",
+            "speaker": "Human",
+            "message": "はい、日本にも影響が出そうで怖いです"
+        },
+        {
+            "message_id": 9,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "そうだね、日本にもいろいろ影響が出てきそうで心配だね。"
+        },
+        {
+            "message_id": 10,
+            "user_id": "0049",
+            "speaker": "Human",
+            "message": "特に関税がかかると、色々とやりづらくなります。"
+        },
+        {
+            "message_id": 11,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "関税がかかると、ビジネスに影響出るよね。やりづらくなるのは困るね。"
+        },
+        {
+            "message_id": 12,
+            "user_id": "0049",
+            "speaker": "Human",
+            "message": "はい、生活に影響が出なければいいですが"
+        },
+        {
+            "message_id": 13,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "本当にそうですね。影響が少ないといいですね。"
+        },
+        {
+            "message_id": 14,
+            "user_id": "0049",
+            "speaker": "Human",
+            "message": "経過を見守るしかなさそうです"
+        },
+        {
+            "message_id": 15,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "そうですね、しばらく様子を見守るしかないですね。"
+        },
+        {
+            "message_id": 16,
+            "user_id": "0049",
+            "speaker": "Human",
+            "message": "はい、アメリカ国民からも不満出ていますからね"
+        },
+        {
+            "message_id": 17,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "そうだね、不満が高まってるのは現地でも問題だね。"
+        },
+        {
+            "message_id": 18,
+            "user_id": "0049",
+            "speaker": "Human",
+            "message": "特に小売店とか卸売店とか"
+        },
+        {
+            "message_id": 19,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "小売店や卸売店が特に影響を受けてるみたいだね。大変だよね。"
+        }
+    ]
+}

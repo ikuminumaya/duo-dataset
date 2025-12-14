@@ -1,0 +1,162 @@
+{
+    "dialogue_id": 2058,
+    "setting": "ed",
+    "model": "gpt-4o",
+    "prompt": "nonent",
+    "emotion": "Nostalgic",
+    "episode": "YouTubeで音楽を聴いていたら、X（XJAPAN）の曲に出合い、とても懐かしかった。",
+    "objective_evaluation": {
+        "preference": 4.67,
+        "stylistic_similarity": 5.0,
+        "consistency": 4.33,
+        "empathy": 4.33,
+        "preference_scores": [
+            4.0,
+            5.0,
+            5.0
+        ],
+        "stylistic_similarity_scores": [
+            5.0,
+            5.0,
+            5.0
+        ],
+        "consistency_scores": [
+            4.0,
+            4.0,
+            5.0
+        ],
+        "empathy_scores": [
+            4.0,
+            5.0,
+            4.0
+        ]
+    },
+    "subjective_evaluation": {
+        "preference": 3.0,
+        "stylistic_similarity": 3.0,
+        "consistency": 4.0,
+        "empathy": 3.0
+    },
+    "dialogue": [
+        {
+            "message_id": 0,
+            "user_id": "0014",
+            "speaker": "Human",
+            "message": "YouTubeで音楽を聴いていたら、X（XJAPAN）の曲に出合い、とても懐かしかった。"
+        },
+        {
+            "message_id": 1,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "それは素晴らしいですね。どの曲が特に懐かしかったのでしょうか？"
+        },
+        {
+            "message_id": 2,
+            "user_id": "0014",
+            "speaker": "Human",
+            "message": "紅やWEEKENDが懐かしかったですね。"
+        },
+        {
+            "message_id": 3,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "それは良いですね。どちらもエネルギーに満ちた名曲ですよね。"
+        },
+        {
+            "message_id": 4,
+            "user_id": "0014",
+            "speaker": "Human",
+            "message": "そうですね、自分はtaijiがいたころのXが好きですね。"
+        },
+        {
+            "message_id": 5,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "Taijiのベースは本当に印象的ですよね。彼の演奏があった頃のXは特に特別でした。"
+        },
+        {
+            "message_id": 6,
+            "user_id": "0014",
+            "speaker": "Human",
+            "message": "taijiのベースといえばタッピングソロも素晴らしかったですね。"
+        },
+        {
+            "message_id": 7,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "Taijiのタッピングソロは確かにすごかったですね。彼の技術は本当に感動的でした。"
+        },
+        {
+            "message_id": 8,
+            "user_id": "0014",
+            "speaker": "Human",
+            "message": "hideとPataのツインギターとtaijiのベースの組み合わせは本当に良かったです。"
+        },
+        {
+            "message_id": 9,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "本当にあの組み合わせは最高でしたね。彼らの演奏は今でも心に響きます。"
+        },
+        {
+            "message_id": 10,
+            "user_id": "0014",
+            "speaker": "Human",
+            "message": "また、toshiの歌唱力も素晴らしかったです。"
+        },
+        {
+            "message_id": 11,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "Toshiの歌声、本当に力強いですよね。素晴らしい才能です。"
+        },
+        {
+            "message_id": 12,
+            "user_id": "0014",
+            "speaker": "Human",
+            "message": "yoshikiの作曲にtaijiのアレンジがあって、X時代の曲は素晴らしいです。"
+        },
+        {
+            "message_id": 13,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "そうですね、X時代の音楽は他にない独自の魅力がありますね。"
+        },
+        {
+            "message_id": 14,
+            "user_id": "0014",
+            "speaker": "Human",
+            "message": "XJAPANの新曲を聴きたいと思いますが、現状では無理そうですね。"
+        },
+        {
+            "message_id": 15,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "新曲を待つのは辛いですね。いつの日かまた新しい音楽を届けてくれることを願っています。"
+        },
+        {
+            "message_id": 16,
+            "user_id": "0014",
+            "speaker": "Human",
+            "message": "XJAPANの新曲は無理なので、最近ではtoshiのIM A SINGERを聴いています。"
+        },
+        {
+            "message_id": 17,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "Toshiのソロも素晴らしいですよね。新たな魅力を感じます。"
+        },
+        {
+            "message_id": 18,
+            "user_id": "0014",
+            "speaker": "Human",
+            "message": "toshiが歌う赤いスイートピーも味のある曲に仕上がっています。"
+        },
+        {
+            "message_id": 19,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "Toshiのカバー、素敵ですね。彼ならではの魅力があります。"
+        }
+    ]
+}

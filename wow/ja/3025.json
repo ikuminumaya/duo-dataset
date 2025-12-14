@@ -1,0 +1,167 @@
+{
+    "dialogue_id": 3025,
+    "setting": "wow",
+    "model": "gpt-4o",
+    "prompt": "neutral",
+    "topic": "Minecraft",
+    "objective_evaluation": {
+        "preference": 3.0,
+        "stylistic_similarity": 2.0,
+        "consistency": 3.67,
+        "engagingness": 3.0,
+        "preference_scores": [
+            3.0,
+            3.0,
+            3.0
+        ],
+        "stylistic_similarity_scores": [
+            2.0,
+            1.0,
+            3.0
+        ],
+        "consistency_scores": [
+            2.0,
+            5.0,
+            4.0
+        ],
+        "engagingness_scores": [
+            2.0,
+            4.0,
+            3.0
+        ]
+    },
+    "subjective_evaluation": {
+        "preference": 1.0,
+        "stylistic_similarity": 2.0,
+        "consistency": 1.0,
+        "engagingness": 1.0
+    },
+    "dialogue": [
+        {
+            "message_id": 0,
+            "system_id": "0003",
+            "speaker": "Bot",
+            "message": "「Minecraft」は、創造性を高めるサンドボックスゲームで、探索やクラフト、建築が楽しめる多彩なモードが用意されています。"
+        },
+        {
+            "message_id": 1,
+            "user_id": "0048",
+            "speaker": "Human",
+            "message": "サンドボックスゲームとは"
+        },
+        {
+            "message_id": 2,
+            "system_id": "0003",
+            "speaker": "Bot",
+            "message": "サンドボックスゲームとは、プレイヤーが自由に探索し、創造的に建築やクラフトを行えるゲームのことです。"
+        },
+        {
+            "message_id": 3,
+            "user_id": "0048",
+            "speaker": "Human",
+            "message": "どこを探索するのか"
+        },
+        {
+            "message_id": 4,
+            "system_id": "0003",
+            "speaker": "Bot",
+            "message": "「Minecraft」では、手続き的に生成された3Dの世界を自由に探索できます。"
+        },
+        {
+            "message_id": 5,
+            "user_id": "0048",
+            "speaker": "Human",
+            "message": "世界の創造主は何者か？"
+        },
+        {
+            "message_id": 6,
+            "system_id": "0003",
+            "speaker": "Bot",
+            "message": "「Minecraft」の世界は、スウェーデンのゲームデザイナー、マーカス「ノッチ」ペルソンによって創造されました。"
+        },
+        {
+            "message_id": 7,
+            "user_id": "0048",
+            "speaker": "Human",
+            "message": "マーカス「ノッチ」ペルソンの詳細"
+        },
+        {
+            "message_id": 8,
+            "system_id": "0003",
+            "speaker": "Bot",
+            "message": "マーカス「ノッチ」ペルソンは、「Minecraft」を作成したスウェーデンのゲームデザイナーです。"
+        },
+        {
+            "message_id": 9,
+            "user_id": "0048",
+            "speaker": "Human",
+            "message": "マーカス「ノッチ」ペルソンの略歴"
+        },
+        {
+            "message_id": 10,
+            "system_id": "0003",
+            "speaker": "Bot",
+            "message": "マーカス「ノッチ」ペルソンは、スウェーデンのゲームデザイナーで、「Minecraft」を作成・設計した人物です。"
+        },
+        {
+            "message_id": 11,
+            "user_id": "0048",
+            "speaker": "Human",
+            "message": "マーカス「ノッチ」ペルソンの人生遍歴"
+        },
+        {
+            "message_id": 12,
+            "system_id": "0003",
+            "speaker": "Bot",
+            "message": "マーカス「ノッチ」ペルソンは、「Minecraft」を作成し、その後Mojangで開発を続けたスウェーデンのゲームデザイナーです。"
+        },
+        {
+            "message_id": 13,
+            "user_id": "0048",
+            "speaker": "Human",
+            "message": "会社は？"
+        },
+        {
+            "message_id": 14,
+            "system_id": "0003",
+            "speaker": "Bot",
+            "message": "マーカス「ノッチ」ペルソンが設立したMojangは、「Minecraft」を開発および公開した会社です。"
+        },
+        {
+            "message_id": 15,
+            "user_id": "0048",
+            "speaker": "Human",
+            "message": "会社の拠点はどこ"
+        },
+        {
+            "message_id": 16,
+            "system_id": "0003",
+            "speaker": "Bot",
+            "message": "Mojangの拠点はスウェーデンにあります。"
+        },
+        {
+            "message_id": 17,
+            "user_id": "0048",
+            "speaker": "Human",
+            "message": "スウェーデンのどこか"
+        },
+        {
+            "message_id": 18,
+            "system_id": "0003",
+            "speaker": "Bot",
+            "message": "Mojangの本社はスウェーデンのストックホルムにあります。"
+        },
+        {
+            "message_id": 19,
+            "user_id": "0048",
+            "speaker": "Human",
+            "message": "なぜその場所を選んだのか"
+        },
+        {
+            "message_id": 20,
+            "system_id": "0003",
+            "speaker": "Bot",
+            "message": "Mojangがストックホルムに拠点を置いた理由は具体的には明示されていませんが、ストックホルムは多くの技術企業が集まる場所であることが影響した可能性があります。"
+        }
+    ]
+}

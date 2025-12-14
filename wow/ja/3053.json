@@ -1,0 +1,167 @@
+{
+    "dialogue_id": 3053,
+    "setting": "wow",
+    "model": "gpt-4o",
+    "prompt": "nonent",
+    "topic": "イチゴ",
+    "objective_evaluation": {
+        "preference": 4.33,
+        "stylistic_similarity": 4.67,
+        "consistency": 4.67,
+        "engagingness": 4.33,
+        "preference_scores": [
+            5.0,
+            4.0,
+            4.0
+        ],
+        "stylistic_similarity_scores": [
+            5.0,
+            5.0,
+            4.0
+        ],
+        "consistency_scores": [
+            5.0,
+            5.0,
+            4.0
+        ],
+        "engagingness_scores": [
+            5.0,
+            4.0,
+            4.0
+        ]
+    },
+    "subjective_evaluation": {
+        "preference": 5.0,
+        "stylistic_similarity": 5.0,
+        "consistency": 5.0,
+        "engagingness": 4.0
+    },
+    "dialogue": [
+        {
+            "message_id": 0,
+            "system_id": "0005",
+            "speaker": "Bot",
+            "message": "イチゴは、特有の香りと鮮やかな赤色で人気を集めており、実はベリーではなく集合果と呼ばれる果実です。"
+        },
+        {
+            "message_id": 1,
+            "user_id": "0010",
+            "speaker": "Human",
+            "message": "イチゴ美味しいですよね。見た目も可愛いので大好きです。"
+        },
+        {
+            "message_id": 2,
+            "system_id": "0005",
+            "speaker": "Bot",
+            "message": "イチゴは、その甘さと鮮やかな色合いで多くの人々に愛され、さまざまな形で楽しまれているのですよ。"
+        },
+        {
+            "message_id": 3,
+            "user_id": "0010",
+            "speaker": "Human",
+            "message": "そうなんですね！どんな形のものがあるのですか？"
+        },
+        {
+            "message_id": 4,
+            "system_id": "0005",
+            "speaker": "Bot",
+            "message": "イチゴは新鮮なまま楽しむだけでなく、ジャムやジュース、アイスクリームなどでもその風味が生かされているのです。"
+        },
+        {
+            "message_id": 5,
+            "user_id": "0010",
+            "speaker": "Human",
+            "message": "加工品も美味しいですよね。ところで現時点で日本では何種類のイチゴがありますか？"
+        },
+        {
+            "message_id": 6,
+            "system_id": "0005",
+            "speaker": "Bot",
+            "message": "日本では、「あまおう」や「とちおとめ」など、さまざまな品種が栽培されており、地域ごとに異なる特徴のあるイチゴが楽しめますよ。"
+        },
+        {
+            "message_id": 7,
+            "user_id": "0010",
+            "speaker": "Human",
+            "message": "一番人気の品種はどちらのものですか？"
+        },
+        {
+            "message_id": 8,
+            "system_id": "0005",
+            "speaker": "Bot",
+            "message": "日本では「あまおう」や「とちおとめ」が特に人気を集めていますよ。"
+        },
+        {
+            "message_id": 9,
+            "user_id": "0010",
+            "speaker": "Human",
+            "message": "一番糖度の高いイチゴと、甘みと酸味のバランスが良い品種を教えてくださいますか？"
+        },
+        {
+            "message_id": 10,
+            "system_id": "0005",
+            "speaker": "Bot",
+            "message": "「あまおう」は糖度が高く、甘みと酸味のバランスが良い品種として「とちおとめ」が人気を集めております。"
+        },
+        {
+            "message_id": 11,
+            "user_id": "0010",
+            "speaker": "Human",
+            "message": "あまり有名ではないけれど、評判の良いイチゴをお勧めしてくださいますか？"
+        },
+        {
+            "message_id": 12,
+            "system_id": "0005",
+            "speaker": "Bot",
+            "message": "確かに有名ではないですが、「紅ほっぺ」という品種も美味しさで評判が良いですね。"
+        },
+        {
+            "message_id": 13,
+            "user_id": "0010",
+            "speaker": "Human",
+            "message": "紅ほっぺはどこで栽培されている品種ですか？"
+        },
+        {
+            "message_id": 14,
+            "system_id": "0005",
+            "speaker": "Bot",
+            "message": "「紅ほっぺ」は主に静岡県などで栽培され、甘みと酸味のバランスが良いことで評判です。"
+        },
+        {
+            "message_id": 15,
+            "user_id": "0010",
+            "speaker": "Human",
+            "message": "そうなんですか、静岡ですと私の住まいの地域ではなかなか店頭には並ばないかもしれません。でもいつか味わってみたいです。"
+        },
+        {
+            "message_id": 16,
+            "system_id": "0005",
+            "speaker": "Bot",
+            "message": "静岡以外でも、「紅ほっぺ」は評判が高く、他の地域でも栽培されることが増えてきていますので、いつか見つけられるかもしれませんね。"
+        },
+        {
+            "message_id": 17,
+            "user_id": "0010",
+            "speaker": "Human",
+            "message": "そうだと嬉しいですね！いつか色々な品種を食べ比べしてみたいです。"
+        },
+        {
+            "message_id": 18,
+            "system_id": "0005",
+            "speaker": "Bot",
+            "message": "「紅ほっぺ」などのイチゴは、人工的な香料や香りでも人気があり、さまざまな製品に使用されていますので、ぜひ味わってみてください。"
+        },
+        {
+            "message_id": 19,
+            "user_id": "0010",
+            "speaker": "Human",
+            "message": "ソフトクリームやジェラートなどで味わってみたいです！"
+        },
+        {
+            "message_id": 20,
+            "system_id": "0005",
+            "speaker": "Bot",
+            "message": "それは素晴らしい考えですね！イチゴの風味は、ソフトクリームやジェラートでもきっと一層引き立ちますよ。"
+        }
+    ]
+}

@@ -1,0 +1,162 @@
+{
+    "dialogue_id": 2023,
+    "setting": "ed",
+    "model": "gpt-4o",
+    "prompt": "ent",
+    "emotion": "Nostalgic",
+    "episode": "久しぶりに高校時代の友人と再会した。",
+    "objective_evaluation": {
+        "preference": 3.67,
+        "stylistic_similarity": 4.33,
+        "consistency": 4.33,
+        "empathy": 3.67,
+        "preference_scores": [
+            5.0,
+            4.0,
+            2.0
+        ],
+        "stylistic_similarity_scores": [
+            5.0,
+            5.0,
+            3.0
+        ],
+        "consistency_scores": [
+            5.0,
+            5.0,
+            3.0
+        ],
+        "empathy_scores": [
+            5.0,
+            4.0,
+            2.0
+        ]
+    },
+    "subjective_evaluation": {
+        "preference": 4.0,
+        "stylistic_similarity": 2.0,
+        "consistency": 4.0,
+        "empathy": 4.0
+    },
+    "dialogue": [
+        {
+            "message_id": 0,
+            "user_id": "0023",
+            "speaker": "Human",
+            "message": "久しぶりに高校時代の友人と再会した。"
+        },
+        {
+            "message_id": 1,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "それはいいね！どんな話したの？"
+        },
+        {
+            "message_id": 2,
+            "user_id": "0023",
+            "speaker": "Human",
+            "message": "自分自身のことや仕事の話だよ。"
+        },
+        {
+            "message_id": 3,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "懐かしいね！盛り上がったんじゃない？"
+        },
+        {
+            "message_id": 4,
+            "user_id": "0023",
+            "speaker": "Human",
+            "message": "そりゃもう。今度食事に行く約束もした。"
+        },
+        {
+            "message_id": 5,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "いいな！また楽しい時間が過ごせるといいね。"
+        },
+        {
+            "message_id": 6,
+            "user_id": "0023",
+            "speaker": "Human",
+            "message": "友人がラーメン好きみたいだから連れて行ってくれる予定！"
+        },
+        {
+            "message_id": 7,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "ラーメン好きなら、きっと盛り上がるね！楽しんできてね。"
+        },
+        {
+            "message_id": 8,
+            "user_id": "0023",
+            "speaker": "Human",
+            "message": "ありがとう。ただ、体調があんまり良くないんだって。"
+        },
+        {
+            "message_id": 9,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "それは心配だね。無理しないように伝えてあげてね。"
+        },
+        {
+            "message_id": 10,
+            "user_id": "0023",
+            "speaker": "Human",
+            "message": "うん、お互い年齢を重ねたから仕方ないけど。"
+        },
+        {
+            "message_id": 11,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "そうだね。でも、楽しい時間で気持ちも元気になるといいね。"
+        },
+        {
+            "message_id": 12,
+            "user_id": "0023",
+            "speaker": "Human",
+            "message": "そうそう、せめて会って喋っている間は嫌な事は忘れないと。"
+        },
+        {
+            "message_id": 13,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "そうだね、楽しい時間を大事にしよう！"
+        },
+        {
+            "message_id": 14,
+            "user_id": "0023",
+            "speaker": "Human",
+            "message": "同窓会とかも有れば他のみんなにも会えるのにな。"
+        },
+        {
+            "message_id": 15,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "同窓会があったら、もっとみんなで集まれるのにな。"
+        },
+        {
+            "message_id": 16,
+            "user_id": "0023",
+            "speaker": "Human",
+            "message": "他のみんなも元気かな。当時と容姿も変わってるんだろうなぁ。"
+        },
+        {
+            "message_id": 17,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "そうだよね、みんなの今を知るのも楽しみだよね。"
+        },
+        {
+            "message_id": 18,
+            "user_id": "0023",
+            "speaker": "Human",
+            "message": "そうそう、お互い愚痴を言ったりしてね。"
+        },
+        {
+            "message_id": 19,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "愚痴もいいストレス発散になるよね。いっぱい話せるといいね。"
+        }
+    ]
+}

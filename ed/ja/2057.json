@@ -1,0 +1,162 @@
+{
+    "dialogue_id": 2057,
+    "setting": "ed",
+    "model": "gpt-4o",
+    "prompt": "nonent",
+    "emotion": "Impressed",
+    "episode": "大阪・関西万博のオープニングで披露された百万人の第九の合唱に感動しました。大勢の人が声と心を合わせた合唱には本当に心が震えました。",
+    "objective_evaluation": {
+        "preference": 3.0,
+        "stylistic_similarity": 3.0,
+        "consistency": 3.33,
+        "empathy": 3.33,
+        "preference_scores": [
+            4.0,
+            3.0,
+            2.0
+        ],
+        "stylistic_similarity_scores": [
+            4.0,
+            3.0,
+            2.0
+        ],
+        "consistency_scores": [
+            4.0,
+            3.0,
+            3.0
+        ],
+        "empathy_scores": [
+            4.0,
+            3.0,
+            3.0
+        ]
+    },
+    "subjective_evaluation": {
+        "preference": 3.0,
+        "stylistic_similarity": 2.0,
+        "consistency": 5.0,
+        "empathy": 3.0
+    },
+    "dialogue": [
+        {
+            "message_id": 0,
+            "user_id": "0016",
+            "speaker": "Human",
+            "message": "大阪・関西万博のオープニングで披露された百万人の第九の合唱には、本当に感動した。"
+        },
+        {
+            "message_id": 1,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "それは素晴らしい経験だったに違いありませんね。百万人の声が一つになる瞬間は特別です。"
+        },
+        {
+            "message_id": 2,
+            "user_id": "0016",
+            "speaker": "Human",
+            "message": "本当に特別な感じがして、その場にいたかった。"
+        },
+        {
+            "message_id": 3,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "その感動的な瞬間、現地で味わえたらどれほど良かったことでしょう。"
+        },
+        {
+            "message_id": 4,
+            "user_id": "0016",
+            "speaker": "Human",
+            "message": "本当に現地で味わいたかったけれど、残念ながら無理だったんだ。"
+        },
+        {
+            "message_id": 5,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "それは残念ですね。でも、テレビやオンラインでその感動を共有できたのは素敵なことですね。"
+        },
+        {
+            "message_id": 6,
+            "user_id": "0016",
+            "speaker": "Human",
+            "message": "そう。オンラインでも十分に感動的だったから、現地にいたらもっと感動的だったろうね。"
+        },
+        {
+            "message_id": 7,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "確かに、それ以上の感動があったはずだね。でも、オンラインでもその感動を感じられてよかったね。"
+        },
+        {
+            "message_id": 8,
+            "user_id": "0016",
+            "speaker": "Human",
+            "message": "本当にそう思うよ。"
+        },
+        {
+            "message_id": 9,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "その気持ち、強く共感できます。"
+        },
+        {
+            "message_id": 10,
+            "user_id": "0016",
+            "speaker": "Human",
+            "message": "合唱もオーケストラも独唱も良かったし、カメラワークも良かったな。"
+        },
+        {
+            "message_id": 11,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "おお、それは素晴らしいね。カメラワークまで良かったなんて、完璧だね。"
+        },
+        {
+            "message_id": 12,
+            "user_id": "0016",
+            "speaker": "Human",
+            "message": "ただ、当日の天候が悪かったんだよね。"
+        },
+        {
+            "message_id": 13,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "それは残念でしたが、演奏の質がそれを補ったのですね。"
+        },
+        {
+            "message_id": 14,
+            "user_id": "0016",
+            "speaker": "Human",
+            "message": "確かに。天候が良かったらもっと最高だったろうな。"
+        },
+        {
+            "message_id": 15,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "そうですね、天候が良ければ、さらに素晴らしい体験になったでしょうね。"
+        },
+        {
+            "message_id": 16,
+            "user_id": "0016",
+            "speaker": "Human",
+            "message": "大屋根リングの上での合唱で、屋外だったから天気が良くなかったのが唯一の心残りかな。"
+        },
+        {
+            "message_id": 17,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "そうですね、天候に恵まれなかったのは残念です。"
+        },
+        {
+            "message_id": 18,
+            "user_id": "0016",
+            "speaker": "Human",
+            "message": "それでもやっぱり、皆さんの演奏や合唱は素晴らしかったことに変わりはないよ。"
+        },
+        {
+            "message_id": 19,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "確かに、それが一番大切なことですね。演奏の力は偉大です。"
+        }
+    ]
+}

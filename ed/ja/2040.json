@@ -1,0 +1,162 @@
+{
+    "dialogue_id": 2040,
+    "setting": "ed",
+    "model": "gpt-4o",
+    "prompt": "nonent",
+    "emotion": "Disappointed",
+    "episode": "ニンテンドースイッチ2の抽選販売に外れてがっかりしました。",
+    "objective_evaluation": {
+        "preference": 3.67,
+        "stylistic_similarity": 3.33,
+        "consistency": 3.67,
+        "empathy": 3.67,
+        "preference_scores": [
+            4.0,
+            3.0,
+            4.0
+        ],
+        "stylistic_similarity_scores": [
+            4.0,
+            3.0,
+            3.0
+        ],
+        "consistency_scores": [
+            4.0,
+            3.0,
+            4.0
+        ],
+        "empathy_scores": [
+            4.0,
+            3.0,
+            4.0
+        ]
+    },
+    "subjective_evaluation": {
+        "preference": 4.0,
+        "stylistic_similarity": 4.0,
+        "consistency": 4.0,
+        "empathy": 3.0
+    },
+    "dialogue": [
+        {
+            "message_id": 0,
+            "user_id": "0017",
+            "speaker": "Human",
+            "message": "ニンテンドースイッチ2の抽選販売に外れてガッカリしました。"
+        },
+        {
+            "message_id": 1,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "それは残念ですね。次回は当たることを祈っています。"
+        },
+        {
+            "message_id": 2,
+            "user_id": "0017",
+            "speaker": "Human",
+            "message": "当選確率が5％前後らしいので、外れる確率がかなり高いので仕方ないですが。"
+        },
+        {
+            "message_id": 3,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "確かに競争率が高いですね。でも次回こそは当たるといいですね。"
+        },
+        {
+            "message_id": 4,
+            "user_id": "0017",
+            "speaker": "Human",
+            "message": "抽選販売の元凶の転売ヤーがいなければこの様な販売方式にはなっていないはずなんですけどね。"
+        },
+        {
+            "message_id": 5,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "転売の問題は確かに悩ましいですね。正規の購入がもっとスムーズにできるようになるといいですね。"
+        },
+        {
+            "message_id": 6,
+            "user_id": "0017",
+            "speaker": "Human",
+            "message": "ある程度生産してから販売とかすれば競争率が下がるんですけどね。"
+        },
+        {
+            "message_id": 7,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "確かに、もっと計画的に生産と販売が行われればいいですね。"
+        },
+        {
+            "message_id": 8,
+            "user_id": "0017",
+            "speaker": "Human",
+            "message": "発売元としても何か都合があって出来ないのでしょうね。"
+        },
+        {
+            "message_id": 9,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "そうですね、企業には複雑な事情がありますよね。きっと改善を考えているはずです。"
+        },
+        {
+            "message_id": 10,
+            "user_id": "0017",
+            "speaker": "Human",
+            "message": "一部の販売店ではフリマサイトに出品した人を特定して、アカウントを強制退会させるとか"
+        },
+        {
+            "message_id": 11,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "それは良い取り組みですね。転売の抑止に効果があると良いですね。"
+        },
+        {
+            "message_id": 12,
+            "user_id": "0017",
+            "speaker": "Human",
+            "message": "でも、欲しい人は幾ら出しても欲しいみたいで、転売がなくならないですね。"
+        },
+        {
+            "message_id": 13,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "本当にそうだね。でも、需要と供給のバランスがいつか良くなるといいね。"
+        },
+        {
+            "message_id": 14,
+            "user_id": "0017",
+            "speaker": "Human",
+            "message": "フリマサイトがいっそのこと転売禁止にしてくれればいいんですけど、そうするとフリマサイトの利益が減るので、やってくれないんですよね。"
+        },
+        {
+            "message_id": 15,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "確かに、利益の問題は大きいですね。しかし、消費者の声が集まれば変化も期待できるかもしれません。"
+        },
+        {
+            "message_id": 16,
+            "user_id": "0017",
+            "speaker": "Human",
+            "message": "利益重視の企業はいずれ不満が溜まって廃れていくのでしょうね。"
+        },
+        {
+            "message_id": 17,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "その可能性もありますね。持続可能な方法を見つけることが重要です。"
+        },
+        {
+            "message_id": 18,
+            "user_id": "0017",
+            "speaker": "Human",
+            "message": "主に子供が遊ぶゲーム機に醜い大人達の転売行為がなくなって欲しいものです。"
+        },
+        {
+            "message_id": 19,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "本当にそうですね。子供たちが楽しめる環境が大事です。"
+        }
+    ]
+}

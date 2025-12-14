@@ -1,0 +1,162 @@
+{
+    "dialogue_id": 2024,
+    "setting": "ed",
+    "model": "gpt-4o",
+    "prompt": "ent",
+    "emotion": "Ashamed",
+    "episode": "自分が年を生きる、エンジニアとして新しい知識が身につかない。若い人に敵わないのが恥ずかしい。",
+    "objective_evaluation": {
+        "preference": 5.0,
+        "stylistic_similarity": 4.33,
+        "consistency": 4.67,
+        "empathy": 4.67,
+        "preference_scores": [
+            5.0,
+            5.0,
+            5.0
+        ],
+        "stylistic_similarity_scores": [
+            4.0,
+            5.0,
+            4.0
+        ],
+        "consistency_scores": [
+            4.0,
+            5.0,
+            5.0
+        ],
+        "empathy_scores": [
+            5.0,
+            5.0,
+            4.0
+        ]
+    },
+    "subjective_evaluation": {
+        "preference": 3.0,
+        "stylistic_similarity": 2.0,
+        "consistency": 4.0,
+        "empathy": 4.0
+    },
+    "dialogue": [
+        {
+            "message_id": 0,
+            "user_id": "0024",
+            "speaker": "Human",
+            "message": "長らくシステムエンジニアとして働いているが、最近若い人の方が鋭く、情けなく恥ずかしい気持ちです。"
+        },
+        {
+            "message_id": 1,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "そう感じることもあるよね。でも、経験があるからこそできることもたくさんあると思うよ。"
+        },
+        {
+            "message_id": 2,
+            "user_id": "0024",
+            "speaker": "Human",
+            "message": "自分が得意な言語もありますが、今は仕事で使われなくなってしまい、肩身が狭いんです。"
+        },
+        {
+            "message_id": 3,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "それは辛いね。でも、その得意な言語を活かして、新しい視点やアプローチを考えることだってできるんじゃない？"
+        },
+        {
+            "message_id": 4,
+            "user_id": "0024",
+            "speaker": "Human",
+            "message": "これまでの顧客の業務知識はあるので、それを活かしたいんですが、なかなかポシションもなくて。"
+        },
+        {
+            "message_id": 5,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "うん、それは難しいよね。でも、業務知識は大きな強みだから、きっと活かせる場が見つかると思うよ。諦めないでね。"
+        },
+        {
+            "message_id": 6,
+            "user_id": "0024",
+            "speaker": "Human",
+            "message": "ありがとう。素直な気持ちで恥ずかしがらずに若い人の言うことを聞いてみたいと思います。"
+        },
+        {
+            "message_id": 7,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "それはいい考えだね。きっと新しい発見があると思うよ。"
+        },
+        {
+            "message_id": 8,
+            "user_id": "0024",
+            "speaker": "Human",
+            "message": "あなたは若い人に敵わないと思った時はどうしてますか？"
+        },
+        {
+            "message_id": 9,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "僕もそう感じるときあるよ。そんなときは、素直に教えてもらったり、一緒に考えたりして、成長できる機会だと思ってるよ。"
+        },
+        {
+            "message_id": 10,
+            "user_id": "0024",
+            "speaker": "Human",
+            "message": "やっぱり素直さが大事ですよね。もう出世欲もないし、恥ずかしいとか言ってる場合ではないね。"
+        },
+        {
+            "message_id": 11,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "そうだね、素直さは強みだよね。新しいことにオープンでいると、きっと良い変化があるよ。"
+        },
+        {
+            "message_id": 12,
+            "user_id": "0024",
+            "speaker": "Human",
+            "message": "ありがとう。恥を忍んでって言葉があるけど、菊は一瞬の恥、聞かぬは一生の恥っていう言葉が身に染みています。"
+        },
+        {
+            "message_id": 13,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "そうだね、その言葉通りだと思うよ。どんどん聞いて、新しいことを吸収できるといいね。"
+        },
+        {
+            "message_id": 14,
+            "user_id": "0024",
+            "speaker": "Human",
+            "message": "今からでも吸収できるかな？長年やっているオンライン英会話も、上達が停滞気味で、同じことを講師に指摘されると恥ずかしいと思うこともあります。"
+        },
+        {
+            "message_id": 15,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "もちろん、今からでも吸収できるよ。停滞を感じる時こそ、次のステップに進む時かもしれないね。"
+        },
+        {
+            "message_id": 16,
+            "user_id": "0024",
+            "speaker": "Human",
+            "message": "真面目にコツコツが大切かな。頑張ってみます。"
+        },
+        {
+            "message_id": 17,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "うん、真面目にコツコツが大切だね。応援してるよ！"
+        },
+        {
+            "message_id": 18,
+            "user_id": "0024",
+            "speaker": "Human",
+            "message": "元気が出ました。なんだか前向きに頑張れそうです。"
+        },
+        {
+            "message_id": 19,
+            "system_id": "0001",
+            "speaker": "Bot",
+            "message": "それは良かった！応援してるから、一歩一歩頑張ってね。"
+        }
+    ]
+}

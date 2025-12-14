@@ -1,0 +1,136 @@
+{
+    "dialogue_id": 2067,
+    "setting": "ed",
+    "model": "gpt-4o",
+    "prompt": "neutral",
+    "emotion": "Disgusted",
+    "episode": "毎日のように家の前にタバコのポイ捨てやゴミが捨てられていて嫌になります。",
+    "subjective_evaluation": {
+        "preference": 4.0,
+        "stylistic_similarity": 4.0,
+        "consistency": 5.0,
+        "empathy": 4.0
+    },
+    "dialogue": [
+        {
+            "message_id": 0,
+            "user_id": "0051",
+            "speaker": "Human",
+            "message": "毎日のように家の前にタバコのポイ捨てやゴミが捨てられていて嫌になります。"
+        },
+        {
+            "message_id": 1,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "それは本当に不愉快ですね。どうにか対策できるといいのですが。"
+        },
+        {
+            "message_id": 2,
+            "user_id": "0051",
+            "speaker": "Human",
+            "message": "コンビニが近くにあったりするのも原因の一つかもしれません。"
+        },
+        {
+            "message_id": 3,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "それは困りますね。何か対策を考えたいですね。"
+        },
+        {
+            "message_id": 4,
+            "user_id": "0051",
+            "speaker": "Human",
+            "message": "正直言って、屋外での喫煙を禁止しもらいたいです。"
+        },
+        {
+            "message_id": 5,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "その気持ち、よくわかります。禁煙のエリアが増えるといいですね。"
+        },
+        {
+            "message_id": 6,
+            "user_id": "0051",
+            "speaker": "Human",
+            "message": "自転車に乗りながら喫煙している人を見ると、絶対ポイ捨てするんだろうなあと思ってしまいます。"
+        },
+        {
+            "message_id": 7,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "それも本当に腹立たしいですね。マナーを守ってほしいですね。"
+        },
+        {
+            "message_id": 8,
+            "user_id": "0051",
+            "speaker": "Human",
+            "message": "タバコなんで多分いい歳の大人なんだからきちんと考えて欲しいものですよね。"
+        },
+        {
+            "message_id": 9,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "本当にそうですね。大人としての責任を持ってほしいです。"
+        },
+        {
+            "message_id": 10,
+            "user_id": "0051",
+            "speaker": "Human",
+            "message": "あと、玄関に置いてある鉢の中にペットボトルを捨てていかれるのもとても腹立たしいです。"
+        },
+        {
+            "message_id": 11,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "それは本当にひどいですね。信じられません。"
+        },
+        {
+            "message_id": 12,
+            "user_id": "0051",
+            "speaker": "Human",
+            "message": "外国人も増えてきていますし、モラルに関する罰則も強化してもらいたいです。"
+        },
+        {
+            "message_id": 13,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "本当にそうですね。罰則で少しでも改善されるといいですね。"
+        },
+        {
+            "message_id": 14,
+            "user_id": "0051",
+            "speaker": "Human",
+            "message": "日本ってなんで悪いことをする人に甘いのでしょうか？\n"
+        },
+        {
+            "message_id": 15,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "それは難しい問題ですね。もっと厳しく取り締まる必要があるかもしれません。"
+        },
+        {
+            "message_id": 16,
+            "user_id": "0051",
+            "speaker": "Human",
+            "message": "真面目に正しく生きている人が報われる世の中になって欲しいですね。"
+        },
+        {
+            "message_id": 17,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "本当にそうですね。正直者が報われる社会が理想ですね。"
+        },
+        {
+            "message_id": 18,
+            "user_id": "0051",
+            "speaker": "Human",
+            "message": "本当にそうですね。そのためには法律や教育を見直す必要がありそうですね。"
+        },
+        {
+            "message_id": 19,
+            "system_id": "0000",
+            "speaker": "Bot",
+            "message": "その通りです。変えていく必要がありますね。"
+        }
+    ]
+}

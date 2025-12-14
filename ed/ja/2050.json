@@ -1,0 +1,162 @@
+{
+    "dialogue_id": 2050,
+    "setting": "ed",
+    "model": "gpt-4o",
+    "prompt": "nonent",
+    "emotion": "Disgusted",
+    "episode": "政治家の発言には腹が立つことが多い。",
+    "objective_evaluation": {
+        "preference": 3.0,
+        "stylistic_similarity": 3.0,
+        "consistency": 3.33,
+        "empathy": 3.33,
+        "preference_scores": [
+            3.0,
+            3.0,
+            3.0
+        ],
+        "stylistic_similarity_scores": [
+            4.0,
+            2.0,
+            3.0
+        ],
+        "consistency_scores": [
+            4.0,
+            3.0,
+            3.0
+        ],
+        "empathy_scores": [
+            4.0,
+            4.0,
+            2.0
+        ]
+    },
+    "subjective_evaluation": {
+        "preference": 3.0,
+        "stylistic_similarity": 2.0,
+        "consistency": 5.0,
+        "empathy": 5.0
+    },
+    "dialogue": [
+        {
+            "message_id": 0,
+            "user_id": "0045",
+            "speaker": "Human",
+            "message": "最近、政治家の発言には腹が立つことが多い。"
+        },
+        {
+            "message_id": 1,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "それはお辛いですね。具体的にどのような発言が気になりますか？"
+        },
+        {
+            "message_id": 2,
+            "user_id": "0045",
+            "speaker": "Human",
+            "message": "例えば、沖縄県民の気持ちを逆なでするような発言ろ過"
+        },
+        {
+            "message_id": 3,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "それは非常に残念ですね。お互いの立場を理解することが重要なのに。"
+        },
+        {
+            "message_id": 4,
+            "user_id": "0045",
+            "speaker": "Human",
+            "message": "お互いの発言を理解する前に、正確な知識を得Tるべきです。"
+        },
+        {
+            "message_id": 5,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "確かに、知識の正確さは重要です。情報をしっかり確認してから発言してほしいですね。"
+        },
+        {
+            "message_id": 6,
+            "user_id": "0045",
+            "speaker": "Human",
+            "message": "歴史の正確な認識が必要だと思います。"
+        },
+        {
+            "message_id": 7,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "本当にその通りですね。歴史をしっかり学ぶことが大切です。"
+        },
+        {
+            "message_id": 8,
+            "user_id": "0045",
+            "speaker": "Human",
+            "message": "更に重要なのが、正確な事実を未来に残すことだと思います。"
+        },
+        {
+            "message_id": 9,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "そうですね。正確な記録は未来のために不可欠ですね。"
+        },
+        {
+            "message_id": 10,
+            "user_id": "0045",
+            "speaker": "Human",
+            "message": "政治家たるもの、発言する前に正確な知識を学んでほしいです。"
+        },
+        {
+            "message_id": 11,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "本当にそうですね。もっと慎重になってほしいものです。"
+        },
+        {
+            "message_id": 12,
+            "user_id": "0045",
+            "speaker": "Human",
+            "message": "こんどの参議院選挙には、必ず投票します。"
+        },
+        {
+            "message_id": 13,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "それは素晴らしいです。ぜひ行動で示してください。"
+        },
+        {
+            "message_id": 14,
+            "user_id": "0045",
+            "speaker": "Human",
+            "message": "他にもお米に関する発言で、更迭された政治家にも腹が立ちました。"
+        },
+        {
+            "message_id": 15,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "確かに、発言にはもう少し配慮が必要ですよね。"
+        },
+        {
+            "message_id": 16,
+            "user_id": "0045",
+            "speaker": "Human",
+            "message": "なんであんな発言ができるのか、全く理解できません。"
+        },
+        {
+            "message_id": 17,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "そうした発言には、なぜか驚かされますね。"
+        },
+        {
+            "message_id": 18,
+            "user_id": "0045",
+            "speaker": "Human",
+            "message": "もう一度、政権交代が必要でしょうか。"
+        },
+        {
+            "message_id": 19,
+            "system_id": "0002",
+            "speaker": "Bot",
+            "message": "政権交代は大きな決断ですね。変化を求める声が多いのかもしれません。"
+        }
+    ]
+}
