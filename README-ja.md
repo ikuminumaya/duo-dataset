@@ -174,9 +174,9 @@ DUO データセットは，SIGDIAL 2025 採択論文 [*How Stylistic Similarity
   journal={自然言語処理},
   volume={32},
   number={4},
-  pages={},
+  pages={1241-1271},
   year={2025},
-  doi={}
+  doi={10.5715/jnlp.32.1241}
 }
 ```
 
