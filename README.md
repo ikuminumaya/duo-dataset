@@ -1,12 +1,13 @@
 # DUO: Dialogue dataset with User subjective and Objective evaluations
 
-The DUO dataset is introduced in our SIGDIAL 2025 paper, *How Stylistic Similarity Shapes Preferences in Dialogue Dataset with User and Third Party Evaluations.*
+The DUO dataset is introduced in our SIGDIAL 2025 paper, [*How Stylistic Similarity Shapes Preferences in Dialogue Dataset with User and Third Party Evaluations*](https://aclanthology.org/2025.sigdial-1.15/)
+.
 
 This dataset contains dialogues collected on MTurk under open-domain dialogue settings, including EmpatheticDialogues (ED) \[[Rashkin+'19](https://aclanthology.org/P19-1534/)\] and Wizard of Wikipedia (WoW) \[[Dinan+'19](https://arxiv.org/abs/1811.01241)\].
 
 Each dialogue is annotated with subjective evaluations from the user themselves and objective evaluations from third-party annotators.
 
-The Japanese data, collected via Yahoo! Crowdsourcing, are described in an article in the Journal of Natural Language Processing (Vol. 32, No. 4) (Japan), *Dialogue Evaluation Is Affected by How Raters Perceive Stylistic Similarity*, and constitute a Japanese extension of the DUO dataset.
+The Japanese data, collected via Yahoo! Crowdsourcing, are described in an article in the Journal of Natural Language Processing (Vol. 32, No. 4) (Japan), [*Dialogue Evaluation Is Affected by How Raters Perceive Stylistic Similarity*](https://www.jstage.jst.go.jp/article/jnlp/32/4/32_1241/_article/-char/ja), and constitute a Japanese extension of the DUO dataset.
 
 In the journal version, we added objective evaluations to English dialogues , so some of the scores reported here differ from those in the SIGDIAL 2025 paper.
 
