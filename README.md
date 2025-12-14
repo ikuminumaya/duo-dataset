@@ -7,7 +7,7 @@ This dataset contains dialogues collected on MTurk under open-domain dialogue se
 
 Each dialogue is annotated with subjective evaluations from the user themselves and objective evaluations from third-party annotators.
 
-The Japanese data, collected via Yahoo! Crowdsourcing, are described in an article in the Journal of Natural Language Processing (Vol. 32, No. 4) (Japan), [*Dialogue Evaluation Is Affected by How Raters Perceive Stylistic Similarity*](https://www.jstage.jst.go.jp/article/jnlp/32/4/32_1241/_article/-char/ja), and constitute a Japanese extension of the DUO dataset.
+The Japanese data, collected via Yahoo! Crowdsourcing, are described in an article in the Journal of Natural Language Processing (Vol. 32, No. 4) (Japan), [*Dialogue Evaluation Is Affected by How Raters Perceive Stylistic Similarity*](https://www.jstage.jst.go.jp/article/jnlp/32/4/32_1241/_article/-char/en), and constitute a Japanese extension of the DUO dataset.
 
 In the journal version, we added objective evaluations to English dialogues , so some of the scores reported here differ from those in the SIGDIAL 2025 paper.
 
@@ -167,15 +167,15 @@ Any real names contained in the collected data are anonymized and replaced with 
     publisher = "Association for Computational Linguistics",
 }
 
-@article{沼屋2025,
-  title={スタイル類似の知覚主体が対話評価に与える影響},
-  author={沼屋 征海 and 守屋 彰二 and 佐藤 志貴  and 赤間 怜奈 and 鈴木 潤},
-  journal={自然言語処理},
+@article{numaya2025,
+  title={Dialogue Evaluation Is Affected by How Raters Perceive Stylistic Similarity},
+  author={Ikumi Numaya and Shoji Moriya and Shiki Sato and Reina Akama and Jun Suzuki},
+  journal={Journal of Natural Language Processing},
   volume={32},
   number={4},
-  pages={},
+  pages={1241-1271},
   year={2025},
-  doi={}
+  doi={10.5715/jnlp.32.1241}
 }
 
 ```
