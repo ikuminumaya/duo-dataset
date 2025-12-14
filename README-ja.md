@@ -1,12 +1,12 @@
 # DUO: Dialogue dataset with User subjective and Objective evaluations
 
-DUO データセットは，SIGDIAL 2025 採択論文 *How Stylistic Similarity Shapes Preferences in Dialogue Dataset with User and Third Party Evaluations* で導入された対話データセットです。
+DUO データセットは，SIGDIAL 2025 採択論文 [*How Stylistic Similarity Shapes Preferences in Dialogue Dataset with User and Third Party Evaluations*](https://aclanthology.org/2025.sigdial-1.15/) で導入された対話データセットです。
 
 本データセットには，EmpatheticDialogues (ED) \[[Rashkin+'19](https://aclanthology.org/P19-1534/)\] および Wizard of Wikipedia (WoW) \[[Dinan+'19](https://arxiv.org/abs/1811.01241)\] に基づき，MTurk 上で収集されたオープンドメイン対話が含まれます。
 
 各対話には，話者本人による主観評価と，第三者のアノテーターによる客観評価が付与されています。
 
-日本語データは，Yahoo!クラウドソーシングを通じて収集されたもので，会誌『自然言語処理』32巻4号に掲載された論文「スタイル類似の知覚主体が対話評価に与える影響」で詳述されており，DUO データセットの日本語拡張となっています。
+日本語データは，Yahoo!クラウドソーシングを通じて収集されたもので，会誌『自然言語処理』32巻4号に掲載された論文「[スタイル類似の知覚主体が対話評価に与える影響](https://www.jstage.jst.go.jp/article/jnlp/32/4/32_1241/_article/-char/ja)」で詳述されており，DUO データセットの日本語拡張となっています。
 
 ジャーナル版では，英語対話に新たな客観評価を追加しているため，本リポジトリで公開している一部スコアは SIGDIAL 2025 論文で報告した値と異なります。
 
